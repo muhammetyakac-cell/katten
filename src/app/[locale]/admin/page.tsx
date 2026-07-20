@@ -1,7 +1,18 @@
 import { cookies } from 'next/headers';
 import { redirect } from 'next/navigation';
-import { getBookings, logoutAdmin } from '@/lib/actions';
+import { getBookings, logoutAdmin, updateBookingStatus } from '@/lib/actions';
 import styles from './admin.module.css';
+
+// Client-side icons can just be emojis here since it's a server component
+function StatusBadge({ status }: { status: string }) {
+  switch (status) {
+    case 'pending': return <span className={`${styles.badge} ${styles.badgePending}`}>Bekliyor</span>;
+    case 'confirmed': return <span className={`${styles.badge} ${styles.badgeConfirmed}`}>Onaylandı</span>;
+    case 'completed': return <span className={`${styles.badge} ${styles.badgeCompleted}`}>Tamamlandı</span>;
+    case 'cancelled': return <span className={`${styles.badge} ${styles.badgeCancelled}`}>İptal Edildi</span>;
+    default: return <span className={styles.badge}>{status}</span>;
+  }
+}
 
 export default async function AdminDashboard() {
   const cookieStore = await cookies();
@@ -34,38 +45,63 @@ export default async function AdminDashboard() {
             <table className={styles.table}>
               <thead>
                 <tr>
+                  <th>Oluşturulma</th>
                   <th>Müşteri</th>
                   <th>Tarihler</th>
-                  <th>Durum</th>
                   <th>Detaylar</th>
-                  <th>Oluşturulma</th>
+                  <th>Durum</th>
+                  <th>İşlemler</th>
                 </tr>
               </thead>
               <tbody>
                 {bookings.map((booking: any) => (
                   <tr key={booking.id}>
+                    <td>{new Date(booking.createdAt!).toLocaleDateString('tr-TR')}</td>
                     <td>
-                      <div className={styles.userCell}>
-                        <span className={styles.userName}>{booking.user?.name || 'İsimsiz'}</span>
-                        <span className={styles.userContact}>{booking.user?.email}</span>
-                        <span className={styles.userContact}>{booking.user?.phone}</span>
+                      <strong>{booking.user.name}</strong><br/>
+                      <span className={styles.mutedText}>{booking.user.email}</span><br/>
+                      <span className={styles.mutedText}>{booking.user.phone}</span>
+                    </td>
+                    <td>
+                      {new Date(booking.startDate).toLocaleDateString('tr-TR')} - {new Date(booking.endDate).toLocaleDateString('tr-TR')}
+                    </td>
+                    <td className={styles.notesCell}>
+                      <pre className={styles.notesText}>{booking.notes}</pre>
+                    </td>
+                    <td>
+                      <StatusBadge status={booking.status || 'pending'} />
+                    </td>
+                    <td>
+                      <div className={styles.actionsCell}>
+                        {booking.status === 'pending' && (
+                          <>
+                            <form action={updateBookingStatus} className={styles.actionForm}>
+                              <input type="hidden" name="bookingId" value={booking.id} />
+                              <input type="hidden" name="status" value="confirmed" />
+                              <button type="submit" className={`${styles.actionBtn} ${styles.actionConfirm}`}>Onayla</button>
+                            </form>
+                            <form action={updateBookingStatus} className={styles.actionForm}>
+                              <input type="hidden" name="bookingId" value={booking.id} />
+                              <input type="hidden" name="status" value="cancelled" />
+                              <button type="submit" className={`${styles.actionBtn} ${styles.actionCancel}`}>İptal</button>
+                            </form>
+                          </>
+                        )}
+                        {booking.status === 'confirmed' && (
+                          <form action={updateBookingStatus} className={styles.actionForm}>
+                            <input type="hidden" name="bookingId" value={booking.id} />
+                            <input type="hidden" name="status" value="completed" />
+                            <button type="submit" className={`${styles.actionBtn} ${styles.actionComplete}`}>Tamamla</button>
+                          </form>
+                        )}
+                        {(booking.status === 'confirmed' || booking.status === 'completed') && (
+                          <form action={updateBookingStatus} className={styles.actionForm}>
+                            <input type="hidden" name="bookingId" value={booking.id} />
+                            <input type="hidden" name="status" value="cancelled" />
+                            <button type="submit" className={`${styles.actionBtn} ${styles.actionCancel}`}>İptal</button>
+                          </form>
+                        )}
                       </div>
-                    </td>
-                    <td>
-                      {booking.startDate} - {booking.endDate}
-                    </td>
-                    <td>
-                      <span className={`${styles.statusBadge} ${booking.status === 'pending' ? styles.statusPending : styles.statusConfirmed}`}>
-                        {booking.status === 'pending' ? 'Bekliyor' : 'Onaylandı'}
-                      </span>
-                    </td>
-                    <td>
-                      <div style={{ whiteSpace: 'pre-wrap', fontSize: '0.85rem' }}>
-                        {booking.notes}
-                      </div>
-                    </td>
-                    <td style={{ fontSize: '0.85rem', color: 'var(--color-text-muted)' }}>
-                      {new Date(booking.createdAt).toLocaleDateString('tr-TR')}
                     </td>
                   </tr>
                 ))}

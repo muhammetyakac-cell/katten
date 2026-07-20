@@ -119,3 +119,80 @@
   padding: var(--space-12) 0;
   color: var(--color-text-muted);
 }
+
+/* Badges */
+.badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  font-size: var(--fs-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badgePending {
+  background: rgba(253, 203, 110, 0.2);
+  color: #ffeaa7;
+  border: 1px solid rgba(253, 203, 110, 0.3);
+}
+
+.badgeConfirmed {
+  background: rgba(0, 184, 148, 0.2);
+  color: #55efc4;
+  border: 1px solid rgba(0, 184, 148, 0.3);
+}
+
+.badgeCompleted {
+  background: rgba(9, 132, 227, 0.2);
+  color: #74b9ff;
+  border: 1px solid rgba(9, 132, 227, 0.3);
+}
+
+.badgeCancelled {
+  background: rgba(214, 48, 49, 0.2);
+  color: #ff7675;
+  border: 1px solid rgba(214, 48, 49, 0.3);
+}
+
+/* Actions */
+.actionsCell {
+  display: flex;
+  gap: 4px;
+}
+
+.actionForm {
+  display: inline-block;
+}
+
+.actionBtn {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-secondary);
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.actionBtn:hover {
+  background: var(--color-bg-glass-hover);
+  color: var(--color-text-primary);
+  border-color: var(--color-primary);
+}
+
+.actionConfirm:hover {
+  border-color: var(--color-success);
+  color: var(--color-success);
+}
+
+.actionComplete:hover {
+  border-color: #0984e3;
+  color: #74b9ff;
+}
+
+.actionCancel:hover {
+  border-color: var(--color-error);
+  color: var(--color-error);
+}

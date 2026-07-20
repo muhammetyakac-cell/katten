@@ -5,6 +5,7 @@ import { users, bookings } from './db/schema';
 import { eq } from 'drizzle-orm';
 import { cookies } from 'next/headers';
 import { redirect } from 'next/navigation';
+import { revalidatePath } from 'next/cache';
 
 export async function submitBooking(formData: FormData) {
   try {
@@ -86,4 +87,31 @@ export async function loginAdmin(password: string) {
 export async function logoutAdmin() {
   (await cookies()).delete('admin_token');
   redirect('/nl/admin/login');
+}
+
+export async function updateBookingStatus(formData: FormData): Promise<void> {
+  try {
+    const bookingId = parseInt(formData.get('bookingId') as string, 10);
+    const newStatus = formData.get('status') as string;
+
+    if (!bookingId || !newStatus) {
+      console.error('Missing data');
+      return;
+    }
+
+    // Verify admin
+    const token = (await cookies()).get('admin_token');
+    if (!token || token.value !== 'authenticated') {
+      console.error('Unauthorized');
+      return;
+    }
+
+    await db.update(bookings)
+      .set({ status: newStatus })
+      .where(eq(bookings.id, bookingId));
+
+    revalidatePath('/', 'layout');
+  } catch (error) {
+    console.error('Error updating status:', error);
+  }
 }
