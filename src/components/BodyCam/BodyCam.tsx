@@ -53,11 +53,17 @@ export default function BodyCam() {
 
           <div className={styles.visual}>
             <div className={styles.cameraCard}>
+              <img 
+                src="https://images.unsplash.com/photo-1573865526739-10659fec78a5?q=80&w=1000&auto=format&fit=crop" 
+                alt="Cat on bodycam" 
+                className={styles.cameraImage} 
+              />
               {/* Decorative mesh background for the camera feel */}
               <div style={{
                 position: 'absolute', inset: 0, opacity: 0.15,
                 backgroundImage: 'radial-gradient(var(--color-primary) 1px, transparent 1px)',
-                backgroundSize: '10px 10px'
+                backgroundSize: '10px 10px',
+                pointerEvents: 'none'
               }} />
               
               <div className={styles.uiOverlay}>
