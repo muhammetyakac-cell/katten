@@ -37,24 +37,41 @@
   transform: translateX(100%);
 }
 
-.iconWrapper {
-  width: 64px;
-  height: 64px;
+.imageWrapper {
+  width: 100%;
+  height: 180px;
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  position: relative;
+  margin-bottom: var(--space-4);
+}
+
+.cardImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--transition-slow);
+}
+
+.card:hover .cardImage {
+  transform: scale(1.08);
+}
+
+.iconOverlay {
+  position: absolute;
+  top: var(--space-3);
+  right: var(--space-3);
+  background: rgba(10, 10, 15, 0.7);
+  backdrop-filter: blur(8px);
+  width: 40px;
+  height: 40px;
   border-radius: var(--radius-full);
-  background: rgba(108, 92, 231, 0.1);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 2rem;
-  margin-bottom: var(--space-2);
-  border: 1px solid rgba(108, 92, 231, 0.2);
-  transition: all var(--transition-spring);
-}
-
-.card:hover .iconWrapper {
-  transform: scale(1.1);
-  background: rgba(108, 92, 231, 0.2);
-  box-shadow: var(--shadow-glow);
+  font-size: 1.2rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: var(--shadow-md);
 }
 
 .title {
