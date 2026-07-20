@@ -23,14 +23,37 @@ export default function AboutPage() {
         {/* Story */}
         <section className={styles.storySection}>
           <div className="container">
-            <div className={styles.storyCard}>
-              <h2 className={styles.storyTitle}>
-                <span className={styles.storyTitleIcon}>📖</span>
-                {t('story.title')}
-              </h2>
-              <p className={styles.storyParagraph}>{t('story.paragraphs.0')}</p>
-              <p className={styles.storyParagraph}>{t('story.paragraphs.1')}</p>
-              <p className={styles.storyParagraph}>{t('story.paragraphs.2')}</p>
+            <div className={styles.storyGrid}>
+              <div className={styles.storyImageWrapper}>
+                <img src="https://images.unsplash.com/photo-1543852786-1cf6624b9987?q=80&w=1000&auto=format&fit=crop" alt="Cat care" className={styles.storyImage} />
+              </div>
+              <div className={styles.storyCard}>
+                <h2 className={styles.storyTitle}>
+                  <span className={styles.storyTitleIcon}>📖</span>
+                  {t('story.title')}
+                </h2>
+                <p className={styles.storyParagraph}>{t('story.paragraphs.0')}</p>
+                <p className={styles.storyParagraph}>{t('story.paragraphs.1')}</p>
+                <p className={styles.storyParagraph}>{t('story.paragraphs.2')}</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Bio Section (Biologist) */}
+        <section className={styles.bioSection}>
+          <div className="container">
+            <div className={styles.bioGrid}>
+              <div className={styles.bioCard}>
+                <h2 className={styles.storyTitle}>
+                  <span className={styles.storyTitleIcon}>🔬</span>
+                  {t('bio.title')}
+                </h2>
+                <p className={styles.storyParagraph}>{t('bio.text')}</p>
+              </div>
+              <div className={styles.bioImageWrapper}>
+                <img src="https://images.unsplash.com/photo-1623387641168-d9803ddd3f35?q=80&w=1000&auto=format&fit=crop" alt="Biologist cat care" className={styles.bioImage} />
+              </div>
             </div>
           </div>
         </section>
