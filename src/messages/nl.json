@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "siteTitle": "Katten — Kattenoppas aan Huis in Antwerpen",
+    "siteDescription": "Professionele kattenoppas aan huis in de regio Antwerpen. Dagelijkse huisbezoeken, voeding, verzorging en speeltijd terwijl u op reis bent. Elke bezoek wordt opgenomen met een bodycam voor uw gemoedsrust.",
+    "keywords": "kattenoppas, kattensitter, huisdieroppas, Antwerpen, kattenoppas aan huis, kattenverzorging, huisbezoek katten"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Diensten",
+    "about": "Over ons",
+    "contact": "Contact",
+    "dashboard": "Mijn dashboard",
+    "login": "Inloggen",
+    "logout": "Uitloggen",
+    "register": "Registreren",
+    "bookNow": "Nu boeken",
+    "language": "Taal"
+  },
+  "hero": {
+    "titleStart": "Uw kat in vertrouwde handen,",
+    "titleHighlight": "terwijl u geniet van uw reis",
+    "subtitle": "Professionele kattenoppas aan huis in de regio Antwerpen. Dagelijkse bezoeken met persoonlijke aandacht, foto-updates en bodycam-opnames voor volledige transparantie.",
+    "bookNow": "Boek een kennismaking",
+    "learnMore": "Bekijk onze diensten",
+    "stats": {
+      "cats": "Tevreden Katten",
+      "visits": "Huisbezoeken",
+      "bodycam": "Bodycam Opnames",
+      "rating": "Klanttevredenheid"
+    }
+  },
+  "features": {
+    "sectionTitle": "Waarom kiezen voor Katten?",
+    "sectionSubtitle": "Wij begrijpen dat uw kat meer is dan een huisdier. Daarom bieden wij een persoonlijke en transparante service die u en uw kat verdienen.",
+    "items": [
+      {
+        "title": "Dagelijkse huisbezoeken",
+        "description": "Uw kat blijft in haar vertrouwde omgeving. Wij komen elke dag langs voor voeding, water, kattenbak en heel veel aandacht.",
+        "icon": "home"
+      },
+      {
+        "title": "Bodycam-opnames",
+        "description": "Elk bezoek wordt opgenomen met een bodycam. U kunt de beelden achteraf bekijken via uw persoonlijk dashboard. Volledige transparantie, altijd.",
+        "icon": "camera"
+      },
+      {
+        "title": "Foto- en video-updates",
+        "description": "Ontvang tijdens elk bezoek schattige foto's en video's van uw kat rechtstreeks op uw telefoon. Zo mist u niets, zelfs niet vanuit het buitenland.",
+        "icon": "image"
+      },
+      {
+        "title": "Gezondheidsmonitoring",
+        "description": "Wij houden het eet- en drinkgedrag, de stoelgang en het algemeen welzijn van uw kat nauwkeurig bij. Bij afwijkingen brengen wij u onmiddellijk op de hoogte.",
+        "icon": "heart"
+      },
+      {
+        "title": "Medicatie toediening",
+        "description": "Heeft uw kat dagelijks medicatie nodig? Geen probleem. Onze oppassers zijn ervaren in het toedienen van pillen, druppels en insuline-injecties.",
+        "icon": "pill"
+      },
+      {
+        "title": "Noodgevallen & dierenarts",
+        "description": "In geval van nood handelen wij direct. Wij werken samen met dierenartsen in de regio Antwerpen en contacteren u onmiddellijk bij elke medische situatie.",
+        "icon": "emergency"
+      },
+      {
+        "title": "Plantenverzorging",
+        "description": "Als extra service gieten wij ook graag uw planten water tijdens ons bezoek. Zo komt u thuis bij een blije kat én groene planten.",
+        "icon": "plant"
+      },
+      {
+        "title": "Verzekerd & betrouwbaar",
+        "description": "Al onze kattenoppassers zijn gescreend, verzekerd en opgeleid. Uw sleutels worden veilig bewaard en na afloop van de oppasperiode terugbezorgd.",
+        "icon": "shield"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionTitle": "Hoe werkt het?",
+    "sectionSubtitle": "In vier eenvoudige stappen regelt u de beste oppas voor uw kat.",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Gratis kennismaking",
+        "description": "Wij komen bij u thuis langs om uw kat te ontmoeten, de routine te bespreken en de sleutel op te halen. Dit bezoek is altijd gratis en vrijblijvend."
+      },
+      {
+        "step": 2,
+        "title": "Plan op maat",
+        "description": "Samen stellen wij een oppasplan op dat perfect aansluit bij de behoeften van uw kat. Van voedingstijden tot speelvoorkeuren — alles wordt vastgelegd."
+      },
+      {
+        "step": 3,
+        "title": "Dagelijkse bezoeken",
+        "description": "Terwijl u op reis bent, bezoeken wij uw kat elke dag. U ontvangt foto's, video's en een kort verslag na elk bezoek via uw dashboard."
+      },
+      {
+        "step": 4,
+        "title": "Welkom thuis",
+        "description": "Bij uw thuiskomst vindt u een tevreden kat, een schoon huis en alle bodycam-beelden klaar om te bekijken. Wij bezorgen uw sleutel veilig terug."
+      }
+    ]
+  },
+  "bodycam": {
+    "sectionTitle": "Volledige transparantie met bodycam",
+    "sectionSubtitle": "Vertrouwen is de basis van onze service",
+    "description": "Elke oppasser draagt tijdens het bezoek een bodycam. De volledige opname wordt na afloop beschikbaar gesteld via uw persoonlijk dashboard. Zo weet u precies wat er in uw huis gebeurt, ook als u er niet bent.",
+    "features": [
+      "Volledige HD-opname van elk bezoek",
+      "Beschikbaar binnen 24 uur op uw dashboard",
+      "Opnames worden 30 dagen bewaard",
+      "Privacy-vriendelijk: enkel toegankelijk voor u"
+    ],
+    "cta": "Meer weten over onze bodycam-policy"
+  },
+  "pricing": {
+    "sectionTitle": "Onze tarieven",
+    "sectionSubtitle": "Transparante prijzen, geen verborgen kosten. Kies het plan dat bij u en uw kat past.",
+    "perVisit": "per bezoek",
+    "perDay": "per dag",
+    "mostPopular": "Populairste keuze",
+    "plans": [
+      {
+        "name": "Basis",
+        "price": "15",
+        "currency": "€",
+        "description": "Ideaal voor onafhankelijke katten die enkel de basiszorg nodig hebben.",
+        "duration": "Bezoek van ±20 minuten",
+        "features": [
+          "Voeding en vers water",
+          "Kattenbak schoonmaken",
+          "Korte gezondheidscheck",
+          "Foto-update per bezoek",
+          "Berichtenservice via app"
+        ],
+        "notIncluded": [
+          "Bodycam-opnames",
+          "Uitgebreide speeltijd",
+          "Medicatie toediening",
+          "Plantenverzorging"
+        ],
+        "cta": "Kies Basis"
+      },
+      {
+        "name": "Standaard",
+        "price": "22",
+        "currency": "€",
+        "description": "Onze meest gekozen formule. Alles wat uw kat nodig heeft, inclusief bodycam-opnames voor uw gemoedsrust.",
+        "duration": "Bezoek van ±35 minuten",
+        "features": [
+          "Alles uit het Basis-plan",
+          "Bodycam-opname van elk bezoek",
+          "Uitgebreide speeltijd en aandacht",
+          "Medicatie toediening (pillen, druppels)",
+          "Foto- en video-updates",
+          "Plantenverzorging",
+          "Dagelijks verslag via dashboard"
+        ],
+        "notIncluded": [
+          "Tweede bezoek per dag",
+          "Insuline-injecties"
+        ],
+        "cta": "Kies Standaard"
+      },
+      {
+        "name": "Premium",
+        "price": "35",
+        "currency": "€",
+        "description": "De ultieme verwennerij voor uw kat. Twee bezoeken per dag en alle extra's inbegrepen. Perfect voor katten die extra zorg of aandacht nodig hebben.",
+        "duration": "Twee bezoeken van ±30 min per dag",
+        "features": [
+          "Alles uit het Standaard-plan",
+          "Twee bezoeken per dag (ochtend & avond)",
+          "Insuline-injecties en complexe medicatie",
+          "Uitgebreide gezondheidsmonitoring",
+          "Prioritaire nooddienst",
+          "Borstelbeurt en vachtverzorging",
+          "Post ophalen en vuilnisbakken buitenzetten"
+        ],
+        "notIncluded": [],
+        "cta": "Kies Premium"
+      }
+    ],
+    "footnote": "Alle prijzen zijn inclusief btw. Gratis kennismakingsbezoek bij elke eerste boeking. Korting bij langdurige boekingen (meer dan 14 dagen).",
+    "discountLabel": "Langdurige boeking",
+    "discountText": "10% korting bij boekingen langer dan 14 dagen"
+  },
+  "testimonials": {
+    "sectionTitle": "Wat onze klanten zeggen",
+    "sectionSubtitle": "Ontdek waarom katteneigenaars in Antwerpen voor ons kiezen.",
+    "items": [
+      {
+        "name": "Sophie De Meester",
+        "location": "Borgerhout, Antwerpen",
+        "rating": 5,
+        "text": "Ik was zo ongerust toen ik twee weken naar Spanje vertrok en mijn twee katten achter moest laten. Maar Katten heeft dat helemaal weggenomen. Elke dag kreeg ik foto's en een kort berichtje. De bodycam-beelden gaven mij enorm veel vertrouwen. Luna en Milo waren helemaal happy toen ik thuiskwam!",
+        "catNames": "Luna & Milo"
+      },
+      {
+        "name": "Pieter Janssens",
+        "location": "Wilrijk, Antwerpen",
+        "rating": 5,
+        "text": "Onze oude kater Felix heeft diabetes en krijgt twee keer per dag insuline. Ik durfde nooit op reis te gaan, maar met het Premium-plan van Katten is dat eindelijk mogelijk. De oppassers zijn geduldig, professioneel en duidelijk dol op katten. Een absolute aanrader.",
+        "catNames": "Felix"
+      },
+      {
+        "name": "Ayşe Yılmaz",
+        "location": "Deurne, Antwerpen",
+        "rating": 5,
+        "text": "Het kennismakingsbezoek was al meteen top. Ze namen de tijd om alles te bespreken en mijn kat Pamuk was direct op haar gemak. De foto's die ik elke dag ontving waren geweldig. Mijn planten stonden er ook nog piekfijn bij toen ik thuiskwam. Dankjewel, Katten!",
+        "catNames": "Pamuk"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Klaar om uw kat de beste oppas te geven?",
+    "subtitle": "Boek vandaag nog een gratis kennismakingsbezoek en ontdek waarom honderden katteneigenaars in Antwerpen op ons vertrouwen.",
+    "primaryButton": "Gratis kennismaking boeken",
+    "secondaryButton": "Neem contact op",
+    "guarantee": "100% tevredenheidsgarantie — niet tevreden, geld terug na het eerste bezoek."
+  },
+  "about": {
+    "pageTitle": "Over Katten",
+    "pageSubtitle": "De mensen achter de mooiste kattenoppas in Antwerpen",
+    "story": {
+      "title": "Ons verhaal",
+      "paragraphs": [
+        "Katten is ontstaan vanuit een persoonlijke frustratie: het gebrek aan een betrouwbare en transparante kattenoppas in de regio Antwerpen. Als katteneigenaars weten wij hoe moeilijk het is om op reis te gaan en uw geliefde viervoeter achter te laten.",
+        "Daarom hebben wij een service opgericht die gebaseerd is op vertrouwen, transparantie en oprechte liefde voor katten. Met onze bodycam-opnames, dagelijkse updates en persoonlijke aanpak weten u altijd dat uw kat in de beste handen is.",
+        "Vandaag verzorgen wij honderden katten in heel de regio Antwerpen — van het Eilandje tot Brasschaat, van Hoboken tot Schilde. Elke kat is uniek en verdient een oppas op maat."
+      ]
+    },
+    "mission": {
+      "title": "Onze missie",
+      "text": "Wij willen dat elke katteneigenaar in Antwerpen met een gerust hart op reis kan gaan, in de wetenschap dat hun kat de allerbeste zorg krijgt in haar eigen vertrouwde omgeving."
+    },
+    "values": {
+      "title": "Onze waarden",
+      "items": [
+        {
+          "title": "Vertrouwen",
+          "description": "Transparantie staat centraal in alles wat wij doen. Van bodycam-opnames tot open communicatie — u weet altijd wat er gebeurt."
+        },
+        {
+          "title": "Liefde voor katten",
+          "description": "Onze oppassers zijn stuk voor stuk echte kattenliefhebbers. Zij behandelen uw kat met dezelfde liefde en aandacht als hun eigen huisdieren."
+        },
+        {
+          "title": "Professionalisme",
+          "description": "Stipt, betrouwbaar en goed opgeleid. Onze oppassers volgen regelmatig bijscholingen over kattengedrag, EHBO voor dieren en medicatietoediening."
+        },
+        {
+          "title": "Persoonlijke aanpak",
+          "description": "Geen kat is hetzelfde. Wij stemmen elk bezoek af op de unieke behoeften, gewoonten en persoonlijkheid van uw kat."
+        }
+      ]
+    },
+    "serviceArea": {
+      "title": "Ons werkgebied",
+      "text": "Wij zijn actief in heel de regio groot-Antwerpen, inclusief:",
+      "areas": [
+        "Antwerpen centrum",
+        "Borgerhout",
+        "Deurne",
+        "Merksem",
+        "Wilrijk",
+        "Berchem",
+        "Hoboken",
+        "Ekeren",
+        "Brasschaat",
+        "Schilde",
+        "Mortsel",
+        "Edegem",
+        "Kontich",
+        "Schoten",
+        "Wijnegem",
+        "Kapellen"
+      ]
+    }
+  },
+  "services": {
+    "pageTitle": "Onze diensten",
+    "pageSubtitle": "Alles wat uw kat nodig heeft, bij u thuis",
+    "intro": "Bij Katten bieden wij een volledig pakket aan kattenoppas-diensten aan huis. Of u nu een weekend weg bent of een maand op reis gaat — wij zorgen ervoor dat uw kat niets tekortkomt.",
+    "servicesList": [
+      {
+        "title": "Dagelijkse huisbezoeken",
+        "description": "Onze oppassers komen dagelijks bij u thuis langs op een afgesproken tijdstip. Tijdens elk bezoek verzorgen wij voeding, water en de kattenbak. Uw kat blijft in haar vertrouwde omgeving en ervaart zo min mogelijk stress.",
+        "icon": "home"
+      },
+      {
+        "title": "Voeding & water",
+        "description": "Wij volgen het voedingsschema van uw kat nauwgezet op. Of het nu gaat om droogvoer, natvoer, een dieet of een speciaal voorgeschreven voeding — wij zorgen ervoor dat alles op tijd en correct wordt gegeven.",
+        "icon": "bowl"
+      },
+      {
+        "title": "Kattenbak & hygiëne",
+        "description": "Een schone kattenbak is essentieel voor het welzijn van uw kat. Wij scheppen de kattenbak bij elk bezoek en vervangen het kattenbakvulling wanneer nodig.",
+        "icon": "sparkle"
+      },
+      {
+        "title": "Spelen & aandacht",
+        "description": "Katten hebben sociale interactie nodig, zelfs de meest onafhankelijke. Onze oppassers nemen de tijd voor speeltijd, aaien en gezelschap. Met hun favoriete speeltje uiteraard!",
+        "icon": "toy"
+      },
+      {
+        "title": "Gezondheidsmonitoring",
+        "description": "Wij houden bij elk bezoek het welzijn van uw kat in de gaten: eetlust, drinkgedrag, stoelgang, activiteitsniveau en algemene stemming. Afwijkingen worden onmiddellijk aan u gemeld.",
+        "icon": "heart"
+      },
+      {
+        "title": "Medicatie toediening",
+        "description": "Van dagelijkse pillen tot oogdruppels en insuline-injecties: onze oppassers zijn opgeleid en ervaren in het toedienen van medicatie. In overleg met uw dierenarts zorgen wij voor een correcte toediening.",
+        "icon": "pill"
+      },
+      {
+        "title": "Bodycam-opnames",
+        "description": "Voor volledige transparantie dragen onze oppassers een bodycam tijdens elk bezoek. De opnames worden na het bezoek beschikbaar gesteld via uw persoonlijk dashboard en worden 30 dagen bewaard.",
+        "icon": "camera"
+      },
+      {
+        "title": "Noodgevallen",
+        "description": "In geval van een medisch noodgeval handelen wij onmiddellijk. Wij nemen contact op met u en met de dichtstbijzijnde dierenarts. Transportkosten naar de dierenarts zijn inbegrepen in het Premium-plan.",
+        "icon": "emergency"
+      },
+      {
+        "title": "Plantenverzorging",
+        "description": "Als bonusservice gieten wij tijdens ons bezoek ook graag uw kamerplanten en tuinplanten water. Zo hoeft u zich over niets zorgen te maken terwijl u weg bent.",
+        "icon": "plant"
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "Contact & boeken",
+    "pageSubtitle": "Neem contact met ons op of boek direct een gratis kennismakingsbezoek.",
+    "form": {
+      "title": "Stuur ons een bericht",
+      "firstName": "Voornaam",
+      "firstNamePlaceholder": "Uw voornaam",
+      "lastName": "Achternaam",
+      "lastNamePlaceholder": "Uw achternaam",
+      "email": "E-mailadres",
+      "emailPlaceholder": "uw.email@voorbeeld.be",
+      "phone": "Telefoonnummer",
+      "phonePlaceholder": "+32 4XX XX XX XX",
+      "address": "Adres",
+      "addressPlaceholder": "Straat en huisnummer",
+      "postalCode": "Postcode",
+      "postalCodePlaceholder": "2000",
+      "city": "Gemeente",
+      "cityPlaceholder": "Antwerpen",
+      "numberOfCats": "Aantal katten",
+      "catNames": "Naam/namen van uw kat(ten)",
+      "catNamesPlaceholder": "bijv. Luna, Milo",
+      "startDate": "Startdatum oppas",
+      "endDate": "Einddatum oppas",
+      "plan": "Gewenst plan",
+      "planOptions": {
+        "undecided": "Nog niet beslist",
+        "basis": "Basis (€15/bezoek)",
+        "standaard": "Standaard (€22/bezoek)",
+        "premium": "Premium (€35/bezoek)"
+      },
+      "message": "Bijkomende informatie",
+      "messagePlaceholder": "Vertel ons meer over uw kat(ten): speciale behoeften, medicatie, karakter, favoriete speeltjes...",
+      "consent": "Ik ga akkoord met het privacybeleid en geef toestemming om mijn gegevens te verwerken voor het afhandelen van mijn aanvraag.",
+      "submit": "Verstuur aanvraag",
+      "submitting": "Bezig met versturen...",
+      "successTitle": "Bedankt voor uw aanvraag!",
+      "successMessage": "Wij nemen binnen 24 uur contact met u op om een gratis kennismakingsbezoek in te plannen.",
+      "errorTitle": "Er is iets misgegaan",
+      "errorMessage": "Probeer het later opnieuw of contacteer ons rechtstreeks via e-mail of telefoon."
+    },
+    "info": {
+      "title": "Contactgegevens",
+      "email": "info@katten.be",
+      "phone": "+32 3 123 45 67",
+      "hours": "Bereikbaar: ma–vr 8:00–20:00, za–zo 9:00–18:00",
+      "emergency": "Noodgevallen (bestaande klanten): 24/7 bereikbaar",
+      "address": "Regio Antwerpen, België"
+    }
+  },
+  "footer": {
+    "description": "Katten biedt professionele kattenoppas aan huis in de regio Antwerpen. Met dagelijkse bezoeken, bodycam-opnames en foto-updates zorgen wij voor uw kat alsof het onze eigen is.",
+    "copyright": "© {year} Katten. Alle rechten voorbehouden.",
+    "madeWith": "Gemaakt met ❤️ voor katten in Antwerpen",
+    "links": {
+      "title": "Snelle links",
+      "home": "Home",
+      "services": "Diensten",
+      "pricing": "Tarieven",
+      "about": "Over ons",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Juridisch",
+      "privacy": "Privacybeleid",
+      "terms": "Algemene voorwaarden",
+      "cookies": "Cookiebeleid"
+    },
+    "social": {
+      "title": "Volg ons",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "tiktok": "TikTok"
+    },
+    "serviceArea": {
+      "title": "Werkgebied",
+      "text": "Actief in heel de regio groot-Antwerpen"
+    }
+  },
+  "common": {
+    "learnMore": "Meer info",
+    "getStarted": "Aan de slag",
+    "bookNow": "Nu boeken",
+    "contactUs": "Neem contact op",
+    "readMore": "Lees meer",
+    "viewAll": "Bekijk alles",
+    "back": "Terug",
+    "next": "Volgende",
+    "previous": "Vorige",
+    "close": "Sluiten",
+    "open": "Openen",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "loading": "Laden...",
+    "error": "Fout",
+    "success": "Gelukt",
+    "required": "Verplicht",
+    "optional": "Optioneel",
+    "yes": "Ja",
+    "no": "Nee",
+    "or": "of",
+    "and": "en",
+    "free": "Gratis",
+    "new": "Nieuw",
+    "from": "Vanaf",
+    "perVisit": "per bezoek",
+    "perDay": "per dag",
+    "included": "Inbegrepen",
+    "notIncluded": "Niet inbegrepen",
+    "viewDetails": "Details bekijken",
+    "selectPlan": "Plan kiezen",
+    "freeConsultation": "Gratis kennismaking",
+    "noCreditCard": "Geen betaling vooraf nodig",
+    "moneyBack": "Niet tevreden, geld terug",
+    "securePayment": "Veilig betalen",
+    "stars": "sterren",
+    "review": "beoordeling",
+    "reviews": "beoordelingen",
+    "allRightsReserved": "Alle rechten voorbehouden",
+    "scrollToTop": "Naar boven"
+  }
+}

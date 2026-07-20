@@ -1,0 +1,121 @@
+.howItWorks {
+  composes: section from global;
+  background: var(--color-bg-secondary);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.timeline {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-6);
+  margin-top: var(--space-16);
+  position: relative;
+}
+
+/* Timeline line */
+.timeline::before {
+  content: '';
+  position: absolute;
+  top: 32px; /* Center of the icon */
+  left: 10%;
+  right: 10%;
+  height: 2px;
+  background: linear-gradient(90deg, 
+    rgba(108, 92, 231, 0.2), 
+    rgba(108, 92, 231, 1), 
+    rgba(108, 92, 231, 1), 
+    rgba(108, 92, 231, 0.2)
+  );
+  z-index: 1;
+}
+
+.step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.iconWrapper {
+  width: 64px;
+  height: 64px;
+  border-radius: var(--radius-full);
+  background: var(--color-bg-secondary);
+  border: 2px solid var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.75rem;
+  margin-bottom: var(--space-6);
+  box-shadow: 0 0 0 8px var(--color-bg-secondary), var(--shadow-glow);
+  position: relative;
+}
+
+.stepNumber {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  width: 24px;
+  height: 24px;
+  background: var(--color-primary);
+  color: white;
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-bold);
+  font-family: var(--font-display);
+}
+
+.title {
+  font-size: var(--fs-lg);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-2);
+}
+
+.description {
+  font-size: var(--fs-sm);
+  color: var(--color-text-secondary);
+}
+
+@media (max-width: 900px) {
+  .timeline {
+    grid-template-columns: 1fr;
+    gap: var(--space-10);
+    padding-left: var(--space-10);
+  }
+
+  .timeline::before {
+    top: 0;
+    bottom: 0;
+    left: 20px;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg, 
+      rgba(108, 92, 231, 0.2), 
+      rgba(108, 92, 231, 1), 
+      rgba(108, 92, 231, 1), 
+      rgba(108, 92, 231, 0.2)
+    );
+  }
+
+  .step {
+    flex-direction: row;
+    text-align: left;
+    align-items: flex-start;
+  }
+
+  .iconWrapper {
+    margin-bottom: 0;
+    margin-right: var(--space-6);
+    flex-shrink: 0;
+    position: absolute;
+    left: -44px;
+    top: -4px;
+    box-shadow: 0 0 0 8px var(--color-bg-secondary);
+  }
+}

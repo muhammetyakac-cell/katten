@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "siteTitle": "Katten — In-Home Cat Sitting in Antwerp",
+    "siteDescription": "Professional in-home cat sitting in the Antwerp region. Daily home visits, feeding, care, and playtime while you're away. Every visit is recorded with a body cam for your peace of mind.",
+    "keywords": "cat sitting, cat sitter, pet care, Antwerp, in-home cat sitting, cat care, home visits cats"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About us",
+    "contact": "Contact",
+    "dashboard": "My dashboard",
+    "login": "Log in",
+    "logout": "Log out",
+    "register": "Register",
+    "bookNow": "Book now",
+    "language": "Language"
+  },
+  "hero": {
+    "titleStart": "Your cat in trusted hands,",
+    "titleHighlight": "while you enjoy your trip",
+    "subtitle": "Professional in-home cat sitting in the Antwerp region. Daily visits with personal attention, photo updates, and bodycam recordings for complete transparency.",
+    "bookNow": "Book a meeting",
+    "learnMore": "View our services",
+    "stats": {
+      "cats": "Happy Cats",
+      "visits": "Home Visits",
+      "bodycam": "Bodycam Recordings",
+      "rating": "Customer Rating"
+    }
+  },
+  "features": {
+    "sectionTitle": "Why choose Katten?",
+    "sectionSubtitle": "We understand that your cat is more than a pet. That's why we offer a personal and transparent service that you and your cat deserve.",
+    "items": [
+      {
+        "title": "Daily home visits",
+        "description": "Your cat stays in her familiar environment. We visit every day for feeding, water, litter box, and plenty of attention.",
+        "icon": "home"
+      },
+      {
+        "title": "Body cam recordings",
+        "description": "Every visit is recorded with a body cam. You can review the footage afterwards through your personal dashboard. Complete transparency, always.",
+        "icon": "camera"
+      },
+      {
+        "title": "Photo & video updates",
+        "description": "Receive adorable photos and videos of your cat during every visit, sent straight to your phone. You won't miss a thing, even from abroad.",
+        "icon": "image"
+      },
+      {
+        "title": "Health monitoring",
+        "description": "We carefully track your cat's eating and drinking habits, litter box activity, and overall well-being. Any changes are reported to you immediately.",
+        "icon": "heart"
+      },
+      {
+        "title": "Medication administration",
+        "description": "Does your cat need daily medication? No problem. Our sitters are experienced in administering pills, drops, and insulin injections.",
+        "icon": "pill"
+      },
+      {
+        "title": "Emergencies & vet care",
+        "description": "In case of an emergency, we act immediately. We work with veterinarians in the Antwerp region and contact you right away for any medical situation.",
+        "icon": "emergency"
+      },
+      {
+        "title": "Plant watering",
+        "description": "As a bonus service, we're happy to water your plants during our visit. Come home to a happy cat and thriving greenery.",
+        "icon": "plant"
+      },
+      {
+        "title": "Insured & reliable",
+        "description": "All our cat sitters are vetted, insured, and trained. Your keys are stored securely and returned after the sitting period ends.",
+        "icon": "shield"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionTitle": "How does it work?",
+    "sectionSubtitle": "Arrange the best care for your cat in four simple steps.",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Free meet & greet",
+        "description": "We visit your home to meet your cat, discuss the routine, and collect the key. This visit is always free and without obligation."
+      },
+      {
+        "step": 2,
+        "title": "Tailored care plan",
+        "description": "Together, we create a care plan perfectly suited to your cat's needs. From feeding times to play preferences — everything is documented."
+      },
+      {
+        "step": 3,
+        "title": "Daily visits",
+        "description": "While you're away, we visit your cat every day. You'll receive photos, videos, and a short report after each visit through your dashboard."
+      },
+      {
+        "step": 4,
+        "title": "Welcome home",
+        "description": "When you return, you'll find a happy cat, a clean home, and all body cam footage ready to review. We safely return your key."
+      }
+    ]
+  },
+  "bodycam": {
+    "sectionTitle": "Full transparency with body cam",
+    "sectionSubtitle": "Trust is the foundation of our service",
+    "description": "Every sitter wears a body cam during each visit. The full recording is made available through your personal dashboard after the visit. You'll know exactly what happens in your home, even when you're not there.",
+    "features": [
+      "Full HD recording of every visit",
+      "Available within 24 hours on your dashboard",
+      "Recordings stored for 30 days",
+      "Privacy-friendly: accessible only to you"
+    ],
+    "cta": "Learn more about our body cam policy"
+  },
+  "pricing": {
+    "sectionTitle": "Our pricing",
+    "sectionSubtitle": "Transparent prices, no hidden fees. Choose the plan that suits you and your cat.",
+    "perVisit": "per visit",
+    "perDay": "per day",
+    "mostPopular": "Most popular",
+    "plans": [
+      {
+        "name": "Basic",
+        "price": "15",
+        "currency": "€",
+        "description": "Ideal for independent cats who only need essential care.",
+        "duration": "Visit of approx. 20 minutes",
+        "features": [
+          "Feeding and fresh water",
+          "Litter box cleaning",
+          "Brief health check",
+          "Photo update per visit",
+          "Messaging service via app"
+        ],
+        "notIncluded": [
+          "Body cam recordings",
+          "Extended playtime",
+          "Medication administration",
+          "Plant watering"
+        ],
+        "cta": "Choose Basic"
+      },
+      {
+        "name": "Standard",
+        "price": "22",
+        "currency": "€",
+        "description": "Our most popular plan. Everything your cat needs, including body cam recordings for your peace of mind.",
+        "duration": "Visit of approx. 35 minutes",
+        "features": [
+          "Everything in the Basic plan",
+          "Body cam recording of every visit",
+          "Extended playtime and attention",
+          "Medication administration (pills, drops)",
+          "Photo and video updates",
+          "Plant watering",
+          "Daily report via dashboard"
+        ],
+        "notIncluded": [
+          "Second visit per day",
+          "Insulin injections"
+        ],
+        "cta": "Choose Standard"
+      },
+      {
+        "name": "Premium",
+        "price": "35",
+        "currency": "€",
+        "description": "The ultimate pampering for your cat. Two visits per day and all extras included. Perfect for cats that need extra care or attention.",
+        "duration": "Two visits of approx. 30 min per day",
+        "features": [
+          "Everything in the Standard plan",
+          "Two visits per day (morning & evening)",
+          "Insulin injections and complex medication",
+          "Comprehensive health monitoring",
+          "Priority emergency service",
+          "Brushing and coat care",
+          "Mail collection and bins out"
+        ],
+        "notIncluded": [],
+        "cta": "Choose Premium"
+      }
+    ],
+    "footnote": "All prices include VAT. Free meet & greet with every first booking. Discount for long-term bookings (more than 14 days).",
+    "discountLabel": "Long-term booking",
+    "discountText": "10% discount for bookings longer than 14 days"
+  },
+  "testimonials": {
+    "sectionTitle": "What our clients say",
+    "sectionSubtitle": "Discover why cat owners in Antwerp choose us.",
+    "items": [
+      {
+        "name": "Sophie De Meester",
+        "location": "Borgerhout, Antwerp",
+        "rating": 5,
+        "text": "I was so worried when I left for two weeks to Spain, leaving my two cats behind. But Katten completely put my mind at ease. Every day I received photos and a short message. The body cam footage gave me so much confidence. Luna and Milo were perfectly happy when I got home!",
+        "catNames": "Luna & Milo"
+      },
+      {
+        "name": "Pieter Janssens",
+        "location": "Wilrijk, Antwerp",
+        "rating": 5,
+        "text": "Our old cat Felix has diabetes and needs insulin twice a day. I never dared to go on holiday, but with Katten's Premium plan, it's finally possible. The sitters are patient, professional, and clearly love cats. Highly recommended.",
+        "catNames": "Felix"
+      },
+      {
+        "name": "Ayşe Yılmaz",
+        "location": "Deurne, Antwerp",
+        "rating": 5,
+        "text": "The meet & greet was great right from the start. They took the time to discuss everything, and my cat Pamuk was immediately at ease. The photos I received every day were wonderful. My plants were also in perfect shape when I got back. Thank you, Katten!",
+        "catNames": "Pamuk"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to give your cat the best care?",
+    "subtitle": "Book a free meet & greet today and discover why hundreds of cat owners in Antwerp trust us.",
+    "primaryButton": "Book a free meet & greet",
+    "secondaryButton": "Get in touch",
+    "guarantee": "100% satisfaction guarantee — not satisfied, money back after the first visit."
+  },
+  "about": {
+    "pageTitle": "About Katten",
+    "pageSubtitle": "The people behind Antwerp's finest cat sitting service",
+    "story": {
+      "title": "Our story",
+      "paragraphs": [
+        "Katten was born out of personal frustration: the lack of a reliable and transparent cat sitting service in the Antwerp region. As cat owners ourselves, we know how difficult it is to go on a trip and leave your beloved feline behind.",
+        "That's why we founded a service built on trust, transparency, and genuine love for cats. With our body cam recordings, daily updates, and personal approach, you always know your cat is in the best hands.",
+        "Today, we care for hundreds of cats across the entire Antwerp region — from Het Eilandje to Brasschaat, from Hoboken to Schilde. Every cat is unique and deserves tailored care."
+      ]
+    },
+    "mission": {
+      "title": "Our mission",
+      "text": "We want every cat owner in Antwerp to be able to travel with peace of mind, knowing that their cat receives the very best care in her own familiar environment."
+    },
+    "values": {
+      "title": "Our values",
+      "items": [
+        {
+          "title": "Trust",
+          "description": "Transparency is at the heart of everything we do. From body cam recordings to open communication — you always know what's happening."
+        },
+        {
+          "title": "Love for cats",
+          "description": "Our sitters are genuine cat lovers, each and every one. They treat your cat with the same love and attention as their own pets."
+        },
+        {
+          "title": "Professionalism",
+          "description": "Punctual, reliable, and well-trained. Our sitters regularly attend training on cat behaviour, pet first aid, and medication administration."
+        },
+        {
+          "title": "Personal approach",
+          "description": "No two cats are the same. We tailor every visit to the unique needs, habits, and personality of your cat."
+        }
+      ]
+    },
+    "serviceArea": {
+      "title": "Our service area",
+      "text": "We are active throughout the greater Antwerp region, including:",
+      "areas": [
+        "Antwerp city centre",
+        "Borgerhout",
+        "Deurne",
+        "Merksem",
+        "Wilrijk",
+        "Berchem",
+        "Hoboken",
+        "Ekeren",
+        "Brasschaat",
+        "Schilde",
+        "Mortsel",
+        "Edegem",
+        "Kontich",
+        "Schoten",
+        "Wijnegem",
+        "Kapellen"
+      ]
+    }
+  },
+  "services": {
+    "pageTitle": "Our services",
+    "pageSubtitle": "Everything your cat needs, at your home",
+    "intro": "At Katten, we offer a complete range of in-home cat sitting services. Whether you're away for a weekend or travelling for a month — we make sure your cat wants for nothing.",
+    "servicesList": [
+      {
+        "title": "Daily home visits",
+        "description": "Our sitters come to your home every day at an agreed time. During each visit, we take care of feeding, water, and the litter box. Your cat stays in her familiar surroundings and experiences minimal stress.",
+        "icon": "home"
+      },
+      {
+        "title": "Feeding & water",
+        "description": "We follow your cat's feeding schedule to the letter. Whether it's dry food, wet food, a diet, or specially prescribed nutrition — we make sure everything is given on time and correctly.",
+        "icon": "bowl"
+      },
+      {
+        "title": "Litter box & hygiene",
+        "description": "A clean litter box is essential for your cat's well-being. We scoop the litter box at every visit and replace the litter as needed.",
+        "icon": "sparkle"
+      },
+      {
+        "title": "Play & companionship",
+        "description": "Cats need social interaction, even the most independent ones. Our sitters take time for play, cuddles, and company. With their favourite toy, of course!",
+        "icon": "toy"
+      },
+      {
+        "title": "Health monitoring",
+        "description": "At every visit, we keep an eye on your cat's well-being: appetite, drinking habits, litter box activity, energy levels, and overall mood. Any changes are reported to you immediately.",
+        "icon": "heart"
+      },
+      {
+        "title": "Medication administration",
+        "description": "From daily pills to eye drops and insulin injections: our sitters are trained and experienced in administering medication. In consultation with your vet, we ensure correct administration.",
+        "icon": "pill"
+      },
+      {
+        "title": "Body cam recordings",
+        "description": "For complete transparency, our sitters wear a body cam during every visit. The recordings are made available through your personal dashboard after the visit and stored for 30 days.",
+        "icon": "camera"
+      },
+      {
+        "title": "Emergencies",
+        "description": "In case of a medical emergency, we act immediately. We contact you and the nearest veterinarian. Transport costs to the vet are included in the Premium plan.",
+        "icon": "emergency"
+      },
+      {
+        "title": "Plant watering",
+        "description": "As a bonus service, we're also happy to water your indoor and garden plants during our visit. So you don't have to worry about a thing while you're away.",
+        "icon": "plant"
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "Contact & booking",
+    "pageSubtitle": "Get in touch or book a free meet & greet directly.",
+    "form": {
+      "title": "Send us a message",
+      "firstName": "First name",
+      "firstNamePlaceholder": "Your first name",
+      "lastName": "Last name",
+      "lastNamePlaceholder": "Your last name",
+      "email": "Email address",
+      "emailPlaceholder": "your.email@example.com",
+      "phone": "Phone number",
+      "phonePlaceholder": "+32 4XX XX XX XX",
+      "address": "Address",
+      "addressPlaceholder": "Street and house number",
+      "postalCode": "Postal code",
+      "postalCodePlaceholder": "2000",
+      "city": "City",
+      "cityPlaceholder": "Antwerp",
+      "numberOfCats": "Number of cats",
+      "catNames": "Name(s) of your cat(s)",
+      "catNamesPlaceholder": "e.g. Luna, Milo",
+      "startDate": "Sitting start date",
+      "endDate": "Sitting end date",
+      "plan": "Preferred plan",
+      "planOptions": {
+        "undecided": "Not decided yet",
+        "basis": "Basic (€15/visit)",
+        "standaard": "Standard (€22/visit)",
+        "premium": "Premium (€35/visit)"
+      },
+      "message": "Additional information",
+      "messagePlaceholder": "Tell us more about your cat(s): special needs, medication, personality, favourite toys...",
+      "consent": "I agree to the privacy policy and consent to having my data processed to handle my request.",
+      "submit": "Submit request",
+      "submitting": "Submitting...",
+      "successTitle": "Thank you for your request!",
+      "successMessage": "We will contact you within 24 hours to schedule a free meet & greet.",
+      "errorTitle": "Something went wrong",
+      "errorMessage": "Please try again later or contact us directly via email or phone."
+    },
+    "info": {
+      "title": "Contact details",
+      "email": "info@katten.be",
+      "phone": "+32 3 123 45 67",
+      "hours": "Available: Mon–Fri 8:00–20:00, Sat–Sun 9:00–18:00",
+      "emergency": "Emergencies (existing clients): available 24/7",
+      "address": "Antwerp region, Belgium"
+    }
+  },
+  "footer": {
+    "description": "Katten provides professional in-home cat sitting in the Antwerp region. With daily visits, body cam recordings, and photo updates, we care for your cat as if it were our own.",
+    "copyright": "© {year} Katten. All rights reserved.",
+    "madeWith": "Made with ❤️ for cats in Antwerp",
+    "links": {
+      "title": "Quick links",
+      "home": "Home",
+      "services": "Services",
+      "pricing": "Pricing",
+      "about": "About us",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy policy",
+      "terms": "Terms & conditions",
+      "cookies": "Cookie policy"
+    },
+    "social": {
+      "title": "Follow us",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "tiktok": "TikTok"
+    },
+    "serviceArea": {
+      "title": "Service area",
+      "text": "Active throughout the greater Antwerp region"
+    }
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "getStarted": "Get started",
+    "bookNow": "Book now",
+    "contactUs": "Contact us",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "open": "Open",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "required": "Required",
+    "optional": "Optional",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or",
+    "and": "and",
+    "free": "Free",
+    "new": "New",
+    "from": "From",
+    "perVisit": "per visit",
+    "perDay": "per day",
+    "included": "Included",
+    "notIncluded": "Not included",
+    "viewDetails": "View details",
+    "selectPlan": "Select plan",
+    "freeConsultation": "Free meet & greet",
+    "noCreditCard": "No upfront payment required",
+    "moneyBack": "Not satisfied, money back",
+    "securePayment": "Secure payment",
+    "stars": "stars",
+    "review": "review",
+    "reviews": "reviews",
+    "allRightsReserved": "All rights reserved",
+    "scrollToTop": "Back to top"
+  }
+}

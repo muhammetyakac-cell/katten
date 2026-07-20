@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "siteTitle": "Katten — Antwerpen'de Evde Kedi Bakım Hizmeti",
+    "siteDescription": "Antwerpen bölgesinde profesyonel evde kedi bakım hizmeti. Siz seyahatteyken günlük ev ziyaretleri, beslenme, bakım ve oyun zamanı. Her ziyaret, gönül rahatlığınız için vücut kamerasıyla kaydedilir.",
+    "keywords": "kedi bakımı, kedi bakıcısı, evcil hayvan bakımı, Antwerpen, evde kedi bakımı, kedi sağlığı, ev ziyareti kedi"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "dashboard": "Panelim",
+    "login": "Giriş yap",
+    "logout": "Çıkış yap",
+    "register": "Kayıt ol",
+    "bookNow": "Hemen rezervasyon yap",
+    "language": "Dil"
+  },
+  "hero": {
+    "titleStart": "Siz seyahatinizin tadını çıkarırken,",
+    "titleHighlight": "kediniz güvenilir ellerde",
+    "subtitle": "Anvers bölgesinde profesyonel evde kedi bakıcılığı. Tam şeffaflık için kişisel ilgi, fotoğraf güncellemeleri ve yaka kamerası kayıtlarıyla günlük ziyaretler.",
+    "bookNow": "Tanışma ayarla",
+    "learnMore": "Hizmetlerimizi incele",
+    "stats": {
+      "cats": "Mutlu Kedi",
+      "visits": "Ev Ziyareti",
+      "bodycam": "Yaka Kamerası",
+      "rating": "Müşteri Memnuniyeti"
+    }
+  },
+  "features": {
+    "sectionTitle": "Neden Katten?",
+    "sectionSubtitle": "Kedinizin bir evcil hayvandan çok daha fazlası olduğunu biliyoruz. Bu yüzden sizin ve kedinizin hak ettiği kişisel ve şeffaf bir hizmet sunuyoruz.",
+    "items": [
+      {
+        "title": "Günlük ev ziyaretleri",
+        "description": "Kediniz alışık olduğu ortamda kalır. Her gün beslenme, su, kum kabı temizliği ve bol bol ilgi için ziyarete geliriz.",
+        "icon": "home"
+      },
+      {
+        "title": "Vücut kamerası kayıtları",
+        "description": "Her ziyaret vücut kamerasıyla kaydedilir. Görüntüleri daha sonra kişisel panelinizden izleyebilirsiniz. Her zaman tam şeffaflık.",
+        "icon": "camera"
+      },
+      {
+        "title": "Fotoğraf ve video güncellemeleri",
+        "description": "Her ziyarette kedinizin sevimli fotoğraf ve videolarını doğrudan telefonunuza alın. Yurt dışından bile hiçbir şeyi kaçırmazsınız.",
+        "icon": "image"
+      },
+      {
+        "title": "Sağlık takibi",
+        "description": "Kedinizin yeme-içme alışkanlıklarını, kum kabı kullanımını ve genel sağlık durumunu dikkatle takip ediyoruz. Herhangi bir değişiklikte sizi hemen bilgilendiririz.",
+        "icon": "heart"
+      },
+      {
+        "title": "İlaç uygulaması",
+        "description": "Kedinizin günlük ilaca ihtiyacı mı var? Sorun değil. Bakıcılarımız hap, damla ve insülin enjeksiyonu uygulamalarında deneyimlidir.",
+        "icon": "pill"
+      },
+      {
+        "title": "Acil durumlar ve veteriner",
+        "description": "Acil bir durumda derhal harekete geçeriz. Antwerpen bölgesindeki veterinerlerle iş birliği yapıyor ve herhangi bir tıbbi durumda sizi hemen bilgilendiriyoruz.",
+        "icon": "emergency"
+      },
+      {
+        "title": "Bitki sulama",
+        "description": "Ekstra hizmet olarak ziyaretimiz sırasında bitkilerinizi de sevgiyle sularız. Eve mutlu bir kedi ve yemyeşil bitkilerle dönün.",
+        "icon": "plant"
+      },
+      {
+        "title": "Sigortalı ve güvenilir",
+        "description": "Tüm kedi bakıcılarımız kontrol edilmiş, sigortalı ve eğitimlidir. Anahtarlarınız güvenle saklanır ve bakım dönemi sonunda iade edilir.",
+        "icon": "shield"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionTitle": "Nasıl çalışır?",
+    "sectionSubtitle": "Dört basit adımda kediniz için en iyi bakımı ayarlayın.",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Ücretsiz tanışma ziyareti",
+        "description": "Kedinizle tanışmak, rutinini konuşmak ve anahtarı almak için evinize geliriz. Bu ziyaret her zaman ücretsiz ve bağlayıcı değildir."
+      },
+      {
+        "step": 2,
+        "title": "Kişiye özel bakım planı",
+        "description": "Birlikte, kedinizin ihtiyaçlarına mükemmel uyum sağlayan bir bakım planı hazırlarız. Beslenme saatlerinden oyun tercihlerine kadar her şey kayıt altına alınır."
+      },
+      {
+        "step": 3,
+        "title": "Günlük ziyaretler",
+        "description": "Siz uzaktayken kedinizi her gün ziyaret ederiz. Her ziyaretten sonra paneliniz üzerinden fotoğraflar, videolar ve kısa bir rapor alırsınız."
+      },
+      {
+        "step": 4,
+        "title": "Hoş geldiniz eve",
+        "description": "Eve döndüğünüzde mutlu bir kedi, temiz bir ev ve izlemeye hazır tüm kamera görüntülerini bulursunuz. Anahtarınızı güvenle iade ederiz."
+      }
+    ]
+  },
+  "bodycam": {
+    "sectionTitle": "Vücut kamerasıyla tam şeffaflık",
+    "sectionSubtitle": "Güven, hizmetimizin temelidir",
+    "description": "Her bakıcı, ziyaret sırasında vücut kamerası takar. Ziyaretin tamamının kaydı, ziyaret sonrasında kişisel paneliniz üzerinden erişilebilir hale gelir. Evde olmadığınızda bile neler olduğunu tam olarak bilirsiniz.",
+    "features": [
+      "Her ziyaretin Full HD kaydı",
+      "24 saat içinde panelinizde erişilebilir",
+      "Kayıtlar 30 gün boyunca saklanır",
+      "Gizlilik dostu: yalnızca size erişilebilir"
+    ],
+    "cta": "Vücut kamerası politikamız hakkında daha fazla bilgi"
+  },
+  "pricing": {
+    "sectionTitle": "Fiyatlarımız",
+    "sectionSubtitle": "Şeffaf fiyatlar, gizli ücret yok. Size ve kedinize uygun planı seçin.",
+    "perVisit": "ziyaret başına",
+    "perDay": "gün başına",
+    "mostPopular": "En popüler",
+    "plans": [
+      {
+        "name": "Temel",
+        "price": "15",
+        "currency": "€",
+        "description": "Yalnızca temel bakıma ihtiyaç duyan bağımsız kediler için ideal.",
+        "duration": "Yaklaşık 20 dakikalık ziyaret",
+        "features": [
+          "Beslenme ve taze su",
+          "Kum kabı temizliği",
+          "Kısa sağlık kontrolü",
+          "Ziyaret başına fotoğraf güncelleme",
+          "Uygulama üzerinden mesajlaşma"
+        ],
+        "notIncluded": [
+          "Vücut kamerası kayıtları",
+          "Uzun süreli oyun zamanı",
+          "İlaç uygulaması",
+          "Bitki sulama"
+        ],
+        "cta": "Temel'i seç"
+      },
+      {
+        "name": "Standart",
+        "price": "22",
+        "currency": "€",
+        "description": "En çok tercih edilen planımız. Kedinizin ihtiyacı olan her şey, gönül rahatlığınız için vücut kamerası kayıtları dahil.",
+        "duration": "Yaklaşık 35 dakikalık ziyaret",
+        "features": [
+          "Temel plandaki her şey",
+          "Her ziyaretin vücut kamerası kaydı",
+          "Uzun süreli oyun ve ilgi",
+          "İlaç uygulaması (hap, damla)",
+          "Fotoğraf ve video güncellemeleri",
+          "Bitki sulama",
+          "Panel üzerinden günlük rapor"
+        ],
+        "notIncluded": [
+          "Günde ikinci ziyaret",
+          "İnsülin enjeksiyonları"
+        ],
+        "cta": "Standart'ı seç"
+      },
+      {
+        "name": "Premium",
+        "price": "35",
+        "currency": "€",
+        "description": "Kediniz için en üst düzey şımartma. Günde iki ziyaret ve tüm ekstralar dahil. Ekstra bakım veya ilgiye ihtiyaç duyan kediler için mükemmel.",
+        "duration": "Günde iki ziyaret, her biri yaklaşık 30 dk",
+        "features": [
+          "Standart plandaki her şey",
+          "Günde iki ziyaret (sabah ve akşam)",
+          "İnsülin enjeksiyonları ve karmaşık ilaçlar",
+          "Kapsamlı sağlık takibi",
+          "Öncelikli acil durum hizmeti",
+          "Fırçalama ve tüy bakımı",
+          "Posta alma ve çöp kutusu çıkarma"
+        ],
+        "notIncluded": [],
+        "cta": "Premium'u seç"
+      }
+    ],
+    "footnote": "Tüm fiyatlara KDV dahildir. Her ilk rezervasyonda ücretsiz tanışma ziyareti. Uzun süreli rezervasyonlarda (14 günden fazla) indirim.",
+    "discountLabel": "Uzun süreli rezervasyon",
+    "discountText": "14 günden uzun rezervasyonlarda %10 indirim"
+  },
+  "testimonials": {
+    "sectionTitle": "Müşterilerimiz ne diyor?",
+    "sectionSubtitle": "Antwerpen'deki kedi sahiplerinin bizi neden tercih ettiğini keşfedin.",
+    "items": [
+      {
+        "name": "Sophie De Meester",
+        "location": "Borgerhout, Antwerpen",
+        "rating": 5,
+        "text": "İki haftalığına İspanya'ya giderken iki kedimi geride bırakmak zorunda kaldığımda çok endişeliydim. Ama Katten bu endişemi tamamen giderdi. Her gün fotoğraflar ve kısa bir mesaj aldım. Vücut kamerası görüntüleri bana büyük güven verdi. Eve döndüğümde Luna ve Milo son derece mutluydu!",
+        "catNames": "Luna & Milo"
+      },
+      {
+        "name": "Pieter Janssens",
+        "location": "Wilrijk, Antwerpen",
+        "rating": 5,
+        "text": "Yaşlı kedimiz Felix şeker hastası ve günde iki kez insüline ihtiyacı var. Hiçbir zaman tatile gitmeye cesaret edememiştim ama Katten'in Premium planı sayesinde bu sonunda mümkün oldu. Bakıcılar sabırlı, profesyonel ve kedilere gerçekten düşkünler. Kesinlikle tavsiye ederim.",
+        "catNames": "Felix"
+      },
+      {
+        "name": "Ayşe Yılmaz",
+        "location": "Deurne, Antwerpen",
+        "rating": 5,
+        "text": "Tanışma ziyareti daha en baştan harikaydı. Her şeyi konuşmak için zaman ayırdılar ve kedim Pamuk hemen rahat hissetti. Her gün aldığım fotoğraflar muhteşemdi. Eve döndüğümde çiçeklerim de gayet bakımlıydı. Teşekkürler, Katten!",
+        "catNames": "Pamuk"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Kedinize en iyi bakımı vermeye hazır mısınız?",
+    "subtitle": "Bugün ücretsiz bir tanışma ziyareti rezervasyonu yapın ve Antwerpen'deki yüzlerce kedi sahibinin neden bize güvendiğini keşfedin.",
+    "primaryButton": "Ücretsiz tanışma ziyareti ayarla",
+    "secondaryButton": "Bize ulaşın",
+    "guarantee": "%100 memnuniyet garantisi — memnun kalmadıysanız, ilk ziyaretten sonra paranız iade edilir."
+  },
+  "about": {
+    "pageTitle": "Katten Hakkında",
+    "pageSubtitle": "Antwerpen'in en iyi kedi bakım hizmetinin arkasındaki insanlar",
+    "story": {
+      "title": "Hikayemiz",
+      "paragraphs": [
+        "Katten, kişisel bir hayal kırıklığından doğdu: Antwerpen bölgesinde güvenilir ve şeffaf bir kedi bakım hizmetinin eksikliği. Biz de kedi sahibi olarak, seyahate çıkıp sevgili dostunuzu geride bırakmanın ne kadar zor olduğunu biliyoruz.",
+        "Bu yüzden güven, şeffaflık ve kedilere olan içten sevgi üzerine kurulu bir hizmet oluşturduk. Vücut kamerası kayıtlarımız, günlük güncellemelerimiz ve kişisel yaklaşımımız sayesinde kedinizin en iyi ellerde olduğunu her zaman bilirsiniz.",
+        "Bugün, tüm Antwerpen bölgesinde yüzlerce kediye bakıyoruz — Het Eilandje'den Brasschaat'a, Hoboken'den Schilde'ye kadar. Her kedi benzersizdir ve kişiye özel bakımı hak eder."
+      ]
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "text": "Antwerpen'deki her kedi sahibinin, kedisinin kendi tanıdık ortamında mümkün olan en iyi bakımı aldığını bilerek gönül rahatlığıyla seyahat edebilmesini istiyoruz."
+    },
+    "values": {
+      "title": "Değerlerimiz",
+      "items": [
+        {
+          "title": "Güven",
+          "description": "Şeffaflık, yaptığımız her şeyin merkezindedir. Vücut kamerası kayıtlarından açık iletişime kadar — neler olduğunu her zaman bilirsiniz."
+        },
+        {
+          "title": "Kedi sevgisi",
+          "description": "Bakıcılarımızın her biri gerçek birer kedi sevdalısıdır. Kedinize kendi evcil hayvanlarına gösterdikleri aynı sevgi ve ilgiyle davranırlar."
+        },
+        {
+          "title": "Profesyonellik",
+          "description": "Dakik, güvenilir ve iyi eğitimli. Bakıcılarımız düzenli olarak kedi davranışı, hayvan ilk yardımı ve ilaç uygulaması konularında eğitimlere katılırlar."
+        },
+        {
+          "title": "Kişisel yaklaşım",
+          "description": "Hiçbir kedi birbirinin aynısı değildir. Her ziyareti kedinizin kendine özgü ihtiyaçlarına, alışkanlıklarına ve kişiliğine göre uyarlıyoruz."
+        }
+      ]
+    },
+    "serviceArea": {
+      "title": "Hizmet bölgemiz",
+      "text": "Büyük Antwerpen bölgesinin tamamında aktif olarak hizmet veriyoruz:",
+      "areas": [
+        "Antwerpen şehir merkezi",
+        "Borgerhout",
+        "Deurne",
+        "Merksem",
+        "Wilrijk",
+        "Berchem",
+        "Hoboken",
+        "Ekeren",
+        "Brasschaat",
+        "Schilde",
+        "Mortsel",
+        "Edegem",
+        "Kontich",
+        "Schoten",
+        "Wijnegem",
+        "Kapellen"
+      ]
+    }
+  },
+  "services": {
+    "pageTitle": "Hizmetlerimiz",
+    "pageSubtitle": "Kedinizin ihtiyacı olan her şey, evinizde",
+    "intro": "Katten'de eksiksiz bir evde kedi bakım hizmeti yelpazesi sunuyoruz. İster bir hafta sonu ister bir aylık seyahat olsun — kedinizin hiçbir şeyden eksik kalmamasını sağlıyoruz.",
+    "servicesList": [
+      {
+        "title": "Günlük ev ziyaretleri",
+        "description": "Bakıcılarımız her gün belirlenen saatte evinize gelir. Her ziyarette beslenme, su ve kum kabıyla ilgileniyoruz. Kediniz alışık olduğu ortamda kalır ve minimum düzeyde stres yaşar.",
+        "icon": "home"
+      },
+      {
+        "title": "Beslenme ve su",
+        "description": "Kedinizin beslenme programını titizlikle takip ediyoruz. Kuru mama, yaş mama, diyet veya özel olarak reçete edilen beslenme olsun — her şeyin zamanında ve doğru şekilde verilmesini sağlıyoruz.",
+        "icon": "bowl"
+      },
+      {
+        "title": "Kum kabı ve hijyen",
+        "description": "Temiz bir kum kabı kedinizin sağlığı için çok önemlidir. Her ziyarette kum kabını temizliyor ve gerektiğinde kumu değiştiriyoruz.",
+        "icon": "sparkle"
+      },
+      {
+        "title": "Oyun ve arkadaşlık",
+        "description": "Kedilerin sosyal etkileşime ihtiyacı vardır, en bağımsız olanların bile. Bakıcılarımız oyun, sevgi ve arkadaşlık için zaman ayırır. Elbette en sevdiği oyuncağıyla!",
+        "icon": "toy"
+      },
+      {
+        "title": "Sağlık takibi",
+        "description": "Her ziyarette kedinizin sağlık durumunu gözlemliyoruz: iştah, su tüketimi, kum kabı kullanımı, enerji seviyesi ve genel ruh hali. Herhangi bir değişiklik derhal size bildirilir.",
+        "icon": "heart"
+      },
+      {
+        "title": "İlaç uygulaması",
+        "description": "Günlük haplardan göz damlalarına ve insülin enjeksiyonlarına kadar: bakıcılarımız ilaç uygulamasında eğitimli ve deneyimlidir. Veterinerinizle koordineli olarak doğru uygulamayı sağlıyoruz.",
+        "icon": "pill"
+      },
+      {
+        "title": "Vücut kamerası kayıtları",
+        "description": "Tam şeffaflık için bakıcılarımız her ziyarette vücut kamerası takar. Kayıtlar ziyaret sonrasında kişisel paneliniz üzerinden erişilebilir hale gelir ve 30 gün boyunca saklanır.",
+        "icon": "camera"
+      },
+      {
+        "title": "Acil durumlar",
+        "description": "Tıbbi bir acil durumda derhal harekete geçeriz. Sizi ve en yakın veterineri bilgilendiririz. Veterinere ulaşım masrafları Premium plana dahildir.",
+        "icon": "emergency"
+      },
+      {
+        "title": "Bitki sulama",
+        "description": "Ekstra hizmet olarak ziyaretimiz sırasında iç mekan ve bahçe bitkilerinizi de sularız. Böylece uzaktayken hiçbir şey için endişelenmenize gerek kalmaz.",
+        "icon": "plant"
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "İletişim ve Rezervasyon",
+    "pageSubtitle": "Bizimle iletişime geçin veya doğrudan ücretsiz bir tanışma ziyareti ayarlayın.",
+    "form": {
+      "title": "Bize mesaj gönderin",
+      "firstName": "Ad",
+      "firstNamePlaceholder": "Adınız",
+      "lastName": "Soyad",
+      "lastNamePlaceholder": "Soyadınız",
+      "email": "E-posta adresi",
+      "emailPlaceholder": "e-posta@ornek.be",
+      "phone": "Telefon numarası",
+      "phonePlaceholder": "+32 4XX XX XX XX",
+      "address": "Adres",
+      "addressPlaceholder": "Sokak ve ev numarası",
+      "postalCode": "Posta kodu",
+      "postalCodePlaceholder": "2000",
+      "city": "Şehir",
+      "cityPlaceholder": "Antwerpen",
+      "numberOfCats": "Kedi sayısı",
+      "catNames": "Kedi(leri)nizin adı/adları",
+      "catNamesPlaceholder": "örn. Luna, Milo",
+      "startDate": "Bakım başlangıç tarihi",
+      "endDate": "Bakım bitiş tarihi",
+      "plan": "Tercih edilen plan",
+      "planOptions": {
+        "undecided": "Henüz karar vermedim",
+        "basis": "Temel (€15/ziyaret)",
+        "standaard": "Standart (€22/ziyaret)",
+        "premium": "Premium (€35/ziyaret)"
+      },
+      "message": "Ek bilgiler",
+      "messagePlaceholder": "Kedi(leri)niz hakkında bize daha fazla bilgi verin: özel ihtiyaçlar, ilaçlar, karakter, favori oyuncaklar...",
+      "consent": "Gizlilik politikasını kabul ediyorum ve talebimin işlenmesi için verilerimin işlenmesine onay veriyorum.",
+      "submit": "Talebi gönder",
+      "submitting": "Gönderiliyor...",
+      "successTitle": "Talebiniz için teşekkürler!",
+      "successMessage": "Ücretsiz tanışma ziyareti planlamak için 24 saat içinde sizinle iletişime geçeceğiz.",
+      "errorTitle": "Bir şeyler ters gitti",
+      "errorMessage": "Lütfen daha sonra tekrar deneyin veya bize doğrudan e-posta veya telefon yoluyla ulaşın."
+    },
+    "info": {
+      "title": "İletişim bilgileri",
+      "email": "info@katten.be",
+      "phone": "+32 3 123 45 67",
+      "hours": "Ulaşılabilir: Pzt–Cum 8:00–20:00, Cmt–Paz 9:00–18:00",
+      "emergency": "Acil durumlar (mevcut müşteriler): 7/24 ulaşılabilir",
+      "address": "Antwerpen bölgesi, Belçika"
+    }
+  },
+  "footer": {
+    "description": "Katten, Antwerpen bölgesinde profesyonel evde kedi bakım hizmeti sunar. Günlük ziyaretler, vücut kamerası kayıtları ve fotoğraf güncellemeleriyle kedinize kendi kedimizmiş gibi bakarız.",
+    "copyright": "© {year} Katten. Tüm hakları saklıdır.",
+    "madeWith": "Antwerpen'deki kediler için ❤️ ile yapıldı",
+    "links": {
+      "title": "Hızlı bağlantılar",
+      "home": "Ana Sayfa",
+      "services": "Hizmetler",
+      "pricing": "Fiyatlar",
+      "about": "Hakkımızda",
+      "contact": "İletişim"
+    },
+    "legal": {
+      "title": "Yasal",
+      "privacy": "Gizlilik politikası",
+      "terms": "Genel koşullar",
+      "cookies": "Çerez politikası"
+    },
+    "social": {
+      "title": "Bizi takip edin",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "tiktok": "TikTok"
+    },
+    "serviceArea": {
+      "title": "Hizmet bölgesi",
+      "text": "Büyük Antwerpen bölgesinin tamamında aktif"
+    }
+  },
+  "common": {
+    "learnMore": "Daha fazla bilgi",
+    "getStarted": "Başlayın",
+    "bookNow": "Hemen rezervasyon yap",
+    "contactUs": "Bize ulaşın",
+    "readMore": "Devamını oku",
+    "viewAll": "Tümünü gör",
+    "back": "Geri",
+    "next": "İleri",
+    "previous": "Önceki",
+    "close": "Kapat",
+    "open": "Aç",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "required": "Zorunlu",
+    "optional": "İsteğe bağlı",
+    "yes": "Evet",
+    "no": "Hayır",
+    "or": "veya",
+    "and": "ve",
+    "free": "Ücretsiz",
+    "new": "Yeni",
+    "from": "Başlangıç",
+    "perVisit": "ziyaret başına",
+    "perDay": "gün başına",
+    "included": "Dahil",
+    "notIncluded": "Dahil değil",
+    "viewDetails": "Detayları gör",
+    "selectPlan": "Plan seç",
+    "freeConsultation": "Ücretsiz tanışma ziyareti",
+    "noCreditCard": "Ön ödeme gerekmez",
+    "moneyBack": "Memnun kalmazsanız para iade",
+    "securePayment": "Güvenli ödeme",
+    "stars": "yıldız",
+    "review": "değerlendirme",
+    "reviews": "değerlendirme",
+    "allRightsReserved": "Tüm hakları saklıdır",
+    "scrollToTop": "Yukarı dön"
+  }
+}

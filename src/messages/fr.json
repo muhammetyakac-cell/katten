@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "siteTitle": "Katten — Garde de chats à domicile à Anvers",
+    "siteDescription": "Service professionnel de garde de chats à domicile dans la région d'Anvers. Visites quotidiennes, alimentation, soins et moments de jeu pendant votre absence. Chaque visite est filmée avec une caméra corporelle pour votre tranquillité d'esprit.",
+    "keywords": "garde de chats, cat sitter, soins animaux, Anvers, garde de chats à domicile, soins félins, visites à domicile chats"
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact",
+    "dashboard": "Mon tableau de bord",
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "register": "S'inscrire",
+    "bookNow": "Réserver",
+    "language": "Langue"
+  },
+  "hero": {
+    "titleStart": "Votre chat entre de bonnes mains,",
+    "titleHighlight": "pendant que vous profitez de votre voyage",
+    "subtitle": "Garde de chats professionnelle à domicile dans la région d'Anvers. Visites quotidiennes avec attention personnelle, photos et enregistrements par caméra piéton pour une transparence totale.",
+    "bookNow": "Réserver une rencontre",
+    "learnMore": "Voir nos services",
+    "stats": {
+      "cats": "Chats Heureux",
+      "visits": "Visites à Domicile",
+      "bodycam": "Enregistrements Caméra",
+      "rating": "Satisfaction"
+    }
+  },
+  "features": {
+    "sectionTitle": "Pourquoi choisir Katten ?",
+    "sectionSubtitle": "Nous comprenons que votre chat est bien plus qu'un animal de compagnie. C'est pourquoi nous offrons un service personnalisé et transparent que vous et votre chat méritez.",
+    "items": [
+      {
+        "title": "Visites quotidiennes à domicile",
+        "description": "Votre chat reste dans son environnement familier. Nous passons chaque jour pour l'alimentation, l'eau, la litière et beaucoup d'attention.",
+        "icon": "home"
+      },
+      {
+        "title": "Enregistrements caméra corporelle",
+        "description": "Chaque visite est enregistrée avec une caméra corporelle. Vous pouvez visionner les images par la suite via votre tableau de bord personnel. Transparence totale, toujours.",
+        "icon": "camera"
+      },
+      {
+        "title": "Mises à jour photo et vidéo",
+        "description": "Recevez des photos et vidéos adorables de votre chat pendant chaque visite, envoyées directement sur votre téléphone. Vous ne manquerez rien, même depuis l'étranger.",
+        "icon": "image"
+      },
+      {
+        "title": "Suivi de santé",
+        "description": "Nous surveillons attentivement les habitudes alimentaires, la consommation d'eau, la litière et le bien-être général de votre chat. Tout changement vous est signalé immédiatement.",
+        "icon": "heart"
+      },
+      {
+        "title": "Administration de médicaments",
+        "description": "Votre chat a besoin de médicaments quotidiens ? Pas de souci. Nos gardiens sont expérimentés dans l'administration de comprimés, gouttes et injections d'insuline.",
+        "icon": "pill"
+      },
+      {
+        "title": "Urgences et soins vétérinaires",
+        "description": "En cas d'urgence, nous agissons immédiatement. Nous collaborons avec des vétérinaires de la région d'Anvers et vous contactons tout de suite pour toute situation médicale.",
+        "icon": "emergency"
+      },
+      {
+        "title": "Arrosage des plantes",
+        "description": "En service bonus, nous arrosons vos plantes lors de notre visite. Rentrez chez vous avec un chat heureux et des plantes en pleine forme.",
+        "icon": "plant"
+      },
+      {
+        "title": "Assuré et fiable",
+        "description": "Tous nos gardiens de chats sont vérifiés, assurés et formés. Vos clés sont conservées en toute sécurité et restituées à la fin de la période de garde.",
+        "icon": "shield"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionTitle": "Comment ça marche ?",
+    "sectionSubtitle": "Organisez les meilleurs soins pour votre chat en quatre étapes simples.",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Visite de présentation gratuite",
+        "description": "Nous venons chez vous pour rencontrer votre chat, discuter de sa routine et récupérer la clé. Cette visite est toujours gratuite et sans engagement."
+      },
+      {
+        "step": 2,
+        "title": "Plan de soins sur mesure",
+        "description": "Ensemble, nous élaborons un plan de soins parfaitement adapté aux besoins de votre chat. Des horaires de repas aux préférences de jeu — tout est consigné."
+      },
+      {
+        "step": 3,
+        "title": "Visites quotidiennes",
+        "description": "Pendant votre absence, nous rendons visite à votre chat chaque jour. Vous recevez des photos, vidéos et un court rapport après chaque visite via votre tableau de bord."
+      },
+      {
+        "step": 4,
+        "title": "Bon retour",
+        "description": "À votre retour, vous retrouvez un chat satisfait, une maison propre et toutes les images de la caméra corporelle prêtes à être visionnées. Nous restituons votre clé en toute sécurité."
+      }
+    ]
+  },
+  "bodycam": {
+    "sectionTitle": "Transparence totale avec la caméra corporelle",
+    "sectionSubtitle": "La confiance est le fondement de notre service",
+    "description": "Chaque gardien porte une caméra corporelle pendant la visite. L'enregistrement complet est rendu disponible via votre tableau de bord personnel après la visite. Vous savez exactement ce qui se passe chez vous, même en votre absence.",
+    "features": [
+      "Enregistrement Full HD de chaque visite",
+      "Disponible dans les 24 heures sur votre tableau de bord",
+      "Enregistrements conservés pendant 30 jours",
+      "Respect de la vie privée : accessible uniquement par vous"
+    ],
+    "cta": "En savoir plus sur notre politique caméra corporelle"
+  },
+  "pricing": {
+    "sectionTitle": "Nos tarifs",
+    "sectionSubtitle": "Des prix transparents, sans frais cachés. Choisissez la formule qui vous convient, à vous et à votre chat.",
+    "perVisit": "par visite",
+    "perDay": "par jour",
+    "mostPopular": "Le plus populaire",
+    "plans": [
+      {
+        "name": "Basique",
+        "price": "15",
+        "currency": "€",
+        "description": "Idéal pour les chats indépendants qui n'ont besoin que des soins essentiels.",
+        "duration": "Visite d'environ 20 minutes",
+        "features": [
+          "Alimentation et eau fraîche",
+          "Nettoyage de la litière",
+          "Bref contrôle de santé",
+          "Mise à jour photo par visite",
+          "Service de messagerie via l'appli"
+        ],
+        "notIncluded": [
+          "Enregistrements caméra corporelle",
+          "Temps de jeu prolongé",
+          "Administration de médicaments",
+          "Arrosage des plantes"
+        ],
+        "cta": "Choisir Basique"
+      },
+      {
+        "name": "Standard",
+        "price": "22",
+        "currency": "€",
+        "description": "Notre formule la plus choisie. Tout ce dont votre chat a besoin, y compris les enregistrements caméra corporelle pour votre tranquillité d'esprit.",
+        "duration": "Visite d'environ 35 minutes",
+        "features": [
+          "Tout du plan Basique",
+          "Enregistrement caméra corporelle de chaque visite",
+          "Temps de jeu prolongé et attention",
+          "Administration de médicaments (comprimés, gouttes)",
+          "Mises à jour photo et vidéo",
+          "Arrosage des plantes",
+          "Rapport quotidien via le tableau de bord"
+        ],
+        "notIncluded": [
+          "Deuxième visite par jour",
+          "Injections d'insuline"
+        ],
+        "cta": "Choisir Standard"
+      },
+      {
+        "name": "Premium",
+        "price": "35",
+        "currency": "€",
+        "description": "Le summum du bien-être pour votre chat. Deux visites par jour et tous les extras inclus. Parfait pour les chats qui nécessitent des soins ou une attention supplémentaires.",
+        "duration": "Deux visites d'environ 30 min par jour",
+        "features": [
+          "Tout du plan Standard",
+          "Deux visites par jour (matin et soir)",
+          "Injections d'insuline et médicaments complexes",
+          "Suivi de santé approfondi",
+          "Service d'urgence prioritaire",
+          "Brossage et soins du pelage",
+          "Relevé du courrier et sortie des poubelles"
+        ],
+        "notIncluded": [],
+        "cta": "Choisir Premium"
+      }
+    ],
+    "footnote": "Tous les prix sont TVA comprise. Visite de présentation gratuite pour chaque première réservation. Réduction pour les réservations de longue durée (plus de 14 jours).",
+    "discountLabel": "Réservation longue durée",
+    "discountText": "10 % de réduction pour les réservations de plus de 14 jours"
+  },
+  "testimonials": {
+    "sectionTitle": "Ce que disent nos clients",
+    "sectionSubtitle": "Découvrez pourquoi les propriétaires de chats à Anvers nous choisissent.",
+    "items": [
+      {
+        "name": "Sophie De Meester",
+        "location": "Borgerhout, Anvers",
+        "rating": 5,
+        "text": "J'étais tellement inquiète quand je suis partie deux semaines en Espagne en laissant mes deux chats. Mais Katten m'a complètement rassurée. Chaque jour, je recevais des photos et un petit message. Les images de la caméra corporelle m'ont donné énormément confiance. Luna et Milo étaient tout à fait contents quand je suis rentrée !",
+        "catNames": "Luna & Milo"
+      },
+      {
+        "name": "Pieter Janssens",
+        "location": "Wilrijk, Anvers",
+        "rating": 5,
+        "text": "Notre vieux chat Felix est diabétique et a besoin d'insuline deux fois par jour. Je n'osais jamais partir en vacances, mais grâce à la formule Premium de Katten, c'est enfin possible. Les gardiens sont patients, professionnels et visiblement passionnés par les chats. Je recommande vivement.",
+        "catNames": "Felix"
+      },
+      {
+        "name": "Ayşe Yılmaz",
+        "location": "Deurne, Anvers",
+        "rating": 5,
+        "text": "La visite de présentation était déjà très bien. Ils ont pris le temps de tout discuter et ma chatte Pamuk était immédiatement à l'aise. Les photos que je recevais chaque jour étaient superbes. Mes plantes étaient aussi en parfait état à mon retour. Merci, Katten !",
+        "catNames": "Pamuk"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à offrir les meilleurs soins à votre chat ?",
+    "subtitle": "Réservez une visite de présentation gratuite dès aujourd'hui et découvrez pourquoi des centaines de propriétaires de chats à Anvers nous font confiance.",
+    "primaryButton": "Réserver une visite gratuite",
+    "secondaryButton": "Nous contacter",
+    "guarantee": "Garantie satisfaction à 100 % — pas satisfait, remboursé après la première visite."
+  },
+  "about": {
+    "pageTitle": "À propos de Katten",
+    "pageSubtitle": "Les personnes derrière le meilleur service de garde de chats à Anvers",
+    "story": {
+      "title": "Notre histoire",
+      "paragraphs": [
+        "Katten est né d'une frustration personnelle : le manque d'un service de garde de chats fiable et transparent dans la région d'Anvers. En tant que propriétaires de chats nous-mêmes, nous savons à quel point il est difficile de partir en voyage et de laisser son compagnon félin derrière soi.",
+        "C'est pourquoi nous avons fondé un service basé sur la confiance, la transparence et un amour sincère des chats. Avec nos enregistrements caméra corporelle, nos mises à jour quotidiennes et notre approche personnelle, vous savez toujours que votre chat est entre les meilleures mains.",
+        "Aujourd'hui, nous prenons soin de centaines de chats dans toute la région d'Anvers — du Eilandje à Brasschaat, de Hoboken à Schilde. Chaque chat est unique et mérite des soins sur mesure."
+      ]
+    },
+    "mission": {
+      "title": "Notre mission",
+      "text": "Nous voulons que chaque propriétaire de chat à Anvers puisse voyager l'esprit tranquille, en sachant que son chat reçoit les meilleurs soins dans son propre environnement familier."
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "items": [
+        {
+          "title": "Confiance",
+          "description": "La transparence est au cœur de tout ce que nous faisons. Des enregistrements caméra corporelle à la communication ouverte — vous savez toujours ce qui se passe."
+        },
+        {
+          "title": "Amour des chats",
+          "description": "Nos gardiens sont tous de véritables amoureux des chats. Ils traitent votre chat avec le même amour et la même attention que leurs propres animaux."
+        },
+        {
+          "title": "Professionnalisme",
+          "description": "Ponctuels, fiables et bien formés. Nos gardiens suivent régulièrement des formations sur le comportement félin, les premiers secours pour animaux et l'administration de médicaments."
+        },
+        {
+          "title": "Approche personnelle",
+          "description": "Aucun chat ne se ressemble. Nous adaptons chaque visite aux besoins uniques, aux habitudes et à la personnalité de votre chat."
+        }
+      ]
+    },
+    "serviceArea": {
+      "title": "Notre zone de service",
+      "text": "Nous sommes actifs dans toute la région du grand Anvers, y compris :",
+      "areas": [
+        "Anvers centre-ville",
+        "Borgerhout",
+        "Deurne",
+        "Merksem",
+        "Wilrijk",
+        "Berchem",
+        "Hoboken",
+        "Ekeren",
+        "Brasschaat",
+        "Schilde",
+        "Mortsel",
+        "Edegem",
+        "Kontich",
+        "Schoten",
+        "Wijnegem",
+        "Kapellen"
+      ]
+    }
+  },
+  "services": {
+    "pageTitle": "Nos services",
+    "pageSubtitle": "Tout ce dont votre chat a besoin, chez vous",
+    "intro": "Chez Katten, nous offrons une gamme complète de services de garde de chats à domicile. Que vous partiez pour un week-end ou pour un mois — nous veillons à ce que votre chat ne manque de rien.",
+    "servicesList": [
+      {
+        "title": "Visites quotidiennes à domicile",
+        "description": "Nos gardiens se rendent chez vous chaque jour à une heure convenue. Lors de chaque visite, nous nous occupons de l'alimentation, de l'eau et de la litière. Votre chat reste dans son environnement familier et subit un minimum de stress.",
+        "icon": "home"
+      },
+      {
+        "title": "Alimentation et eau",
+        "description": "Nous suivons scrupuleusement le programme alimentaire de votre chat. Qu'il s'agisse de croquettes, de pâtée, d'un régime ou d'une alimentation spécialement prescrite — nous veillons à ce que tout soit donné à temps et correctement.",
+        "icon": "bowl"
+      },
+      {
+        "title": "Litière et hygiène",
+        "description": "Une litière propre est essentielle pour le bien-être de votre chat. Nous nettoyons la litière à chaque visite et remplaçons le substrat si nécessaire.",
+        "icon": "sparkle"
+      },
+      {
+        "title": "Jeux et compagnie",
+        "description": "Les chats ont besoin d'interaction sociale, même les plus indépendants. Nos gardiens prennent le temps de jouer, de câliner et de tenir compagnie. Avec son jouet préféré, bien sûr !",
+        "icon": "toy"
+      },
+      {
+        "title": "Suivi de santé",
+        "description": "À chaque visite, nous surveillons le bien-être de votre chat : appétit, consommation d'eau, litière, niveau d'activité et humeur générale. Tout changement vous est signalé immédiatement.",
+        "icon": "heart"
+      },
+      {
+        "title": "Administration de médicaments",
+        "description": "Des comprimés quotidiens aux gouttes pour les yeux et injections d'insuline : nos gardiens sont formés et expérimentés dans l'administration de médicaments. En concertation avec votre vétérinaire, nous assurons une administration correcte.",
+        "icon": "pill"
+      },
+      {
+        "title": "Enregistrements caméra corporelle",
+        "description": "Pour une transparence totale, nos gardiens portent une caméra corporelle lors de chaque visite. Les enregistrements sont mis à disposition via votre tableau de bord personnel et conservés pendant 30 jours.",
+        "icon": "camera"
+      },
+      {
+        "title": "Urgences",
+        "description": "En cas d'urgence médicale, nous agissons immédiatement. Nous vous contactons ainsi que le vétérinaire le plus proche. Les frais de transport vers le vétérinaire sont inclus dans la formule Premium.",
+        "icon": "emergency"
+      },
+      {
+        "title": "Arrosage des plantes",
+        "description": "En service bonus, nous arrosons également vos plantes d'intérieur et de jardin lors de notre visite. Ainsi, vous n'avez à vous soucier de rien pendant votre absence.",
+        "icon": "plant"
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "Contact et réservation",
+    "pageSubtitle": "Contactez-nous ou réservez directement une visite de présentation gratuite.",
+    "form": {
+      "title": "Envoyez-nous un message",
+      "firstName": "Prénom",
+      "firstNamePlaceholder": "Votre prénom",
+      "lastName": "Nom de famille",
+      "lastNamePlaceholder": "Votre nom de famille",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "votre.email@exemple.be",
+      "phone": "Numéro de téléphone",
+      "phonePlaceholder": "+32 4XX XX XX XX",
+      "address": "Adresse",
+      "addressPlaceholder": "Rue et numéro",
+      "postalCode": "Code postal",
+      "postalCodePlaceholder": "2000",
+      "city": "Commune",
+      "cityPlaceholder": "Anvers",
+      "numberOfCats": "Nombre de chats",
+      "catNames": "Nom(s) de votre/vos chat(s)",
+      "catNamesPlaceholder": "par ex. Luna, Milo",
+      "startDate": "Date de début de la garde",
+      "endDate": "Date de fin de la garde",
+      "plan": "Formule souhaitée",
+      "planOptions": {
+        "undecided": "Pas encore décidé",
+        "basis": "Basique (15 €/visite)",
+        "standaard": "Standard (22 €/visite)",
+        "premium": "Premium (35 €/visite)"
+      },
+      "message": "Informations supplémentaires",
+      "messagePlaceholder": "Parlez-nous de votre/vos chat(s) : besoins spéciaux, médicaments, caractère, jouets préférés...",
+      "consent": "J'accepte la politique de confidentialité et consens au traitement de mes données pour le traitement de ma demande.",
+      "submit": "Envoyer la demande",
+      "submitting": "Envoi en cours...",
+      "successTitle": "Merci pour votre demande !",
+      "successMessage": "Nous vous contacterons dans les 24 heures pour planifier une visite de présentation gratuite.",
+      "errorTitle": "Une erreur s'est produite",
+      "errorMessage": "Veuillez réessayer plus tard ou nous contacter directement par e-mail ou téléphone."
+    },
+    "info": {
+      "title": "Coordonnées",
+      "email": "info@katten.be",
+      "phone": "+32 3 123 45 67",
+      "hours": "Disponible : lun–ven 8h00–20h00, sam–dim 9h00–18h00",
+      "emergency": "Urgences (clients existants) : disponible 24h/24, 7j/7",
+      "address": "Région d'Anvers, Belgique"
+    }
+  },
+  "footer": {
+    "description": "Katten offre un service professionnel de garde de chats à domicile dans la région d'Anvers. Avec des visites quotidiennes, des enregistrements caméra corporelle et des mises à jour photo, nous prenons soin de votre chat comme s'il était le nôtre.",
+    "copyright": "© {year} Katten. Tous droits réservés.",
+    "madeWith": "Fait avec ❤️ pour les chats à Anvers",
+    "links": {
+      "title": "Liens rapides",
+      "home": "Accueil",
+      "services": "Services",
+      "pricing": "Tarifs",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Mentions légales",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions générales",
+      "cookies": "Politique de cookies"
+    },
+    "social": {
+      "title": "Suivez-nous",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "tiktok": "TikTok"
+    },
+    "serviceArea": {
+      "title": "Zone de service",
+      "text": "Actif dans toute la région du grand Anvers"
+    }
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "getStarted": "Commencer",
+    "bookNow": "Réserver",
+    "contactUs": "Nous contacter",
+    "readMore": "Lire la suite",
+    "viewAll": "Tout voir",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Réussi",
+    "required": "Obligatoire",
+    "optional": "Facultatif",
+    "yes": "Oui",
+    "no": "Non",
+    "or": "ou",
+    "and": "et",
+    "free": "Gratuit",
+    "new": "Nouveau",
+    "from": "À partir de",
+    "perVisit": "par visite",
+    "perDay": "par jour",
+    "included": "Inclus",
+    "notIncluded": "Non inclus",
+    "viewDetails": "Voir les détails",
+    "selectPlan": "Choisir la formule",
+    "freeConsultation": "Visite de présentation gratuite",
+    "noCreditCard": "Aucun paiement préalable requis",
+    "moneyBack": "Pas satisfait, remboursé",
+    "securePayment": "Paiement sécurisé",
+    "stars": "étoiles",
+    "review": "avis",
+    "reviews": "avis",
+    "allRightsReserved": "Tous droits réservés",
+    "scrollToTop": "Retour en haut"
+  }
+}
