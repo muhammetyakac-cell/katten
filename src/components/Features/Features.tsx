@@ -5,14 +5,14 @@ export default function Features() {
   const t = useTranslations('features');
   
   const featureData = [
-    { icon: '🍽️', img: 'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?q=80&w=500&auto=format&fit=crop' },
-    { icon: '📹', img: 'https://images.unsplash.com/photo-1513245543132-31f507417b26?q=80&w=500&auto=format&fit=crop' },
-    { icon: '📸', img: 'https://images.unsplash.com/photo-1533743983669-94fa5c4338ec?q=80&w=500&auto=format&fit=crop' },
-    { icon: '🩺', img: 'https://images.unsplash.com/photo-1623387641168-d9803ddd3f35?q=80&w=500&auto=format&fit=crop' },
-    { icon: '💊', img: 'https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?q=80&w=500&auto=format&fit=crop' },
-    { icon: '🚑', img: 'https://images.unsplash.com/photo-1574158622682-e40e69881006?q=80&w=500&auto=format&fit=crop' },
-    { icon: '🌱', img: 'https://images.unsplash.com/photo-1501820488136-72669149e0d4?q=80&w=500&auto=format&fit=crop' },
-    { icon: '🛡️', img: 'https://images.unsplash.com/photo-1548247416-ec66f4900b2e?q=80&w=500&auto=format&fit=crop' },
+    { icon: '🍽️', img: '/images/cat_feeding.png' },
+    { icon: '📹', img: '/images/cat_bodycam.png' },
+    { icon: '📸', img: '/images/cat_playing.png' },
+    { icon: '🩺', img: '/images/cat_health.png' },
+    { icon: '💊', img: '/images/cat_meds.png' },
+    { icon: '🚑', img: '/images/cat_emergency.png' },
+    { icon: '🌱', img: '/images/cat_plants.png' },
+    { icon: '🛡️', img: '/images/cat_security.png' },
   ];
 
   return (
