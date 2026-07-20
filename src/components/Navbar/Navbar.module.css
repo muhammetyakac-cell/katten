@@ -169,6 +169,18 @@
   font-size: var(--fs-sm);
 }
 
+.mobileCtaWrapper {
+  display: none;
+}
+
+.mobileCta {
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  margin-top: var(--space-4);
+  padding: var(--space-3);
+}
+
 /* Mobile menu */
 .menuToggle {
   display: none;
@@ -233,5 +245,14 @@
 
   .navActions {
     gap: var(--space-2);
+  }
+
+  .desktopCtaWrapper {
+    display: none;
+  }
+
+  .mobileCtaWrapper {
+    display: block;
+    width: 100%;
   }
 }

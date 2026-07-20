@@ -43,9 +43,10 @@ export default function Footer() {
             <h4>{t('links.title')}</h4>
             <ul className={styles.linksList}>
               <li><Link href="/" title={t('links.home')}>{t('links.home')}</Link></li>
-              <li><Link href="/diensten" title={t('links.services')}>{t('links.services')}</Link></li>
-              <li><Link href="/over-ons" title={t('links.about')}>{t('links.about')}</Link></li>
-              <li><Link href="/contact" title={t('links.contact')}>{t('links.contact')}</Link></li>
+              <li><Link href="/diensten" title={t('links.services')} aria-label={t('links.services')}>{t('links.services')}</Link></li>
+              <li><Link href="/over-ons" title={t('links.about')} aria-label={t('links.about')}>{t('links.about')}</Link></li>
+              <li><Link href="/blog" title="Blog" aria-label="Blog">Blog</Link></li>
+              <li><Link href="/contact" title={t('links.contact')} aria-label={t('links.contact')}>{t('links.contact')}</Link></li>
             </ul>
           </div>
 

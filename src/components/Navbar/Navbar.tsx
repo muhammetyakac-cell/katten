@@ -67,8 +67,18 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
-            <Link href="/contact" className={styles.navLink} id="nav-contact">
+            <Link href="/blog" className={styles.navLink} id="nav-blog" onClick={() => setMenuOpen(false)}>
+              Blog
+            </Link>
+          </li>
+          <li>
+            <Link href="/contact" className={styles.navLink} id="nav-contact" onClick={() => setMenuOpen(false)}>
               {t('contact')}
+            </Link>
+          </li>
+          <li className={styles.mobileCtaWrapper}>
+            <Link href="/contact" className={`btn btn--primary ${styles.mobileCta}`} onClick={() => setMenuOpen(false)}>
+              {t('bookNow')}
             </Link>
           </li>
         </ul>
@@ -103,9 +113,11 @@ export default function Navbar() {
             )}
           </div>
 
-          <Link href="/contact" className={`btn btn--primary ${styles.ctaButton}`} id="nav-cta">
-            {t('bookNow')}
-          </Link>
+          <div className={styles.desktopCtaWrapper}>
+            <Link href="/contact" className={`btn btn--primary ${styles.ctaButton}`} id="nav-cta">
+              {t('bookNow')}
+            </Link>
+          </div>
 
           <button
             className={styles.menuToggle}
