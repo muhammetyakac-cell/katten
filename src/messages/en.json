@@ -461,5 +461,113 @@
     "title": "Katten — Cat Sitting Service Antwerp",
     "description": "Professional in-home cat care in the Antwerp region. Daily visits, feeding, care, and bodycam security while you travel.",
     "keywords": "cat sitter, cat sitting, Antwerp, pet care, cat care, biologist"
+  },
+  "privacy": {
+    "pageTitle": "Privacy Policy",
+    "pageSubtitle": "Your privacy is our priority",
+    "lastUpdated": "Last updated: July 2026",
+    "intro": "At Katten, we value your privacy greatly. This privacy policy describes how we collect, use, and protect your personal data when you visit our website and use our cat sitting service in Antwerp.",
+    "sections": [
+      {
+        "title": "What data do we collect?",
+        "content": "We collect the following data when you use our services: your name, email address, phone number, address, information about your cats including medical data, and footage from our bodycam recordings during visits. We also automatically collect technical data such as IP address, browser type, and visited pages through cookies."
+      },
+      {
+        "title": "How do we use your data?",
+        "content": "Your personal data is used exclusively for: providing our cat care services, communication about bookings and visits, sharing bodycam recordings and daily updates about your cat, billing and payment processing, and improving our services."
+      },
+      {
+        "title": "Bodycam recordings",
+        "content": "Our carers wear a bodycam during every visit to your home. These recordings are securely stored in the cloud and are exclusively accessible to you as a client. Recordings are automatically deleted after 30 days unless you request otherwise. We never share bodycam footage with third parties."
+      },
+      {
+        "title": "Data security",
+        "content": "We take appropriate technical and organisational measures to protect your data against unauthorised access, loss, or modification. All data is stored encrypted and transferred via secure connections (SSL/TLS)."
+      },
+      {
+        "title": "Your rights",
+        "content": "Under the General Data Protection Regulation (GDPR), you have the right to: access your personal data, rectification of inaccurate data, erasure of your data, restriction of processing, data portability, and objection to processing. You can exercise these rights by contacting us."
+      },
+      {
+        "title": "Cookies",
+        "content": "Our website uses cookies to improve your experience. See our separate cookie policy for more information about which cookies we use and how you can manage them."
+      },
+      {
+        "title": "Contact",
+        "content": "For questions about this privacy policy or to exercise your rights, contact us at info@katten.be or visit our contact page."
+      }
+    ]
+  },
+  "terms": {
+    "pageTitle": "Terms and Conditions",
+    "pageSubtitle": "Our service terms",
+    "lastUpdated": "Last updated: July 2026",
+    "intro": "These terms and conditions apply to all services offered by Katten Cat Sitting Service, based in Antwerp, Belgium. By using our services, you agree to these terms.",
+    "sections": [
+      {
+        "title": "Our Services",
+        "content": "Katten offers professional in-home cat care, including daily visits, feeding, litter cleaning, playtime, medication administration, and bodycam recordings. Our services are available in the greater Antwerp region."
+      },
+      {
+        "title": "Bookings and Cancellations",
+        "content": "Bookings can be made through our website or by phone. We require a minimum booking period of 2 days. Cancellations are free up to 48 hours before the start of service. Late cancellations will be charged 50% of the total amount."
+      },
+      {
+        "title": "Prices and Payment",
+        "content": "Our rates are: Basic package 15 euro per visit, Standard package 22 euro per visit, Premium package 35 euro per visit. All prices include VAT. Payment must be made before the start of service unless otherwise agreed."
+      },
+      {
+        "title": "Key Handover",
+        "content": "Access to your home requires a key handover. Keys are securely stored and returned after the service ends. We also accept the use of a key safe."
+      },
+      {
+        "title": "Liability and Insurance",
+        "content": "Katten is insured for liability during the provision of our services. We take the utmost care in looking after your cat. In case of medical emergencies, we immediately contact you and/or the designated veterinarian."
+      },
+      {
+        "title": "Bodycam Terms",
+        "content": "All visits are recorded via bodycam for your peace of mind and your cat safety. These recordings fall under our privacy policy and are shared exclusively with you."
+      },
+      {
+        "title": "Force Majeure",
+        "content": "Katten is not liable for failure to fulfil obligations due to force majeure, including natural disasters, extreme weather conditions, or government measures."
+      },
+      {
+        "title": "Applicable Law",
+        "content": "These terms are governed by Belgian law. Disputes shall be submitted to the competent court in Antwerp."
+      }
+    ]
+  },
+  "cookies": {
+    "pageTitle": "Cookie Policy",
+    "pageSubtitle": "How we use cookies",
+    "lastUpdated": "Last updated: July 2026",
+    "intro": "This cookie policy explains which cookies our website uses, why we use them, and how you can manage your cookie preferences.",
+    "sections": [
+      {
+        "title": "What are cookies?",
+        "content": "Cookies are small text files stored on your device when you visit a website. They help the website recognise your device and remember information about your preferences."
+      },
+      {
+        "title": "Essential cookies",
+        "content": "These cookies are essential for our website to function. They enable basic functionalities such as page navigation, language preference, and access to secure areas of the website."
+      },
+      {
+        "title": "Analytical cookies",
+        "content": "We use analytical cookies to understand how visitors use our website. This information helps us improve the website. We use anonymised data for this purpose."
+      },
+      {
+        "title": "Functional cookies",
+        "content": "Functional cookies remember your preferences, such as your language choice (Dutch, English, French, or Turkish). This ensures you automatically see the correct language version on your next visit."
+      },
+      {
+        "title": "Managing your cookie preferences",
+        "content": "You can change your cookie preferences at any time through your browser settings. Please note that disabling certain cookies may affect the functionality of our website."
+      },
+      {
+        "title": "Contact",
+        "content": "If you have questions about our cookie policy, please contact us at info@katten.be."
+      }
+    ]
   }
 }

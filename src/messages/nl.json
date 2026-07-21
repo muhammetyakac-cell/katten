@@ -461,5 +461,113 @@
     "title": "Katten — Kattensitservice Antwerpen",
     "description": "Professionele kattenverzorging aan huis in de regio Antwerpen. Dagelijkse bezoeken, voeding, verzorging en bodycam-beveiliging terwijl u op reis bent.",
     "keywords": "kattensitter, kattenoppas, Antwerpen, huisdierenzorg, kattenverzorging, bioloog"
+  },
+  "privacy": {
+    "pageTitle": "Privacybeleid",
+    "pageSubtitle": "Uw privacy is onze prioriteit",
+    "lastUpdated": "Laatst bijgewerkt: juli 2026",
+    "intro": "Bij Katten hechten wij grote waarde aan uw privacy. Dit privacybeleid beschrijft hoe wij uw persoonsgegevens verzamelen, gebruiken en beschermen wanneer u onze website bezoekt en onze kattensitservice in Antwerpen gebruikt.",
+    "sections": [
+      {
+        "title": "Welke gegevens verzamelen wij?",
+        "content": "Wij verzamelen de volgende gegevens wanneer u onze diensten gebruikt: uw naam, e-mailadres, telefoonnummer, adres, informatie over uw katten inclusief medische gegevens, en beelden van onze bodycam-opnames tijdens bezoeken. Wij verzamelen ook automatisch technische gegevens zoals IP-adres, browsertype en bezochte paginas via cookies."
+      },
+      {
+        "title": "Hoe gebruiken wij uw gegevens?",
+        "content": "Uw persoonsgegevens worden uitsluitend gebruikt voor: het verlenen van onze kattenverzorgingsdiensten, communicatie over boekingen en bezoeken, het delen van bodycam-opnames en dagelijkse updates over uw kat, facturering en betalingsverwerking, en het verbeteren van onze dienstverlening."
+      },
+      {
+        "title": "Bodycam-opnames",
+        "content": "Onze verzorgers dragen een bodycam tijdens elk bezoek aan uw huis. Deze opnames worden veilig opgeslagen in de cloud en zijn uitsluitend toegankelijk voor u als klant. Opnames worden na 30 dagen automatisch verwijderd, tenzij u anders verzoekt. Wij delen bodycam-beelden nooit met derden."
+      },
+      {
+        "title": "Gegevensbeveiliging",
+        "content": "Wij nemen passende technische en organisatorische maatregelen om uw gegevens te beschermen tegen ongeoorloofde toegang, verlies of wijziging. Alle gegevens worden versleuteld opgeslagen en overgedragen via beveiligde verbindingen (SSL/TLS)."
+      },
+      {
+        "title": "Uw rechten",
+        "content": "Onder de Algemene Verordening Gegevensbescherming (AVG/GDPR) heeft u het recht op: inzage in uw persoonsgegevens, rectificatie van onjuiste gegevens, verwijdering van uw gegevens, beperking van de verwerking, overdraagbaarheid van uw gegevens, en bezwaar tegen de verwerking. U kunt deze rechten uitoefenen door contact met ons op te nemen."
+      },
+      {
+        "title": "Cookies",
+        "content": "Onze website maakt gebruik van cookies om uw ervaring te verbeteren. Zie ons apart cookiebeleid voor meer informatie over welke cookies wij gebruiken en hoe u deze kunt beheren."
+      },
+      {
+        "title": "Contact",
+        "content": "Voor vragen over dit privacybeleid of om uw rechten uit te oefenen, neem contact met ons op via info@katten.be of bezoek onze contactpagina."
+      }
+    ]
+  },
+  "terms": {
+    "pageTitle": "Algemene Voorwaarden",
+    "pageSubtitle": "Onze servicevoorwaarden",
+    "lastUpdated": "Laatst bijgewerkt: juli 2026",
+    "intro": "Deze algemene voorwaarden zijn van toepassing op alle diensten die worden aangeboden door Katten Kattensitservice, gevestigd in Antwerpen, Belgie. Door gebruik te maken van onze diensten gaat u akkoord met deze voorwaarden.",
+    "sections": [
+      {
+        "title": "Onze Diensten",
+        "content": "Katten biedt professionele kattenverzorging aan huis, inclusief dagelijkse bezoeken, voeding, schoonmaak van de kattenbak, speeltijd, medicatietoediening en bodycam-opnames. Onze diensten zijn beschikbaar in de regio Groot-Antwerpen."
+      },
+      {
+        "title": "Boekingen en Annuleringen",
+        "content": "Boekingen kunnen worden gemaakt via onze website of per telefoon. Wij vragen een minimale boekingsperiode van 2 dagen. Annuleringen zijn kosteloos tot 48 uur voor aanvang van de dienst. Bij latere annulering wordt 50% van het totaalbedrag in rekening gebracht."
+      },
+      {
+        "title": "Prijzen en Betaling",
+        "content": "Onze tarieven zijn: Basispakket 15 euro per bezoek, Standaardpakket 22 euro per bezoek, Premiumpakket 35 euro per bezoek. Alle prijzen zijn inclusief BTW. Betaling dient te geschieden voor aanvang van de dienst."
+      },
+      {
+        "title": "Sleuteloverdracht",
+        "content": "Voor toegang tot uw woning is een sleuteloverdracht nodig. Sleutels worden veilig bewaard en na afloop van de dienst teruggegeven. Wij accepteren ook het gebruik van een sleutelkluis."
+      },
+      {
+        "title": "Verantwoordelijkheid en Verzekering",
+        "content": "Katten is verzekerd tegen aansprakelijkheid tijdens het verlenen van onze diensten. Wij nemen de grootst mogelijke zorg in acht bij de verzorging van uw kat. Bij medische noodgevallen nemen wij onmiddellijk contact op met u en/of de opgegeven dierenarts."
+      },
+      {
+        "title": "Bodycam-voorwaarden",
+        "content": "Alle bezoeken worden opgenomen via bodycam voor uw gemoedsrust en de veiligheid van uw kat. Deze opnames vallen onder ons privacybeleid en worden uitsluitend met u gedeeld."
+      },
+      {
+        "title": "Overmacht",
+        "content": "Katten is niet aansprakelijk voor het niet nakomen van verplichtingen als gevolg van overmacht, waaronder natuurrampen, extreme weersomstandigheden, of overheidsmaatregelen."
+      },
+      {
+        "title": "Toepasselijk Recht",
+        "content": "Op deze voorwaarden is het Belgisch recht van toepassing. Geschillen worden voorgelegd aan de bevoegde rechtbank te Antwerpen."
+      }
+    ]
+  },
+  "cookies": {
+    "pageTitle": "Cookiebeleid",
+    "pageSubtitle": "Hoe wij cookies gebruiken",
+    "lastUpdated": "Laatst bijgewerkt: juli 2026",
+    "intro": "Dit cookiebeleid legt uit welke cookies onze website gebruikt, waarom wij ze gebruiken en hoe u uw cookievoorkeuren kunt beheren.",
+    "sections": [
+      {
+        "title": "Wat zijn cookies?",
+        "content": "Cookies zijn kleine tekstbestanden die op uw apparaat worden opgeslagen wanneer u een website bezoekt. Ze helpen de website om uw apparaat te herkennen en informatie over uw voorkeuren te onthouden."
+      },
+      {
+        "title": "Noodzakelijke cookies",
+        "content": "Deze cookies zijn essentieel voor het functioneren van onze website. Ze maken basisfunctionaliteiten mogelijk zoals paginanavigatie, taalvoorkeur en toegang tot beveiligde delen van de website."
+      },
+      {
+        "title": "Analytische cookies",
+        "content": "Wij gebruiken analytische cookies om te begrijpen hoe bezoekers onze website gebruiken. Deze informatie helpt ons om de website te verbeteren. Wij gebruiken hiervoor geanonimiseerde gegevens."
+      },
+      {
+        "title": "Functionele cookies",
+        "content": "Functionele cookies onthouden uw voorkeuren, zoals uw taalkeuze (Nederlands, Engels, Frans of Turks). Dit zorgt ervoor dat u bij een volgend bezoek automatisch de juiste taalversie ziet."
+      },
+      {
+        "title": "Uw cookievoorkeuren beheren",
+        "content": "U kunt uw cookievoorkeuren op elk moment wijzigen via uw browserinstellingen. Houd er rekening mee dat het uitschakelen van bepaalde cookies de functionaliteit van onze website kan beinvloeden."
+      },
+      {
+        "title": "Contact",
+        "content": "Als u vragen heeft over ons cookiebeleid, neem dan contact met ons op via info@katten.be."
+      }
+    ]
   }
 }

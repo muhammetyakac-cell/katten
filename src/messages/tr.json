@@ -461,5 +461,113 @@
     "title": "Katten — Kedi Bakım Servisi Anvers",
     "description": "Anvers bölgesinde profesyonel evde kedi bakım hizmeti. Siz seyahatteyken günlük ziyaretler, beslenme, bakım ve bodycam güvenliği.",
     "keywords": "kedi bakıcısı, kedi bakımı, Anvers, evcil hayvan bakımı, biyolog"
+  },
+  "privacy": {
+    "pageTitle": "Gizlilik Politikasi",
+    "pageSubtitle": "Gizliliginiz bizim onceligigmizdir",
+    "lastUpdated": "Son guncelleme: Temmuz 2026",
+    "intro": "Katten olarak gizliliginize buyuk onem veriyoruz. Bu gizlilik politikasi, web sitemizi ziyaret ettiginizde ve Anvers teki kedi bakim hizmetimizi kullandiginizda kisisel verilerinizi nasil topladigimizi, kullandigimizi ve korudugumuzu aciklar.",
+    "sections": [
+      {
+        "title": "Hangi verileri topluyoruz?",
+        "content": "Hizmetlerimizi kullandiginizda su verileri topluyoruz: adiniz, e-posta adresiniz, telefon numaraniz, adresiniz, tibbi veriler dahil kediniz/kedileriniz hakkinda bilgiler ve ziyaretler sirasindaki bodycam kayitlarimiz."
+      },
+      {
+        "title": "Verilerinizi nasil kullaniyoruz?",
+        "content": "Kisisel verileriniz yalnizca su amaclarla kullanilir: kedi bakim hizmetlerimizin sunulmasi, rezervasyonlar ve ziyaretler hakkinda iletisim, bodycam kayitlari ve gunluk guncellemelerin paylasilmasi, faturalama ve odeme islemleri."
+      },
+      {
+        "title": "Bodycam kayitlari",
+        "content": "Bakicilarimiz evinize her ziyarette bodycam takar. Bu kayitlar bulutta guvenle saklanir ve yalnizca musteri olarak size aciktir. Kayitlar, aksi talep edilmedikce 30 gun sonra otomatik olarak silinir."
+      },
+      {
+        "title": "Veri guvenligi",
+        "content": "Verilerinizi yetkisiz erisime, kayba veya degisiklige karsi korumak icin uygun teknik ve kurumsal onlemler aliyoruz. Tum veriler sifreli olarak saklanir ve guvenli baglantilar (SSL/TLS) uzerinden aktarilir."
+      },
+      {
+        "title": "Haklariniz",
+        "content": "Genel Veri Koruma Yonetmeligi (GDPR) kapsaminda su haklara sahipsiniz: kisisel verilerinize erisim, hatali verilerin duzeltilmesi, verilerinizin silinmesi, islemenin kisitlanmasi, veri tasinabilirligi ve islemeye itiraz."
+      },
+      {
+        "title": "Cerezler",
+        "content": "Web sitemiz deneyiminizi iyilestirmek icin cerezler kullanir. Hangi cerezleri kullandigimiz hakkinda daha fazla bilgi icin ayri cerez politikamiza bakin."
+      },
+      {
+        "title": "Iletisim",
+        "content": "Bu gizlilik politikasi hakkinda sorulariniz icin info@katten.be adresinden bize ulasabilirsiniz."
+      }
+    ]
+  },
+  "terms": {
+    "pageTitle": "Genel Kosullar",
+    "pageSubtitle": "Hizmet kosullarimiz",
+    "lastUpdated": "Son guncelleme: Temmuz 2026",
+    "intro": "Bu genel kosullar, Belcika Anvers merkezli Katten Kedi Bakim Servisi tarafindan sunulan tum hizmetler icin gecerlidir.",
+    "sections": [
+      {
+        "title": "Hizmetlerimiz",
+        "content": "Katten, gunluk ziyaretler, beslenme, kum temizligi, oyun zamani, ilac uygulamasi ve bodycam kayitlari dahil profesyonel evde kedi bakimi sunmaktadir. Hizmetlerimiz Buyuk Anvers bolgesinde mevcuttur."
+      },
+      {
+        "title": "Rezervasyonlar ve Iptaller",
+        "content": "Rezervasyonlar web sitemiz veya telefon araciligiyla yapilabilir. Minimum 2 gunluk rezervasyon suresi gerekmektedir. Hizmet baslangcindan 48 saat oncesine kadar iptal ucretsizdir."
+      },
+      {
+        "title": "Fiyatlar ve Odeme",
+        "content": "Ucretlerimiz: Temel paket ziyaret basina 15 euro, Standart paket 22 euro/ziyaret, Premium paket 35 euro/ziyaret. Tum fiyatlar KDV dahildir."
+      },
+      {
+        "title": "Anahtar Teslimi",
+        "content": "Evinize erisim icin anahtar teslimi gereklidir. Anahtarlar guvenli bir sekilde saklanir ve hizmet sonunda iade edilir."
+      },
+      {
+        "title": "Sorumluluk ve Sigorta",
+        "content": "Katten hizmetlerimiz sirasinda sorumluluk sigortasina sahiptir. Tibbi acil durumlarda derhal siz ve/veya belirlenen veteriner ile iletisime geceriz."
+      },
+      {
+        "title": "Bodycam Kosullari",
+        "content": "Tum ziyaretler huzurunuz ve kedinizin guvenligi icin bodycam ile kaydedilir. Bu kayitlar gizlilik politikamiz kapsamindadir."
+      },
+      {
+        "title": "Mucbir Sebepler",
+        "content": "Katten, dogal afetler, asiri hava kosullari veya hukumet tedbirleri dahil mucbir sebep durumlarinda yukumluluklerini yerine getirememekten sorumlu tutulamaz."
+      },
+      {
+        "title": "Uygulanacak Hukuk",
+        "content": "Bu kosullar Belcika hukukuna tabidir. Uyusmazliklar Anvers teki yetkili mahkemeye sunulur."
+      }
+    ]
+  },
+  "cookies": {
+    "pageTitle": "Cerez Politikasi",
+    "pageSubtitle": "Cerezleri nasil kullaniyoruz",
+    "lastUpdated": "Son guncelleme: Temmuz 2026",
+    "intro": "Bu cerez politikasi, web sitemizin hangi cerezleri kullandigini, neden kullandigimizi ve cerez tercihlerinizi nasil yonetebileceginizi aciklar.",
+    "sections": [
+      {
+        "title": "Cerez nedir?",
+        "content": "Cerezler, bir web sitesini ziyaret ettiginizde cihaziniza kaydedilen kucuk metin dosyalaridir. Web sitesinin cihazinizi tanimasina ve tercihleriniz hakkinda bilgi hatirlamasina yardimci olurlar."
+      },
+      {
+        "title": "Zorunlu cerezler",
+        "content": "Bu cerezler web sitemizin calismasi icin gereklidir. Sayfa navigasyonu, dil tercihi ve guvenli alanlara erisim gibi temel islevleri saglarlar."
+      },
+      {
+        "title": "Analitik cerezler",
+        "content": "Ziyaretcilerin web sitemizi nasil kullandigini anlamak icin analitik cerezler kullaniyoruz. Bu bilgiler web sitesini iyilestirmemize yardimci olur."
+      },
+      {
+        "title": "Islevsel cerezler",
+        "content": "Islevsel cerezler, dil tercihiniz (Felemenkce, Ingilizce, Fransizca veya Turkce) gibi tercihlerinizi hatirlar."
+      },
+      {
+        "title": "Cerez tercihlerinizi yonetme",
+        "content": "Cerez tercihlerinizi istediginiz zaman tarayici ayarlariniz uzerinden degistirebilirsiniz. Bazi cerezlerin devre disi birakilmasinin web sitemizin islevselligini etkileyebilecegini lutfen unutmayin."
+      },
+      {
+        "title": "Iletisim",
+        "content": "Cerez politikamiz hakkinda sorulariniz icin info@katten.be adresinden bize ulasabilirsiniz."
+      }
+    ]
   }
 }

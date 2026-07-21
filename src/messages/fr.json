@@ -461,5 +461,113 @@
     "title": "Katten — Service de Garde de Chats Anvers",
     "description": "Garde de chats professionnelle à domicile dans la région d'Anvers. Visites quotidiennes, repas, soins et sécurité par caméra corporelle.",
     "keywords": "garde de chat, cat sitter, Anvers, soins aux animaux, biologiste"
+  },
+  "privacy": {
+    "pageTitle": "Politique de Confidentialite",
+    "pageSubtitle": "Votre vie privee est notre priorite",
+    "lastUpdated": "Derniere mise a jour : juillet 2026",
+    "intro": "Chez Katten, nous attachons une grande importance a votre vie privee. Cette politique de confidentialite decrit comment nous collectons, utilisons et protegeons vos donnees personnelles.",
+    "sections": [
+      {
+        "title": "Quelles donnees collectons-nous ?",
+        "content": "Nous collectons les donnees suivantes lorsque vous utilisez nos services : votre nom, adresse e-mail, numero de telephone, adresse, informations sur vos chats y compris les donnees medicales, et les images de nos enregistrements bodycam lors des visites."
+      },
+      {
+        "title": "Comment utilisons-nous vos donnees ?",
+        "content": "Vos donnees personnelles sont utilisees exclusivement pour : la prestation de nos services de garde de chats, la communication concernant les reservations et visites, le partage des enregistrements bodycam et mises a jour quotidiennes, la facturation et le traitement des paiements."
+      },
+      {
+        "title": "Enregistrements bodycam",
+        "content": "Nos soigneurs portent une camera corporelle lors de chaque visite. Ces enregistrements sont stockes en toute securite dans le cloud et sont accessibles exclusivement par vous. Les enregistrements sont automatiquement supprimes apres 30 jours."
+      },
+      {
+        "title": "Securite des donnees",
+        "content": "Nous prenons des mesures techniques et organisationnelles appropriees pour proteger vos donnees contre tout acces non autorise, perte ou modification. Toutes les donnees sont stockees de maniere cryptee."
+      },
+      {
+        "title": "Vos droits",
+        "content": "En vertu du Reglement General sur la Protection des Donnees (RGPD), vous avez le droit d acces, de rectification, d effacement, de limitation du traitement, de portabilite et d opposition. Contactez-nous pour exercer ces droits."
+      },
+      {
+        "title": "Cookies",
+        "content": "Notre site utilise des cookies pour ameliorer votre experience. Consultez notre politique de cookies separee pour plus d informations."
+      },
+      {
+        "title": "Contact",
+        "content": "Pour toute question, contactez-nous a info@katten.be ou visitez notre page de contact."
+      }
+    ]
+  },
+  "terms": {
+    "pageTitle": "Conditions Generales",
+    "pageSubtitle": "Nos conditions de service",
+    "lastUpdated": "Derniere mise a jour : juillet 2026",
+    "intro": "Ces conditions generales s appliquent a tous les services offerts par Katten Service de Garde de Chats, base a Anvers, Belgique.",
+    "sections": [
+      {
+        "title": "Nos Services",
+        "content": "Katten offre des soins professionnels pour chats a domicile, y compris les visites quotidiennes, l alimentation, le nettoyage, les jeux, l administration de medicaments et les enregistrements bodycam."
+      },
+      {
+        "title": "Reservations et Annulations",
+        "content": "Les reservations peuvent etre effectuees via notre site web ou par telephone. Periode minimale de 2 jours. Annulations gratuites jusqu a 48 heures avant le debut du service."
+      },
+      {
+        "title": "Prix et Paiement",
+        "content": "Nos tarifs : Forfait Basique 15 euros par visite, Standard 22 euros par visite, Premium 35 euros par visite. TVA incluse. Paiement avant le debut du service."
+      },
+      {
+        "title": "Remise des Cles",
+        "content": "L acces a votre domicile necessite une remise de cles. Les cles sont conservees en toute securite et restituees apres le service."
+      },
+      {
+        "title": "Responsabilite et Assurance",
+        "content": "Katten est assure en responsabilite civile. En cas d urgence medicale, nous contactons immediatement le proprietaire et/ou le veterinaire designe."
+      },
+      {
+        "title": "Conditions Bodycam",
+        "content": "Toutes les visites sont enregistrees par bodycam pour votre tranquillite d esprit. Ces enregistrements sont soumis a notre politique de confidentialite."
+      },
+      {
+        "title": "Force Majeure",
+        "content": "Katten ne peut etre tenu responsable en cas de force majeure, y compris catastrophes naturelles ou mesures gouvernementales."
+      },
+      {
+        "title": "Droit Applicable",
+        "content": "Le droit belge s applique. Les litiges sont soumis au tribunal competent d Anvers."
+      }
+    ]
+  },
+  "cookies": {
+    "pageTitle": "Politique de Cookies",
+    "pageSubtitle": "Comment nous utilisons les cookies",
+    "lastUpdated": "Derniere mise a jour : juillet 2026",
+    "intro": "Cette politique de cookies explique quels cookies notre site utilise, pourquoi nous les utilisons et comment vous pouvez gerer vos preferences.",
+    "sections": [
+      {
+        "title": "Que sont les cookies ?",
+        "content": "Les cookies sont de petits fichiers texte stockes sur votre appareil lors de la visite d un site web."
+      },
+      {
+        "title": "Cookies essentiels",
+        "content": "Ces cookies sont indispensables au fonctionnement de notre site, permettant la navigation, la preference linguistique et l acces aux zones securisees."
+      },
+      {
+        "title": "Cookies analytiques",
+        "content": "Nous utilisons des cookies analytiques pour comprendre comment les visiteurs utilisent notre site. Les donnees sont anonymisees."
+      },
+      {
+        "title": "Cookies fonctionnels",
+        "content": "Les cookies fonctionnels memorisent vos preferences, comme votre choix de langue (neerlandais, anglais, francais ou turc)."
+      },
+      {
+        "title": "Gerer vos preferences",
+        "content": "Vous pouvez modifier vos preferences de cookies a tout moment via les parametres de votre navigateur."
+      },
+      {
+        "title": "Contact",
+        "content": "Pour toute question, contactez-nous a info@katten.be."
+      }
+    ]
   }
 }

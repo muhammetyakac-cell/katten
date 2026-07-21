@@ -13,7 +13,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/diensten',
     '/over-ons',
     '/contact',
-    '/blog'
+    '/blog',
+    '/privacy',
+    '/voorwaarden',
+    '/cookies'
   ];
 
   const sitemapEntries: MetadataRoute.Sitemap = [];
