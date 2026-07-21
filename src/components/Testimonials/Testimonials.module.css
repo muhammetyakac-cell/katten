@@ -15,6 +15,14 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  border: 1px solid rgba(253, 121, 168, 0.08);
+  transition: all 0.4s ease;
+}
+
+.card:hover {
+  border-color: rgba(253, 121, 168, 0.2);
+  box-shadow: 0 8px 30px rgba(253, 121, 168, 0.08);
+  transform: translateY(-4px);
 }
 
 .quoteIcon {
@@ -23,7 +31,7 @@
   right: var(--space-6);
   font-family: serif;
   font-size: 4rem;
-  color: rgba(108, 92, 231, 0.1);
+  color: rgba(253, 121, 168, 0.1);
   line-height: 1;
 }
 
@@ -54,14 +62,20 @@
 }
 
 .avatar {
-  width: 40px;
-  height: 40px;
+  width: 44px;
+  height: 44px;
   border-radius: var(--radius-full);
-  background: var(--color-bg-tertiary);
+  background: rgba(253, 121, 168, 0.1);
+  border: 2px solid rgba(253, 121, 168, 0.2);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.card:hover .avatar {
+  transform: scale(1.15) rotate(5deg);
 }
 
 .authorInfo {

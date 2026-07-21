@@ -11,7 +11,7 @@
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, rgba(108, 92, 231, 0.2), rgba(253, 121, 168, 0.15));
+  background: linear-gradient(135deg, rgba(253, 121, 168, 0.12), rgba(108, 92, 231, 0.15));
   z-index: 0;
 }
 
@@ -22,6 +22,19 @@
   background: radial-gradient(circle at center, transparent 0%, var(--color-bg-primary) 100%);
   z-index: 1;
 }
+
+/* Floating emojis */
+.floatingEmoji {
+  position: absolute;
+  font-size: 3rem;
+  z-index: 3;
+  opacity: 0.15;
+  filter: drop-shadow(0 0 15px var(--color-secondary));
+}
+
+.emoji1 { top: 15%; left: 10%; animation: float 5s ease-in-out infinite; }
+.emoji2 { bottom: 20%; right: 8%; animation: float 6s ease-in-out infinite reverse; }
+.emoji3 { top: 40%; right: 15%; animation: float 4.5s ease-in-out infinite 1s; font-size: 2rem; }
 
 .content {
   position: relative;
@@ -35,9 +48,22 @@
   padding: var(--space-12) var(--space-6);
   background: rgba(26, 26, 46, 0.4);
   backdrop-filter: blur(20px);
-  border: 1px solid rgba(108, 92, 231, 0.3);
+  border: 1px solid rgba(253, 121, 168, 0.2);
   border-radius: var(--radius-2xl);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5), 0 0 40px rgba(108, 92, 231, 0.2);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5), 0 0 40px rgba(253, 121, 168, 0.1);
+}
+
+/* Cute cat badge at the top */
+.cuteBadge {
+  font-size: 2.5rem;
+  margin-bottom: var(--space-4);
+  animation: bounce-gentle 2s ease-in-out infinite;
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
+
+@keyframes bounce-gentle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
 }
 
 .title {
@@ -58,6 +84,10 @@
   gap: var(--space-4);
 }
 
+.buttons a {
+  border-radius: var(--radius-full) !important;
+}
+
 @media (max-width: 640px) {
   .title {
     font-size: var(--fs-3xl);
@@ -69,4 +99,5 @@
   .buttons > * {
     width: 100%;
   }
+  .floatingEmoji { display: none; }
 }

@@ -6,7 +6,7 @@
   padding-top: var(--navbar-height);
   overflow: hidden;
   background-image: 
-    linear-gradient(to bottom, rgba(10, 10, 15, 0.4), var(--color-bg) 100%),
+    linear-gradient(to bottom, rgba(10, 10, 15, 0.35), var(--color-bg) 100%),
     url('/images/hero_background.png');
   background-size: cover;
   background-position: center;
@@ -18,12 +18,34 @@
   text-align: center;
   max-width: 900px;
   margin: 0 auto;
-  padding: var(--space-8);
+  padding: var(--space-10) var(--space-8);
   border-radius: var(--radius-2xl);
-  background: rgba(10, 10, 15, 0.3);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.05);
+  background: rgba(10, 10, 15, 0.35);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(253, 121, 168, 0.1);
+  box-shadow: 0 0 60px rgba(253, 121, 168, 0.05);
+}
+
+/* Cute little badge above the title */
+.catBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: rgba(253, 121, 168, 0.12);
+  border: 1px solid rgba(253, 121, 168, 0.25);
+  color: var(--color-secondary-light);
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-full);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-medium);
+  margin-bottom: var(--space-6);
+  letter-spacing: 0.05em;
+  animation: bounce-gentle 2s ease-in-out infinite;
+}
+
+.catBadge span {
+  font-size: 1.2rem;
 }
 
 .title {
@@ -45,24 +67,50 @@
   align-items: center;
   justify-content: center;
   gap: var(--space-4);
-  margin-bottom: var(--space-12);
+  margin-bottom: var(--space-8);
 }
 
+.cuteBtn {
+  border-radius: var(--radius-full) !important;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1) !important;
+}
+
+.cuteBtn:hover {
+  transform: translateY(-3px) scale(1.03) !important;
+}
+
+/* Stats row with emoji accents */
 .statsRow {
   display: flex;
   justify-content: center;
-  gap: var(--space-8);
+  gap: var(--space-4);
   flex-wrap: wrap;
-  padding: var(--space-6) var(--space-8);
-  margin-top: var(--space-12);
+  padding: var(--space-6) var(--space-4);
+  margin-top: var(--space-4);
   background: rgba(255,255,255,0.03);
+  border-radius: var(--radius-xl);
+  border: 1px solid rgba(255,255,255,0.05);
 }
 
 .statItem {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: var(--space-2);
+  gap: var(--space-1);
+  padding: var(--space-3) var(--space-5);
+  border-radius: var(--radius-lg);
+  transition: all 0.3s ease;
+}
+
+.statItem:hover {
+  background: rgba(253, 121, 168, 0.06);
+  transform: translateY(-2px);
+}
+
+.statEmoji {
+  font-size: 1.4rem;
+  margin-bottom: var(--space-1);
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
 }
 
 .statValue {
@@ -73,30 +121,66 @@
 }
 
 .statLabel {
-  font-size: var(--fs-sm);
+  font-size: var(--fs-xs);
   color: var(--color-text-muted);
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 
+/* Floating cat emojis */
 .floatingCat {
   position: absolute;
-  font-size: 3rem;
+  font-size: 2.5rem;
   z-index: 0;
-  opacity: 0.15;
-  filter: drop-shadow(0 0 20px var(--color-primary));
+  opacity: 0.2;
+  filter: drop-shadow(0 0 15px var(--color-secondary));
 }
 
-.cat1 { top: 20%; left: 10%; animation: float 4s ease-in-out infinite; }
-.cat2 { top: 30%; right: 15%; animation: float 5s ease-in-out infinite reverse; }
-.cat3 { bottom: 20%; left: 20%; animation: float 6s ease-in-out infinite 1s; }
-.cat4 { bottom: 30%; right: 10%; animation: float 4.5s ease-in-out infinite 0.5s; }
+.cat1 { top: 15%; left: 8%; animation: float 4s ease-in-out infinite; }
+.cat2 { top: 25%; right: 12%; animation: float 5s ease-in-out infinite reverse; }
+.cat3 { bottom: 25%; left: 15%; animation: float 6s ease-in-out infinite 1s; }
+.cat4 { bottom: 35%; right: 8%; animation: float 4.5s ease-in-out infinite 0.5s; }
+.cat5 { top: 45%; left: 3%; animation: float 7s ease-in-out infinite 2s; font-size: 2rem; }
+.cat6 { top: 60%; right: 5%; animation: float 5.5s ease-in-out infinite 1.5s; font-size: 1.8rem; }
+.cat7 { top: 10%; right: 30%; animation: float 6.5s ease-in-out infinite 0.8s; font-size: 1.5rem; }
+.cat8 { bottom: 10%; left: 35%; animation: float 4s ease-in-out infinite 1.2s; font-size: 1.8rem; }
+
+/* Paw trail decoration - diagonal paw prints */
+.pawTrail {
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  z-index: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  opacity: 0.08;
+  transform: rotate(-35deg);
+}
+
+.pawPrint {
+  font-size: 1.5rem;
+  animation: paw-appear 3s ease-in-out infinite;
+  display: inline-block;
+}
+
+@keyframes paw-appear {
+  0%, 100% { opacity: 0.3; transform: scale(0.8); }
+  50% { opacity: 1; transform: scale(1.1); }
+}
+
+@keyframes bounce-gentle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
 
 @media (max-width: 768px) {
   .title { font-size: var(--fs-4xl); }
   .subtitle { font-size: var(--fs-lg); }
   .actions { flex-direction: column; width: 100%; }
   .actions > * { width: 100%; }
-  .statsRow { gap: var(--space-4); padding: var(--space-4); justify-content: center; }
-  .statItem { width: calc(50% - var(--space-2)); }
+  .statsRow { gap: var(--space-3); padding: var(--space-4); justify-content: center; }
+  .statItem { width: calc(50% - var(--space-2)); padding: var(--space-2); }
+  .floatingCat { font-size: 1.5rem; }
+  .cat5, .cat6, .cat7, .cat8 { display: none; }
 }

@@ -3,7 +3,7 @@ import styles from './HowItWorks.module.css';
 
 export default function HowItWorks() {
   const t = useTranslations('howItWorks');
-  const icons = ['📅', '🤝', '🏠', '📱'];
+  const icons = ['📅', '😺', '🏠', '📱'];
 
   return (
     <section className={styles.howItWorks} id="how-it-works">

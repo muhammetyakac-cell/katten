@@ -23,7 +23,7 @@ export default function Testimonials() {
               <p className={styles.quote}>"{t(`items.${index}.text`)}"</p>
               
               <div className={styles.authorWrapper}>
-                <div className={styles.avatar}>👤</div>
+                <div className={styles.avatar}>{['😺', '😸', '😻'][index]}</div>
                 <div className={styles.authorInfo}>
                   <span className={styles.authorName}>{t(`items.${index}.name`)}</span>
                   <span className={styles.location}>{t(`items.${index}.location`)}</span>

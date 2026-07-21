@@ -7,16 +7,20 @@ export default function CTA() {
 
   return (
     <section className={styles.cta} id="cta">
+      <div className={styles.floatingEmoji + ' ' + styles.emoji1}>😻</div>
+      <div className={styles.floatingEmoji + ' ' + styles.emoji2}>🐾</div>
+      <div className={styles.floatingEmoji + ' ' + styles.emoji3}>💕</div>
       <div className="container">
         <div className={styles.content}>
+          <div className={styles.cuteBadge}>🐱</div>
           <h2 className={styles.title}>{t('title')}</h2>
           <p className={styles.description}>{t('subtitle')}</p>
           <div className={styles.buttons}>
             <Link href="/contact" className="btn btn--primary btn--large">
-              {t('primaryButton')}
+              🐾 {t('primaryButton')}
             </Link>
             <Link href="/diensten" className="btn btn--secondary btn--large">
-              {t('secondaryButton')}
+              😺 {t('secondaryButton')}
             </Link>
           </div>
         </div>
