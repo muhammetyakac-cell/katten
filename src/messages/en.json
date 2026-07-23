@@ -122,7 +122,7 @@
     "plans": [
       {
         "name": "Basic",
-        "price": "15",
+        "price": "25",
         "currency": "€",
         "description": "Ideal for independent cats who only need essential care.",
         "duration": "Visit of approx. 20 minutes",
@@ -514,7 +514,7 @@
       },
       {
         "title": "Prices and Payment",
-        "content": "Our rates are: Basic package 15 euro per visit, Standard package 22 euro per visit, Premium package 35 euro per visit. All prices include VAT. Payment must be made before the start of service unless otherwise agreed."
+        "content": "Our rates are: Basic package 25 euro per visit, Standard package 22 euro per visit, Premium package 35 euro per visit. All prices include VAT. Payment must be made before the start of service unless otherwise agreed."
       },
       {
         "title": "Key Handover",

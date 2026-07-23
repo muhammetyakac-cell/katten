@@ -122,7 +122,7 @@
     "plans": [
       {
         "name": "Basique",
-        "price": "15",
+        "price": "25",
         "currency": "€",
         "description": "Idéal pour les chats indépendants qui n'ont besoin que des soins essentiels.",
         "duration": "Visite d'environ 20 minutes",
@@ -514,7 +514,7 @@
       },
       {
         "title": "Prix et Paiement",
-        "content": "Nos tarifs : Forfait Basique 15 euros par visite, Standard 22 euros par visite, Premium 35 euros par visite. TVA incluse. Paiement avant le debut du service."
+        "content": "Nos tarifs : Forfait Basique 25 euros par visite, Standard 22 euros par visite, Premium 35 euros par visite. TVA incluse. Paiement avant le debut du service."
       },
       {
         "title": "Remise des Cles",

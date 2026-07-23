@@ -122,7 +122,7 @@
     "plans": [
       {
         "name": "Basis",
-        "price": "15",
+        "price": "25",
         "currency": "€",
         "description": "Ideaal voor onafhankelijke katten die enkel de basiszorg nodig hebben.",
         "duration": "Bezoek van ±20 minuten",
@@ -514,7 +514,7 @@
       },
       {
         "title": "Prijzen en Betaling",
-        "content": "Onze tarieven zijn: Basispakket 15 euro per bezoek, Standaardpakket 22 euro per bezoek, Premiumpakket 35 euro per bezoek. Alle prijzen zijn inclusief BTW. Betaling dient te geschieden voor aanvang van de dienst."
+        "content": "Onze tarieven zijn: Basispakket 25 euro per bezoek, Standaardpakket 22 euro per bezoek, Premiumpakket 35 euro per bezoek. Alle prijzen zijn inclusief BTW. Betaling dient te geschieden voor aanvang van de dienst."
       },
       {
         "title": "Sleuteloverdracht",

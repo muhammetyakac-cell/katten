@@ -122,7 +122,7 @@
     "plans": [
       {
         "name": "Temel",
-        "price": "15",
+        "price": "25",
         "currency": "€",
         "description": "Yalnızca temel bakıma ihtiyaç duyan bağımsız kediler için ideal.",
         "duration": "Yaklaşık 20 dakikalık ziyaret",
@@ -514,7 +514,7 @@
       },
       {
         "title": "Fiyatlar ve Odeme",
-        "content": "Ucretlerimiz: Temel paket ziyaret basina 15 euro, Standart paket 22 euro/ziyaret, Premium paket 35 euro/ziyaret. Tum fiyatlar KDV dahildir."
+        "content": "Ucretlerimiz: Temel paket ziyaret basina 25 euro, Standart paket 22 euro/ziyaret, Premium paket 35 euro/ziyaret. Tum fiyatlar KDV dahildir."
       },
       {
         "title": "Anahtar Teslimi",
