@@ -411,6 +411,14 @@
     "serviceArea": {
       "title": "Hizmet bölgesi",
       "text": "Büyük Antwerpen bölgesinin tamamında aktif"
+    },
+    "districts": {
+      "title": "Anvers Bölgeleri",
+      "zuid": "Anvers Güney & Merkez",
+      "berchem": "Berchem (2600)",
+      "deurne": "Deurne (2100)",
+      "merksem": "Merksem (2170)",
+      "wilrijk": "Wilrijk & Edegem (2610)"
     }
   },
   "common": {

@@ -12,8 +12,9 @@ export default function Footer() {
     <footer className={styles.footer} id="site-footer">
       <div className="container">
         <div className={styles.footerTop}>
+          {/* Column 1: Brand & Bio */}
           <div className={styles.brand}>
-            <Link href="/" className={styles.logo} title="Katten - Professionele kattenoppas in Antwerpen" aria-label="Katten Home">
+            <Link href="/" className={styles.logo} title="Katten - Kattenoppas in Antwerpen" aria-label="Katten Home">
               <span className={styles.logoIcon}>🐾</span>
               <span>Kat<span className={styles.logoAccent}>ten</span></span>
             </Link>
@@ -22,23 +23,24 @@ export default function Footer() {
             </p>
             <ul className={styles.socialLinks}>
               <li>
-                <a href="https://facebook.com" className={styles.socialLink} target="_blank" rel="noopener noreferrer" aria-label="Volg ons op Facebook" title="Facebook" id="social-facebook">
+                <a href="https://facebook.com" className={styles.socialLink} target="_blank" rel="noopener noreferrer" aria-label="Facebook" title="Facebook" id="social-facebook">
                   f
                 </a>
               </li>
               <li>
-                <a href="https://instagram.com" className={styles.socialLink} target="_blank" rel="noopener noreferrer" aria-label="Volg ons op Instagram" title="Instagram" id="social-instagram">
+                <a href="https://instagram.com" className={styles.socialLink} target="_blank" rel="noopener noreferrer" aria-label="Instagram" title="Instagram" id="social-instagram">
                   IG
                 </a>
               </li>
               <li>
-                <a href="https://wa.me/" className={styles.socialLink} target="_blank" rel="noopener noreferrer" aria-label="Neem contact op via WhatsApp" title="WhatsApp" id="social-whatsapp">
+                <a href="https://wa.me/" className={styles.socialLink} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" title="WhatsApp" id="social-whatsapp">
                   WA
                 </a>
               </li>
             </ul>
           </div>
 
+          {/* Column 2: Quick Links */}
           <div className={styles.footerCol}>
             <h4>{t('links.title')}</h4>
             <ul className={styles.linksList}>
@@ -50,16 +52,31 @@ export default function Footer() {
             </ul>
           </div>
 
+          {/* Column 3: Our Services */}
           <div className={styles.footerCol}>
             <h4>{ts('pageTitle')}</h4>
             <ul className={styles.linksList}>
               <li><Link href="/diensten#daily-visits" title={ts('servicesList.0.title')}>{ts('servicesList.0.title')}</Link></li>
               <li><Link href="/diensten#feeding" title={ts('servicesList.1.title')}>{ts('servicesList.1.title')}</Link></li>
-              <li><Link href="/diensten#health" title={ts('servicesList.4.title')}>{ts('servicesList.4.title')}</Link></li>
-              <li><Link href="/diensten#bodycam" title={ts('servicesList.6.title')}>{ts('servicesList.6.title')}</Link></li>
+              <li><Link href="/diensten#medication" title={ts('servicesList.4.title')}>{ts('servicesList.4.title')}</Link></li>
+              <li><Link href="/diensten#bodycam" title={ts('servicesList.5.title')}>{ts('servicesList.5.title')}</Link></li>
+              <li><Link href="/diensten#health" title={ts('servicesList.6.title')}>{ts('servicesList.6.title')}</Link></li>
             </ul>
           </div>
 
+          {/* Column 4: Service Areas (Local SEO Goldmine!) */}
+          <div className={styles.footerCol}>
+            <h4>{t('districts.title')}</h4>
+            <ul className={styles.linksList}>
+              <li><Link href="/diensten/antwerpen-zuid" title={t('districts.zuid')}>{t('districts.zuid')}</Link></li>
+              <li><Link href="/diensten/berchem" title={t('districts.berchem')}>{t('districts.berchem')}</Link></li>
+              <li><Link href="/diensten/deurne" title={t('districts.deurne')}>{t('districts.deurne')}</Link></li>
+              <li><Link href="/diensten/merksem" title={t('districts.merksem')}>{t('districts.merksem')}</Link></li>
+              <li><Link href="/diensten/wilrijk" title={t('districts.wilrijk')}>{t('districts.wilrijk')}</Link></li>
+            </ul>
+          </div>
+
+          {/* Column 5: Contact Info */}
           <div className={styles.footerCol}>
             <h4>{t('links.contact')}</h4>
             <ul className={styles.contactList}>
@@ -79,6 +96,7 @@ export default function Footer() {
           </div>
         </div>
 
+        {/* Footer Bottom Legal Links */}
         <div className={styles.footerBottom}>
           <div className={styles.copyright}>
             {t('copyright', { year: currentYear })}

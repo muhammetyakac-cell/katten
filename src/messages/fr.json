@@ -411,6 +411,14 @@
     "serviceArea": {
       "title": "Zone de service",
       "text": "Actif dans toute la région du grand Anvers"
+    },
+    "districts": {
+      "title": "Quartiers d'Anvers",
+      "zuid": "Anvers Sud & Centre",
+      "berchem": "Berchem (2600)",
+      "deurne": "Deurne (2100)",
+      "merksem": "Merksem (2170)",
+      "wilrijk": "Wilrijk & Edegem (2610)"
     }
   },
   "common": {

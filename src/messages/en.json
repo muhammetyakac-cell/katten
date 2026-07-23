@@ -411,6 +411,14 @@
     "serviceArea": {
       "title": "Service area",
       "text": "Active throughout the greater Antwerp region"
+    },
+    "districts": {
+      "title": "Antwerp Neighborhoods",
+      "zuid": "Antwerp South & Centre",
+      "berchem": "Berchem (2600)",
+      "deurne": "Deurne (2100)",
+      "merksem": "Merksem (2170)",
+      "wilrijk": "Wilrijk & Edegem (2610)"
     }
   },
   "common": {

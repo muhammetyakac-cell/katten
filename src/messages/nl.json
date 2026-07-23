@@ -411,6 +411,14 @@
     "serviceArea": {
       "title": "Werkgebied",
       "text": "Actief in heel de regio groot-Antwerpen"
+    },
+    "districts": {
+      "title": "Wijken in Antwerpen",
+      "zuid": "Antwerpen Zuid & Centrum",
+      "berchem": "Berchem (2600)",
+      "deurne": "Deurne (2100)",
+      "merksem": "Merksem (2170)",
+      "wilrijk": "Wilrijk & Edegem (2610)"
     }
   },
   "common": {
