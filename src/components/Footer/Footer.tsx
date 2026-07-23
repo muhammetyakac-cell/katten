@@ -56,11 +56,11 @@ export default function Footer() {
           <div className={styles.footerCol}>
             <h4>{ts('pageTitle')}</h4>
             <ul className={styles.linksList}>
-              <li><Link href="/diensten#daily-visits" title={ts('servicesList.0.title')}>{ts('servicesList.0.title')}</Link></li>
-              <li><Link href="/diensten#feeding" title={ts('servicesList.1.title')}>{ts('servicesList.1.title')}</Link></li>
-              <li><Link href="/diensten#medication" title={ts('servicesList.4.title')}>{ts('servicesList.4.title')}</Link></li>
-              <li><Link href="/diensten#bodycam" title={ts('servicesList.5.title')}>{ts('servicesList.5.title')}</Link></li>
-              <li><Link href="/diensten#health" title={ts('servicesList.6.title')}>{ts('servicesList.6.title')}</Link></li>
+              <li><Link href="/diensten/daily-visits" title={ts('servicesList.0.title')}>{ts('servicesList.0.title')}</Link></li>
+              <li><Link href="/diensten/feeding" title={ts('servicesList.1.title')}>{ts('servicesList.1.title')}</Link></li>
+              <li><Link href="/diensten/medication" title={ts('servicesList.4.title')}>{ts('servicesList.4.title')}</Link></li>
+              <li><Link href="/diensten/bodycam" title={ts('servicesList.5.title')}>{ts('servicesList.5.title')}</Link></li>
+              <li><Link href="/diensten/health" title={ts('servicesList.6.title')}>{ts('servicesList.6.title')}</Link></li>
             </ul>
           </div>
 
