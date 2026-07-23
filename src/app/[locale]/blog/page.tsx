@@ -1,28 +1,46 @@
-import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import Navbar from '@/components/Navbar/Navbar';
 import Footer from '@/components/Footer/Footer';
-import { getAllBlogPosts } from '@/lib/blog-data';
+import { getBlogPostsByLocale } from '@/lib/blog-data';
 import styles from './blog.module.css';
 
-export const metadata = {
-  title: 'Blog | Kattenoppas Antwerpen',
-  description: 'Lees onze nieuwste artikelen over kattenverzorging, oppas aan huis en tips voor uw kat tijdens vakanties in Antwerpen.',
+const blogMeta: Record<string, { title: string; subtitle: string; readMore: string }> = {
+  nl: {
+    title: 'Katten Blog',
+    subtitle: 'Handige tips, verhalen en advies over kattenverzorging in Antwerpen. Geschreven door een gediplomeerd bioloog.',
+    readMore: 'Lees verder',
+  },
+  en: {
+    title: 'Katten Blog',
+    subtitle: 'Helpful tips, stories and advice about cat care in Antwerp. Written by a qualified biologist.',
+    readMore: 'Read more',
+  },
+  fr: {
+    title: 'Blog Katten',
+    subtitle: 'Conseils utiles, histoires et avis sur la garde de chats a Anvers. Redige par un biologiste qualifie.',
+    readMore: 'Lire la suite',
+  },
+  tr: {
+    title: 'Katten Blog',
+    subtitle: 'Anvers bolgesinde kedi bakimi hakkinda faydali ipuclari, hikayeler ve tavsiyeler. Diplomali bir biyolog tarafindan yazildi.',
+    readMore: 'Devamini oku',
+  },
 };
 
-export default function BlogPage() {
-  const posts = getAllBlogPosts();
-  
+export default async function BlogPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const posts = getBlogPostsByLocale(locale);
+  const meta = blogMeta[locale] || blogMeta.nl;
+
   return (
     <>
       <Navbar />
       <main>
         <section className={styles.heroSection}>
           <div className="container">
-            <h1 className={styles.heroTitle}>Katten Blog</h1>
-            <p className={styles.heroSubtitle}>
-              Handige tips, verhalen en advies over kattenverzorging in Antwerpen.
-            </p>
+            <span className={styles.heroLabel}>🐾 Blog</span>
+            <h1 className={styles.heroTitle}>{meta.title}</h1>
+            <p className={styles.heroSubtitle}>{meta.subtitle}</p>
           </div>
         </section>
 
@@ -32,19 +50,22 @@ export default function BlogPage() {
               {posts.map((post) => (
                 <Link href={`/blog/${post.slug}`} key={post.id} className={styles.blogCard}>
                   <div className={styles.imageWrapper}>
-                    <img src={post.image} alt={post.title} className={styles.image} />
+                    <img src={post.image} alt={post.title} className={styles.image} loading="lazy" />
                   </div>
                   <div className={styles.content}>
                     <div className={styles.meta}>
-                      <span>{new Date(post.date).toLocaleDateString('nl-BE')}</span>
+                      <span>{new Date(post.date).toLocaleDateString(locale === 'nl' ? 'nl-BE' : locale === 'fr' ? 'fr-BE' : locale === 'tr' ? 'tr-TR' : 'en-GB')}</span>
                       <span>•</span>
                       <span>{post.readTime}</span>
                     </div>
                     <h2 className={styles.title}>{post.title}</h2>
                     <p className={styles.excerpt}>{post.excerpt}</p>
-                    <span className={styles.readMore}>
-                      Lees verder <span>→</span>
-                    </span>
+                    <div className={styles.cardFooter}>
+                      <span className={styles.author}>✍️ {post.author}</span>
+                      <span className={styles.readMore}>
+                        {meta.readMore} <span>→</span>
+                      </span>
+                    </div>
                   </div>
                 </Link>
               ))}

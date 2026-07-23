@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
+import { getAllBlogPosts } from '@/lib/blog-data';
 
 const host = 'https://katten.vercel.app'; // Update this to your real domain when purchased
 
@@ -21,16 +22,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const sitemapEntries: MetadataRoute.Sitemap = [];
 
+  // Add static routes for each locale
   routes.forEach((route) => {
-    // Determine alternating languages for this route
     const languages: Record<string, string> = {};
     locales.forEach((locale) => {
       languages[locale] = `${host}/${locale}${route}`;
     });
-    // Add x-default pointing to the default locale
     languages['x-default'] = `${host}/${defaultLocale}${route}`;
 
-    // Add entry for each locale so they appear as separate URLs in sitemap
     locales.forEach((locale) => {
       sitemapEntries.push({
         url: `${host}/${locale}${route}`,
@@ -41,6 +40,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
           languages,
         },
       });
+    });
+  });
+
+  // Add all blog posts to sitemap (SEO critical!)
+  const allPosts = getAllBlogPosts();
+  allPosts.forEach((post) => {
+    sitemapEntries.push({
+      url: `${host}/${post.locale}/blog/${post.slug}`,
+      lastModified: new Date(post.date),
+      changeFrequency: 'monthly',
+      priority: 0.7,
     });
   });
 
