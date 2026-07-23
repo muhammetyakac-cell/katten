@@ -1489,6 +1489,387 @@ Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, 
         "Anvers uzman kedi bakıcısı"
     ]
 }
+,
+  {
+    "id": "16-nl",
+    "slug": "hoe-lang-kan-een-kat-alleen-thuis-blijven-vakantie-advies",
+    "title": "Hoe lang kan een kat alleen thuis blijven? Biologisch advies voor uw vakantie",
+    "excerpt": "Vraagt u zich af of uw kat een weekend of vakantie alleen thuis kan blijven? Als bioloog leggen we de 24-uursregel en risico's uit.",
+    "content": "## Hoe lang kan een kat echt alleen thuis blijven?\n\nVele katteneigenaren denken dat katten volkomen onafhankelijk zijn. Maar de vraag *\"hoe lang kan mijn kat alleen thuis blijven?\"* heeft vanuit biologisch en diergeneeskundig oogpunt een heel duidelijk antwoord.\n\n### De 24-uursregel voor volwassen katten\n\nEen gezonde volwassen kat kan **maximaal 24 uur** alleen blijven zonder menselijk toezicht. Langer dan 24 uur alleen laten wordt sterk afgeraden om de volgende redenen:\n\n1. **Water- en Voernood:** Automatische voerbakken kunnen stagneren of leegraken. Verschraald water stimuleert niet tot drinken, wat kan leiden tot blaas- en nierproblemen.\n2. **Kattenbak Hygiëne:** Een vuile kattenbak veroorzaakt stress, wildplassen en bacteriële infecties.\n3. **Eenzaamheid en Scheidingsangst:** Katten zijn sociale dieren. Langdurige isolatie leidt tot stress, overmatig wassen of spullen vernielen.\n4. **Acile Medische Situaties:** Een kat kan zich opsluiten in een kamer, ziek worden of letsel oplopen zonder dat iemand het merkt.\n\n### Wat is de oplossing in Antwerpen?\n\nLaat uw kat niet alleen worstelen. **Katten** biedt dagelijkse huisbezoeken in Antwerpen met HD Bodycam garantie. Wij zorgen voor vers water, schone bakken, speeltijd en medische controle.\n\nBekijk onze [Diensten](/nl/diensten) of neem contact op via ons [Contactformulier](/nl/contact)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Dr. Katten - Bioloog",
+    "image": "/images/cat_feeding.png",
+    "seoTitle": "Hoe lang kan een kat alleen thuis blijven? | Katten Antwerpen",
+    "seoDescription": "Hoe lang kan uw kat alleen thuis blijven tijdens vakantie? Ontdek de 24-uursregel en het advies van onze bioloog in Antwerpen.",
+    "locale": "nl",
+    "keywords": [
+        "hoe lang kat alleen thuis",
+        "kat alleen laten vakantie",
+        "kat alleen thuis weekend",
+        "kattenoppas Antwerpen"
+    ]
+},
+  {
+    "id": "16-en",
+    "slug": "how-long-can-a-cat-be-left-home-alone-holiday-advice",
+    "title": "How long can a cat be left home alone? A biologist's holiday guide",
+    "excerpt": "Wondering if your cat can stay alone for a weekend or holiday? Our biologist breaks down the 24-hour rule and psychological risks.",
+    "content": "## How long can a cat realistically stay alone?\n\nMany pet owners assume cats are totally self-sufficient. However, the question *\"how long can I leave my cat home alone?\"* has a clear answer from a biological perspective.\n\n### The 24-hour maximum rule\n\nA healthy adult cat should be left unattended for **a maximum of 24 hours**. Leaving a cat longer than a day poses severe risks:\n\n1. **Stagnant Water & Food Risks:** Automatic feeders can jam. Stale water discourages drinking, increasing risk for urinary issues (FLUTD).\n2. **Litter Box Hygiene:** A dirty litter box causes extreme stress, inappropriate urination, and bacterial exposure.\n3. **Isolation & Anxiety:** Cats crave social engagement. Prolonged isolation triggers anxiety and destructive habits.\n4. **Unseen Medical Emergencies:** A cat can suffer sudden illness or injury unnoticed.\n\n### Professional In-Home Solution in Antwerp\n\nDon't risk your cat's safety. **Katten** offers daily home visits across Antwerp backed by HD bodycam verification.\n\nExplore our [Services](/en/diensten) or reach out via our [Contact Form](/en/contact)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Dr. Katten - Biologist",
+    "image": "/images/cat_feeding.png",
+    "seoTitle": "How Long Can a Cat Be Left Home Alone? | Katten Antwerp",
+    "seoDescription": "Wondering how long your cat can stay home alone while traveling? Learn about the 24-hour limit and expert care solutions in Antwerp.",
+    "locale": "en",
+    "keywords": [
+        "how long cat home alone",
+        "leaving cat alone weekend",
+        "cat sitting Antwerp",
+        "cat alone vacation"
+    ]
+},
+  {
+    "id": "16-fr",
+    "slug": "combien-de-temps-un-chat-peut-rester-seul-a-la-maison",
+    "title": "Combien de temps un chat peut-il rester seul à la maison?",
+    "excerpt": "Vous demandez-vous si votre chat peut rester seul le week-end ou pendant les vacances? Conseils biologiques et règles d'or.",
+    "content": "## Combien de temps votre chat peut-il vraiment rester seul?\n\nLes chats sont souvent considérés comme indépendants. Cependant, laisser votre chat seul trop longtemps comporte des risques majeurs.\n\n### La règle des 24 heures maximum\n\nUn chat adulte ne doit **jamais rester seul plus de 24 heures**. Au-delà, des problèmes surviennent:\n1. **Pannes de distributeur et eau croupie.**\n2. **Litière souillée provoquant du stress et des infections urinaire.**\n3. **Isolement affectif et anxiété.**\n\nFaites confiance à **Katten** pour des visites quotidiennes sécurisées à Anvers! Consultez nos [Services](/fr/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Dr. Katten - Biologiste",
+    "image": "/images/cat_feeding.png",
+    "seoTitle": "Combien de Temps un Chat Peut Rester Seul? | Katten Anvers",
+    "seoDescription": "Combien de temps laisser son chat seul pendant les vacances? Découvrez la règle des 24h et nos services de garde à Anvers.",
+    "locale": "fr",
+    "keywords": [
+        "combien de temps chat seul",
+        "laisser chat seul vacances",
+        "garde chat Anvers"
+    ]
+},
+  {
+    "id": "16-tr",
+    "slug": "kedi-evde-kac-gun-yalniz-kalabilir-tatil-tavsiyeleri",
+    "title": "Bir kedi evde kaç gün yalnız kalabilir? Biyologdan tatil tavsiyeleri",
+    "excerpt": "Kedinizin hafta sonu veya tatilde evde tek başına kalıp kalamayacağını mı merak ediyorsunuz? 24 saat kuralını ve riskleri öğrenin.",
+    "content": "## Kedi evde ne kadar süre yalnız kalabilir?\n\nBirçok insan kedilerin tamamen bağımsız olduğunu düşünür. Ancak *\"kedim evde kaç gün tek başına kalabilir?\"* sorusunun biyolojik yanıtı nettir.\n\n### Yetişkin kediler için 24 saat kuralı\n\nSağlıklı bir yetişkin kedi insan gözetimi olmadan **en fazla 24 saat** yalnız kalabilir. 24 saatten uzun süre yalnız bırakmanın riskleri:\n\n1. **Yem ve Su Sorunları:** Otomatik mama kapları tıkanabilir. Bayat su kedilerin su içmesini azaltarak böbrek taşı riskini artırır.\n2. **Kedi Kumu Hijyeni:** Kirli kum stres ve idrar yolu enfeksiyonlarına yol açar.\n3. **Yalnızlık ve Stres:** Kediler sosyal canlılardır. Uzun süreli yalnızlık kaygı ve depresyona sebep olur.\n\nAnvers'te **Katten** ile kediniz kendi evinde günlük HD Bodycam güvencesiyle bakılır. [Hizmetlerimizi](/tr/diensten) inceleyin!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Dr. Katten - Biyolog",
+    "image": "/images/cat_feeding.png",
+    "seoTitle": "Kedi Evde Kaç Gün Yalnız Kalabilir? | Katten Anvers",
+    "seoDescription": "Kedi evde yalnız kaç gün kalabilir? 24 saat kuralını ve Anvers'te güvenli evde kedi bakım hizmetimizi keşfedin.",
+    "locale": "tr",
+    "keywords": [
+        "kedi evde yalnız kalabilir mi",
+        "kedi kaç gün yalnız kalır",
+        "kedi bakıcısı Anvers"
+    ]
+},
+  {
+    "id": "17-nl",
+    "slug": "pawshake-ringtwice-alternatief-antwerpen-professionele-kattenoppas",
+    "title": "Pawshake of Ring Twice alternatief in Antwerpen: Waarom kiest u voor Katten?",
+    "excerpt": "Twijfelt u om een amateur oppas te huren via platforms? Ontdek waarom een geregistreerde bioloog met bodycam de veiligste keuze is.",
+    "content": "## Het professionele alternatief voor Pawshake en Ring Twice in Antwerpen\n\nVeel katteneigenaren zoeken een oppas via platforms zoals **Pawshake**, **Ring Twice**, **Petbnb** of **Yoopies**. Maar het inhuren van een willekeurige particulier brengt risico's met zich mee.\n\n### Waarom Katten superieur is aan particuliere platforms:\n\n1. **HD Bodycam Bewijs:** Bij particuliere oppassers moet u maar hopen dat ze echt langskomen. Wij dragen bij elk bezoek een bodycam en sturen u de beelden.\n2. **Biologische Expertise:** Geen amateurs, maar een gediplomeerd bioloog die medische symptomen en gedrag snelt herkent.\n3. **Contractuele Zekerheid:** Geen last-minute afzeggingen doordat de oppas plots op vakantie gaat.\n4. **Vaste Transparante Tarieven:** Geen verborgen platformkosten of commissies.\n\nWilt u 100% zekerheid voor uw woning en kat in Antwerpen? Bekijk onze [Tarieven](/nl/diensten) en vraag een Meet & Greet aan!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_security.png",
+    "seoTitle": "Pawshake & Ring Twice Alternatief Antwerpen | Katten Service",
+    "seoDescription": "Zoekt u een betrouwbaar alternatief voor Pawshake of Ring Twice in Antwerpen? Professionele kattenoppas met bodycam en biologische zorg.",
+    "locale": "nl",
+    "keywords": [
+        "Pawshake Antwerpen alternatief",
+        "Ring Twice kattenoppas Antwerpen",
+        "professionele kattenoppas Antwerpen",
+        "Petbnb alternatief"
+    ]
+},
+  {
+    "id": "17-en",
+    "slug": "pawshake-ringtwice-alternative-antwerp-professional-cat-sitter",
+    "title": "Pawshake & Ring Twice Alternative in Antwerp: Why Choose Katten?",
+    "excerpt": "Considering amateur pet sitting apps? Discover why a registered biologist with HD bodycam verification is the safer choice in Antwerp.",
+    "content": "## The professional alternative to Pawshake & Ring Twice in Antwerp\n\nMany cat parents look for sitters on apps like **Pawshake**, **Ring Twice**, or **Petbnb**. However, hiring unvetted hobbyists carries inherent home and pet safety risks.\n\n### Why Katten outperforms generic pet sitting apps:\n\n1. **HD Bodycam Video Updates:** Never wonder if a sitter actually showed up. We record every visit and share video proof.\n2. **Biological Expertise:** Founded by a biologist trained in animal care, medical warning signs, and stress reduction.\n3. **Reliability Guarantee:** No last-minute cancellations due to personal plans.\n4. **Transparent Pricing:** No hidden platform fees or surprise booking commissions.\n\nEnsure complete peace of mind in Antwerp! Check our [Pricing](/en/diensten) and book a free consultation!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_security.png",
+    "seoTitle": "Pawshake & Ring Twice Alternative Antwerp | Katten",
+    "seoDescription": "Looking for a safer alternative to Pawshake or Ring Twice in Antwerp? In-home cat sitting with bodycam proof and biologist care.",
+    "locale": "en",
+    "keywords": [
+        "Pawshake Antwerp alternative",
+        "Ring Twice pet sitter Antwerp",
+        "professional cat sitting Antwerp"
+    ]
+},
+  {
+    "id": "17-fr",
+    "slug": "alternative-pawshake-ringtwice-anvers-garde-de-chat-professionnelle",
+    "title": "Alternative à Pawshake et Ring Twice à Anvers: Pourquoi choisir Katten?",
+    "excerpt": "Hésitez-vous à utiliser des applications comme Pawshake? Découvrez la sécurité d'une biologiste professionnelle avec vidéo bodycam.",
+    "content": "## L'alternative professionnelle à Pawshake et Ring Twice à Anvers\n\nUtiliser des plateformes entre particuliers comme **Pawshake** ou **Ring Twice** comporte des incertitudes.\n\n### Pourquoi Katten est le choix numéro 1 à Anvers:\n- **Preuve Vidéo Bodycam à chaque visite.**\n- **Biologiste diplômée pour la santé de votre chat.**\n- **Contrat garanti sans annulation de dernière minute.**\n\nDécouvrez nos [Tarifs](/fr/diensten) et rencontrez-nous!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_security.png",
+    "seoTitle": "Alternative Pawshake & Ring Twice Anvers | Katten",
+    "seoDescription": "Alternative professionnelle et sécurisée à Pawshake à Anvers. Garde de chat à domicile avec caméra vidéo.",
+    "locale": "fr",
+    "keywords": [
+        "alternative Pawshake Anvers",
+        "garde chat professionnelle Anvers"
+    ]
+},
+  {
+    "id": "17-tr",
+    "slug": "pawshake-ringtwice-alternatifi-anvers-profesyonel-kedi-bakicisi",
+    "title": "Anvers'te Pawshake ve Ring Twice Alternatifi: Neden Katten'ı Seçmelisiniz?",
+    "excerpt": "Pawshake veya uygulamalardan amatör bakıcı bulmaktan çekiniyor musunuz? Yaka kameralı ve biyolog güvenceli profesyonel hizmetimizi keşfedin.",
+    "content": "## Anvers'te Pawshake ve Ring Twice uygulamalarına profesyonel alternatif\n\nBirçok kişi **Pawshake**, **Ring Twice** veya **Petbnb** gibi uygulamalardan sıradan kişileri evine çağırır. Ancak tanımadığınız kişilere ev anahtarı vermek risklidir.\n\n### Katten neden uygulamalardan üstündür?\n\n1. **HD Bodycam Kaydı:** Bakıcının gelip gelmediğinden şüphe etmezsiniz. Her ziyaret videolu kanıtla sunulur.\n2. **Biyolog Uzmanlığı:** Sıradan evcil hayvan severler değil, biyoloji eğitimi almış uzman bakıcılar.\n3. **Güvenilirlik:** Son dakika iptali veya anahtar kaybı riski yoktur.\n\n[Hizmetlerimizi](/tr/diensten) inceleyin ve ücretsiz tanışma randevusu alın!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_security.png",
+    "seoTitle": "Anvers Pawshake & Ring Twice Alternatifi | Katten",
+    "seoDescription": "Anvers'te Pawshake uygulamalarına güvenli ve profesyonel alternatif. Yaka kameralı biyolog onaylı evde kedi bakımı.",
+    "locale": "tr",
+    "keywords": [
+        "Anvers Pawshake alternatifi",
+        "Anvers profesyonel kedi bakıcısı",
+        "Anvers evde kedi bakımı"
+    ]
+},
+  {
+    "id": "18-nl",
+    "slug": "kattenoppas-sleuteloverdracht-veiligheid-woning-antwerpen",
+    "title": "Sleuteloverdracht en woningveiligheid bij een kattenoppas in Antwerpen",
+    "excerpt": "Maakt u zich zorgen over het afgeven van uw huissleutel? Lees hoe wij sleutelbeheer en woningbeveiliging in Antwerpen waarborgen.",
+    "content": "## Sleuteloverdracht en woningbeveiliging in Antwerpen\n\nHet afgeven van de huissleutel is voor veel mensen een grote stap. U wilt er 100% zeker van zijn dat uw woning in Antwerpen veilig is tijdens uw afwezigheid.\n\n### Onze veiligheidsprotocollen bij Katten:\n\n- **Persoonlijke Meet & Greet:** Wij nemen de sleutel persoonlijk in ontvangst en testen deze ter plaatse.\n- **Anoniem Sleutelbeheer:** Sleutels worden gelabeld met anonieme codes (geen adres- of naamvermelding).\n- **Inbraakpreventie:** Tijdens onze bezoeken halen we de post weg, openen/sluiten we gordijnen en gieten we planten om een bewoonde indruk te maken.\n- **HD Bodycam:** Zowel het binnengaan als het verlaten van de woning wordt vastgelegd op de bodycam.\n\nWilt u uw sleutel met een gerust hart toevertrouwen? Lees meer op onze [Dienstenpagina](/nl/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_security.png",
+    "seoTitle": "Sleuteloverdracht & Veiligheid Kattenoppas Antwerpen | Katten",
+    "seoDescription": "Hoe werkt de sleuteloverdracht bij een kattenoppas in Antwerpen? Lees alles over ons anonieme sleutelbeheer en inbraakpreventie.",
+    "locale": "nl",
+    "keywords": [
+        "sleuteloverdracht kattenoppas Antwerpen",
+        "veiligheid huissleutel oppas",
+        "inbraakpreventie vakantie Antwerpen"
+    ]
+},
+  {
+    "id": "18-en",
+    "slug": "cat-sitter-key-handover-home-security-antwerp",
+    "title": "Key handover & home security with an Antwerp cat sitter",
+    "excerpt": "Worried about handing over your house key? Learn how our anonymous key management protocol protects your Antwerp home.",
+    "content": "## Key handover and home safety in Antwerp\n\nHanding over your house key requires total trust. You want guaranteed security for your home while traveling.\n\n### Our security protocols at Katten:\n\n- **Personal Meet & Greet:** We collect and test keys in person before your departure.\n- **Anonymous Key Storage:** Keys are coded anonymously without any address details attached.\n- **Burglary Prevention:** We collect mail, adjust blinds, and water plants to maintain a lived-in look.\n- **HD Bodycam Audit:** Entry and exit are logged via bodycam recordings.\n\nTrust your keys to Antwerp's most secure pet care team! Visit our [Services](/en/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_security.png",
+    "seoTitle": "Cat Sitter Key Handover & Security Antwerp | Katten",
+    "seoDescription": "How does key handover work for cat sitting in Antwerp? Learn about our anonymous key coding and home security features.",
+    "locale": "en",
+    "keywords": [
+        "cat sitter key handover Antwerp",
+        "pet sitter home security Antwerp",
+        "house key safety pet sitting"
+    ]
+},
+  {
+    "id": "18-fr",
+    "slug": "remise-des-cles-et-securite-du-domicile-garde-de-chat-anvers",
+    "title": "Remise des clés et sécurité du domicile pour la garde de chat à Anvers",
+    "excerpt": "Inquiet à l'idée de donner vos clés de maison? Découvrez nos règles strictes de gestion anonyme des clés à Anvers.",
+    "content": "## Remise des clés et sécurité de votre logement à Anvers\n\nConfier ses clés de maison demande une confiance absolue.\n\n### Nos garanties de sécurité:\n- **Gestion anonyme des clés (code unique sans adresse).**\n- **Prévention contre les cambriolages (courrier, plantes, volets).**\n- **Enregistrement vidéo Bodycam lors de chaque entrée.**\n\nEn savoir plus sur nos [Services](/fr/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_security.png",
+    "seoTitle": "Remise des Clés & Sécurité Garde Chat Anvers | Katten",
+    "seoDescription": "Remise des clés en toute sécurité pour votre garde de chat à Anvers. Gestion anonyme et prévention anti-cambriolage.",
+    "locale": "fr",
+    "keywords": [
+        "remise des cles garde chat Anvers",
+        "securite maison cat sitter Anvers"
+    ]
+},
+  {
+    "id": "18-tr",
+    "slug": "kedi-bakicisi-anahtar-teslimi-ve-ev-guvenligi-anvers",
+    "title": "Anvers'te Kedi Bakıcısına Anahtar Teslimi ve Ev Güvenliği Hizmeti",
+    "excerpt": "Ev anahtarınızı teslim etmek konusunda endişeleriniz mi var? Anonsiz anahtar saklama ve hırsızlık önleme sistemimizi öğrenin.",
+    "content": "## Anvers'te anahtar teslimi ve ev güvenliği\n\nEv anahtarını başkasına vermek büyük bir güvendir. Seyahatteyken evinizin emniyetinden emin olmak istersiniz.\n\n### Katten Güvenlik Protokolleri:\n\n- **Anonim Kodlama:** Anahtarlar üzerine adres veya isim yazılmaz, şifreli kodlarla saklanır.\n- **Hırsızlık Önleme:** Postaların toplanması, perdelerin hareket ettirilmesi ile evde biri var izlenimi yaratılır.\n- **Yaka Kamerası Kaydı:** Eve giriş ve çıkış anları bodycam ile belgelenir.\n\n[Hizmetlerimizi](/tr/diensten) inceleyin!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_security.png",
+    "seoTitle": "Kedi Bakıcısı Anahtar Teslimi & Ev Güvenliği Anvers | Katten",
+    "seoDescription": "Anvers'te kedi bakıcısına anahtar teslimi nasıl yapılır? Anonim anahtar saklama ve ev güvenlik tedbirlerimiz.",
+    "locale": "tr",
+    "keywords": [
+        "Anvers kedi bakıcısı anahtar teslimi",
+        "ev kedi bakıcı güvenlik",
+        "Anvers ev güvenlik bakım"
+    ]
+},
+  {
+    "id": "19-nl",
+    "slug": "hoeveel-kost-een-kattenoppas-per-dag-antwerpen-tarieven-gids",
+    "title": "Hoeveel kost een kattenoppas per dag in Antwerpen? Tarieven en overzicht",
+    "excerpt": "Bent u benieuwd naar de kosten van een kattenoppas in Antwerpen? Bekijk onze transparante prijzen van €15 tot €35 per bezoek.",
+    "content": "## Wat kost een kattenoppas aan huis in Antwerpen?\n\nBij het plannen van uw budget voor een vakantie wilt u weten wat de **gemiddelde prijs van een kattenoppas in Antwerpen** is.\n\n### Prijzenoverzicht bij Katten:\n\n- **Basis Pakket (€15 / bezoek):** Eten en vers water geven, kattenbak schoonmaken, korte check.\n- **Standaard Pakket (€22 / bezoek - MEEST GEKOZEN):** Inclusief borstelen, uitgebreid spelen, foto/video updates en HD Bodycam garantie.\n- **Premium Pakket (€35 / bezoek):** 2 bezoeken per dag, medicatie/insuline toedienen, planten gieten en post verzamelen.\n\nGeen verborgen inschrijfkosten of commissies! Bekijk onze volledige [Prijslijst](/nl/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_feeding.png",
+    "seoTitle": "Kosten Kattenoppas Per Dag Antwerpen | Prijzen & Tarieven",
+    "seoDescription": "Wat kost een kattenoppas per dag in Antwerpen? Bekijk onze transparante tarieven vanaf €15 per bezoek inclusief bodycam.",
+    "locale": "nl",
+    "keywords": [
+        "prijs kattenoppas Antwerpen",
+        "kosten kattenoppas per dag",
+        "tarieven kattenoppas Antwerpen",
+        "goedkope kattenoppas Antwerpen"
+    ]
+},
+  {
+    "id": "19-en",
+    "slug": "how-much-does-a-cat-sitter-cost-per-day-antwerp-rates",
+    "title": "How much does a cat sitter cost per day in Antwerp? Pricing guide",
+    "excerpt": "Curious about cat sitting rates in Antwerp? Check out our transparent pricing packages from €15 to €35 per visit.",
+    "content": "## How much does in-home cat sitting cost in Antwerp?\n\nWhen budgeting for your trip, understanding **cat sitting rates in Antwerp** helps you make an informed decision.\n\n### Pricing breakdown at Katten:\n\n- **Basic Package (€15 / visit):** Feeding, fresh water, litter scooping, brief wellness check.\n- **Standard Package (€22 / visit - MOST POPULAR):** Extended play, brushing, photos & HD Bodycam recording.\n- **Premium Package (€35 / visit):** 2 daily visits, medication/insulin administration, plant watering & mail retrieval.\n\nNo subscription fees or hidden platform surcharges! See our full [Pricing](/en/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_feeding.png",
+    "seoTitle": "Cat Sitter Rates Per Day Antwerp | Transparent Pricing Guide",
+    "seoDescription": "How much does a cat sitter cost per day in Antwerp? Transparent daily visit rates starting at €15 with video verification.",
+    "locale": "en",
+    "keywords": [
+        "cat sitter cost Antwerp",
+        "cat sitting rates per day Antwerp",
+        "affordable cat sitter Antwerp"
+    ]
+},
+  {
+    "id": "19-fr",
+    "slug": "combien-coute-un-garde-de-chat-par-jour-anvers-tarifs",
+    "title": "Combien coûte un garde de chat par jour à Anvers? Guide des tarifs",
+    "excerpt": "Découvrez les tarifs d'un garde de chat à domicile à Anvers. Nos forfaits transparents de 15€ à 35€ par visite.",
+    "content": "## Quel est le prix d'un garde de chat à Anvers?\n\nConsultez nos forfaits sans frais cachés:\n- **Forfait Basique (15€ / visite)**\n- **Forfait Standard (22€ / visite - POPULAIRE)**\n- **Forfait Premium (35€ / visite - 2 visites par jour + médicaments)**\n\nConsultez nos [Tarifs](/fr/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_feeding.png",
+    "seoTitle": "Prix Garde de Chat par Jour Anvers | Tarifs Katten",
+    "seoDescription": "Combien coûte la garde d'un chat par jour à Anvers? Tarifs transparents dès 15€ par visite avec caméra vidéo.",
+    "locale": "fr",
+    "keywords": [
+        "prix garde de chat Anvers",
+        "tarif cat sitter jour Anvers"
+    ]
+},
+  {
+    "id": "19-tr",
+    "slug": "anverste-gunluk-kedi-bakicisi-fiyatlari-ne-kadar-ucret-rehberi",
+    "title": "Anvers'te günlük kedi bakıcısı fiyatları ne kadar? Ücret rehberi",
+    "excerpt": "Anvers'te evde kedi bakım ücretlerini mi merak ediyorsunuz? Ziyaret başı 15€ ile 35€ arası şeffaf paketlerimizi inceleyin.",
+    "content": "## Anvers'te evde kedi bakıcılığı günlük ücretleri\n\nSeyahat bütçenizi planlarken **Anvers kedi bakıcısı fiyatlarını** bilmek önemlidir.\n\n### Katten Şeffaf Paket Fiyatları:\n\n- **Temel Paket (Ziyaret başı 15€):** Mama, su, kum temizliği ve kontrol.\n- **Standart Paket (Ziyaret başı 22€ - EN ÇOK TERCİH EDİLEN):** Oyun saati, tarama, fotoğraf/video ve Yaka Kamerası garantisi.\n- **Premium Paket (Ziyaret başı 35€):** Günde 2 ziyaret, ilaç/insülin uygulaması, saksı sulama ve posta toplama.\n\nGizli abonelik veya platform ücreti yoktur! [Fiyat Listemizi](/tr/diensten) görün!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Katten Team",
+    "image": "/images/cat_feeding.png",
+    "seoTitle": "Anvers Günlük Kedi Bakıcısı Fiyatları | Ücret Rehberi | Katten",
+    "seoDescription": "Anvers'te günlük kedi bakıcısı ne kadar? Ziyaret başı 15€'dan başlayan şeffaf fiyat paketlerimiz.",
+    "locale": "tr",
+    "keywords": [
+        "Anvers kedi bakıcısı fiyatları",
+        "Anvers kedi bakım ücreti günlük",
+        "Anvers uygun kedi bakıcısı"
+    ]
+},
+  {
+    "id": "20-nl",
+    "slug": "kattenbak-hygiene-en-blaasontsteking-voorkomen-vakantie",
+    "title": "Kattenbak hygiëne en blaasontsteking voorkomen tijdens uw vakantie",
+    "excerpt": "Een vuile kattenbak kan leiden tot blaasgruis en medische noodgevallen. Ontdek de biologische tips voor hygiëne tijdens vakantie.",
+    "content": "## Het belang van kattenbak hygiëne tijdens uw afwezigheid\n\nWanneer u op vakantie bent, is de kattenbak een van de belangrijkste gezondheidsindicatoren van uw kat. Als bioloog zien we helaas vaak dat verwaarloosde kattenbakken leiden tot ernstige aandoeningen zoals **blaasontsteking (FLUTD)** of **blaasgruis**.\n\n### Waarom dagelijkse kattenbak reiniging cruciaal is:\n\n1. **Inhouden van urine:** Katten weigeren te plassen op een vuile bak. Het inhouden van urine veroorzaakt blaasinfecties en nierproblemen.\n2. **Wildplassen op meubels:** Uit frustratie zoekt de kat een schone plek, zoals uw zetel of tapijt.\n3. **Vroegtijdige Medische Check:** Door de kattenbak dagelijks te scheppen, controleert **Katten** direct of de ontlasting en urine normaal zijn.\n\nZorg voor een gezonde kat tijdens uw vakantie in Antwerpen! Boek onze [Kattenoppas Service](/nl/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Dr. Katten - Bioloog",
+    "image": "/images/cat_plants.png",
+    "seoTitle": "Kattenbak Hygiëne & Blaasontsteking Vakantie | Katten Antwerpen",
+    "seoDescription": "Voorkom blaasontsteking en stress bij uw kat tijdens de vakantie. Biologische gids over dagelijkse kattenbak verzorging in Antwerpen.",
+    "locale": "nl",
+    "keywords": [
+        "kattenbak schoonmaken vakantie",
+        "blaasontsteking kat vakantie",
+        "kattenoppas kattenbak verzorging Antwerpen"
+    ]
+},
+  {
+    "id": "20-en",
+    "slug": "litter-box-hygiene-preventing-feline-urinary-issues-holiday",
+    "title": "Litter box hygiene & preventing feline urinary issues while on holiday",
+    "excerpt": "A dirty litter box causes extreme stress and feline urinary blockages. Read our biologist guide on proper holiday litter maintenance.",
+    "content": "## Litter box hygiene as a key health indicator during vacation\n\nWhile you are away on holiday, the litter box is your cat's primary health indicator. From a biological standpoint, a neglected litter box can trigger medical emergencies like **FLUTD (Feline Lower Urinary Tract Disease)**.\n\n### Why daily litter box scooping is essential:\n\n1. **Urine Retention Risks:** Cats refuse to use soiled litter boxes. Holding urine leads to painful cystitis and kidney strain.\n2. **Inappropriate Elimination:** Frustrated cats will eliminate on furniture or rugs.\n3. **Early Health Monitoring:** Daily scooping allows **Katten** sitters to inspect urine volume and stool consistency for early illness signs.\n\nKeep your cat healthy while traveling! Book our Antwerp [Cat Sitting Service](/en/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Dr. Katten - Biologist",
+    "image": "/images/cat_plants.png",
+    "seoTitle": "Litter Box Hygiene & Cat Health on Holiday | Katten Antwerp",
+    "seoDescription": "Prevent feline urinary tract infections and stress during your holiday. Learn why daily litter maintenance matters from a biologist.",
+    "locale": "en",
+    "keywords": [
+        "litter box hygiene cat sitting",
+        "prevent cat urinary infection holiday",
+        "cat sitter litter cleaning Antwerp"
+    ]
+},
+  {
+    "id": "20-fr",
+    "slug": "hygiene-de-la-litiere-et-sante-urinaire-du-chat-en-vacances",
+    "title": "Hygiène de la litière et santé urinaire du chat pendant les vacances",
+    "excerpt": "Une litière sale entraîne du stress et des infections urinaires graves chez le chat. Conseils de notre biologiste à Anvers.",
+    "content": "## L'importance de l'hygiène de la litière pendant vos vacances\n\nUne litière mal entretenue peut causer des problèmes de santé majeurs chez le chat (infections urinaires, calculs).\n\n### Pourquoi un nettoyage quotidien est indispensable:\n- **Évite la rétention d'urine et les infections.**\n- **Prévient les pipis en dehors du bac.**\n- **Permet un suivi de santé quotidien par notre équipe.**\n\nDécouvrez nos [Services à Anvers](/fr/diensten)!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Dr. Katten - Biologiste",
+    "image": "/images/cat_plants.png",
+    "seoTitle": "Hygiène Litière & Santé Chat Vacances | Katten Anvers",
+    "seoDescription": "Prévenez les infections urinaires chez le chat en vacances. Entretien quotidien de la litière à Anvers par Katten.",
+    "locale": "fr",
+    "keywords": [
+        "nettoyage litiere chat vacances",
+        "sante urinaire chat garde Anvers"
+    ]
+},
+  {
+    "id": "20-tr",
+    "slug": "tatilde-kedi-kumu-hijyeni-ve-idrar-yolu-sagligini-koruma",
+    "title": "Tatilde kedi kumu hijyeni ve idrar yolu sağlığını koruma rehberi",
+    "excerpt": "Kirli kedi kumu ciddi idrar yolu enfeksiyonlarına ve strese yol açar. Tatilde günlük kum temizliğinin önemini biyoloğumuzdan öğrenin.",
+    "content": "## Tatilde kedi kumu hijyeninin hayati önemi\n\nSiz tatildeyken kedi kumu, kedinizin sağlık durumunu gösteren en önemli göstergedir. Biyolojik olarak temizlenmeyen kumlar kedilerde **idrar yolu enfeksiyonları (FLUTD)** ve idrar kristallerine yol açar.\n\n### Günlük kum temizliğinin faydaları:\n\n1. **Çişini Tutma Riskini Önler:** Kediler kirli kuma çiş yapmayı reddeder. İdrar tutmak böbrek ve mesane enfeksiyonlarına sebep olur.\n2. **Koltuk ve Halılara İşemeyi Önler:** Stres olan kedi temiz bir yer bulmak için evdeki eşyalara yönelebilir.\n3. **Erken Teşhis:** **Katten** bakıcıları kumu her gün temizlerken idrar miktarı ve dışkı kıvamını kontrol ederek erken teşhis sağlar.\n\nKedinizin sağlığını riske atmayın! Anvers'te [Evde Kedi Bakım Servisimizi](/tr/diensten) ayırtın!",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "author": "Dr. Katten - Biyolog",
+    "image": "/images/cat_plants.png",
+    "seoTitle": "Tatilde Kedi Kumu Hijyeni & İdrar Yolu Sağlığı | Katten Anvers",
+    "seoDescription": "Tatilde kedilerde idrar yolu enfeksiyonu ve stresi önleyin. Anvers'te günlük kedi kumu temizliği ve sağlık kontrolü.",
+    "locale": "tr",
+    "keywords": [
+        "kedi kumu temizliği tatil",
+        "kedi idrar yolu enfeksiyonu tatil",
+        "Anvers kedi bakıcısı kum temizliği"
+    ]
+}
 ];
 
 export function getBlogPostBySlug(slug: string): BlogPost | undefined {
