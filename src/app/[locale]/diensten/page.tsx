@@ -2,10 +2,12 @@ import { useTranslations } from 'next-intl';
 import Navbar from '@/components/Navbar/Navbar';
 import Footer from '@/components/Footer/Footer';
 import Pricing from '@/components/Pricing/Pricing';
+import FAQ from '@/components/FAQ/FAQ';
 import CTA from '@/components/CTA/CTA';
 import styles from './diensten.module.css';
 
-export default function ServicesPage() {
+export default async function ServicesPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
   const t = useTranslations('services');
 
   const services = [
@@ -49,6 +51,8 @@ export default function ServicesPage() {
         <div className={styles.pricingWrapper}>
           <Pricing />
         </div>
+
+        <FAQ locale={locale} />
         
         <CTA />
       </main>

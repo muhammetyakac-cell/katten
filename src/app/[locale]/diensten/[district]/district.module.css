@@ -1,0 +1,185 @@
+.heroSection {
+  composes: section from global;
+  padding-top: calc(var(--navbar-height) + var(--space-12));
+  padding-bottom: var(--space-8);
+  text-align: center;
+  background: linear-gradient(180deg, var(--color-bg-secondary) 0%, var(--color-bg-primary) 100%);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  font-size: var(--fs-xs);
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-4);
+}
+
+.breadcrumb a {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.breadcrumb a:hover {
+  color: var(--color-secondary-light);
+}
+
+.activeBreadcrumb {
+  color: var(--color-secondary-light);
+  font-weight: 600;
+}
+
+.districtBadge {
+  display: inline-block;
+  font-size: var(--fs-xs);
+  color: var(--color-secondary-light);
+  background: rgba(253, 121, 168, 0.1);
+  padding: var(--space-1) var(--space-4);
+  border-radius: var(--radius-full);
+  margin-bottom: var(--space-4);
+  border: 1px solid rgba(253, 121, 168, 0.2);
+  letter-spacing: 0.05em;
+}
+
+.title {
+  font-size: var(--fs-4xl);
+  line-height: var(--lh-tight);
+  color: var(--color-text-primary);
+  max-width: 850px;
+  margin: 0 auto var(--space-4) auto;
+}
+
+.subtitle {
+  font-size: var(--fs-lg);
+  color: var(--color-text-secondary);
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: var(--space-10);
+  margin-top: var(--space-8);
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.sectionHeading {
+  font-size: var(--fs-2xl);
+  color: var(--color-text-primary);
+  line-height: var(--lh-tight);
+}
+
+.text {
+  font-size: var(--fs-md);
+  color: var(--color-text-secondary);
+  line-height: var(--lh-relaxed);
+}
+
+.highlightsBox {
+  padding: var(--space-8);
+  background: rgba(253, 121, 168, 0.04);
+  border: 1px solid rgba(253, 121, 168, 0.15);
+  border-radius: var(--radius-xl);
+  margin-top: var(--space-4);
+}
+
+.highlightsBox h3 {
+  font-size: var(--fs-lg);
+  color: var(--color-secondary-light);
+  margin-bottom: var(--space-4);
+}
+
+.highlightsList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  list-style: none;
+  padding: 0;
+}
+
+.highlightsList li {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  font-size: var(--fs-base);
+  color: var(--color-text-primary);
+}
+
+.ctaBoxInline {
+  padding: var(--space-8);
+  background: linear-gradient(135deg, rgba(108, 92, 231, 0.15) 0%, rgba(253, 121, 168, 0.1) 100%);
+  border: 1px solid rgba(108, 92, 231, 0.3);
+  border-radius: var(--radius-xl);
+  text-align: center;
+  margin-top: var(--space-6);
+}
+
+.ctaBoxInline h3 {
+  font-size: var(--fs-xl);
+  color: white;
+  margin-bottom: var(--space-2);
+}
+
+.ctaBoxInline p {
+  font-size: var(--fs-base);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-6);
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  composes: glass-card from global;
+  overflow: hidden;
+  position: sticky;
+  top: calc(var(--navbar-height) + var(--space-4));
+}
+
+.sidebarImage {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+
+.sidebarInfo {
+  padding: var(--space-6);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.sidebarInfo h4 {
+  font-size: var(--fs-lg);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-2);
+}
+
+.sidebarInfo p {
+  font-size: var(--fs-sm);
+  color: var(--color-text-secondary);
+}
+
+.pricingSection {
+  margin-top: var(--space-12);
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  .title {
+    font-size: var(--fs-3xl);
+  }
+}

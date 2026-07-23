@@ -98,6 +98,13 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} className={`${outfit.variable} ${inter.variable}`}>
+      <head>
+        <link rel="alternate" hrefLang="nl" href="https://katten.vercel.app/nl" />
+        <link rel="alternate" hrefLang="en" href="https://katten.vercel.app/en" />
+        <link rel="alternate" hrefLang="fr" href="https://katten.vercel.app/fr" />
+        <link rel="alternate" hrefLang="tr" href="https://katten.vercel.app/tr" />
+        <link rel="alternate" hrefLang="x-default" href="https://katten.vercel.app/nl" />
+      </head>
       <body>
         <NextIntlClientProvider messages={messages}>
           <script

@@ -101,6 +101,32 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     keywords: post.keywords.join(', '),
   };
 
+  // Breadcrumb Schema
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: `https://katten.vercel.app/${locale}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Blog',
+        item: `https://katten.vercel.app/${locale}/blog`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: post.title,
+        item: `https://katten.vercel.app/${locale}/blog/${post.slug}`,
+      },
+    ],
+  };
+
   return (
     <>
       <Navbar />
@@ -108,6 +134,10 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
         />
         <article>
           <header className={styles.postHero}>

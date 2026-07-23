@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { getAllBlogPosts } from '@/lib/blog-data';
+import { getAllDistricts } from '@/lib/district-data';
 
 const host = 'https://katten.vercel.app'; // Update this to your real domain when purchased
 
@@ -36,6 +37,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: new Date(),
         changeFrequency: route === '' ? 'weekly' : 'monthly',
         priority: route === '' ? 1.0 : 0.8,
+        alternates: {
+          languages,
+        },
+      });
+    });
+  });
+
+  // Add all District Landing Pages for Local SEO (High priority!)
+  const allDistricts = getAllDistricts();
+  allDistricts.forEach((district) => {
+    const languages: Record<string, string> = {};
+    locales.forEach((locale) => {
+      languages[locale] = `${host}/${locale}/diensten/${district.slug}`;
+    });
+    languages['x-default'] = `${host}/${defaultLocale}/diensten/${district.slug}`;
+
+    locales.forEach((locale) => {
+      sitemapEntries.push({
+        url: `${host}/${locale}/diensten/${district.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
         alternates: {
           languages,
         },
