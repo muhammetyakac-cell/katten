@@ -289,48 +289,48 @@
     "servicesList": [
       {
         "title": "Daily home visits",
-        "description": "Our sitters come to your home every day at an agreed time. During each visit, we take care of feeding, water, and the litter box. Your cat stays in her familiar surroundings and experiences minimal stress.",
+        "description": "Our sitters visit your home daily at an agreed time. During each visit, we take care of food, water, and the litter box. Your cat stays in its familiar environment and experiences minimal stress.",
         "icon": "home"
       },
       {
         "title": "Feeding & water",
-        "description": "We follow your cat's feeding schedule to the letter. Whether it's dry food, wet food, a diet, or specially prescribed nutrition — we make sure everything is given on time and correctly.",
+        "description": "We strictly follow your cat's feeding schedule. Whether it's dry food, wet food, a diet, or specially prescribed food — we ensure everything is given correctly and on time.",
         "icon": "bowl"
       },
       {
         "title": "Litter box & hygiene",
-        "description": "A clean litter box is essential for your cat's well-being. We scoop the litter box at every visit and replace the litter as needed.",
+        "description": "A clean litter box is essential for your cat's well-being. We scoop the litter box during every visit and replace the litter when necessary.",
         "icon": "sparkle"
       },
       {
-        "title": "Play & companionship",
-        "description": "Cats need social interaction, even the most independent ones. Our sitters take time for play, cuddles, and company. With their favourite toy, of course!",
+        "title": "Play & attention",
+        "description": "Cats need social interaction, even the most independent ones. Our sitters take time for playtime, petting, and companionship. With their favorite toy, of course!",
         "icon": "toy"
       },
       {
         "title": "Health monitoring",
-        "description": "At every visit, we keep an eye on your cat's well-being: appetite, drinking habits, litter box activity, energy levels, and overall mood. Any changes are reported to you immediately.",
+        "description": "We monitor your cat's well-being during every visit: appetite, drinking behavior, bowel movements, activity level, and general mood. Any deviations are immediately reported to you.",
         "icon": "heart"
       },
       {
         "title": "Medication administration",
-        "description": "From daily pills to eye drops and insulin injections: our sitters are trained and experienced in administering medication. In consultation with your vet, we ensure correct administration.",
+        "description": "From daily pills to eye drops and insulin injections: our sitters are trained and experienced in administering medication. We ensure correct administration in consultation with your vet.",
         "icon": "pill"
       },
       {
-        "title": "Body cam recordings",
-        "description": "For complete transparency, our sitters wear a body cam during every visit. The recordings are made available through your personal dashboard after the visit and stored for 30 days.",
+        "title": "Bodycam recordings",
+        "description": "For full transparency, our sitters wear a bodycam during every visit. The recordings are made available via your personal dashboard after the visit and are kept for 30 days.",
         "icon": "camera"
       },
       {
-        "title": "Emergencies",
-        "description": "In case of a medical emergency, we act immediately. We contact you and the nearest veterinarian. Transport costs to the vet are included in the Premium plan.",
-        "icon": "emergency"
+        "title": "Plant care",
+        "description": "As a bonus service, we are happy to water your indoor and outdoor plants during our visit. That way, you don't have to worry about anything while you're away.",
+        "icon": "plant"
       },
       {
-        "title": "Plant watering",
-        "description": "As a bonus service, we're also happy to water your indoor and garden plants during our visit. So you don't have to worry about a thing while you're away.",
-        "icon": "plant"
+        "title": "Mail & Home Care",
+        "description": "We empty your mailbox, take out the trash, and make your house look lived-in (e.g., opening/closing curtains, turning lights on/off) to deter burglars.",
+        "icon": "mail"
       }
     ]
   },

@@ -323,14 +323,14 @@
         "icon": "camera"
       },
       {
-        "title": "Noodgevallen",
-        "description": "In geval van een medisch noodgeval handelen wij onmiddellijk. Wij nemen contact op met u en met de dichtstbijzijnde dierenarts. Transportkosten naar de dierenarts zijn inbegrepen in het Premium-plan.",
-        "icon": "emergency"
-      },
-      {
         "title": "Plantenverzorging",
         "description": "Als bonusservice gieten wij tijdens ons bezoek ook graag uw kamerplanten en tuinplanten water. Zo hoeft u zich over niets zorgen te maken terwijl u weg bent.",
         "icon": "plant"
+      },
+      {
+        "title": "Brievenbus & Huiszorg",
+        "description": "Wij legen uw brievenbus, zetten de vuilnisbak buiten en zorgen dat uw huis er bewoond uitziet (bijv. gordijnen open/dicht, lichten aan/uit) om inbraak te voorkomen.",
+        "icon": "mail"
       }
     ]
   },

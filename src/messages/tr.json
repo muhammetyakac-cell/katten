@@ -323,14 +323,14 @@
         "icon": "camera"
       },
       {
-        "title": "Acil durumlar",
-        "description": "Tıbbi bir acil durumda derhal harekete geçeriz. Sizi ve en yakın veterineri bilgilendiririz. Veterinere ulaşım masrafları Premium plana dahildir.",
-        "icon": "emergency"
-      },
-      {
         "title": "Bitki sulama",
         "description": "Ekstra hizmet olarak ziyaretimiz sırasında iç mekan ve bahçe bitkilerinizi de sularız. Böylece uzaktayken hiçbir şey için endişelenmenize gerek kalmaz.",
         "icon": "plant"
+      },
+      {
+        "title": "Posta ve Ev Bakımı",
+        "description": "Posta kutunuzu boşaltırız, çöpleri dışarı çıkarırız ve hırsızları caydırmak için evinize yaşanıyor görünümü veririz (örn. perdeleri açma/kapama, ışıkları açma/kapatma).",
+        "icon": "mail"
       }
     ]
   },

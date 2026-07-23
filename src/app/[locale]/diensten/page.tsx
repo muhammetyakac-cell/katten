@@ -13,15 +13,15 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
   const tFooter = await getTranslations({ locale, namespace: 'footer' });
 
   const services = [
-    { icon: '🏠', id: 'daily-visits', slug: 'daily-visits' },
-    { icon: '🍽️', id: 'feeding', slug: 'feeding' },
-    { icon: '🧹', id: 'litter', slug: 'litter' },
-    { icon: '🎮', id: 'playtime', slug: 'playtime' },
-    { icon: '💊', id: 'medication', slug: 'medication' },
-    { icon: '📹', id: 'bodycam', slug: 'bodycam' },
-    { icon: '🩺', id: 'health', slug: 'health' },
-    { icon: '🌱', id: 'plants', slug: 'plants' },
-    { icon: '📫', id: 'mail', slug: 'mail' },
+    { icon: '🏠', id: 'daily-visits', slug: 'daily-visits' }, // index 0
+    { icon: '🍽️', id: 'feeding', slug: 'feeding' }, // index 1
+    { icon: '🧹', id: 'litter', slug: 'litter' }, // index 2
+    { icon: '🎮', id: 'playtime', slug: 'playtime' }, // index 3
+    { icon: '🩺', id: 'health', slug: 'health' }, // index 4
+    { icon: '💊', id: 'medication', slug: 'medication' }, // index 5
+    { icon: '📹', id: 'bodycam', slug: 'bodycam' }, // index 6
+    { icon: '🌱', id: 'plants', slug: 'plants' }, // index 7
+    { icon: '📫', id: 'mail', slug: 'mail' }, // index 8
   ];
 
   const districts = [

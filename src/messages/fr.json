@@ -289,48 +289,48 @@
     "servicesList": [
       {
         "title": "Visites quotidiennes à domicile",
-        "description": "Nos gardiens se rendent chez vous chaque jour à une heure convenue. Lors de chaque visite, nous nous occupons de l'alimentation, de l'eau et de la litière. Votre chat reste dans son environnement familier et subit un minimum de stress.",
+        "description": "Nos gardiens visitent votre domicile tous les jours à une heure convenue. Lors de chaque visite, nous nous occupons de la nourriture, de l'eau et de la litière. Votre chat reste dans son environnement familier et subit un minimum de stress.",
         "icon": "home"
       },
       {
-        "title": "Alimentation et eau",
-        "description": "Nous suivons scrupuleusement le programme alimentaire de votre chat. Qu'il s'agisse de croquettes, de pâtée, d'un régime ou d'une alimentation spécialement prescrite — nous veillons à ce que tout soit donné à temps et correctement.",
+        "title": "Nourriture et eau",
+        "description": "Nous suivons strictement le programme alimentaire de votre chat. Qu'il s'agisse de croquettes, de nourriture humide, d'un régime ou d'aliments prescrits, nous nous assurons que tout est donné correctement et à temps.",
         "icon": "bowl"
       },
       {
         "title": "Litière et hygiène",
-        "description": "Une litière propre est essentielle pour le bien-être de votre chat. Nous nettoyons la litière à chaque visite et remplaçons le substrat si nécessaire.",
+        "description": "Une litière propre est essentielle au bien-être de votre chat. Nous nettoyons la litière à chaque visite et remplaçons le sable si nécessaire.",
         "icon": "sparkle"
       },
       {
-        "title": "Jeux et compagnie",
-        "description": "Les chats ont besoin d'interaction sociale, même les plus indépendants. Nos gardiens prennent le temps de jouer, de câliner et de tenir compagnie. Avec son jouet préféré, bien sûr !",
+        "title": "Jeu et attention",
+        "description": "Les chats ont besoin d'interactions sociales, même les plus indépendants. Nos gardiens prennent le temps de jouer, de caresser et de tenir compagnie. Avec leur jouet préféré, bien sûr !",
         "icon": "toy"
       },
       {
         "title": "Suivi de santé",
-        "description": "À chaque visite, nous surveillons le bien-être de votre chat : appétit, consommation d'eau, litière, niveau d'activité et humeur générale. Tout changement vous est signalé immédiatement.",
+        "description": "Nous surveillons le bien-être de votre chat à chaque visite : appétit, hydratation, selles, niveau d'activité et humeur générale. Toute anomalie vous est immédiatement signalée.",
         "icon": "heart"
       },
       {
         "title": "Administration de médicaments",
-        "description": "Des comprimés quotidiens aux gouttes pour les yeux et injections d'insuline : nos gardiens sont formés et expérimentés dans l'administration de médicaments. En concertation avec votre vétérinaire, nous assurons une administration correcte.",
+        "description": "Des pilules quotidiennes aux gouttes pour les yeux et aux injections d'insuline : nos gardiens sont formés et expérimentés dans l'administration de médicaments. Nous assurons une administration correcte en consultation avec votre vétérinaire.",
         "icon": "pill"
       },
       {
-        "title": "Enregistrements caméra corporelle",
-        "description": "Pour une transparence totale, nos gardiens portent une caméra corporelle lors de chaque visite. Les enregistrements sont mis à disposition via votre tableau de bord personnel et conservés pendant 30 jours.",
+        "title": "Enregistrements Bodycam",
+        "description": "Pour une transparence totale, nos gardiens portent une caméra corporelle à chaque visite. Les enregistrements sont disponibles sur votre tableau de bord personnel après la visite et sont conservés pendant 30 jours.",
         "icon": "camera"
       },
       {
-        "title": "Urgences",
-        "description": "En cas d'urgence médicale, nous agissons immédiatement. Nous vous contactons ainsi que le vétérinaire le plus proche. Les frais de transport vers le vétérinaire sont inclus dans la formule Premium.",
-        "icon": "emergency"
+        "title": "Entretien des plantes",
+        "description": "En prime, nous nous faisons un plaisir d'arroser vos plantes d'intérieur et de jardin lors de notre visite. Ainsi, vous n'avez à vous soucier de rien pendant votre absence.",
+        "icon": "plant"
       },
       {
-        "title": "Arrosage des plantes",
-        "description": "En service bonus, nous arrosons également vos plantes d'intérieur et de jardin lors de notre visite. Ainsi, vous n'avez à vous soucier de rien pendant votre absence.",
-        "icon": "plant"
+        "title": "Courrier & Soins de la Maison",
+        "description": "Nous vidons votre boîte aux lettres, sortons les poubelles et donnons à votre maison un aspect habité (par exemple, ouverture/fermeture des rideaux, allumage/extinction des lumières) pour dissuader les cambrioleurs.",
+        "icon": "mail"
       }
     ]
   },
