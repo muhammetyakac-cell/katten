@@ -143,7 +143,7 @@
       },
       {
         "name": "Standaard",
-        "price": "22",
+        "price": "35",
         "currency": "€",
         "description": "Onze meest gekozen formule. Alles wat uw kat nodig heeft, inclusief bodycam-opnames voor uw gemoedsrust.",
         "duration": "Bezoek van ±35 minuten",
@@ -164,7 +164,7 @@
       },
       {
         "name": "Premium",
-        "price": "35",
+        "price": "55",
         "currency": "€",
         "description": "De ultieme verwennerij voor uw kat. Twee bezoeken per dag en alle extra's inbegrepen. Perfect voor katten die extra zorg of aandacht nodig hebben.",
         "duration": "Twee bezoeken van ±30 min per dag",
@@ -514,7 +514,7 @@
       },
       {
         "title": "Prijzen en Betaling",
-        "content": "Onze tarieven zijn: Basispakket 25 euro per bezoek, Standaardpakket 22 euro per bezoek, Premiumpakket 35 euro per bezoek. Alle prijzen zijn inclusief BTW. Betaling dient te geschieden voor aanvang van de dienst."
+        "content": "Onze tarieven zijn: Basispakket 25 euro per bezoek, Standaardpakket 55 euro per bezoek, Premiumpakket 55 euro per bezoek. Alle prijzen zijn inclusief BTW. Betaling dient te geschieden voor aanvang van de dienst."
       },
       {
         "title": "Sleuteloverdracht",

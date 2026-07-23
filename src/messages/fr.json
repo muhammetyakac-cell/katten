@@ -143,7 +143,7 @@
       },
       {
         "name": "Standard",
-        "price": "22",
+        "price": "35",
         "currency": "€",
         "description": "Notre formule la plus choisie. Tout ce dont votre chat a besoin, y compris les enregistrements caméra corporelle pour votre tranquillité d'esprit.",
         "duration": "Visite d'environ 35 minutes",
@@ -164,7 +164,7 @@
       },
       {
         "name": "Premium",
-        "price": "35",
+        "price": "55",
         "currency": "€",
         "description": "Le summum du bien-être pour votre chat. Deux visites par jour et tous les extras inclus. Parfait pour les chats qui nécessitent des soins ou une attention supplémentaires.",
         "duration": "Deux visites d'environ 30 min par jour",
@@ -514,7 +514,7 @@
       },
       {
         "title": "Prix et Paiement",
-        "content": "Nos tarifs : Forfait Basique 25 euros par visite, Standard 22 euros par visite, Premium 35 euros par visite. TVA incluse. Paiement avant le debut du service."
+        "content": "Nos tarifs : Forfait Basique 25 euros par visite, Standard 55 euros par visite, Premium 55 euros par visite. TVA incluse. Paiement avant le debut du service."
       },
       {
         "title": "Remise des Cles",

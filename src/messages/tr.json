@@ -143,7 +143,7 @@
       },
       {
         "name": "Standart",
-        "price": "22",
+        "price": "35",
         "currency": "€",
         "description": "En çok tercih edilen planımız. Kedinizin ihtiyacı olan her şey, gönül rahatlığınız için vücut kamerası kayıtları dahil.",
         "duration": "Yaklaşık 35 dakikalık ziyaret",
@@ -164,7 +164,7 @@
       },
       {
         "name": "Premium",
-        "price": "35",
+        "price": "55",
         "currency": "€",
         "description": "Kediniz için en üst düzey şımartma. Günde iki ziyaret ve tüm ekstralar dahil. Ekstra bakım veya ilgiye ihtiyaç duyan kediler için mükemmel.",
         "duration": "Günde iki ziyaret, her biri yaklaşık 30 dk",
@@ -514,7 +514,7 @@
       },
       {
         "title": "Fiyatlar ve Odeme",
-        "content": "Ucretlerimiz: Temel paket ziyaret basina 25 euro, Standart paket 22 euro/ziyaret, Premium paket 35 euro/ziyaret. Tum fiyatlar KDV dahildir."
+        "content": "Ucretlerimiz: Temel paket ziyaret basina 25 euro, Standart paket 55 euro/ziyaret, Premium paket 55 euro/ziyaret. Tum fiyatlar KDV dahildir."
       },
       {
         "title": "Anahtar Teslimi",
