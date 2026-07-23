@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next';
 
-const host = 'https://katten.vercel.app'; // Update to real domain when purchased
+const host = 'https://www.kattensitter.be';
 
 export default function robots(): MetadataRoute.Robots {
   return {

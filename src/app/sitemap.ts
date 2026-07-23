@@ -3,7 +3,7 @@ import { routing } from '@/i18n/routing';
 import { getAllBlogPosts } from '@/lib/blog-data';
 import { getAllDistricts } from '@/lib/district-data';
 
-const host = 'https://katten.vercel.app'; // Update this to your real domain when purchased
+const host = 'https://www.kattensitter.be';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const defaultLocale = routing.defaultLocale;

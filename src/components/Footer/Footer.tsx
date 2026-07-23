@@ -14,9 +14,9 @@ export default function Footer() {
         <div className={styles.footerTop}>
           {/* Column 1: Brand & Bio */}
           <div className={styles.brand}>
-            <Link href="/" className={styles.logo} title="Katten - Kattenoppas in Antwerpen" aria-label="Katten Home">
+            <Link href="/" className={styles.logo} title="Kattensitter - Kattenoppas in Antwerpen" aria-label="Kattensitter Home">
               <span className={styles.logoIcon}>🐾</span>
-              <span>Kat<span className={styles.logoAccent}>ten</span></span>
+              <span>Katten<span className={styles.logoAccent}>sitter</span></span>
             </Link>
             <p className={styles.brandDescription}>
               {t('description')}

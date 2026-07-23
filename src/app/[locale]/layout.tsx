@@ -31,6 +31,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: 'metadata' });
 
   return {
+    metadataBase: new URL('https://www.kattensitter.be'),
     title: t('title'),
     description: t('description'),
     keywords: t('keywords'),
