@@ -17,6 +17,175 @@ export interface DistrictInfo {
 
 export const districts: DistrictInfo[] = [
   {
+    "slug": "antwerpen-centrum",
+    "postalCode": "2000",
+    "name": {
+      "nl": "Antwerpen Centrum",
+      "en": "Antwerp Center",
+      "fr": "Centre d'Anvers",
+      "tr": "Antwerp Merkez"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas in Antwerpen Centrum | Meir & Historisch Centrum",
+      "en": "Cat & Dog Sitting in Antwerp Center | Meir & Historic Center",
+      "fr": "Garde de Chat et Chien au Centre d'Anvers | Meir",
+      "tr": "Antwerp Merkez Kedi ve Köpek Bakıcısı | Meir & Tarihi Merkez"
+    },
+    "subtitle": {
+      "nl": "Betrouwbare huisdierverzorging in het hart van de stad.",
+      "en": "Reliable pet care in the heart of the city.",
+      "fr": "Soins fiables pour animaux au cœur de la ville.",
+      "tr": "Şehrin kalbinde güvenilir evcil hayvan bakımı."
+    },
+    "description": {
+      "nl": "Woont u in het drukke Antwerpen Centrum, nabij de Meir, Groenplaats of het Historisch Centrum? KattenHond biedt professionele kattenoppas en hondenoppas aan huis in de drukste wijken van de stad. Geen stress voor uw huisdier in het stadsverkeer, wij komen naar u toe voor voeding, wandelingen en verzorging met 100% HD Bodycam garantie.",
+      "en": "Living in the busy Antwerp Center, near the Meir, Groenplaats or Historic Center? KattenHond offers professional in-home cat and dog sitting in the busiest parts of the city. Avoid city traffic stress for your pet; we come to you for feeding, walks, and care with a 100% HD Bodycam guarantee.",
+      "fr": "Vous vivez dans le centre animé d'Anvers, près du Meir ou du Centre Historique ? KattenHond propose des services professionnels de garde de chats et de chiens à domicile. Évitez le stress de la circulation urbaine à votre animal ; nous venons à vous avec une garantie Bodycam HD 100%.",
+      "tr": "Meir, Groenplaats veya Tarihi Merkez gibi hareketli Antwerp Merkez'de mi yaşıyorsunuz? KattenHond, şehrin en kalabalık bölgelerinde profesyonel evde kedi ve köpek bakımı sunar. Evcil hayvanınızı şehir trafiği stresinden kurtarın; beslenme, yürüyüş ve bakım için %100 HD Yaka Kamerası güvencesiyle kapınıza geliyoruz."
+    },
+    "highlights": {
+      "nl": ["Flexibele bezoeken in het centrum", "Ervaring met appartementen", "Veilige wandelingen in de stad"],
+      "en": ["Flexible visits in the center", "Experience with apartments", "Safe city walks"],
+      "fr": ["Visites flexibles au centre", "Expérience des appartements", "Promenades sécurisées en ville"],
+      "tr": ["Merkezde esnek ziyaret saatleri", "Apartman dairelerinde tecrübe", "Güvenli şehir yürüyüşleri"]
+    },
+    "image": "/images/hero_background.png",
+    "geo": { "latitude": 51.2194, "longitude": 4.4025 },
+    "keywords": {
+      "nl": ["kattenoppas antwerpen centrum", "hondenoppas meir", "huisdierverzorging historisch centrum"],
+      "en": ["cat sitter antwerp center", "dog sitter meir", "pet care historic center"],
+      "fr": ["cat sitter centre anvers", "garde chien meir"],
+      "tr": ["antwerp merkez kedi bakıcısı", "meir köpek bakıcısı", "tarihi merkez evcil hayvan bakımı"]
+    }
+  },
+  {
+    "slug": "het-eilandje",
+    "postalCode": "2000",
+    "name": {
+      "nl": "Het Eilandje & MAS",
+      "en": "Het Eilandje & MAS",
+      "fr": "Het Eilandje & MAS",
+      "tr": "Het Eilandje & MAS Müzesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas op Het Eilandje | KattenHond",
+      "en": "Cat & Dog Sitting at Het Eilandje | KattenHond",
+      "fr": "Garde de Chat et Chien à Het Eilandje | KattenHond",
+      "tr": "Het Eilandje Kedi ve Köpek Bakıcısı | KattenHond"
+    },
+    "subtitle": {
+      "nl": "Premium huisdierverzorging nabij het MAS en de dokken.",
+      "en": "Premium pet care near the MAS and the docks.",
+      "fr": "Soins premium pour animaux près du MAS et des docks.",
+      "tr": "MAS Müzesi ve rıhtım yakınında premium evcil hayvan bakımı."
+    },
+    "description": {
+      "nl": "Voor bewoners van het hippe Eilandje, rond het MAS en de jachthaven, biedt KattenHond exclusieve huisdierverzorging. Of u nu in een loft of appartement woont, onze biologen verzorgen uw kat of hond met de grootste toewijding. Inclusief verrijkende hondenwandelingen langs de Scheldekaaien en de dokken.",
+      "en": "For residents of the trendy Eilandje, around the MAS and the marina, KattenHond offers exclusive pet care. Whether you live in a loft or apartment, our biologists care for your cat or dog with the utmost dedication. Includes enriching dog walks along the Scheldt quays and docks.",
+      "fr": "Pour les résidents du quartier branché d'Eilandje, autour du MAS et de la marina, KattenHond propose des soins exclusifs pour animaux. Inclut des promenades enrichissantes pour chiens le long des quais de l'Escaut.",
+      "tr": "MAS Müzesi ve marina etrafındaki popüler Het Eilandje sakinleri için KattenHond özel evcil hayvan bakımı sunar. Loft veya apartman dairenizde kedinize veya köpeğinize biyologlarımız özenle bakar. Scheldt rıhtımı boyunca köpek gezdirme turları dahildir."
+    },
+    "highlights": {
+      "nl": ["Wandelingen langs de dokken", "Premium loft service", "Sleutelbeheer voor appartementen"],
+      "en": ["Walks along the docks", "Premium loft service", "Key management for apartments"],
+      "fr": ["Promenades le long des docks", "Service loft premium", "Gestion des clés"],
+      "tr": ["Rıhtım boyunca yürüyüş", "Premium loft hizmeti", "Apartmanlar için güvenli anahtar yönetimi"]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": { "latitude": 51.2289, "longitude": 4.4045 },
+    "keywords": {
+      "nl": ["kattenoppas het eilandje", "hondenoppas mas antwerpen", "huisdierverzorging eilandje"],
+      "en": ["cat sitter het eilandje", "dog sitter mas antwerp", "pet care eilandje"],
+      "fr": ["cat sitter het eilandje", "garde chien mas anvers"],
+      "tr": ["het eilandje kedi bakıcısı", "mas müzesi köpek bakıcısı", "eilandje evcil hayvan bakımı"]
+    }
+  },
+  {
+    "slug": "zurenborg",
+    "postalCode": "2018",
+    "name": {
+      "nl": "Zurenborg & Cogels-Osylei",
+      "en": "Zurenborg & Cogels-Osylei",
+      "fr": "Zurenborg & Cogels-Osylei",
+      "tr": "Zurenborg & Cogels-Osylei"
+    },
+    "title": {
+      "nl": "Kattenoppas Zurenborg & Hondenoppas Cogels-Osylei | KattenHond",
+      "en": "Cat Sitter Zurenborg & Dog Sitter Cogels-Osylei | KattenHond",
+      "fr": "Cat Sitter Zurenborg & Garde Chien Cogels-Osylei",
+      "tr": "Zurenborg Kedi Bakıcısı & Cogels-Osylei Köpek Bakıcısı"
+    },
+    "subtitle": {
+      "nl": "Liefdevolle verzorging in de mooiste wijk van Antwerpen.",
+      "en": "Loving care in Antwerp's most beautiful neighborhood.",
+      "fr": "Soins affectueux dans le plus beau quartier d'Anvers.",
+      "tr": "Antwerp'in en güzel mahallesinde sevgi dolu bakım."
+    },
+    "description": {
+      "nl": "Woont u in de prachtige belle-époquewijk Zurenborg rond de Cogels-Osylei of Dageraadplaats? KattenHond biedt gepersonaliseerde katten- en hondenoppas voor uw huisdieren. Wij kennen de buurt perfect en zorgen voor ontspannende hondenwandelingen in de buurt en betrouwbare kattenverzorging aan huis terwijl u geniet van uw vakantie of werkdag.",
+      "en": "Do you live in the beautiful belle époque district of Zurenborg around the Cogels-Osylei or Dageraadplaats? KattenHond offers personalized cat and dog sitting for your pets. We know the neighborhood perfectly and provide relaxing dog walks and reliable in-home cat care while you enjoy your vacation or workday.",
+      "fr": "Vivez-vous dans le magnifique quartier Belle Époque de Zurenborg ? KattenHond propose des services personnalisés de garde de chats et de chiens. Nous connaissons parfaitement le quartier et proposons des promenades relaxantes pour chiens.",
+      "tr": "Cogels-Osylei veya Dageraadplaats etrafındaki o güzel tarihi Zurenborg mahallesinde mi yaşıyorsunuz? KattenHond evcil hayvanlarınız için kişiselleştirilmiş kedi ve köpek bakımı sunar. Mahalleyi çok iyi tanıyoruz; siz tatildeyken veya çalışırken rahatlatıcı köpek yürüyüşleri ve güvenilir evde kedi bakımı sağlıyoruz."
+    },
+    "highlights": {
+      "nl": ["Bekend met Zurenborg en pleinen", "Zorg voor oudere katten & honden", "Last-minute boekingen mogelijk"],
+      "en": ["Familiar with Zurenborg squares", "Care for senior cats & dogs", "Last-minute bookings possible"],
+      "fr": ["Familier avec les places de Zurenborg", "Soins pour animaux âgés", "Réservations de dernière minute"],
+      "tr": ["Zurenborg meydanlarına hakim", "Yaşlı kedi ve köpeklere özel bakım", "Son dakika randevu imkanı"]
+    },
+    "image": "/images/cat_meds.png",
+    "geo": { "latitude": 51.2036, "longitude": 4.4332 },
+    "keywords": {
+      "nl": ["kattenoppas zurenborg", "hondenoppas cogels-osylei", "dageraadplaats huisdierverzorging"],
+      "en": ["cat sitter zurenborg", "dog sitter cogels-osylei"],
+      "fr": ["cat sitter zurenborg", "garde chien zurenborg"],
+      "tr": ["zurenborg kedi bakıcısı", "cogels-osylei köpek bakıcısı"]
+    }
+  },
+  {
+    "slug": "linkeroever",
+    "postalCode": "2050",
+    "name": {
+      "nl": "Linkeroever",
+      "en": "Linkeroever",
+      "fr": "Linkeroever",
+      "tr": "Linkeroever (Sol Yaka)"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas op Linkeroever | KattenHond",
+      "en": "Cat & Dog Sitting in Linkeroever | KattenHond",
+      "fr": "Garde de Chat et Chien à Linkeroever | KattenHond",
+      "tr": "Linkeroever Kedi ve Köpek Bakıcısı | KattenHond"
+    },
+    "subtitle": {
+      "nl": "Betrouwbare huisdierverzorging aan de overkant van de Schelde.",
+      "en": "Reliable pet care across the Scheldt.",
+      "fr": "Soins fiables pour animaux de l'autre côté de l'Escaut.",
+      "tr": "Scheldt nehrinin karşı yakasında güvenilir evcil hayvan bakımı."
+    },
+    "description": {
+      "nl": "Genieten van de rust op Linkeroever nabij het Sint-Annastrand of het Galgenweel? Onze oppassers komen met plezier de Schelde over! KattenHond biedt dagelijkse bezoeken voor uw kat en actieve wandelingen in de groene zones van Linkeroever voor uw hond. Altijd met 100% fotobewijs en bodycam transparantie.",
+      "en": "Enjoying the tranquility of Linkeroever near Sint-Annastrand or Galgenweel? Our sitters gladly cross the Scheldt! KattenHond offers daily visits for your cat and active walks in the green zones of Linkeroever for your dog. Always with 100% photo proof and bodycam transparency.",
+      "fr": "Vous profitez de la tranquillité de Linkeroever ? Nos gardiens traversent volontiers l'Escaut ! KattenHond propose des visites quotidiennes pour votre chat et des promenades actives dans les zones vertes pour votre chien.",
+      "tr": "Sint-Annastrand veya Galgenweel yakınlarında Linkeroever'ın huzurunu mu çıkarıyorsunuz? Bakıcılarımız Scheldt nehrini sizin için seve seve geçiyor! KattenHond, kediniz için günlük ziyaretler ve köpeğiniz için yeşil alanlarda aktif yürüyüşler sunar. Her zaman %100 fotoğraf ve yaka kamerası şeffaflığıyla."
+    },
+    "highlights": {
+      "nl": ["Wandelingen nabij Galgenweel", "Groene rustige routes", "Actieve oppassers"],
+      "en": ["Walks near Galgenweel", "Green quiet routes", "Active pet sitters"],
+      "fr": ["Promenades près de Galgenweel", "Itinéraires verts et calmes", "Gardiens actifs"],
+      "tr": ["Galgenweel etrafında yürüyüş", "Yeşil ve sakin rotalar", "Aktif evcil hayvan bakıcıları"]
+    },
+    "image": "/images/cat_feeding.png",
+    "geo": { "latitude": 51.2224, "longitude": 4.3820 },
+    "keywords": {
+      "nl": ["kattenoppas linkeroever", "hondenoppas sint-annastrand", "huisdierverzorging linkeroever"],
+      "en": ["cat sitter linkeroever", "dog sitter linkeroever"],
+      "fr": ["cat sitter linkeroever", "garde chien linkeroever"],
+      "tr": ["linkeroever kedi bakıcısı", "linkeroever köpek gezdirme"]
+    }
+  },
+
+  {
     "slug": "kattenoppas-aan-huis",
     "postalCode": "Antwerpen & Omstreken",
     "name": {

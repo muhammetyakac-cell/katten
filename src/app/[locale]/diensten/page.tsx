@@ -52,6 +52,11 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
   ];
 
   const districts = [
+    
+    { slug: 'antwerpen-centrum', name: 'Antwerpen Centrum & Meir', postal: '2000' },
+    { slug: 'het-eilandje', name: 'Het Eilandje & MAS', postal: '2000' },
+    { slug: 'zurenborg', name: 'Zurenborg & Cogels-Osylei', postal: '2018' },
+    { slug: 'linkeroever', name: 'Linkeroever & Sint-Annastrand', postal: '2050' },
     { slug: 'willebroek', name: 'Willebroek & Blaasveld', postal: '2830' },
     { slug: 'mechelen', name: 'Mechelen Centrum & Omstreken', postal: '2800' },
     { slug: 'boom', name: 'Boom & Rupelstreek', postal: '2850' },
