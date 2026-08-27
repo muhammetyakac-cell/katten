@@ -17,6 +17,133 @@ export interface DistrictInfo {
 
 export const districts: DistrictInfo[] = [
   {
+    "slug": "kattenoppas-aan-huis",
+    "postalCode": "Antwerpen & Omstreken",
+    "name": {
+      "nl": "Kattenoppas aan Huis",
+      "en": "In-Home Cat Sitting",
+      "fr": "Garde de Chat à Domicile",
+      "tr": "Evde Kedi Bakımı"
+    },
+    "title": {
+      "nl": "Kattenoppas aan Huis in Antwerpen | Stressvrij voor uw Kat",
+      "en": "In-Home Cat Sitting in Antwerp | Stress-Free Cat Care",
+      "fr": "Garde de Chat à Domicile à Anvers | Sans Stress",
+      "tr": "Antwerp'te Evde Kedi Bakımı | Kediniz İçin Stres Yok"
+    },
+    "subtitle": {
+      "nl": "De beste zorg in de eigen, veilige omgeving van uw kat.",
+      "en": "The best care in your cat's own safe environment.",
+      "fr": "Les meilleurs soins dans l'environnement sûr de votre chat.",
+      "tr": "Kedinizin kendi güvenli ortamında en iyi bakım."
+    },
+    "description": {
+      "nl": "Waarom uw kat naar een onbekende plek brengen? Met onze kattenoppas aan huis service blijft uw kat veilig en comfortabel in haar eigen territorium. Onze gediplomeerde biologen komen dagelijks langs voor voeding, knuffels, kattenbakreiniging en gezondheidscontroles. Met 100% HD Bodycam garantie voor uw absolute gemoedsrust.",
+      "en": "Why take your cat to an unfamiliar place? With our in-home cat sitting service, your cat stays safe and comfortable in their own territory. Our qualified biologists visit daily for feeding, cuddles, litter box cleaning, and health checks. With 100% HD Bodycam guarantee for your absolute peace of mind.",
+      "fr": "Pourquoi emmener votre chat dans un endroit inconnu ? Avec notre service de garde à domicile, votre chat reste en sécurité et à l'aise sur son propre territoire. Nos biologistes qualifiés passent tous les jours pour les repas, les câlins et le nettoyage. Avec garantie Bodycam HD 100%.",
+      "tr": "Kedinizin düzenini neden bozasınız? Evde kedi bakımı hizmetimizle, kediniz kendi bölgesinde güvende ve rahat kalır. Diplomalı biyologlarımız mama, şefkat, kum temizliği ve sağlık kontrolü için her gün evinize gelir. %100 HD Yaka Kamerası güvencesiyle içiniz rahat olsun."
+    },
+    "highlights": {
+      "nl": ["Geen reistress voor uw kat", "Dagelijkse updates via dashboard", "Professionele zorg door biologen"],
+      "en": ["No travel stress for your cat", "Daily updates via dashboard", "Professional care by biologists"],
+      "fr": ["Pas de stress de voyage", "Mises à jour quotidiennes", "Soins professionnels par des biologistes"],
+      "tr": ["Kediniz için seyahat stresi yok", "Panel üzerinden günlük rapor", "Biyologlardan profesyonel bakım"]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": { "latitude": 51.2194, "longitude": 4.4025 },
+    "keywords": {
+      "nl": ["kattenoppas aan huis", "kattensitter antwerpen", "kattenverzorging thuis", "huisbezoek kat"],
+      "en": ["in-home cat sitting", "cat sitter antwerp", "at home cat care"],
+      "fr": ["garde de chat à domicile", "cat sitter anvers"],
+      "tr": ["evde kedi bakımı", "antwerp kedi bakıcısı", "evde kedi bakıcısı"]
+    }
+  },
+  {
+    "slug": "kattenpension-alternatief",
+    "postalCode": "Antwerpen & Omstreken",
+    "name": {
+      "nl": "Alternatief voor Kattenpension",
+      "en": "Cat Boarding Alternative",
+      "fr": "Alternative Pension pour Chats",
+      "tr": "Kedi Oteli Alternatifi"
+    },
+    "title": {
+      "nl": "Het Beste Alternatief voor een Kattenpension | KattenHond",
+      "en": "The Best Cat Boarding Alternative in Antwerp | KattenHond",
+      "fr": "La Meilleure Alternative à la Pension pour Chats | KattenHond",
+      "tr": "Antwerp'te Kedi Oteline En İyi Alternatif | Evde Bakım"
+    },
+    "subtitle": {
+      "nl": "Bespaar uw kat de stress van een kooi en vreemde geuren.",
+      "en": "Save your cat the stress of a cage and strange smells.",
+      "fr": "Épargnez à votre chat le stress d'une cage.",
+      "tr": "Kedizi kafes ve yabancı koku stresinden kurtarın."
+    },
+    "description": {
+      "nl": "Een kattenpension kan erg stressvol zijn voor een kat. Vreemde katten, nieuwe geuren en opsluiting veroorzaken vaak angst. Als hét alternatief voor een kattenpension in Antwerpen, biedt KattenHond verzorging aan huis. Uw kat blijft koning(in) in eigen huis terwijl wij langskomen voor alle zorg, liefde en aandacht.",
+      "en": "A cattery or cat boarding facility can be highly stressful. Strange cats, new smells, and confinement often cause anxiety. As the premier cat boarding alternative in Antwerp, KattenHond provides at-home care. Your cat remains royalty in their own home while we visit to provide all necessary care, love, and attention.",
+      "fr": "Une pension pour chats peut être très stressante. Comme meilleure alternative à Anvers, KattenHond propose des soins à domicile. Votre chat reste roi dans sa propre maison pendant que nous passons pour lui donner tous les soins et l'amour nécessaires.",
+      "tr": "Kedi oteli ve pansiyonlar kediler için çok stresli olabilir. Yabancı kediler, kafes ortamı ve yeni kokular endişe yaratır. Antwerp'teki en iyi kedi oteli alternatifi olarak, KattenHond evde bakım sunar. Kediniz kendi evinin krallığında kalırken, biz gelip tüm ihtiyacını ve sevgisini karşılarız."
+    },
+    "highlights": {
+      "nl": ["Voorkomt stress en ziektes", "Geen dure pensionkosten per nacht", "100% gepersonaliseerde aandacht"],
+      "en": ["Prevents stress and diseases", "No expensive nightly boarding fees", "100% personalized attention"],
+      "fr": ["Prévient le stress et les maladies", "Pas de frais de pension de nuit", "Attention 100% personnalisée"],
+      "tr": ["Stres ve hastalıkları önler", "Gecelik pahalı otel ücreti yok", "%100 kişiselleştirilmiş ilgi"]
+    },
+    "image": "/images/cat_feeding.png",
+    "geo": { "latitude": 51.2194, "longitude": 4.4025 },
+    "keywords": {
+      "nl": ["kattenpension alternatief", "kattenhotel antwerpen", "kattenpension antwerpen", "kattenoppas in plaats van pension"],
+      "en": ["cat boarding alternative", "cat hotel antwerp", "cattery alternative"],
+      "fr": ["alternative pension chat", "hotel chat anvers"],
+      "tr": ["kedi oteli alternatifi", "kedi pansiyonu alternatifi", "antwerp kedi oteli"]
+    }
+  },
+  {
+    "slug": "professionele-kattensitter",
+    "postalCode": "Antwerpen & Omstreken",
+    "name": {
+      "nl": "Professionele Kattensitter",
+      "en": "Professional Cat Sitter",
+      "fr": "Cat Sitter Professionnel",
+      "tr": "Profesyonel Kedi Bakıcısı"
+    },
+    "title": {
+      "nl": "Professionele Kattensitter in Antwerpen | Gediplomeerd Bioloog",
+      "en": "Professional Cat Sitter in Antwerp | Qualified Biologist",
+      "fr": "Cat Sitter Professionnel à Anvers | Biologiste",
+      "tr": "Antwerp Profesyonel Kedi Bakıcısı | Diplomalı Biyolog"
+    },
+    "subtitle": {
+      "nl": "Kies voor zekerheid en expertise voor uw geliefde huisdier.",
+      "en": "Choose certainty and expertise for your beloved pet.",
+      "fr": "Choisissez la certitude et l'expertise pour votre animal.",
+      "tr": "Sevgili evcil hayvanınız için uzmanlığı ve güveni seçin."
+    },
+    "description": {
+      "nl": "Laat de zorg van uw kat niet aan het toeval over. Als professionele kattensitter in Antwerpen combineert KattenHond wetenschappelijke kennis (gediplomeerde biologen) met een enorme passie voor dieren. Wij herkennen subtiele signalen van pijn of stress en kunnen indien nodig medisch ingrijpen of medicatie toedienen.",
+      "en": "Don't leave your cat's care to chance. As a professional cat sitter in Antwerp, KattenHond combines scientific knowledge (qualified biologists) with a immense passion for animals. We recognize subtle signs of pain or stress and can intervene medically or administer medication if needed.",
+      "fr": "Ne confiez pas la garde de votre chat au hasard. En tant que cat sitter professionnel à Anvers, KattenHond combine connaissances scientifiques (biologistes) et passion. Nous reconnaissons les signes subtils de douleur ou de stress.",
+      "tr": "Kedinizin bakımını şansa bırakmayın. Antwerp'te profesyonel kedi bakıcısı olarak KattenHond, bilimsel bilgi (diplomalı biyologlar) ile hayvan sevgisini harmanlar. İnce stres veya ağrı belirtilerini tanır, gerekirse ilaç veya tıbbi müdahale uygulayabiliriz."
+    },
+    "highlights": {
+      "nl": ["Medische expertise (Bioloog)", "Ervaring met angstige katten", "Medicatie toediening inbegrepen"],
+      "en": ["Medical expertise (Biologist)", "Experience with anxious cats", "Medication administration included"],
+      "fr": ["Expertise médicale", "Expérience chats anxieux", "Administration de médicaments"],
+      "tr": ["Tıbbi uzmanlık (Biyolog)", "Korkak kedilerle tecrübe", "İlaç uygulaması dahil"]
+    },
+    "image": "/images/cat_health.png",
+    "geo": { "latitude": 51.2194, "longitude": 4.4025 },
+    "keywords": {
+      "nl": ["professionele kattensitter", "gediplomeerde kattenoppas", "medische kattenoppas", "kattensitter gezocht"],
+      "en": ["professional cat sitter", "medical cat sitter", "qualified cat sitter"],
+      "fr": ["cat sitter professionnel", "garde chat médical"],
+      "tr": ["profesyonel kedi bakıcısı", "uzman kedi bakıcısı", "tıbbi kedi bakımı"]
+    }
+  },
+
+  {
     "slug": "daily-visits",
     "postalCode": "Groot-Antwerpen",
     "name": {

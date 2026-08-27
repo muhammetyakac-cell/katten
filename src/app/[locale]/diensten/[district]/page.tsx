@@ -68,7 +68,7 @@ export default async function ServiceOrDistrictPage({
   }
 
   const lang = (locale in item.name ? locale : 'nl') as keyof typeof item.name;
-  const isDistrict = !['daily-visits', 'feeding', 'medication', 'bodycam', 'health', 'litter', 'playtime', 'plants', 'mail', 'hondenoppas', 'hondenuitlaatservice', 'puppy-care'].includes(item.slug);
+  const isDistrict = !['daily-visits', 'feeding', 'medication', 'bodycam', 'health', 'litter', 'playtime', 'plants', 'mail', 'hondenoppas', 'hondenuitlaatservice', 'puppy-care', 'kattenoppas-aan-huis', 'kattenpension-alternatief', 'professionele-kattensitter'].includes(item.slug);
 
   // Schema Org Structured Data
   const schemaData = {

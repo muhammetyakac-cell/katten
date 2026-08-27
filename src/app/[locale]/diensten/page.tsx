@@ -33,6 +33,10 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
   const tFooter = await getTranslations({ locale, namespace: 'footer' });
 
   const services = [
+    
+    { icon: '🏡', id: 'kattenoppas-aan-huis', slug: 'kattenoppas-aan-huis', titleNl: 'Kattenoppas aan Huis', titleEn: 'In-Home Cat Sitting', titleFr: 'Garde de Chat à Domicile', titleTr: 'Evde Kedi Bakımı' },
+    { icon: '🏨', id: 'kattenpension-alternatief', slug: 'kattenpension-alternatief', titleNl: 'Kattenpension Alternatief', titleEn: 'Cat Boarding Alternative', titleFr: 'Alternative Pension', titleTr: 'Kedi Oteli Alternatifi' },
+    { icon: '👩‍⚕️', id: 'professionele-kattensitter', slug: 'professionele-kattensitter', titleNl: 'Professionele Kattensitter', titleEn: 'Professional Cat Sitter', titleFr: 'Cat Sitter Professionnel', titleTr: 'Profesyonel Kedi Bakıcısı' },
     { icon: '🏠', id: 'daily-visits', slug: 'daily-visits', titleNl: 'Dagelijkse Huisbezoeken', titleEn: 'Daily Home Visits', titleFr: 'Visites Quotidiennes', titleTr: 'Günlük Ev Ziyaretleri' },
     { icon: '🐶', id: 'hondenoppas', slug: 'hondenoppas', titleNl: 'Hondenoppas aan Huis', titleEn: 'In-Home Dog Sitting', titleFr: 'Garde de Chien à Domicile', titleTr: 'Evde Köpek Bakıcılığı' },
     { icon: '🦮', id: 'hondenuitlaatservice', slug: 'hondenuitlaatservice', titleNl: 'Hondenuitlaatservice', titleEn: 'Dog Walking Service', titleFr: 'Service Promenade Chien', titleTr: 'Köpek Gezdirme Servisi' },
