@@ -105,6 +105,14 @@ export default async function LocaleLayout({
         <link rel="alternate" hrefLang="fr" href="https://kattenhond.store/fr" />
         <link rel="alternate" hrefLang="tr" href="https://kattenhond.store/tr" />
         <link rel="alternate" hrefLang="x-default" href="https://kattenhond.store/nl" />
+        <script
+          type="text/javascript"
+          data-cmp-ab="1"
+          src="https://cdn.consentmanager.net/delivery/autoblocking/9ec20d2c62816.js"
+          data-cmp-host="b.delivery.consentmanager.net"
+          data-cmp-cdn="cdn.consentmanager.net"
+          data-cmp-codesrc="16"
+        />
       </head>
       <body>
         <NextIntlClientProvider messages={messages}>
