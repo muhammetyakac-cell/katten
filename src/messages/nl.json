@@ -23,7 +23,7 @@
     "bookNow": "Boek een kennismaking",
     "learnMore": "Bekijk onze diensten",
     "stats": {
-      "cats": "Tevreden Katten",
+      "cats": "Tevreden KattenHond",
       "visits": "Huisbezoeken",
       "bodycam": "Bodycam Opnames",
       "rating": "Klanttevredenheid"
@@ -193,21 +193,21 @@
         "name": "Sophie De Meester",
         "location": "Borgerhout, Antwerpen",
         "rating": 5,
-        "text": "Ik was zo ongerust toen ik twee weken naar Spanje vertrok en mijn twee katten achter moest laten. Maar Katten heeft dat helemaal weggenomen. Elke dag kreeg ik foto's en een kort berichtje. De bodycam-beelden gaven mij enorm veel vertrouwen. Luna en Milo waren helemaal happy toen ik thuiskwam!",
+        "text": "Ik was zo ongerust toen ik twee weken naar Spanje vertrok en mijn twee katten achter moest laten. Maar KattenHond heeft dat helemaal weggenomen. Elke dag kreeg ik foto's en een kort berichtje. De bodycam-beelden gaven mij enorm veel vertrouwen. Luna en Milo waren helemaal happy toen ik thuiskwam!",
         "catNames": "Luna & Milo"
       },
       {
         "name": "Pieter Janssens",
         "location": "Wilrijk, Antwerpen",
         "rating": 5,
-        "text": "Onze oude kater Felix heeft diabetes en krijgt twee keer per dag insuline. Ik durfde nooit op reis te gaan, maar met het Premium-plan van Katten is dat eindelijk mogelijk. De oppassers zijn geduldig, professioneel en duidelijk dol op katten. Een absolute aanrader.",
+        "text": "Onze oude kater Felix heeft diabetes en krijgt twee keer per dag insuline. Ik durfde nooit op reis te gaan, maar met het Premium-plan van KattenHond is dat eindelijk mogelijk. De oppassers zijn geduldig, professioneel en duidelijk dol op katten. Een absolute aanrader.",
         "catNames": "Felix"
       },
       {
         "name": "Ayşe Yılmaz",
         "location": "Deurne, Antwerpen",
         "rating": 5,
-        "text": "Het kennismakingsbezoek was al meteen top. Ze namen de tijd om alles te bespreken en mijn kat Pamuk was direct op haar gemak. De foto's die ik elke dag ontving waren geweldig. Mijn planten stonden er ook nog piekfijn bij toen ik thuiskwam. Dankjewel, Katten!",
+        "text": "Het kennismakingsbezoek was al meteen top. Ze namen de tijd om alles te bespreken en mijn kat Pamuk was direct op haar gemak. De foto's die ik elke dag ontving waren geweldig. Mijn planten stonden er ook nog piekfijn bij toen ik thuiskwam. Dankjewel, KattenHond!",
         "catNames": "Pamuk"
       }
     ]
@@ -220,12 +220,12 @@
     "guarantee": "100% tevredenheidsgarantie — niet tevreden, geld terug na het eerste bezoek."
   },
   "about": {
-    "pageTitle": "Over Katten",
+    "pageTitle": "Over KattenHond",
     "pageSubtitle": "De mensen achter de mooiste kattenoppas in Antwerpen",
     "story": {
       "title": "Ons verhaal",
       "paragraphs": [
-        "Katten is ontstaan vanuit een persoonlijke frustratie: het gebrek aan een betrouwbare en transparante kattenoppas in de regio Antwerpen. Als katteneigenaars weten wij hoe moeilijk het is om op reis te gaan en uw geliefde viervoeter achter te laten.",
+        "KattenHond is ontstaan vanuit een persoonlijke frustratie: het gebrek aan een betrouwbare en transparante kattenoppas in de regio Antwerpen. Als katteneigenaars weten wij hoe moeilijk het is om op reis te gaan en uw geliefde viervoeter achter te laten.",
         "Daarom hebben wij een service opgericht die gebaseerd is op vertrouwen, transparantie en oprechte liefde voor katten. Met onze bodycam-opnames, dagelijkse updates en persoonlijke aanpak weten u altijd dat uw kat in de beste handen is.",
         "Vandaag verzorgen wij honderden katten in heel de regio Antwerpen — van het Eilandje tot Brasschaat, van Hoboken tot Schilde. Elke kat is uniek en verdient een oppas op maat."
       ]
@@ -304,7 +304,7 @@
       },
       {
         "title": "Spelen & aandacht",
-        "description": "Katten hebben sociale interactie nodig, zelfs de meest onafhankelijke. Onze oppassers nemen de tijd voor speeltijd, aaien en gezelschap. Met hun favoriete speeltje uiteraard!",
+        "description": "KattenHond hebben sociale interactie nodig, zelfs de meest onafhankelijke. Onze oppassers nemen de tijd voor speeltijd, aaien en gezelschap. Met hun favoriete speeltje uiteraard!",
         "icon": "toy"
       },
       {
@@ -361,9 +361,9 @@
       "plan": "Gewenst plan",
       "planOptions": {
         "undecided": "Nog niet beslist",
-        "basis": "Basis (€15/bezoek)",
-        "standaard": "Standaard (€22/bezoek)",
-        "premium": "Premium (€35/bezoek)"
+        "basis": "Basis (€25/bezoek)",
+        "standaard": "Standaard (€55/bezoek)",
+        "premium": "Premium (€55/bezoek)"
       },
       "message": "Bijkomende informatie",
       "messagePlaceholder": "Vertel ons meer over uw kat(ten): speciale behoeften, medicatie, karakter, favoriete speeltjes...",
@@ -522,7 +522,7 @@
       },
       {
         "title": "Prijzen en Betaling",
-        "content": "Onze tarieven zijn: Basispakket 25 euro per bezoek, Standaardpakket 55 euro per bezoek, Premiumpakket 55 euro per bezoek. Alle prijzen zijn inclusief BTW. Betaling dient te geschieden voor aanvang van de dienst."
+        "content": "Onze tarieven zijn: Basispakket 25 euro per bezoek, Standaardpakket 35 euro per bezoek, Premiumpakket 55 euro per bezoek. Alle prijzen zijn inclusief BTW. Betaling dient te geschieden voor aanvang van de dienst."
       },
       {
         "title": "Sleuteloverdracht",

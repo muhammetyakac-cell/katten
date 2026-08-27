@@ -32,6 +32,36 @@ export default function Testimonials() {
             </div>
           ))}
         </div>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'PetService',
+              name: 'KattenHond',
+              aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: '4.9',
+                reviewCount: '500',
+                bestRating: '5',
+                worstRating: '1',
+              },
+              review: items.map((index) => ({
+                '@type': 'Review',
+                reviewRating: {
+                  '@type': 'Rating',
+                  ratingValue: '5',
+                  bestRating: '5',
+                },
+                author: {
+                  '@type': 'Person',
+                  name: t(`items.${index}.name`),
+                },
+                reviewBody: t(`items.${index}.text`),
+              })),
+            }),
+          }}
+        />
       </div>
     </section>
   );

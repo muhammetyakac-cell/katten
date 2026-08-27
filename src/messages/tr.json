@@ -193,21 +193,21 @@
         "name": "Sophie De Meester",
         "location": "Borgerhout, Antwerpen",
         "rating": 5,
-        "text": "İki haftalığına İspanya'ya giderken iki kedimi geride bırakmak zorunda kaldığımda çok endişeliydim. Ama Katten bu endişemi tamamen giderdi. Her gün fotoğraflar ve kısa bir mesaj aldım. Vücut kamerası görüntüleri bana büyük güven verdi. Eve döndüğümde Luna ve Milo son derece mutluydu!",
+        "text": "İki haftalığına İspanya'ya giderken iki kedimi geride bırakmak zorunda kaldığımda çok endişeliydim. Ama KattenHond bu endişemi tamamen giderdi. Her gün fotoğraflar ve kısa bir mesaj aldım. Vücut kamerası görüntüleri bana büyük güven verdi. Eve döndüğümde Luna ve Milo son derece mutluydu!",
         "catNames": "Luna & Milo"
       },
       {
         "name": "Pieter Janssens",
         "location": "Wilrijk, Antwerpen",
         "rating": 5,
-        "text": "Yaşlı kedimiz Felix şeker hastası ve günde iki kez insüline ihtiyacı var. Hiçbir zaman tatile gitmeye cesaret edememiştim ama Katten'in Premium planı sayesinde bu sonunda mümkün oldu. Bakıcılar sabırlı, profesyonel ve kedilere gerçekten düşkünler. Kesinlikle tavsiye ederim.",
+        "text": "Yaşlı kedimiz Felix şeker hastası ve günde iki kez insüline ihtiyacı var. Hiçbir zaman tatile gitmeye cesaret edememiştim ama KattenHond'in Premium planı sayesinde bu sonunda mümkün oldu. Bakıcılar sabırlı, profesyonel ve kedilere gerçekten düşkünler. Kesinlikle tavsiye ederim.",
         "catNames": "Felix"
       },
       {
         "name": "Ayşe Yılmaz",
         "location": "Deurne, Antwerpen",
         "rating": 5,
-        "text": "Tanışma ziyareti daha en baştan harikaydı. Her şeyi konuşmak için zaman ayırdılar ve kedim Pamuk hemen rahat hissetti. Her gün aldığım fotoğraflar muhteşemdi. Eve döndüğümde çiçeklerim de gayet bakımlıydı. Teşekkürler, Katten!",
+        "text": "Tanışma ziyareti daha en baştan harikaydı. Her şeyi konuşmak için zaman ayırdılar ve kedim Pamuk hemen rahat hissetti. Her gün aldığım fotoğraflar muhteşemdi. Eve döndüğümde çiçeklerim de gayet bakımlıydı. Teşekkürler, KattenHond!",
         "catNames": "Pamuk"
       }
     ]
@@ -220,12 +220,12 @@
     "guarantee": "%100 memnuniyet garantisi — memnun kalmadıysanız, ilk ziyaretten sonra paranız iade edilir."
   },
   "about": {
-    "pageTitle": "Katten Hakkında",
+    "pageTitle": "KattenHond Hakkında",
     "pageSubtitle": "Antwerpen'in en iyi kedi bakım hizmetinin arkasındaki insanlar",
     "story": {
       "title": "Hikayemiz",
       "paragraphs": [
-        "Katten, kişisel bir hayal kırıklığından doğdu: Antwerpen bölgesinde güvenilir ve şeffaf bir kedi bakım hizmetinin eksikliği. Biz de kedi sahibi olarak, seyahate çıkıp sevgili dostunuzu geride bırakmanın ne kadar zor olduğunu biliyoruz.",
+        "KattenHond, kişisel bir hayal kırıklığından doğdu: Antwerpen bölgesinde güvenilir ve şeffaf bir kedi bakım hizmetinin eksikliği. Biz de kedi sahibi olarak, seyahate çıkıp sevgili dostunuzu geride bırakmanın ne kadar zor olduğunu biliyoruz.",
         "Bu yüzden güven, şeffaflık ve kedilere olan içten sevgi üzerine kurulu bir hizmet oluşturduk. Vücut kamerası kayıtlarımız, günlük güncellemelerimiz ve kişisel yaklaşımımız sayesinde kedinizin en iyi ellerde olduğunu her zaman bilirsiniz.",
         "Bugün, tüm Antwerpen bölgesinde yüzlerce kediye bakıyoruz — Het Eilandje'den Brasschaat'a, Hoboken'den Schilde'ye kadar. Her kedi benzersizdir ve kişiye özel bakımı hak eder."
       ]
@@ -361,9 +361,9 @@
       "plan": "Tercih edilen plan",
       "planOptions": {
         "undecided": "Henüz karar vermedim",
-        "basis": "Temel (€15/ziyaret)",
-        "standaard": "Standart (€22/ziyaret)",
-        "premium": "Premium (€35/ziyaret)"
+        "basis": "Temel (€25/ziyaret)",
+        "standaard": "Standart (€55/ziyaret)",
+        "premium": "Premium (€55/ziyaret)"
       },
       "message": "Ek bilgiler",
       "messagePlaceholder": "Kedi(leri)niz hakkında bize daha fazla bilgi verin: özel ihtiyaçlar, ilaçlar, karakter, favori oyuncaklar...",
@@ -522,7 +522,7 @@
       },
       {
         "title": "Fiyatlar ve Odeme",
-        "content": "Ucretlerimiz: Temel paket ziyaret basina 25 euro, Standart paket 55 euro/ziyaret, Premium paket 55 euro/ziyaret. Tum fiyatlar KDV dahildir."
+        "content": "Ucretlerimiz: Temel paket ziyaret basina 25 euro, Standart paket 35 euro/ziyaret, Premium paket 55 euro/ziyaret. Tum fiyatlar KDV dahildir."
       },
       {
         "title": "Anahtar Teslimi",

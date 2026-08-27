@@ -69,11 +69,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Add all blog posts to sitemap (SEO critical!)
   const allPosts = getAllBlogPosts();
   allPosts.forEach((post) => {
+    const languages: Record<string, string> = {};
+    languages[post.locale] = `${host}/${post.locale}/blog/${post.slug}`;
+    languages['x-default'] = `${host}/${post.locale}/blog/${post.slug}`;
+    
     sitemapEntries.push({
       url: `${host}/${post.locale}/blog/${post.slug}`,
       lastModified: new Date(post.date),
       changeFrequency: 'monthly',
       priority: 0.7,
+      alternates: {
+        languages,
+      },
     });
   });
 

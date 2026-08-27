@@ -27,11 +27,15 @@ export async function generateMetadata({
     title: `${item.title[lang]} | KattenHond Antwerpen`,
     description: item.description[lang],
     keywords: item.keywords[lang] || item.keywords.nl,
+    alternates: { canonical: `https://kattenhond.store/${locale}/diensten/${slug}` },
     openGraph: {
       title: item.title[lang],
       description: item.description[lang],
+      url: `https://kattenhond.store/${locale}/diensten/${slug}`,
       images: [item.image],
+      type: 'website',
     },
+    twitter: { card: 'summary_large_image', title: item.title[lang], description: item.description[lang], images: [item.image] },
   };
 }
 

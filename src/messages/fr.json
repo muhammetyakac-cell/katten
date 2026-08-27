@@ -193,21 +193,21 @@
         "name": "Sophie De Meester",
         "location": "Borgerhout, Anvers",
         "rating": 5,
-        "text": "J'étais tellement inquiète quand je suis partie deux semaines en Espagne en laissant mes deux chats. Mais Katten m'a complètement rassurée. Chaque jour, je recevais des photos et un petit message. Les images de la caméra corporelle m'ont donné énormément confiance. Luna et Milo étaient tout à fait contents quand je suis rentrée !",
+        "text": "J'étais tellement inquiète quand je suis partie deux semaines en Espagne en laissant mes deux chats. Mais KattenHond m'a complètement rassurée. Chaque jour, je recevais des photos et un petit message. Les images de la caméra corporelle m'ont donné énormément confiance. Luna et Milo étaient tout à fait contents quand je suis rentrée !",
         "catNames": "Luna & Milo"
       },
       {
         "name": "Pieter Janssens",
         "location": "Wilrijk, Anvers",
         "rating": 5,
-        "text": "Notre vieux chat Felix est diabétique et a besoin d'insuline deux fois par jour. Je n'osais jamais partir en vacances, mais grâce à la formule Premium de Katten, c'est enfin possible. Les gardiens sont patients, professionnels et visiblement passionnés par les chats. Je recommande vivement.",
+        "text": "Notre vieux chat Felix est diabétique et a besoin d'insuline deux fois par jour. Je n'osais jamais partir en vacances, mais grâce à la formule Premium de KattenHond, c'est enfin possible. Les gardiens sont patients, professionnels et visiblement passionnés par les chats. Je recommande vivement.",
         "catNames": "Felix"
       },
       {
         "name": "Ayşe Yılmaz",
         "location": "Deurne, Anvers",
         "rating": 5,
-        "text": "La visite de présentation était déjà très bien. Ils ont pris le temps de tout discuter et ma chatte Pamuk était immédiatement à l'aise. Les photos que je recevais chaque jour étaient superbes. Mes plantes étaient aussi en parfait état à mon retour. Merci, Katten !",
+        "text": "La visite de présentation était déjà très bien. Ils ont pris le temps de tout discuter et ma chatte Pamuk était immédiatement à l'aise. Les photos que je recevais chaque jour étaient superbes. Mes plantes étaient aussi en parfait état à mon retour. Merci, KattenHond !",
         "catNames": "Pamuk"
       }
     ]
@@ -220,12 +220,12 @@
     "guarantee": "Garantie satisfaction à 100 % — pas satisfait, remboursé après la première visite."
   },
   "about": {
-    "pageTitle": "À propos de Katten",
+    "pageTitle": "À propos de KattenHond",
     "pageSubtitle": "Les personnes derrière le meilleur service de garde de chats à Anvers",
     "story": {
       "title": "Notre histoire",
       "paragraphs": [
-        "Katten est né d'une frustration personnelle : le manque d'un service de garde de chats fiable et transparent dans la région d'Anvers. En tant que propriétaires de chats nous-mêmes, nous savons à quel point il est difficile de partir en voyage et de laisser son compagnon félin derrière soi.",
+        "KattenHond est né d'une frustration personnelle : le manque d'un service de garde de chats fiable et transparent dans la région d'Anvers. En tant que propriétaires de chats nous-mêmes, nous savons à quel point il est difficile de partir en voyage et de laisser son compagnon félin derrière soi.",
         "C'est pourquoi nous avons fondé un service basé sur la confiance, la transparence et un amour sincère des chats. Avec nos enregistrements caméra corporelle, nos mises à jour quotidiennes et notre approche personnelle, vous savez toujours que votre chat est entre les meilleures mains.",
         "Aujourd'hui, nous prenons soin de centaines de chats dans toute la région d'Anvers — du Eilandje à Brasschaat, de Hoboken à Schilde. Chaque chat est unique et mérite des soins sur mesure."
       ]
@@ -361,7 +361,7 @@
       "plan": "Formule souhaitée",
       "planOptions": {
         "undecided": "Pas encore décidé",
-        "basis": "Basique (15 €/visite)",
+        "basis": "Basique (25 €/visite)",
         "standaard": "Standard (22 €/visite)",
         "premium": "Premium (35 €/visite)"
       },

@@ -38,8 +38,17 @@ export async function generateMetadata({
     openGraph: {
       title: t('title'),
       description: t('description'),
-      type: "website",
+      type: 'website',
       locale: locale,
+      siteName: 'KattenHond',
+      url: 'https://kattenhond.store',
+      images: [{ url: '/images/hero_background.png', width: 1200, height: 630, alt: 'KattenHond — Kattensitservice & Huisdierverzorging' }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('title'),
+      description: t('description'),
+      images: ['/images/hero_background.png'],
     },
     alternates: {
       canonical: '/',
@@ -73,7 +82,7 @@ export default async function LocaleLayout({
     '@context': 'https://schema.org',
     '@type': 'PetService',
     name: 'KattenHond — Kattensitservice & Huisdierverzorging',
-    image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=1000&auto=format&fit=crop',
+    image: 'https://kattenhond.store/images/hero_background.png',
     description: messages?.metadata ? (messages.metadata as any).description : 'Professionele kattenverzorging aan huis in de regio Antwerpen door KattenHond.',
     address: {
       '@type': 'PostalAddress',
@@ -93,18 +102,13 @@ export default async function LocaleLayout({
     priceRange: '€€',
     founder: {
       '@type': 'Person',
-      name: 'Biologist Founder'
+      name: 'KattenHond Team'
     }
   };
 
   return (
     <html lang={locale} className={`${outfit.variable} ${inter.variable}`}>
       <head>
-        <link rel="alternate" hrefLang="nl" href="https://kattenhond.store/nl" />
-        <link rel="alternate" hrefLang="en" href="https://kattenhond.store/en" />
-        <link rel="alternate" hrefLang="fr" href="https://kattenhond.store/fr" />
-        <link rel="alternate" hrefLang="tr" href="https://kattenhond.store/tr" />
-        <link rel="alternate" hrefLang="x-default" href="https://kattenhond.store/nl" />
         <script
           type="text/javascript"
           data-cmp-ab="1"

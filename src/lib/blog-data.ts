@@ -59,7 +59,7 @@ When planning a vacation, a major question is: *where should I leave my cat?* Ma
 
 At **KattenHond** in Antwerp, we offer professional in-home cat sitting services. This means your cat stays in their familiar environment. We visit to feed, play, and provide any necessary medical care based on our biological expertise.
 
-Want to know more? Check our [Services](/en/services) or [Contact](/en/contact) us directly for a meet-and-greet in the Antwerp area.`,
+Want to know more? Check our [Services](/en/diensten) or [Contact](/en/contact) us directly for a meet-and-greet in the Antwerp area.`,
     date: "2026-06-05",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -86,7 +86,7 @@ Lorsque vous planifiez des vacances, la question principale est : *où dois-je l
 
 Chez **KattenHond** à Anvers, nous proposons des services de cat sitting professionnels à domicile. Votre chat reste dans son environnement familier. Nous passons pour le nourrir, jouer et prodiguer des soins basés sur notre expertise biologique.
 
-Intéressé ? Consultez nos [Services](/fr/services) ou prenez [Contact](/fr/contact) dans la région d\'Anvers.`,
+Intéressé ? Consultez nos [Services](/fr/diensten) ou prenez [Contact](/fr/contact) dans la région d\'Anvers.`,
     date: "2026-06-05",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -113,7 +113,7 @@ Tatil planlarken en büyük sorulardan biri şudur: *Tatilde kedimi nereye bıra
 
 Anvers\'teki **Katten** servisimizde, evde profesyonel kedi bakıcılığı hizmetleri sunuyoruz. Bu, kedinizin tanıdık ortamında kalması demektir. Biyolojik uzmanlığımıza dayanarak beslemek, oynamak ve tıbbi bakım sağlamak için ziyaret ediyoruz.
 
-Daha fazlasını öğrenmek ister misiniz? [Hizmetlerimize](/tr/hizmetler) göz atın veya Anvers bölgesinde bir tanışma için [İletişime](/tr/iletisim) geçin.`,
+Daha fazlasını öğrenmek ister misiniz? [Hizmetlerimize](/tr/diensten) göz atın veya Anvers bölgesinde bir tanışma için [İletişime](/tr/contact) geçin.`,
     date: "2026-06-05",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -221,7 +221,7 @@ Kedinizi bir yabancıya bırakmak stresli olabilir. Tamamen güvenebileceğim bi
 
 Anvers'te, **Katten** tüm bu gereksinimleri karşılayan premium bir hizmet sunar. Rutin ve güvenliğin önemini anlıyoruz.
 
-[İletişim sayfamız](/tr/iletisim) üzerinden bugün bir tanışma randevusu alın.`,
+[İletişim sayfamız](/tr/contact) üzerinden bugün bir tanışma randevusu alın.`,
     date: "2026-06-10",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -275,7 +275,7 @@ Cats are excellent at hiding pain and illness. As a biologist, I am trained to n
 - **Quality time:** We spend time playing and providing mental stimulation, essential for preventing loneliness.
 - **Medical care:** We can professionally administer medication if required.
 
-Don't leave your cat's care to chance. At **KattenHond** in Antwerp, we guarantee loving and professional care. Learn more about our [Services](/en/services).`,
+Don't leave your cat's care to chance. At **KattenHond** in Antwerp, we guarantee loving and professional care. Learn more about our [Services](/en/diensten).`,
     date: "2026-06-15",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -302,7 +302,7 @@ Les chats cachent très bien leur douleur. En tant que biologiste, je suis form�
 - **Temps de qualité :** Nous jouons et stimulons mentalement le chat, essentiel pour éviter la solitude.
 - **Soins médicaux :** Nous pouvons administrer des médicaments de manière professionnelle.
 
-Ne laissez pas les soins de votre chat au hasard. Chez **KattenHond** à Anvers, nous garantissons des soins aimants et professionnels. Découvrez nos [Services](/fr/services).`,
+Ne laissez pas les soins de votre chat au hasard. Chez **KattenHond** à Anvers, nous garantissons des soins aimants et professionnels. Découvrez nos [Services](/fr/diensten).`,
     date: "2026-06-15",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -329,7 +329,7 @@ Kediler acı ve hastalığı gizlemekte mükemmeldir. Bir biyolog olarak davran�
 - **Kaliteli zaman:** Yalnızlığı ve depresyonu önlemek için oyun oynar ve zihinsel uyarım sağlarız.
 - **Tıbbi bakım:** Gerekirse profesyonelce ilaç uygulayabiliriz.
 
-Kedinizin bakımını şansa bırakmayın. Anvers'teki **Katten**'de sevgi dolu ve profesyonel bakımı garanti ediyoruz. [Hizmetlerimiz](/tr/hizmetler) hakkında daha fazla bilgi edinin.`,
+Kedinizin bakımını şansa bırakmayın. Anvers'teki **Katten**'de sevgi dolu ve profesyonel bakımı garanti ediyoruz. [Hizmetlerimiz](/tr/diensten) hakkında daha fazla bilgi edinin.`,
     date: "2026-06-15",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -385,7 +385,7 @@ Our rates reflect:
 - **Included bodycam footage** for complete transparency.
 - **Health checks** and professional observation.
 
-While a neighbor might be cheaper, a professional service handles unforeseen medical situations and guarantees the highest standard of welfare. For specific rates in the Antwerp area, visit our [Services](/en/services) page or [Contact](/en/contact) us for a custom quote.`,
+While a neighbor might be cheaper, a professional service handles unforeseen medical situations and guarantees the highest standard of welfare. For specific rates in the Antwerp area, visit our [Services](/en/diensten) page or [Contact](/en/contact) us for a custom quote.`,
     date: "2026-06-20",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -413,7 +413,7 @@ Nos tarifs reflètent :
 - **Des images de bodycam** pour une transparence totale.
 - **Des contrôles de santé** et une observation professionnelle.
 
-Bien qu'un voisin puisse être moins cher, un professionnel gère les imprévus médicaux et garantit le meilleur bien-être. Pour nos tarifs à Anvers, visitez notre page [Services](/fr/services) ou [Contactez-nous](/fr/contact).`,
+Bien qu'un voisin puisse être moins cher, un professionnel gère les imprévus médicaux et garantit le meilleur bien-être. Pour nos tarifs à Anvers, visitez notre page [Services](/fr/diensten) ou [Contactez-nous](/fr/contact).`,
     date: "2026-06-20",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -441,7 +441,7 @@ Fiyatlarımız şunları yansıtır:
 - Tam şeffaflık için **dahili yaka kamerası (bodycam) görüntüleri**.
 - **Sağlık kontrolleri** ve profesyonel gözlem.
 
-Bir komşu daha ucuz olsa da, profesyonel bir hizmet öngörülemeyen tıbbi durumları yönetir ve en yüksek refah standardını garanti eder. Anvers bölgesindeki özel fiyatlar için [Hizmetler](/tr/hizmetler) sayfamızı ziyaret edin veya özel bir teklif için bizimle [İletişime](/tr/iletisim) geçin.`,
+Bir komşu daha ucuz olsa da, profesyonel bir hizmet öngörülemeyen tıbbi durumları yönetir ve en yüksek refah standardını garanti eder. Anvers bölgesindeki özel fiyatlar için [Hizmetler](/tr/diensten) sayfamızı ziyaret edin veya özel bir teklif için bizimle [İletişime](/tr/contact) geçin.`,
     date: "2026-06-20",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -545,7 +545,7 @@ Bir biyolog olarak kedi davranış kalıplarını kapsamlı bir şekilde inceled
 - **Aşırı yalanma:** Kompülsif yalamadan kaynaklanan kellikler.
 - **Değişen iştah:** Önemli ölçüde daha az veya daha fazla yemek yeme.
 
-**Katten**'de, bakım ziyaretlerimiz bu stres sinyallerini aktif olarak izlemek üzere tasarlanmıştır. Anvers'te sakinleştirici bir ortam sağlıyoruz. Endişeli bir kediniz mi var? Uzman bakımı için bizimle [İletişime](/tr/iletisim) geçin.`,
+**Katten**'de, bakım ziyaretlerimiz bu stres sinyallerini aktif olarak izlemek üzere tasarlanmıştır. Anvers'te sakinleştirici bir ortam sağlıyoruz. Endişeli bir kediniz mi var? Uzman bakımı için bizimle [İletişime](/tr/contact) geçin.`,
     date: "2026-06-25",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -597,7 +597,7 @@ When your cat stays home, professional monitoring is crucial:
 2. **Climate control:** We ensure the environment doesn't get too hot or cold.
 3. **Mental stimulation:** Daily play prevents boredom and destructive behavior.
 
-With **Katten's** services in Antwerp, you don't have to worry. We document every visit via a bodycam, so you can literally watch along with us. Discover more via our [Services](/en/services) page.`,
+With **Katten's** services in Antwerp, you don't have to worry. We document every visit via a bodycam, so you can literally watch along with us. Discover more via our [Services](/en/diensten) page.`,
     date: "2026-06-30",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -623,7 +623,7 @@ Lorsque votre chat reste chez vous, un suivi professionnel est crucial :
 2. **Contrôle de la température :** Nous veillons à ce que l'environnement reste confortable.
 3. **Stimulation mentale :** Le jeu quotidien évite l'ennui et les comportements destructeurs.
 
-Avec les services de **Katten** à Anvers, ne vous inquiétez plus. Nous filmons chaque visite avec une bodycam. Découvrez-en plus sur notre page [Services](/fr/services).`,
+Avec les services de **Katten** à Anvers, ne vous inquiétez plus. Nous filmons chaque visite avec une bodycam. Découvrez-en plus sur notre page [Services](/fr/diensten).`,
     date: "2026-06-30",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -649,7 +649,7 @@ Kediniz evde kaldığında profesyonel gözetim çok önemlidir:
 2. **İklim kontrolü:** Kedinin ortamının çok sıcak veya soğuk olmamasını sağlıyoruz.
 3. **Zihinsel uyarım:** Günlük oyun, can sıkıntısını ve yıkıcı davranışları önler.
 
-Anvers'teki **Katten** hizmetleriyle endişelenmenize gerek yok. Her ziyareti yaka kamerası (bodycam) ile belgeliyoruz, böylece adeta bizimle birlikte izleyebilirsiniz. [Hizmetler](/tr/hizmetler) sayfamızdan daha fazlasını keşfedin.`,
+Anvers'teki **Katten** hizmetleriyle endişelenmenize gerek yok. Her ziyareti yaka kamerası (bodycam) ile belgeliyoruz, böylece adeta bizimle birlikte izleyebilirsiniz. [Hizmetler](/tr/diensten) sayfamızdan daha fazlasını keşfedin.`,
     date: "2026-06-30",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -757,7 +757,7 @@ Katten ekibi ziyaret ettiğinde sadece beslemekten fazlasını yaparız. Şunlar
 - **Ağırlık ve hidrasyon:** Hidrasyonu kontrol etmek, böbrek sorunlarını (yaşlı kedilerde yaygındır) erken teşhis etmeye yardımcı olabilir.
 - **Kum kabı analizi:** Kum kabındaki çıktılar sindirim ve idrar yolu sağlığı hakkında çok şey ortaya koyar.
 
-Anvers'teki yokluğunuzda kesinliği seçin. Bilimsel yaklaşımımız, sağlık sorunlarının hızlı bir şekilde fark edilmesini sağlar. Daha fazla bilgi için bizimle [İletişime](/tr/iletisim) geçin.`,
+Anvers'teki yokluğunuzda kesinliği seçin. Bilimsel yaklaşımımız, sağlık sorunlarının hızlı bir şekilde fark edilmesini sağlar. Daha fazla bilgi için bizimle [İletişime](/tr/contact) geçin.`,
     date: "2026-07-05",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -807,7 +807,7 @@ Cats in the wild get most of their hydration from their prey. Our domestic cats 
 
 ### Safety and toxic plants
 
-Besides nutrition, as a pet sitting service in Antwerp, we also check your home for toxic plants (like lilies) and ensure the feeding routine is strictly followed during your absence. At **KattenHond**, we weigh portions and closely monitor eating behavior. Want to know more? Check our [Services](/en/services).`,
+Besides nutrition, as a pet sitting service in Antwerp, we also check your home for toxic plants (like lilies) and ensure the feeding routine is strictly followed during your absence. At **KattenHond**, we weigh portions and closely monitor eating behavior. Want to know more? Check our [Services](/en/diensten).`,
     date: "2026-07-10",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -832,7 +832,7 @@ Dans la nature, les chats s'hydratent via leurs proies. Nos chats domestiques re
 
 ### Sécurité et plantes toxiques
 
-En plus de la nutrition, notre service à Anvers vérifie votre maison pour les plantes toxiques (comme les lys). Chez **KattenHond**, nous pesons les portions et surveillons le comportement alimentaire. Découvrez nos [Services](/fr/services).`,
+En plus de la nutrition, notre service à Anvers vérifie votre maison pour les plantes toxiques (comme les lys). Chez **KattenHond**, nous pesons les portions et surveillons le comportement alimentaire. Découvrez nos [Services](/fr/diensten).`,
     date: "2026-07-10",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -857,7 +857,7 @@ Vahşi doğadaki kediler hidrasyonlarının çoğunu avlarından alırlar. Evcil
 
 ### Güvenlik ve zehirli bitkiler
 
-Beslenmenin yanı sıra, Anvers'te bir kedi bakım servisi olarak evinizi zehirli bitkiler (zambak gibi) açısından da kontrol ediyor ve yokluğunuzda beslenme rutininin sıkı bir şekilde izlenmesini sağlıyoruz. **Katten**'de porsiyonları tartar ve yeme davranışlarını yakından izleriz. Daha fazlasını öğrenmek ister misiniz? [Hizmetlerimize](/tr/hizmetler) göz atın.`,
+Beslenmenin yanı sıra, Anvers'te bir kedi bakım servisi olarak evinizi zehirli bitkiler (zambak gibi) açısından da kontrol ediyor ve yokluğunuzda beslenme rutininin sıkı bir şekilde izlenmesini sağlıyoruz. **Katten**'de porsiyonları tartar ve yeme davranışlarını yakından izleriz. Daha fazlasını öğrenmek ister misiniz? [Hizmetlerimize](/tr/diensten) göz atın.`,
     date: "2026-07-10",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -909,7 +909,7 @@ Bringing a kitten home is amazing. Proper *kitten care* in the early months is c
 3. **Nutrition:** Kittens need special food with extra proteins and fats for growth.
 4. **Socialization:** Gently introduce them to new sounds, people, and routines.
 
-Need to leave unexpectedly and have a kitten at home in Antwerp? At **KattenHond**, we offer special kitten-care visits, including extra playtime and cuddling for proper socialization. Check our [Services](/en/services) for more details.`,
+Need to leave unexpectedly and have a kitten at home in Antwerp? At **KattenHond**, we offer special kitten-care visits, including extra playtime and cuddling for proper socialization. Check our [Services](/en/diensten) for more details.`,
     date: "2026-07-15",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -935,7 +935,7 @@ Accueillir un chaton est fantastique. De bons *soins pour chatons* sont cruciaux
 3. **Nutrition :** Les chatons ont besoin d'aliments riches en protéines pour grandir.
 4. **Socialisation :** Présentez doucement de nouveaux sons et personnes.
 
-Vous devez vous absenter de votre domicile à Anvers ? Chez **KattenHond**, nous proposons des visites spéciales pour chatons avec du temps de jeu supplémentaire. Découvrez nos [Services](/fr/services).`,
+Vous devez vous absenter de votre domicile à Anvers ? Chez **KattenHond**, nous proposons des visites spéciales pour chatons avec du temps de jeu supplémentaire. Découvrez nos [Services](/fr/diensten).`,
     date: "2026-07-15",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -961,7 +961,7 @@ Eve bir yavru kedi getirmek harikadır. İlk aylarda doğru *kitten bakımı* fi
 3. **Beslenme:** Yavru kedilerin büyüme için ekstra protein ve yağ içeren özel mamalara ihtiyacı vardır.
 4. **Sosyalleşme:** Onları yavaşça yeni sesler, insanlar ve rutinlerle tanıştırın.
 
-Beklenmedik bir şekilde gitmeniz mi gerekiyor ve Anvers'teki evinizde bir yavru kediniz mi var? **Katten**'de, uygun sosyalleşme için ekstra oyun zamanı ve sarılma içeren özel yavru kedi bakım ziyaretleri sunuyoruz. Daha fazla ayrıntı için [Hizmetlerimizi](/tr/hizmetler) inceleyin.`,
+Beklenmedik bir şekilde gitmeniz mi gerekiyor ve Anvers'teki evinizde bir yavru kediniz mi var? **Katten**'de, uygun sosyalleşme için ekstra oyun zamanı ve sarılma içeren özel yavru kedi bakım ziyaretleri sunuyoruz. Daha fazla ayrıntı için [Hizmetlerimizi](/tr/diensten) inceleyin.`,
     date: "2026-07-15",
     readTime: "2 min",
     author: "KattenHond Biologist - Biyolog",
@@ -1085,7 +1085,7 @@ Ayrılık kaygısı belirtileri şunları içerir:
 - Çevresel zenginleştirme sağlayın (bulmaca besleyiciler, tırmalama direkleri, yüksek tüneme yerleri).
 - Rutini koruyan profesyonel bir bakıcı tutun.
 
-Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, yaka kameramızla belgelenen interaktif oyunlar ve güven verici bir varlık ile yalnızlık döngüsünü kırmayı amaçlamaktadır. Özel bir yaklaşım için bizimle [İletişime](/tr/iletisim) geçin.`,
+Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, yaka kameramızla belgelenen interaktif oyunlar ve güven verici bir varlık ile yalnızlık döngüsünü kırmayı amaçlamaktadır. Özel bir yaklaşım için bizimle [İletişime](/tr/contact) geçin.`,
     date: "2026-07-20",
     readTime: "2 min",
     author: "KattenHond Team",
@@ -1162,7 +1162,7 @@ Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, 
     "slug": "anvers-bolgelerinde-kedi-bakicisi-zuid-merkez-berchem-deurne",
     "title": "Anvers Bölgelerinde Evde Kedi Bakıcısı: Zuid, Merkez, Berchem & Deurne",
     "excerpt": "Anvers'te kendi semtinizde güvenilir bir kedi bakıcısı mı arıyorsunuz? Yaka kamerası garantili ve biyolog uzmanlığında bakım hizmetimizi keşfedin.",
-    "content": "## Anvers'in her semtinde güvenilir ve lokal kedi bakımı\n\nAnvers'te yaşarken seyahate çıktığınızda, yaşadığınız bölgeyi iyi bilen lokal bir bakıcıya güvenmek istersiniz. **Het Zuid**, **Tarihi Merkez**, **Berchem**, **Deurne**, **Borgerhout** veya **Wilrijk** fark etmeksizin: **Katten**, evinize kadar gelerek profesyonel kedi bakım hizmeti sunar.\n\n### Semte özel kedi bakıcısının avantajları\n\n- **Hızlı Ulaşım:** Anvers genelinde aktif olduğumuz için acil durum ve son dakika taleplerinize hızla yanıt veriyoruz.\n- **Kediniz İçin Sıfır Stres:** Kediniz otel stresi yaşamadan kendi evinde, kendi yatağında huzurla kalır.\n- **Yaka Kamerası (Bodycam) Güvenliği:** Her ziyarette HD bodycam takıyoruz. Kedinize mama verildiğini, oyun oynandığını video kaydıyla izleyebilirsiniz.\n- **Biyolog Uzmanlığı:** Biyolog kurucumuz sayesinde kedinizin stres ve sağlık sinyallerini bilimsel olarak takip ediyoruz.\n\n[Hizmetlerimizi](/tr/diensten) inceleyin veya evinizde ücretsiz tanışma randevusu almak için [İletişime](/tr/iletisim) geçin!",
+    "content": "## Anvers'in her semtinde güvenilir ve lokal kedi bakımı\n\nAnvers'te yaşarken seyahate çıktığınızda, yaşadığınız bölgeyi iyi bilen lokal bir bakıcıya güvenmek istersiniz. **Het Zuid**, **Tarihi Merkez**, **Berchem**, **Deurne**, **Borgerhout** veya **Wilrijk** fark etmeksizin: **Katten**, evinize kadar gelerek profesyonel kedi bakım hizmeti sunar.\n\n### Semte özel kedi bakıcısının avantajları\n\n- **Hızlı Ulaşım:** Anvers genelinde aktif olduğumuz için acil durum ve son dakika taleplerinize hızla yanıt veriyoruz.\n- **Kediniz İçin Sıfır Stres:** Kediniz otel stresi yaşamadan kendi evinde, kendi yatağında huzurla kalır.\n- **Yaka Kamerası (Bodycam) Güvenliği:** Her ziyarette HD bodycam takıyoruz. Kedinize mama verildiğini, oyun oynandığını video kaydıyla izleyebilirsiniz.\n- **Biyolog Uzmanlığı:** Biyolog kurucumuz sayesinde kedinizin stres ve sağlık sinyallerini bilimsel olarak takip ediyoruz.\n\n[Hizmetlerimizi](/tr/diensten) inceleyin veya evinizde ücretsiz tanışma randevusu almak için [İletişime](/tr/contact) geçin!",
     "date": "2026-07-21",
     "readTime": "3 min",
     "author": "KattenHond Biologist - Biyolog",
@@ -1242,7 +1242,7 @@ Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, 
     "slug": "anverste-acil-veya-son-dakika-kedi-bakicisi",
     "title": "Anvers'te acil veya son dakika kedi bakıcısına mı ihtiyacınız var?",
     "excerpt": "Beklenmedik bir iş seyahati veya acil durum mu çıktı? Anvers'teki hızlı evde kedi bakım hizmetimizle tanışın.",
-    "content": "## Anvers'te hızlı ve güvenilir son dakika kedi bakımı\n\nAcil bir seyahat çıktığında veya ayarladığınız bakıcı son anda iptal ettiğinde **Anvers'te acil kedi bakıcısı** bulmak zor olabilir. **Katten** 24 saat içinde devreye girer.\n\n### Anvers acil bakım hizmetimiz nasıl çalışır?\n\n1. **Hızlı İletişim:** [İletişim Formumuzu](/tr/iletisim) doldurun veya WhatsApp'tan yazın.\n2. **Hızlı Anahtar Teslimi:** Anahtarınızı hemen teslim alıyor veya şifreli kutunuzu kullanıyoruz.\n3. **Eksiksiz Bakım:** Kedinizin maması, taze suyu, kum temizliği ve oyun saati aksatılmadan yapılır.\n4. **Bodycam Videosu:** Her ziyaretten sonra telefonunuza HD video kaydı gönderilir.\n\nAnvers'in en hızlı ve güvenilir evde kedi bakım servisine güvenebilirsiniz!",
+    "content": "## Anvers'te hızlı ve güvenilir son dakika kedi bakımı\n\nAcil bir seyahat çıktığında veya ayarladığınız bakıcı son anda iptal ettiğinde **Anvers'te acil kedi bakıcısı** bulmak zor olabilir. **Katten** 24 saat içinde devreye girer.\n\n### Anvers acil bakım hizmetimiz nasıl çalışır?\n\n1. **Hızlı İletişim:** [İletişim Formumuzu](/tr/contact) doldurun veya WhatsApp'tan yazın.\n2. **Hızlı Anahtar Teslimi:** Anahtarınızı hemen teslim alıyor veya şifreli kutunuzu kullanıyoruz.\n3. **Eksiksiz Bakım:** Kedinizin maması, taze suyu, kum temizliği ve oyun saati aksatılmadan yapılır.\n4. **Bodycam Videosu:** Her ziyaretten sonra telefonunuza HD video kaydı gönderilir.\n\nAnvers'in en hızlı ve güvenilir evde kedi bakım servisine güvenebilirsiniz!",
     "date": "2026-07-22",
     "readTime": "2 min",
     "author": "KattenHond Team",
@@ -1397,7 +1397,7 @@ Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, 
     "slug": "anverste-tatil-donemi-kedi-bakimi-yaz-ve-noel-rehberi",
     "title": "Anvers'te Tatil Dönemi Kedi Bakımı: Yaz ve Noel Rezervasyon Rehberi",
     "excerpt": "Yaz tatilinde veya Noel döneminde seyahat mi planlıyorsunuz? Anvers'te erken kedi bakıcısı rezervasyonunun önemini öğrenin.",
-    "content": "## Anvers'te tatil dönemleri için erken kedi bakıcısı rezervasyonu\n\nTemmuz-Ağustos yaz ayları ile Noel ve Yılbaşı tatilleri **Anvers kedi bakıcıları** için en yoğun dönemlerdir.\n\n### Tatil dönemi kedi bakımı tavsiyeleri:\n1. **En az 2-4 hafta öncesinden rezervasyon yapın.**\n2. **Ücretsiz Tanışma Randevusunu (Meet & Greet) önceden tamamlayın.**\n3. **Yaka Kamerası (Bodycam) güncellemeleri ile tatilinizin tadını çıkarın.**\n\n[İletişim sayfamızdan](/tr/iletisim) yerinizi hemen ayırtın!",
+    "content": "## Anvers'te tatil dönemleri için erken kedi bakıcısı rezervasyonu\n\nTemmuz-Ağustos yaz ayları ile Noel ve Yılbaşı tatilleri **Anvers kedi bakıcıları** için en yoğun dönemlerdir.\n\n### Tatil dönemi kedi bakımı tavsiyeleri:\n1. **En az 2-4 hafta öncesinden rezervasyon yapın.**\n2. **Ücretsiz Tanışma Randevusunu (Meet & Greet) önceden tamamlayın.**\n3. **Yaka Kamerası (Bodycam) güncellemeleri ile tatilinizin tadını çıkarın.**\n\n[İletişim sayfamızdan](/tr/contact) yerinizi hemen ayırtın!",
     "date": "2026-07-23",
     "readTime": "2 min",
     "author": "KattenHond Team",
@@ -1474,7 +1474,7 @@ Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, 
     "slug": "ozel-ihtiyaclari-olan-ve-ilac-kullanan-kediler-icin-anverste-bakim",
     "title": "Özel İhtiyaçları Olan ve İlaç Kullanan Kediler İçin Anvers'te Uzman Bakım",
     "excerpt": "Kediniz insülin iğnesi, hap veya özel tıbbi bakıma mı ihtiyaç duyuyor? Biyolog bakıcımızla evinizde uzman tıbbi kedi bakımı sunuyoruz.",
-    "content": "## Anvers'te uzman tıbbi kedi bakımı hizmeti\n\nKedinizin diyabeti, kronik böbrek rahatsızlığı mı var ya da günlük hap mı kullanması gerekiyor? Sıradan bakıcılar tıbbi bakım gerektiren kedileri üstlenmekten çekinebilir. **Katten**, biyolog kurucusuyla Anvers'te medikal kedi bakımı sağlar.\n\n### Tıbbi uzmanlık alanlarımız:\n\n- **İlaç Uygulaması:** Hap, şurup, göz/kulak damlası ve merhemlerinin güvenle verilmesi.\n- **İnsülin İğneleri:** Diyabetli kediler için tam saatinde insülin enjeksiyonu.\n- **Yaşlı Kedi Bakımı:** Eklem sağlığı, sıvı alımı ve iştah takibi.\n- **Bodycam Kaydı:** İlacın verildiği anı yaka kamerasından net şekilde izleyebilirsiniz.\n\nÖzel bakıma muhtaç kedinizi Anvers'te bir uzmana emanet edin. [İletişime](/tr/iletisim) geçin!",
+    "content": "## Anvers'te uzman tıbbi kedi bakımı hizmeti\n\nKedinizin diyabeti, kronik böbrek rahatsızlığı mı var ya da günlük hap mı kullanması gerekiyor? Sıradan bakıcılar tıbbi bakım gerektiren kedileri üstlenmekten çekinebilir. **Katten**, biyolog kurucusuyla Anvers'te medikal kedi bakımı sağlar.\n\n### Tıbbi uzmanlık alanlarımız:\n\n- **İlaç Uygulaması:** Hap, şurup, göz/kulak damlası ve merhemlerinin güvenle verilmesi.\n- **İnsülin İğneleri:** Diyabetli kediler için tam saatinde insülin enjeksiyonu.\n- **Yaşlı Kedi Bakımı:** Eklem sağlığı, sıvı alımı ve iştah takibi.\n- **Bodycam Kaydı:** İlacın verildiği anı yaka kamerasından net şekilde izleyebilirsiniz.\n\nÖzel bakıma muhtaç kedinizi Anvers'te bir uzmana emanet edin. [İletişime](/tr/contact) geçin!",
     "date": "2026-07-23",
     "readTime": "3 min",
     "author": "KattenHond Biologist - Biyolog",
@@ -2087,7 +2087,7 @@ Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, 
     "slug": "bitki-sulama-ve-posta-toplama-dahil-kedi-bakicisi-anvers",
     "title": "Anvers'te Çiçek Sulama ve Posta Toplama Dahil Kedi Bakıcısı Hizmeti",
     "excerpt": "Kedinizin yanı sıra evdeki çiçeklerinizi de sulayan ve postalarınızı toplayan kedi bakıcısı mı arıyorsunuz?",
-    "content": "## Anvers'te kedi bakımı ve ev hizmetleri bir arada\n\nTatile çıktığınızda sadece kedinizin değil, evdeki çiçeklerinizin ve postalarınızın da güvende olmasını istersiniz.\n\n### Katten Ekstra Ev Hizmetleri:\n- **Çiçek ve Bahçe Sulama:** Evdeki tüm saksı çiçekleri düzenli sulanır.\n- **Posta Toplama:** Posta kutusu boşaltılarak evde biri var izlenimi verilir.\n- **Çöp Kutuları:** Anvers çöp toplama gününde kutular dışarı çıkarılır.\n\n[İletişim sayfamızdan](/tr/iletisim) hemen randevu alın!",
+    "content": "## Anvers'te kedi bakımı ve ev hizmetleri bir arada\n\nTatile çıktığınızda sadece kedinizin değil, evdeki çiçeklerinizin ve postalarınızın da güvende olmasını istersiniz.\n\n### Katten Ekstra Ev Hizmetleri:\n- **Çiçek ve Bahçe Sulama:** Evdeki tüm saksı çiçekleri düzenli sulanır.\n- **Posta Toplama:** Posta kutusu boşaltılarak evde biri var izlenimi verilir.\n- **Çöp Kutuları:** Anvers çöp toplama gününde kutular dışarı çıkarılır.\n\n[İletişim sayfamızdan](/tr/contact) hemen randevu alın!",
     "date": "2026-07-23",
     "readTime": "2 min",
     "author": "KattenHond Team",
@@ -2237,7 +2237,7 @@ Anvers'te yaşıyorsanız, **Katten** size yardımcı olabilir. Ziyaretlerimiz, 
     "slug": "ila-ve-insulin-ignesinde-uzman-kedi-bakicisi-anvers",
     "title": "Anvers'te İlaç ve İnsülin İğnesi Uygulamasında Uzman Kedi Bakıcısı",
     "excerpt": "Kedinizin günlük hap veya insülin iğnesi vurulması mı gerekiyor? Biyolog bakıcımızla Anvers'te güvenli tıbbi bakım sunuyoruz.",
-    "content": "## Anvers'te medikal kedi bakımı: Hap ve insülin iğnesi uygulamaları\n\nKedisi düzenli ilaç kullanan kedi sahipleri komşularına emanet etmekte zorlanır. **KattenHond** Anvers'te biyolog güvencesiyle medikal bakım verir.\n\n- **Diyabetik Kediler İçin İnsülin İğnesi:** Tam saatinde uygulama.\n- **Hap Verilmesi:** Kediyi strese sokmadan nazik yaklaşım.\n- **Bodycam Videosu:** İlacın verildiği anın HD video kaydı.\n\n[İletişim Formumuzdan](/tr/iletisim) hemen randevu alın!",
+    "content": "## Anvers'te medikal kedi bakımı: Hap ve insülin iğnesi uygulamaları\n\nKedisi düzenli ilaç kullanan kedi sahipleri komşularına emanet etmekte zorlanır. **KattenHond** Anvers'te biyolog güvencesiyle medikal bakım verir.\n\n- **Diyabetik Kediler İçin İnsülin İğnesi:** Tam saatinde uygulama.\n- **Hap Verilmesi:** Kediyi strese sokmadan nazik yaklaşım.\n- **Bodycam Videosu:** İlacın verildiği anın HD video kaydı.\n\n[İletişim Formumuzdan](/tr/contact) hemen randevu alın!",
     "date": "2026-07-23",
     "readTime": "3 min",
     "author": "KattenHond Biologist - Biyolog",

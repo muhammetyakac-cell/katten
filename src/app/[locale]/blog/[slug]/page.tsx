@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import { Link } from '@/i18n/navigation';
+import Image from 'next/image';
 import Navbar from '@/components/Navbar/Navbar';
 import Footer from '@/components/Footer/Footer';
 import { getBlogPostBySlug, getAllBlogPosts } from '@/lib/blog-data';
@@ -55,12 +56,15 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: post.seoTitle,
     description: post.seoDescription,
     keywords: post.keywords,
+    alternates: { canonical: `https://kattenhond.store/${post.locale}/blog/${slug}` },
     openGraph: {
       title: post.seoTitle,
       description: post.seoDescription,
+      url: `https://kattenhond.store/${post.locale}/blog/${slug}`,
       images: [post.image],
       type: 'article',
     },
+    twitter: { card: 'summary_large_image', title: post.seoTitle, description: post.seoDescription, images: [post.image] },
   };
 }
 
@@ -89,6 +93,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     description: post.seoDescription,
     image: post.image.startsWith('/') ? `https://kattenhond.store${post.image}` : post.image,
     datePublished: post.date,
+    dateModified: post.date,
     author: {
       '@type': 'Person',
       name: post.author,
@@ -96,8 +101,10 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     publisher: {
       '@type': 'Organization',
       name: 'KattenHond — Kattensitservice & Huisdierverzorging Antwerpen',
+      logo: { '@type': 'ImageObject', url: 'https://kattenhond.store/images/hero_background.png' },
     },
     inLanguage: post.locale,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': `https://kattenhond.store/${post.locale}/blog/${post.slug}` },
     keywords: post.keywords.join(', '),
   };
 

@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
 import styles from './BodyCam.module.css';
 
 export default function BodyCam() {
@@ -53,10 +54,12 @@ export default function BodyCam() {
 
           <div className={styles.visual}>
             <div className={styles.cameraCard}>
-              <img 
+              <Image 
                 src="/images/cat_bodycam.png" 
                 alt="Cat on bodycam" 
-                className={styles.cameraImage} 
+                className={styles.cameraImage}
+                width={800}
+                height={600}
               />
               {/* Decorative mesh background for the camera feel */}
               <div style={{

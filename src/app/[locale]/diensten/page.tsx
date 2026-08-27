@@ -6,6 +6,26 @@ import Pricing from '@/components/Pricing/Pricing';
 import FAQ from '@/components/FAQ/FAQ';
 import CTA from '@/components/CTA/CTA';
 import styles from './diensten.module.css';
+import { Metadata } from 'next';
+
+const dienstenMeta: Record<string, { title: string; description: string }> = {
+  nl: { title: 'Alle Diensten — KattenHond | Kattenoppas & Hondenoppas Antwerpen', description: 'Ontdek alle diensten van KattenHond: dagelijkse huisbezoeken, hondenoppas, hondenuitlaatservice, medicatie, bodycam en meer in Antwerpen en Vlaanderen.' },
+  en: { title: 'All Services — KattenHond | Cat & Dog Sitting Antwerp', description: 'Discover all KattenHond services: daily visits, dog sitting, dog walking, medication, bodycam and more in Antwerp and Flanders.' },
+  fr: { title: 'Tous les Services — KattenHond | Garde Chat & Chien Anvers', description: 'Découvrez tous les services KattenHond : visites quotidiennes, garde de chien, promenade, médicaments, bodycam et plus à Anvers.' },
+  tr: { title: 'Tüm Hizmetler — KattenHond | Kedi & Köpek Bakımı Antwerp', description: 'KattenHond hizmetlerini keşfedin: günlük ziyaretler, köpek bakıcılığı, köpek gezdirme, ilaç, yaka kamerası ve daha fazlası.' },
+};
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const meta = dienstenMeta[locale] || dienstenMeta.nl;
+  return {
+    title: meta.title,
+    description: meta.description,
+    alternates: { canonical: `https://kattenhond.store/${locale}/diensten` },
+    openGraph: { title: meta.title, description: meta.description, url: `https://kattenhond.store/${locale}/diensten`, type: 'website' },
+    twitter: { card: 'summary_large_image', title: meta.title, description: meta.description },
+  };
+}
 
 export default async function ServicesPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;

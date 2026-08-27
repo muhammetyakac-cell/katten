@@ -193,21 +193,21 @@
         "name": "Sophie De Meester",
         "location": "Borgerhout, Antwerp",
         "rating": 5,
-        "text": "I was so worried when I left for two weeks to Spain, leaving my two cats behind. But Katten completely put my mind at ease. Every day I received photos and a short message. The body cam footage gave me so much confidence. Luna and Milo were perfectly happy when I got home!",
+        "text": "I was so worried when I left for two weeks to Spain, leaving my two cats behind. But KattenHond completely put my mind at ease. Every day I received photos and a short message. The body cam footage gave me so much confidence. Luna and Milo were perfectly happy when I got home!",
         "catNames": "Luna & Milo"
       },
       {
         "name": "Pieter Janssens",
         "location": "Wilrijk, Antwerp",
         "rating": 5,
-        "text": "Our old cat Felix has diabetes and needs insulin twice a day. I never dared to go on holiday, but with Katten's Premium plan, it's finally possible. The sitters are patient, professional, and clearly love cats. Highly recommended.",
+        "text": "Our old cat Felix has diabetes and needs insulin twice a day. I never dared to go on holiday, but with KattenHond's Premium plan, it's finally possible. The sitters are patient, professional, and clearly love cats. Highly recommended.",
         "catNames": "Felix"
       },
       {
         "name": "Ayşe Yılmaz",
         "location": "Deurne, Antwerp",
         "rating": 5,
-        "text": "The meet & greet was great right from the start. They took the time to discuss everything, and my cat Pamuk was immediately at ease. The photos I received every day were wonderful. My plants were also in perfect shape when I got back. Thank you, Katten!",
+        "text": "The meet & greet was great right from the start. They took the time to discuss everything, and my cat Pamuk was immediately at ease. The photos I received every day were wonderful. My plants were also in perfect shape when I got back. Thank you, KattenHond!",
         "catNames": "Pamuk"
       }
     ]
@@ -220,12 +220,12 @@
     "guarantee": "100% satisfaction guarantee — not satisfied, money back after the first visit."
   },
   "about": {
-    "pageTitle": "About Katten",
+    "pageTitle": "About KattenHond",
     "pageSubtitle": "The people behind Antwerp's finest cat sitting service",
     "story": {
       "title": "Our story",
       "paragraphs": [
-        "Katten was born out of personal frustration: the lack of a reliable and transparent cat sitting service in the Antwerp region. As cat owners ourselves, we know how difficult it is to go on a trip and leave your beloved feline behind.",
+        "KattenHond was born out of personal frustration: the lack of a reliable and transparent cat sitting service in the Antwerp region. As cat owners ourselves, we know how difficult it is to go on a trip and leave your beloved feline behind.",
         "That's why we founded a service built on trust, transparency, and genuine love for cats. With our body cam recordings, daily updates, and personal approach, you always know your cat is in the best hands.",
         "Today, we care for hundreds of cats across the entire Antwerp region — from Het Eilandje to Brasschaat, from Hoboken to Schilde. Every cat is unique and deserves tailored care."
       ]
@@ -361,9 +361,9 @@
       "plan": "Preferred plan",
       "planOptions": {
         "undecided": "Not decided yet",
-        "basis": "Basic (€15/visit)",
-        "standaard": "Standard (€22/visit)",
-        "premium": "Premium (€35/visit)"
+        "basis": "Basic (€25/visit)",
+        "standaard": "Standard (€55/visit)",
+        "premium": "Premium (€55/visit)"
       },
       "message": "Additional information",
       "messagePlaceholder": "Tell us more about your cat(s): special needs, medication, personality, favourite toys...",

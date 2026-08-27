@@ -2,6 +2,17 @@ import { useTranslations } from 'next-intl';
 import Navbar from '@/components/Navbar/Navbar';
 import Footer from '@/components/Footer/Footer';
 import styles from '../legal.module.css';
+import { Metadata } from 'next';
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const title = locale === 'nl' ? 'Algemene Voorwaarden — KattenHond' : 'Terms & Conditions — KattenHond';
+  return {
+    title,
+    description: title,
+    alternates: { canonical: `https://kattenhond.store/${locale}/voorwaarden` }
+  };
+}
 
 export default function TermsPage() {
   const t = useTranslations('terms');
