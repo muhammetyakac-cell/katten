@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteTitle": "Kattensitter — Garde de chats à domicile à Anvers",
-    "siteDescription": "Service professionnel de garde de chats à domicile dans la région d'Anvers. Visites quotidiennes, alimentation, soins et moments de jeu pendant votre absence. Chaque visite est filmée avec une caméra corporelle pour votre tranquillité d'esprit.",
-    "keywords": "garde de chats, cat sitter, soins animaux, Anvers, garde de chats à domicile, soins félins, visites à domicile chats"
+    "siteTitle": "KattenHond — Garde de chats à domicile à Anvers",
+    "siteDescription": "Service professionnel de garde de chats à domicile dans la région d'Anvers par KattenHond. Visites quotidiennes, alimentation, soins et moments de jeu pendant votre absence. Chaque visite est filmée avec une caméra corporelle pour votre tranquillité d'esprit.",
+    "keywords": "kattenhond, kattenhond store, garde de chats, cat sitter, soins animaux, Anvers, garde de chats à domicile, soins félins, visites à domicile chats"
   },
   "nav": {
     "home": "Accueil",
@@ -30,7 +30,7 @@
     }
   },
   "features": {
-    "sectionTitle": "Pourquoi choisir Katten ?",
+    "sectionTitle": "Pourquoi choisir KattenHond ?",
     "sectionSubtitle": "Nous comprenons que votre chat est bien plus qu'un animal de compagnie. C'est pourquoi nous offrons un service personnalisé et transparent que vous et votre chat méritez.",
     "items": [
       {
@@ -285,7 +285,7 @@
   "services": {
     "pageTitle": "Nos services",
     "pageSubtitle": "Tout ce dont votre chat a besoin, chez vous",
-    "intro": "Chez Kattensitter, nous offrons une gamme complète de services de garde de chats à domicile. Que vous partiez pour un week-end ou pour un mois — nous veillons à ce que votre chat ne manque de rien.",
+    "intro": "Chez KattenHond, nous offrons une gamme complète de services de garde de chats à domicile. Que vous partiez pour un week-end ou pour un mois — nous veillons à ce que votre chat ne manque de rien.",
     "servicesList": [
       {
         "title": "Visites quotidiennes à domicile",
@@ -377,16 +377,16 @@
     },
     "info": {
       "title": "Coordonnées",
-      "email": "info@katten.be",
-      "phone": "+32 3 123 45 67",
+      "email": "info@kattenhond.store",
+      "phone": "+32 475 94 06 56",
       "hours": "Disponible : lun–ven 8h00–20h00, sam–dim 9h00–18h00",
       "emergency": "Urgences (clients existants) : disponible 24h/24, 7j/7",
       "address": "Région d'Anvers, Belgique"
     }
   },
   "footer": {
-    "description": "Katten offre un service professionnel de garde de chats à domicile dans la région d'Anvers. Avec des visites quotidiennes, des enregistrements caméra corporelle et des mises à jour photo, nous prenons soin de votre chat comme s'il était le nôtre.",
-    "copyright": "© {year} Katten. Tous droits réservés.",
+    "description": "KattenHond offre un service professionnel de garde de chats à domicile dans la région d'Anvers. Avec des visites quotidiennes, des enregistrements caméra corporelle et des mises à jour photo, nous prenons soin de votre chat comme s'il était le nôtre.",
+    "copyright": "© {year} KattenHond. Tous droits réservés.",
     "madeWith": "Fait avec ❤️ pour les chats à Anvers",
     "links": {
       "title": "Liens rapides",
@@ -466,15 +466,15 @@
     "scrollToTop": "Retour en haut"
   },
   "metadata": {
-    "title": "Kattensitter — Service de Garde de Chats Anvers",
-    "description": "Garde de chats professionnelle à domicile dans la région d'Anvers. Visites quotidiennes, repas, soins et sécurité par caméra corporelle.",
-    "keywords": "garde de chat, cat sitter, Anvers, soins aux animaux, biologiste"
+    "title": "KattenHond — Service de Garde de Chats Anvers",
+    "description": "Garde de chats professionnelle à domicile dans la région d'Anvers par KattenHond. Visites quotidiennes, repas, soins et sécurité par caméra corporelle.",
+    "keywords": "kattenhond, kattenhond store, garde de chat, cat sitter, Anvers, soins aux animaux, biologiste"
   },
   "privacy": {
     "pageTitle": "Politique de Confidentialite",
     "pageSubtitle": "Votre vie privee est notre priorite",
     "lastUpdated": "Derniere mise a jour : juillet 2026",
-    "intro": "Chez Kattensitter, nous attachons une grande importance a votre vie privee. Cette politique de confidentialite decrit comment nous collectons, utilisons et protegeons vos donnees personnelles.",
+    "intro": "Chez KattenHond, nous attachons une grande importance a votre vie privee. Cette politique de confidentialite decrit comment nous collectons, utilisons et protegeons vos donnees personnelles lorsque vous visitez notre site web et utilisez nos services a Anvers.",
     "sections": [
       {
         "title": "Quelles donnees collectons-nous ?",
@@ -502,7 +502,7 @@
       },
       {
         "title": "Contact",
-        "content": "Pour toute question, contactez-nous a info@katten.be ou visitez notre page de contact."
+        "content": "Pour toute question, contactez-nous a info@kattenhond.store ou visitez notre page de contact."
       }
     ]
   },
@@ -510,11 +510,11 @@
     "pageTitle": "Conditions Generales",
     "pageSubtitle": "Nos conditions de service",
     "lastUpdated": "Derniere mise a jour : juillet 2026",
-    "intro": "Ces conditions generales s appliquent a tous les services offerts par Katten Service de Garde de Chats, base a Anvers, Belgique.",
+    "intro": "Ces conditions generales s appliquent a tous les services offerts par KattenHond Service de Garde de Chats, base a Anvers, Belgique.",
     "sections": [
       {
         "title": "Nos Services",
-        "content": "Katten offre des soins professionnels pour chats a domicile, y compris les visites quotidiennes, l alimentation, le nettoyage, les jeux, l administration de medicaments et les enregistrements bodycam."
+        "content": "KattenHond offre des soins professionnels pour chats a domicile, y compris les visites quotidiennes, l alimentation, le nettoyage, les jeux, l administration de medicaments et les enregistrements bodycam."
       },
       {
         "title": "Reservations et Annulations",
@@ -530,7 +530,7 @@
       },
       {
         "title": "Responsabilite et Assurance",
-        "content": "Katten est assure en responsabilite civile. En cas d urgence medicale, nous contactons immediatement le proprietaire et/ou le veterinaire designe."
+        "content": "KattenHond est assure en responsabilite civile. En cas d urgence medicale, nous contactons immediatement le proprietaire et/ou le veterinaire designe."
       },
       {
         "title": "Conditions Bodycam",
@@ -538,7 +538,7 @@
       },
       {
         "title": "Force Majeure",
-        "content": "Katten ne peut etre tenu responsable en cas de force majeure, y compris catastrophes naturelles ou mesures gouvernementales."
+        "content": "KattenHond ne peut etre tenu responsable en cas de force majeure, y compris catastrophes naturelles ou mesures gouvernementales."
       },
       {
         "title": "Droit Applicable",
@@ -574,7 +574,7 @@
       },
       {
         "title": "Contact",
-        "content": "Pour toute question, contactez-nous a info@katten.be."
+        "content": "Pour toute question, contactez-nous a info@kattenhond.store."
       }
     ]
   }

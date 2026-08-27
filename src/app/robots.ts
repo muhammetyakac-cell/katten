@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next';
 
-const host = 'https://www.kattensitter.be';
+const host = 'https://kattenhond.store';
 
 export default function robots(): MetadataRoute.Robots {
   return {

@@ -48,7 +48,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const post = getBlogPostBySlug(slug);
   
   if (!post) {
-    return { title: 'Post Not Found | Katten' };
+    return { title: 'Post Not Found | KattenHond' };
   }
 
   return {
@@ -87,7 +87,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     '@type': 'Article',
     headline: post.title,
     description: post.seoDescription,
-    image: post.image.startsWith('/') ? `https://katten.vercel.app${post.image}` : post.image,
+    image: post.image.startsWith('/') ? `https://kattenhond.store${post.image}` : post.image,
     datePublished: post.date,
     author: {
       '@type': 'Person',
@@ -95,7 +95,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     },
     publisher: {
       '@type': 'Organization',
-      name: 'Katten - Kattensitservice Antwerpen',
+      name: 'KattenHond — Kattensitservice & Huisdierverzorging Antwerpen',
     },
     inLanguage: post.locale,
     keywords: post.keywords.join(', '),
@@ -110,19 +110,19 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: `https://katten.vercel.app/${locale}`,
+        item: `https://kattenhond.store/${locale}`,
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Blog',
-        item: `https://katten.vercel.app/${locale}/blog`,
+        item: `https://kattenhond.store/${locale}/blog`,
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: post.title,
-        item: `https://katten.vercel.app/${locale}/blog/${post.slug}`,
+        item: `https://kattenhond.store/${locale}/blog/${post.slug}`,
       },
     ],
   };

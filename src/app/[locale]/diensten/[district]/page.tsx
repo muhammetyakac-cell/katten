@@ -18,13 +18,13 @@ export async function generateMetadata({
   const item = getDistrictBySlug(slug);
 
   if (!item) {
-    return { title: 'Service Not Found | Katten' };
+    return { title: 'Service Not Found | KattenHond' };
   }
 
   const lang = (locale in item.name ? locale : 'nl') as keyof typeof item.name;
 
   return {
-    title: `${item.title[lang]} | Katten Antwerpen`,
+    title: `${item.title[lang]} | KattenHond Antwerpen`,
     description: item.description[lang],
     keywords: item.keywords[lang] || item.keywords.nl,
     openGraph: {
@@ -70,9 +70,9 @@ export default async function ServiceOrDistrictPage({
   const schemaData = {
     '@context': 'https://schema.org',
     '@type': 'PetService',
-    name: `Katten — ${item.title[lang]}`,
+    name: `KattenHond — ${item.title[lang]}`,
     description: item.description[lang],
-    image: `https://katten.vercel.app${item.image}`,
+    image: `https://kattenhond.store${item.image}`,
     areaServed: {
       '@type': 'AdministrativeArea',
       name: isDistrict ? item.name[lang] : 'Groot-Antwerpen',
@@ -89,7 +89,7 @@ export default async function ServiceOrDistrictPage({
       postalCode: item.postalCode,
       addressCountry: 'BE',
     },
-    telephone: '+32470000000',
+    telephone: '+32475940656',
     priceRange: '€€',
   };
 
@@ -102,19 +102,19 @@ export default async function ServiceOrDistrictPage({
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: `https://katten.vercel.app/${locale}`,
+        item: `https://kattenhond.store/${locale}`,
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Diensten',
-        item: `https://katten.vercel.app/${locale}/diensten`,
+        item: `https://kattenhond.store/${locale}/diensten`,
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: item.name[lang],
-        item: `https://katten.vercel.app/${locale}/diensten/${item.slug}`,
+        item: `https://kattenhond.store/${locale}/diensten/${item.slug}`,
       },
     ],
   };
@@ -151,10 +151,10 @@ export default async function ServiceOrDistrictPage({
               <div className={styles.mainContent}>
                 <h2 className={styles.sectionHeading}>
                   {isDistrict
-                    ? (lang === 'nl' ? `Waarom kiezen kattenbaasjes in ${item.name[lang]} voor Katten?` :
-                       lang === 'fr' ? `Pourquoi choisir Katten à ${item.name[lang]}?` :
-                       lang === 'tr' ? `${item.name[lang]} bölgesinde neden Katten seçilmeli?` :
-                       `Why cat owners in ${item.name[lang]} choose Katten?`)
+                    ? (lang === 'nl' ? `Waarom kiezen kattenbaasjes in ${item.name[lang]} voor KattenHond?` :
+                       lang === 'fr' ? `Pourquoi choisir KattenHond à ${item.name[lang]}?` :
+                       lang === 'tr' ? `${item.name[lang]} bölgesinde neden KattenHond seçilmeli?` :
+                       `Why cat owners in ${item.name[lang]} choose KattenHond?`)
                     : (lang === 'nl' ? `Waarom onze ${item.name[lang]} service de beste keuze is in Antwerpen:` :
                        lang === 'fr' ? `Pourquoi notre service de ${item.name[lang]} est le meilleur à Anvers:` :
                        lang === 'tr' ? `Anvers'te ${item.name[lang]} hizmetimizin farkı ve avantajları:` :

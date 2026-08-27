@@ -14,9 +14,9 @@ export default function Footer() {
         <div className={styles.footerTop}>
           {/* Column 1: Brand & Bio */}
           <div className={styles.brand}>
-            <Link href="/" className={styles.logo} title="Kattensitter - Kattenoppas in Antwerpen" aria-label="Kattensitter Home">
+            <Link href="/" className={styles.logo} title="KattenHond - Kattenoppas in Antwerpen" aria-label="KattenHond Home">
               <span className={styles.logoIcon}>🐾</span>
-              <span>Katten<span className={styles.logoAccent}>sitter</span></span>
+              <span>Katten<span className={styles.logoAccent}>Hond</span></span>
             </Link>
             <p className={styles.brandDescription}>
               {t('description')}
@@ -33,7 +33,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://wa.me/" className={styles.socialLink} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" title="WhatsApp" id="social-whatsapp">
+                <a href="https://wa.me/32475940656" className={styles.socialLink} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" title="WhatsApp" id="social-whatsapp">
                   WA
                 </a>
               </li>

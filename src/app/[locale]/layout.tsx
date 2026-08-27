@@ -31,7 +31,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: 'metadata' });
 
   return {
-    metadataBase: new URL('https://www.kattensitter.be'),
+    metadataBase: new URL('https://kattenhond.store'),
     title: t('title'),
     description: t('description'),
     keywords: t('keywords'),
@@ -72,9 +72,9 @@ export default async function LocaleLayout({
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'PetService',
-    name: 'Katten — Kattensitservice',
+    name: 'KattenHond — Kattensitservice & Huisdierverzorging',
     image: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=1000&auto=format&fit=crop',
-    description: messages?.metadata ? (messages.metadata as any).description : 'Professionele kattenverzorging aan huis in de regio Antwerpen.',
+    description: messages?.metadata ? (messages.metadata as any).description : 'Professionele kattenverzorging aan huis in de regio Antwerpen door KattenHond.',
     address: {
       '@type': 'PostalAddress',
       addressLocality: 'Antwerpen',
@@ -89,7 +89,7 @@ export default async function LocaleLayout({
       '@type': 'City',
       name: 'Antwerpen'
     },
-    telephone: '+32470000000',
+    telephone: '+32475940656',
     priceRange: '€€',
     founder: {
       '@type': 'Person',
@@ -100,11 +100,11 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={`${outfit.variable} ${inter.variable}`}>
       <head>
-        <link rel="alternate" hrefLang="nl" href="https://katten.vercel.app/nl" />
-        <link rel="alternate" hrefLang="en" href="https://katten.vercel.app/en" />
-        <link rel="alternate" hrefLang="fr" href="https://katten.vercel.app/fr" />
-        <link rel="alternate" hrefLang="tr" href="https://katten.vercel.app/tr" />
-        <link rel="alternate" hrefLang="x-default" href="https://katten.vercel.app/nl" />
+        <link rel="alternate" hrefLang="nl" href="https://kattenhond.store/nl" />
+        <link rel="alternate" hrefLang="en" href="https://kattenhond.store/en" />
+        <link rel="alternate" hrefLang="fr" href="https://kattenhond.store/fr" />
+        <link rel="alternate" hrefLang="tr" href="https://kattenhond.store/tr" />
+        <link rel="alternate" hrefLang="x-default" href="https://kattenhond.store/nl" />
       </head>
       <body>
         <NextIntlClientProvider messages={messages}>

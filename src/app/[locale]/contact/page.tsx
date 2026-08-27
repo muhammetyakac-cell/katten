@@ -66,7 +66,7 @@ export default function ContactPage() {
                     <div className={styles.infoIcon}>📞</div>
                     <div className={styles.infoContent}>
                       <span className={styles.infoValue}>
-                        <a href="tel:+3231234567">{t('info.phone')}</a>
+                        <a href="tel:+32475940656">{t('info.phone')}</a>
                       </span>
                     </div>
                   </div>
@@ -75,7 +75,7 @@ export default function ContactPage() {
                     <div className={styles.infoIcon}>✉️</div>
                     <div className={styles.infoContent}>
                       <span className={styles.infoValue}>
-                        <a href="mailto:info@katten-sit.be">{t('info.email')}</a>
+                        <a href="mailto:info@kattenhond.store">{t('info.email')}</a>
                       </span>
                     </div>
                   </div>

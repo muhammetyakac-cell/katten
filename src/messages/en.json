@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteTitle": "Kattensitter — In-Home Cat Sitting in Antwerp",
-    "siteDescription": "Professional in-home cat sitting in the Antwerp region. Daily home visits, feeding, care, and playtime while you're away. Every visit is recorded with a body cam for your peace of mind.",
-    "keywords": "cat sitting, cat sitter, pet care, Antwerp, in-home cat sitting, cat care, home visits cats"
+    "siteTitle": "KattenHond — In-Home Cat Sitting in Antwerp",
+    "siteDescription": "Professional in-home cat sitting in the Antwerp region by KattenHond. Daily home visits, feeding, care, and playtime while you're away. Every visit is recorded with a body cam for your peace of mind.",
+    "keywords": "kattenhond, kattenhond store, cat sitting, cat sitter, pet care, Antwerp, in-home cat sitting, cat care, home visits cats"
   },
   "nav": {
     "home": "Home",
@@ -30,7 +30,7 @@
     }
   },
   "features": {
-    "sectionTitle": "Why choose Katten?",
+    "sectionTitle": "Why choose KattenHond?",
     "sectionSubtitle": "We understand that your cat is more than a pet. That's why we offer a personal and transparent service that you and your cat deserve.",
     "items": [
       {
@@ -285,7 +285,7 @@
   "services": {
     "pageTitle": "Our services",
     "pageSubtitle": "Everything your cat needs, at your home",
-    "intro": "At Kattensitter, we offer a complete range of in-home cat sitting services. Whether you're away for a weekend or travelling for a month — we make sure your cat wants for nothing.",
+    "intro": "At KattenHond, we offer a complete range of in-home cat sitting services. Whether you're away for a weekend or travelling for a month — we make sure your cat wants for nothing.",
     "servicesList": [
       {
         "title": "Daily home visits",
@@ -377,16 +377,16 @@
     },
     "info": {
       "title": "Contact details",
-      "email": "info@katten.be",
-      "phone": "+32 3 123 45 67",
+      "email": "info@kattenhond.store",
+      "phone": "+32 475 94 06 56",
       "hours": "Available: Mon–Fri 8:00–20:00, Sat–Sun 9:00–18:00",
       "emergency": "Emergencies (existing clients): available 24/7",
       "address": "Antwerp region, Belgium"
     }
   },
   "footer": {
-    "description": "Katten provides professional in-home cat sitting in the Antwerp region. With daily visits, body cam recordings, and photo updates, we care for your cat as if it were our own.",
-    "copyright": "© {year} Katten. All rights reserved.",
+    "description": "KattenHond provides professional in-home cat sitting in the Antwerp region. With daily visits, body cam recordings, and photo updates, we care for your cat as if it were our own.",
+    "copyright": "© {year} KattenHond. All rights reserved.",
     "madeWith": "Made with ❤️ for cats in Antwerp",
     "links": {
       "title": "Quick links",
@@ -466,15 +466,15 @@
     "scrollToTop": "Back to top"
   },
   "metadata": {
-    "title": "Kattensitter — Cat Sitting Service Antwerp",
-    "description": "Professional in-home cat care in the Antwerp region. Daily visits, feeding, care, and bodycam security while you travel.",
-    "keywords": "cat sitter, cat sitting, Antwerp, pet care, cat care, biologist"
+    "title": "KattenHond — Cat Sitting Service Antwerp",
+    "description": "Professional in-home cat care in the Antwerp region by KattenHond. Daily visits, feeding, care, and bodycam security while you travel.",
+    "keywords": "kattenhond, kattenhond store, cat sitter, cat sitting, Antwerp, pet care, cat care, biologist"
   },
   "privacy": {
     "pageTitle": "Privacy Policy",
     "pageSubtitle": "Your privacy is our priority",
     "lastUpdated": "Last updated: July 2026",
-    "intro": "At Kattensitter, we value your privacy greatly. This privacy policy describes how we collect, use, and protect your personal data when you visit our website and use our cat sitting service in Antwerp.",
+    "intro": "At KattenHond, we value your privacy greatly. This privacy policy describes how we collect, use, and protect your personal data when you visit our website and use our cat sitting service in Antwerp.",
     "sections": [
       {
         "title": "What data do we collect?",
@@ -502,7 +502,7 @@
       },
       {
         "title": "Contact",
-        "content": "For questions about this privacy policy or to exercise your rights, contact us at info@katten.be or visit our contact page."
+        "content": "For questions about this privacy policy or to exercise your rights, contact us at info@kattenhond.store or visit our contact page."
       }
     ]
   },
@@ -510,11 +510,11 @@
     "pageTitle": "Terms and Conditions",
     "pageSubtitle": "Our service terms",
     "lastUpdated": "Last updated: July 2026",
-    "intro": "These terms and conditions apply to all services offered by Katten Cat Sitting Service, based in Antwerp, Belgium. By using our services, you agree to these terms.",
+    "intro": "These terms and conditions apply to all services offered by KattenHond Cat Sitting Service, based in Antwerp, Belgium. By using our services, you agree to these terms.",
     "sections": [
       {
         "title": "Our Services",
-        "content": "Katten offers professional in-home cat care, including daily visits, feeding, litter cleaning, playtime, medication administration, and bodycam recordings. Our services are available in the greater Antwerp region."
+        "content": "KattenHond offers professional in-home cat care, including daily visits, feeding, litter cleaning, playtime, medication administration, and bodycam recordings. Our services are available in the greater Antwerp region."
       },
       {
         "title": "Bookings and Cancellations",
@@ -530,7 +530,7 @@
       },
       {
         "title": "Liability and Insurance",
-        "content": "Katten is insured for liability during the provision of our services. We take the utmost care in looking after your cat. In case of medical emergencies, we immediately contact you and/or the designated veterinarian."
+        "content": "KattenHond is insured for liability during the provision of our services. We take the utmost care in looking after your cat. In case of medical emergencies, we immediately contact you and/or the designated veterinarian."
       },
       {
         "title": "Bodycam Terms",
@@ -538,7 +538,7 @@
       },
       {
         "title": "Force Majeure",
-        "content": "Katten is not liable for failure to fulfil obligations due to force majeure, including natural disasters, extreme weather conditions, or government measures."
+        "content": "KattenHond is not liable for failure to fulfil obligations due to force majeure, including natural disasters, extreme weather conditions, or government measures."
       },
       {
         "title": "Applicable Law",
@@ -574,7 +574,7 @@
       },
       {
         "title": "Contact",
-        "content": "If you have questions about our cookie policy, please contact us at info@katten.be."
+        "content": "If you have questions about our cookie policy, please contact us at info@kattenhond.store."
       }
     ]
   }

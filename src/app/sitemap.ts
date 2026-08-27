@@ -3,7 +3,7 @@ import { routing } from '@/i18n/routing';
 import { getAllBlogPosts } from '@/lib/blog-data';
 import { getAllDistricts } from '@/lib/district-data';
 
-const host = 'https://www.kattensitter.be';
+const host = 'https://kattenhond.store';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const defaultLocale = routing.defaultLocale;

@@ -47,7 +47,7 @@ export default function Navbar() {
       <div className={styles.navbarInner}>
         <Link href="/" className={styles.logo} id="nav-logo">
           <span className={styles.logoIcon}>🐾</span>
-          <span>Katten<span className={styles.logoAccent}>sitter</span></span>
+          <span>Katten<span className={styles.logoAccent}>Hond</span></span>
         </Link>
 
         <ul className={styles.navLinks} id="nav-links">

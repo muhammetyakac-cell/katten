@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteTitle": "Kattensitter — Antwerpen'de Evde Kedi Bakım Hizmeti",
-    "siteDescription": "Antwerpen bölgesinde profesyonel evde kedi bakım hizmeti. Siz seyahatteyken günlük ev ziyaretleri, beslenme, bakım ve oyun zamanı. Her ziyaret, gönül rahatlığınız için vücut kamerasıyla kaydedilir.",
-    "keywords": "kedi bakımı, kedi bakıcısı, evcil hayvan bakımı, Antwerpen, evde kedi bakımı, kedi sağlığı, ev ziyareti kedi"
+    "siteTitle": "KattenHond — Antwerpen'de Evde Kedi Bakım Hizmeti",
+    "siteDescription": "KattenHond ile Antwerpen bölgesinde profesyonel evde kedi bakım hizmeti. Siz seyahatteyken günlük ev ziyaretleri, beslenme, bakım ve oyun zamanı. Her ziyaret, gönül rahatlığınız için vücut kamerasıyla kaydedilir.",
+    "keywords": "kattenhond, kattenhond store, kedi bakımı, kedi bakıcısı, evcil hayvan bakımı, Antwerpen, evde kedi bakımı, kedi sağlığı, ev ziyareti kedi"
   },
   "nav": {
     "home": "Ana Sayfa",
@@ -30,7 +30,7 @@
     }
   },
   "features": {
-    "sectionTitle": "Neden Katten?",
+    "sectionTitle": "Neden KattenHond?",
     "sectionSubtitle": "Kedinizin bir evcil hayvandan çok daha fazlası olduğunu biliyoruz. Bu yüzden sizin ve kedinizin hak ettiği kişisel ve şeffaf bir hizmet sunuyoruz.",
     "items": [
       {
@@ -285,7 +285,7 @@
   "services": {
     "pageTitle": "Hizmetlerimiz",
     "pageSubtitle": "Kedinizin ihtiyacı olan her şey, evinizde",
-    "intro": "Kattensitter'da eksiksiz bir evde kedi bakım hizmeti yelpazesi sunuyoruz. İster bir hafta sonu ister bir aylık seyahat olsun — kedinizin hiçbir şeyden eksik kalmamasını sağlıyoruz.",
+    "intro": "KattenHond'da eksiksiz bir evde kedi bakım hizmeti yelpazesi sunuyoruz. İster bir hafta sonu ister bir aylık seyahat olsun — kedinizin hiçbir şeyden eksik kalmamasını sağlıyoruz.",
     "servicesList": [
       {
         "title": "Günlük ev ziyaretleri",
@@ -377,16 +377,16 @@
     },
     "info": {
       "title": "İletişim bilgileri",
-      "email": "info@katten.be",
-      "phone": "+32 3 123 45 67",
+      "email": "info@kattenhond.store",
+      "phone": "+32 475 94 06 56",
       "hours": "Ulaşılabilir: Pzt–Cum 8:00–20:00, Cmt–Paz 9:00–18:00",
       "emergency": "Acil durumlar (mevcut müşteriler): 7/24 ulaşılabilir",
       "address": "Antwerpen bölgesi, Belçika"
     }
   },
   "footer": {
-    "description": "Katten, Antwerpen bölgesinde profesyonel evde kedi bakım hizmeti sunar. Günlük ziyaretler, vücut kamerası kayıtları ve fotoğraf güncellemeleriyle kedinize kendi kedimizmiş gibi bakarız.",
-    "copyright": "© {year} Katten. Tüm hakları saklıdır.",
+    "description": "KattenHond, Antwerpen bölgesinde profesyonel evde kedi bakım hizmeti sunar. Günlük ziyaretler, vücut kamerası kayıtları ve fotoğraf güncellemeleriyle kedinize kendi kedimizmiş gibi bakarız.",
+    "copyright": "© {year} KattenHond. Tüm hakları saklıdır.",
     "madeWith": "Antwerpen'deki kediler için ❤️ ile yapıldı",
     "links": {
       "title": "Hızlı bağlantılar",
@@ -466,15 +466,15 @@
     "scrollToTop": "Yukarı dön"
   },
   "metadata": {
-    "title": "Kattensitter — Kedi Bakım Servisi Anvers",
-    "description": "Anvers bölgesinde profesyonel evde kedi bakım hizmeti. Siz seyahatteyken günlük ziyaretler, beslenme, bakım ve bodycam güvenliği.",
-    "keywords": "kedi bakıcısı, kedi bakımı, Anvers, evcil hayvan bakımı, biyolog"
+    "title": "KattenHond — Kedi Bakım Servisi Anvers",
+    "description": "KattenHond ile Anvers bölgesinde profesyonel evde kedi bakım hizmeti. Siz seyahatteyken günlük ziyaretler, beslenme, bakım ve bodycam güvenliği.",
+    "keywords": "kattenhond, kattenhond store, kedi bakıcısı, kedi bakımı, Anvers, evcil hayvan bakımı, biyolog"
   },
   "privacy": {
     "pageTitle": "Gizlilik Politikasi",
     "pageSubtitle": "Gizliliginiz bizim onceligigmizdir",
     "lastUpdated": "Son guncelleme: Temmuz 2026",
-    "intro": "Katten olarak gizliliginize buyuk onem veriyoruz. Bu gizlilik politikasi, web sitemizi ziyaret ettiginizde ve Anvers teki kedi bakim hizmetimizi kullandiginizda kisisel verilerinizi nasil topladigimizi, kullandigimizi ve korudugumuzu aciklar.",
+    "intro": "KattenHond olarak gizliliginize buyuk onem veriyoruz. Bu gizlilik politikasi, web sitemizi ziyaret ettiginizde ve Anvers teki kedi bakim hizmetimizi kullandiginizda kisisel verilerinizi nasil topladigimizi, kullandigimizi ve korudugumuzu aciklar.",
     "sections": [
       {
         "title": "Hangi verileri topluyoruz?",
@@ -502,7 +502,7 @@
       },
       {
         "title": "Iletisim",
-        "content": "Bu gizlilik politikasi hakkinda sorulariniz icin info@katten.be adresinden bize ulasabilirsiniz."
+        "content": "Bu gizlilik politikasi hakkinda sorulariniz icin info@kattenhond.store adresinden bize ulasabilirsiniz."
       }
     ]
   },
@@ -510,11 +510,11 @@
     "pageTitle": "Genel Kosullar",
     "pageSubtitle": "Hizmet kosullarimiz",
     "lastUpdated": "Son guncelleme: Temmuz 2026",
-    "intro": "Bu genel kosullar, Belcika Anvers merkezli Katten Kedi Bakim Servisi tarafindan sunulan tum hizmetler icin gecerlidir.",
+    "intro": "Bu genel kosullar, Belcika Anvers merkezli KattenHond Kedi Bakim Servisi tarafindan sunulan tum hizmetler icin gecerlidir.",
     "sections": [
       {
         "title": "Hizmetlerimiz",
-        "content": "Katten, gunluk ziyaretler, beslenme, kum temizligi, oyun zamani, ilac uygulamasi ve bodycam kayitlari dahil profesyonel evde kedi bakimi sunmaktadir. Hizmetlerimiz Buyuk Anvers bolgesinde mevcuttur."
+        "content": "KattenHond, gunluk ziyaretler, beslenme, kum temizligi, oyun zamani, ilac uygulamasi ve bodycam kayitlari dahil profesyonel evde kedi bakimi sunmaktadir. Hizmetlerimiz Buyuk Anvers bolgesinde mevcuttur."
       },
       {
         "title": "Rezervasyonlar ve Iptaller",
@@ -530,7 +530,7 @@
       },
       {
         "title": "Sorumluluk ve Sigorta",
-        "content": "Katten hizmetlerimiz sirasinda sorumluluk sigortasina sahiptir. Tibbi acil durumlarda derhal siz ve/veya belirlenen veteriner ile iletisime geceriz."
+        "content": "KattenHond hizmetlerimiz sirasinda sorumluluk sigortasina sahiptir. Tibbi acil durumlarda derhal siz ve/veya belirlenen veteriner ile iletisime geceriz."
       },
       {
         "title": "Bodycam Kosullari",
@@ -538,7 +538,7 @@
       },
       {
         "title": "Mucbir Sebepler",
-        "content": "Katten, dogal afetler, asiri hava kosullari veya hukumet tedbirleri dahil mucbir sebep durumlarinda yukumluluklerini yerine getirememekten sorumlu tutulamaz."
+        "content": "KattenHond, dogal afetler, asiri hava kosullari veya hukumet tedbirleri dahil mucbir sebep durumlarinda yukumluluklerini yerine getirememekten sorumlu tutulamaz."
       },
       {
         "title": "Uygulanacak Hukuk",
@@ -574,7 +574,7 @@
       },
       {
         "title": "Iletisim",
-        "content": "Cerez politikamiz hakkinda sorulariniz icin info@katten.be adresinden bize ulasabilirsiniz."
+        "content": "Cerez politikamiz hakkinda sorulariniz icin info@kattenhond.store adresinden bize ulasabilirsiniz."
       }
     ]
   }
