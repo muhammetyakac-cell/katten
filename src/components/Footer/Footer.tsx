@@ -56,11 +56,12 @@ export default function Footer() {
           <div className={styles.footerCol}>
             <h4>{ts('pageTitle')}</h4>
             <ul className={styles.linksList}>
+              <li><Link href="/diensten/hondenoppas" title="Hondenoppas aan Huis">🐶 Hondenoppas</Link></li>
+              <li><Link href="/diensten/hondenuitlaatservice" title="Hondenuitlaatservice">🦮 Uitlaatservice</Link></li>
               <li><Link href="/diensten/daily-visits" title={ts('servicesList.0.title')}>{ts('servicesList.0.title')}</Link></li>
-              <li><Link href="/diensten/feeding" title={ts('servicesList.1.title')}>{ts('servicesList.1.title')}</Link></li>
-              <li><Link href="/diensten/health" title={ts('servicesList.4.title')}>{ts('servicesList.4.title')}</Link></li>
-              <li><Link href="/diensten/medication" title={ts('servicesList.5.title')}>{ts('servicesList.5.title')}</Link></li>
+              <li><Link href="/diensten/puppy-care" title="Puppyverzorging">🐾 Puppy Care</Link></li>
               <li><Link href="/diensten/bodycam" title={ts('servicesList.6.title')}>{ts('servicesList.6.title')}</Link></li>
+              <li><Link href="/diensten" title="Alle Diensten">✨ Bekijk alles</Link></li>
             </ul>
           </div>
 
@@ -68,11 +69,12 @@ export default function Footer() {
           <div className={styles.footerCol}>
             <h4>{t('districts.title')}</h4>
             <ul className={styles.linksList}>
+              <li><Link href="/diensten/willebroek" title="Katten- & Hondenoppas Willebroek">📍 Willebroek (2830)</Link></li>
+              <li><Link href="/diensten/mechelen" title="Katten- & Hondenoppas Mechelen">📍 Mechelen (2800)</Link></li>
+              <li><Link href="/diensten/brasschaat" title="Katten- & Hondenoppas Brasschaat">📍 Brasschaat (2930)</Link></li>
               <li><Link href="/diensten/antwerpen-zuid" title={t('districts.zuid')}>{t('districts.zuid')}</Link></li>
               <li><Link href="/diensten/berchem" title={t('districts.berchem')}>{t('districts.berchem')}</Link></li>
               <li><Link href="/diensten/deurne" title={t('districts.deurne')}>{t('districts.deurne')}</Link></li>
-              <li><Link href="/diensten/merksem" title={t('districts.merksem')}>{t('districts.merksem')}</Link></li>
-              <li><Link href="/diensten/wilrijk" title={t('districts.wilrijk')}>{t('districts.wilrijk')}</Link></li>
             </ul>
           </div>
 

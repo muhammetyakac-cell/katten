@@ -32,10 +32,10 @@ export const districts: DistrictInfo[] = [
       "tr": "Anvers'te Günlük Evde Kedi Bakımı Ziyaretleri"
     },
     "subtitle": {
-      "nl": "Persoonlijke verzorging, voeding en controle bij u thuis in Antwerpen.",
-      "en": "Personalized care, feeding, and wellness checks at your home in Antwerp.",
-      "fr": "Soins personnalisés, repas et suivi à votre domicile à Anvers.",
-      "tr": "Anvers'te evinizde kişiselleştirilmiş kedi bakımı ve kontrolü."
+      "nl": "Persoonlijke verzorging, voeding en controle bij u thuis in Antwerpen door KattenHond.",
+      "en": "Personalized care, feeding, and wellness checks at your home in Antwerp by KattenHond.",
+      "fr": "Soins personnalisés, repas et suivi à votre domicile à Anvers par KattenHond.",
+      "tr": "KattenHond ile Anvers'te evinizde kişiselleştirilmiş kedi bakımı ve kontrolü."
     },
     "description": {
       "nl": "Tijdens onze dagelijkse bezoeken krijgt uw kat alle aandacht die ze verdient. Wij komen 1 of 2 keer per dag langs in de regio Antwerpen voor voeding, vers water, kattenbak hygiëne, speeltijd en een grondige gezondheidscheck onder leiding van een gediplomeerd bioloog.",
@@ -78,11 +78,13 @@ export const districts: DistrictInfo[] = [
       "nl": [
         "dagelijkse kattenoppas Antwerpen",
         "huisbezoek kat Antwerpen",
-        "oppas aan huis kat"
+        "oppas aan huis kat",
+        "kattenhond store"
       ],
       "en": [
         "daily cat sitter Antwerp",
-        "in home cat visit Antwerp"
+        "in home cat visit Antwerp",
+        "kattenhond store"
       ],
       "fr": [
         "visite quotidienne chat Anvers",
@@ -101,50 +103,50 @@ export const districts: DistrictInfo[] = [
       "nl": "Voeding & Vers Water",
       "en": "Feeding & Fresh Water",
       "fr": "Alimentation & Eau Fraîche",
-      "tr": "Mama & Taze Su Bakımı"
+      "tr": "Beslenme ve Taze Su"
     },
     "title": {
-      "nl": "Voeding op Maat & Vers Water Service voor Katten in Antwerpen",
-      "en": "Tailored Feeding & Fresh Water Service for Cats in Antwerp",
-      "fr": "Service d'Alimentation Sur Mesure & Eau Fraîche pour Chats à Anvers",
-      "tr": "Anvers'te Kediler İçin Özel Beslenme ve Taze Su Hizmeti"
+      "nl": "Professionele Kattenvoeding en Dieetverzorging in Antwerpen",
+      "en": "Professional Cat Feeding and Dietary Care in Antwerp",
+      "fr": "Alimentation Féline et Soins Diététiques Professionnels à Anvers",
+      "tr": "Anvers'te Profesyonel Kedi Beslenmesi ve Diyet Bakımı"
     },
     "subtitle": {
-      "nl": "Strikte naleving van uw voedingsschema en hydratatiecontrole door biologen.",
-      "en": "Strict adherence to your feeding schedule and hydration monitoring by biologists.",
-      "fr": "Respect strict de votre programme d'alimentation et suivi de l'hydratation.",
-      "tr": "Kedinizin özel beslenme saatlerine tam uyum ve sıvı takibi."
+      "nl": "Nauwkeurige opvolging van uw voedingsschema en speciale diëten.",
+      "en": "Strict adherence to your cat feeding routine and special medical diets.",
+      "fr": "Respect rigoureux du régime alimentaire et des besoins spécifiques de votre chat.",
+      "tr": "Kedinizin beslenme rutinine ve özel diyetine harfiyen uyum."
     },
     "description": {
-      "nl": "Voeding is essentieel voor het welzijn van uw kat. Wij volgen nauwgezet het dieet van uw huisdier — of het nu gaat om droogvoer, natvoer, KVV/BARF of speciaal dieetvoer. Na elk bezoek worden de voer- en drinkbakjes grondig afgewassen.",
-      "en": "Nutrition is paramount for your cat's wellbeing. We closely follow your pet's diet — whether dry kibble, wet food, raw BARF diets, or prescription veterinary food. Bowls are washed clean every visit.",
-      "fr": "L'alimentation est essentielle pour la santé de votre chat. Nous suivons attentivement son régime (croquettes, pâtée, alimentation médicale). Les gamelles sont lavées à chaque visite.",
-      "tr": "Beslenme kedinizin sağlığı için hayati önem taşır. Kuru mama, yaş mama veya veteriner diyet mamasını kedinizin alışık olduğu düzenle veriyor, mama ve su kaplarını her gün yıkıyoruz."
+      "nl": "Wij respecteren het vertrouwde voedingspatroon van uw kat tot op de gram. Van speciaal BARF-dieet en nierdieet tot natvoer en automatische voederbakken. Wij zorgen voor kraakheldere, gereinigde voer- en drinkbakken en altijd fris water.",
+      "en": "We respect your cat routine to the gram. From special BARF diets and renal food to wet pouches and automated feeders. We ensure spotless food dishes and fresh water every single visit.",
+      "fr": "Nous respectons les habitudes de votre chat avec la plus grande rigueur. Qu'il s'agisse de nourriture sèche, pâtée ou régimes spécifiques, tout est servi dans des écuelles impeccablement propres.",
+      "tr": "Kedinizin alışkın olduğu beslenme düzenini gramına kadar uyguluyoruz. Kuru mama, yaş mama, veteriner diyetleri ve otomatik mama kapları dahil olmak üzere kapları her gün yıkayıp taze su sağlıyoruz."
     },
     "highlights": {
       "nl": [
-        "Grondige reiniging van eete- en drinkbakjes",
-        "Vaste voedingstijden volgens uw instructies",
-        "Controle op hydratatie en eetlust",
+        "Afwegen volgens strikte instructies",
+        "Grondig reinigen van voer- en waterbakken",
+        "Opvolging van eetlust en drinkgedrag",
         "Geschikt voor medische diëten"
       ],
       "en": [
-        "Thorough cleaning of food and water bowls",
-        "Fixed feeding times per your instructions",
+        "Weighed strictly per your instructions",
+        "Daily sanitization of food & water bowls",
         "Appetite and hydration monitoring",
-        "Suitable for prescription diets"
+        "Perfect for medical prescription diets"
       ],
       "fr": [
-        "Nettoyage complet des gamelles",
-        "Horaires fixes selon vos instructions",
-        "Suivi de l'appétit et de l'hydratation",
-        "Adapté aux régimes médicaux"
+        "Pesage précis selon vos consignes",
+        "Nettoyage systématique des gamelles",
+        "Surveillance de l'appétit et hydratation",
+        "Idéal pour régimes vétérinaires"
       ],
       "tr": [
-        "Mama ve su kaplarının günlük yıkanması",
-        "Talimatlarınıza uygun sabit beslenme saatleri",
-        "İştah ve sıvı alımı takibi",
-        "Özel veteriner diyetlerine uygunluk"
+        "Talimatlarınıza göre hassas tartım",
+        "Mama ve su kaplarının günlük dezenfeksiyonu",
+        "İştah ve su tüketimi takibi",
+        "Özel veteriner diyetlerine uygun"
       ]
     },
     "image": "/images/cat_feeding.png",
@@ -154,21 +156,21 @@ export const districts: DistrictInfo[] = [
     },
     "keywords": {
       "nl": [
-        "katten eten geven oppas Antwerpen",
-        "vers water kat vakantie",
-        "voeding kat oppas"
+        "katten voeren vakantie Antwerpen",
+        "kattenoppas voeding Antwerpen",
+        "dieetvoer kat oppas"
       ],
       "en": [
         "cat feeding service Antwerp",
-        "cat fresh water sitting Antwerp"
+        "cat dietary pet sitter"
       ],
       "fr": [
         "nourrir chat vacances Anvers",
-        "alimentation chat garde Anvers"
+        "garde chat repas Anvers"
       ],
       "tr": [
-        "kedi mama verme servisi Anvers",
-        "tatilde kedi besleme Anvers"
+        "tatilde kedi besleme Anvers",
+        "kedi mama bakımı"
       ]
     }
   },
@@ -176,53 +178,53 @@ export const districts: DistrictInfo[] = [
     "slug": "medication",
     "postalCode": "Groot-Antwerpen",
     "name": {
-      "nl": "Medicatie & Insuline Care",
-      "en": "Medication & Insulin Care",
-      "fr": "Médicaments & Soins Insuline",
-      "tr": "İlaç & İnsülin Bakımı"
+      "nl": "Medicatie Toediening",
+      "en": "Medication Administration",
+      "fr": "Administration de Médicaments",
+      "tr": "İlaç ve Tedavi Uygulaması"
     },
     "title": {
-      "nl": "Deskundige Medicatie & Insuline Toediening bij Katten in Antwerpen",
-      "en": "Expert Medication & Insulin Administration for Cats in Antwerp",
-      "fr": "Administration Experte de Médicaments & Insuline pour Chats à Anvers",
-      "tr": "Anvers'te Kediler İçin Uzman İlaç ve İnsülin Uygulama Hizmeti"
+      "nl": "Deskundige Medicatie en Insuline Toediening voor Katten in Antwerpen",
+      "en": "Expert Cat Medication and Insulin Injections in Antwerp",
+      "fr": "Administration de Médicaments et Injections Féline à Anvers",
+      "tr": "Anvers'te Kediler İçin Uzman İlaç ve İnsülin Uygulaması"
     },
     "subtitle": {
-      "nl": "Veilige toediening van pillen, druppels en insuline-injecties onder biologisch toezicht.",
-      "en": "Safe delivery of pills, drops, and insulin shots overseen by a biologist.",
-      "fr": "Administration sécurisée de comprimés, gouttes et injections d'insuline.",
-      "tr": "Biyolog kontrolünde güvenli hap, damla ve insülin iğnesi uygulaması."
+      "nl": "Ervaren toediening van pillen, drankjes, oogdruppels en insuline-injecties.",
+      "en": "Experienced handling of pills, liquids, eye drops, and diabetes insulin injections.",
+      "fr": "Garde spécialisée avec administration de pilules, sirops, gouttes et insuline.",
+      "tr": "Hap, şurup, göz damlası ve diyabetik insülin iğnesi uygulamasında biyolog uzmanlığı."
     },
     "description": {
-      "nl": "Heeft uw kat dagelijks medicatie nodig voor een chronische aandoening of diabetes? Onze oprichter is een gediplomeerd bioloog met ruime ervaring in het toedienen van pillen, zalven en insuline-injecties stipt op tijd.",
-      "en": "Does your cat require daily medication for chronic illness or diabetes? Founded by a qualified biologist, our team is highly trained in administering pills, liquids, ointments, and precise insulin injections.",
-      "fr": "Votre chat nécessite-t-il des médicaments quotidiens ou de l'insuline? Notre équipe dirigée par une biologiste administre les comprimés et piqûres à heures fixes.",
-      "tr": "Kedinizin diyabet veya kronik rahatsızlığı için günlük ilaca mı ihtiyacı var? Biyolog ekibimizle hap, şurup, göz damlası ve insülin enjeksiyonlarını tam saatinde yapıyoruz."
+      "nl": "Heeft uw kat dagelijkse medicatie of insuline nodig voor diabetes? Onder toezicht van onze gediplomeerd bioloog dienen wij medicatie toe zonder stress of dwang. We hebben jarenlange ervaring met chronisch zieke en oudere katten.",
+      "en": "Does your cat require daily prescription pills or insulin injections? Led by our biologist founder, we administer medication gently and accurately, with zero force or trauma.",
+      "fr": "Votre chat a-t-il besoin d'un traitement quotidien ou d'injections d'insuline ? Sous la direction de notre biologiste, nous administrons les soins avec douceur et professionnalisme.",
+      "tr": "Kedinizin kronik bir rahatsızlığı, tansiyon ilacı veya günlük insülin iğnesi mi var? Biyolog kurucumuz liderliğinde, kedinizi strese sokmadan nazikçe ilaçlarını veriyoruz."
     },
     "highlights": {
       "nl": [
-        "Insuline-injecties op strakke 12-uurs intervallen",
-        "Zachte toediening van pillen zonder stress",
-        "Biologische en medische achtergrond",
-        "HD Bodycam videobewijs van toediening"
+        "Ervaring met insuline spuitjes & diabetes",
+        "Stressvrije toediening van pillen & pasta",
+        "Oog- en oordruppels behandeling",
+        "Direct contact met uw dierenarts bij twijfel"
       ],
       "en": [
-        "Insulin injections at precise 12-hour intervals",
-        "Gentle pill delivery without feline stress",
-        "Biological and medical background",
-        "HD Bodycam video proof of administration"
+        "Experienced with insulin syringes & diabetes",
+        "Stress-free pill & paste administration",
+        "Eye and ear drop treatments",
+        "Direct vet contact in case of concern"
       ],
       "fr": [
-        "Injections d'insuline à intervalle de 12h",
-        "Administration douce de comprimés sans stress",
-        "Formation biologique et médicale",
-        "Preuve vidéo Bodycam HD"
+        "Expérience injections insuline et diabète",
+        "Prise de comprimés sans stress",
+        "Soins des yeux et oreilles",
+        "Liaison directe avec votre vétérinaire"
       ],
       "tr": [
-        "12 saatlik tam aralıklarla insülin iğnesi",
-        "Kediyi strese sokmadan nazik hap verme",
-        "Biyolojik ve medikal tecrübe",
-        "İlaç anının HD Bodycam kaydı"
+        "İnsülin ve diyabet iğnesi tecrübesi",
+        "Stressiz hap ve macun yedirme",
+        "Göz ve kulak damlası bakımı",
+        "Şüpheli durumlarda veterinerinizle doğrudan irtibat"
       ]
     },
     "image": "/images/cat_meds.png",
@@ -232,76 +234,75 @@ export const districts: DistrictInfo[] = [
     },
     "keywords": {
       "nl": [
-        "kat medicatie toedienen Antwerpen",
-        "diabetische kat insuline oppas Antwerpen",
-        "medische kattenoppas"
+        "kat medicatie geven oppas Antwerpen",
+        "insuline spuiten kat oppas",
+        "zieke kat verzorging vakantie"
       ],
       "en": [
-        "cat medication sitter Antwerp",
-        "diabetic cat insulin sitting Antwerp"
+        "cat medication pet sitting Antwerp",
+        "cat insulin injection sitter"
       ],
       "fr": [
         "donner medicament chat Anvers",
-        "insuline chat garde Anvers"
+        "injection insuline chat garde"
       ],
       "tr": [
-        "kedi ilaç verme bakıcısı Anvers",
-        "diyabetli kedi insülin bakımı Anvers"
+        "kediye ilaç verme bakıcı Anvers",
+        "kedi insülin iğnesi bakıcı"
       ]
     }
   },
   {
     "slug": "bodycam",
-    "slugAlias": "bodycam-recordings",
     "postalCode": "Groot-Antwerpen",
     "name": {
-      "nl": "HD Bodycam Transparantie",
-      "en": "HD Bodycam Transparency",
-      "fr": "Transparence Bodycam HD",
-      "tr": "HD Yaka Kamerası Güvencesi"
+      "nl": "100% HD Bodycam Garantie",
+      "en": "100% HD Bodycam Guarantee",
+      "fr": "Garantie Bodycam 100% HD",
+      "tr": "100% HD Yaka Kamerası Garantisi"
     },
     "title": {
-      "nl": "100% Transparante Kattenoppas met HD Bodycam Opnames in Antwerpen",
-      "en": "100% Transparent Cat Sitting with HD Bodycam Recordings in Antwerp",
-      "fr": "Garde de Chat 100% Transparente avec Enregistrements Bodycam HD à Anvers",
-      "tr": "Anvers'te %100 Şeffaf Yaka Kameralı Kedi Bakım Hizmeti"
+      "nl": "100% Transparante Kattenoppas met Bodycam Opnames in Antwerpen",
+      "en": "100% Transparent Cat Sitting with Bodycam Video in Antwerp",
+      "fr": "Garde de Chat 100% Transparente avec Caméra Corporelle à Anvers",
+      "tr": "Anvers'te Yaka Kamerası Kayıtlı %100 Şeffaf Kedi Bakıcılığı"
     },
     "subtitle": {
-      "nl": "Bekijk na elk bezoek de videobeelden in uw persoonlijke klantendashboard.",
-      "en": "Watch video footage after every visit in your private client dashboard.",
-      "fr": "Visionnez les vidéos après chaque visite sur votre tableau de bord.",
-      "tr": "Her ziyaretten sonra videoları kişisel kullanıcı panelinizden izleyin."
+      "nl": "Bekijk precies wat er gebeurt tijdens elk bezoek via HD videobeelden.",
+      "en": "Watch exactly what happens during every visit through secure HD video.",
+      "fr": "Visionnez chaque visite en toute sécurité grâce à nos enregistrements HD.",
+      "tr": "Her ziyarette neler yapıldığını güvenli HD video kayıtlarıyla izleyin."
     },
     "description": {
-      "nl": "Vertrouwen is de kern van onze service. Onze verzorgers dragen tijdens elk huisbezoek in Antwerpen een HD Bodycam. U krijgt na het bezoek toegang tot de beelden zodat u met eigen ogen ziet hoe uw kat verzorgd wordt.",
-      "en": "Trust is at the heart of our service. Our sitters wear an HD Bodycam during every home visit in Antwerp. After each visit, you gain private access to watch your cat being fed, played with, and loved.",
-      "fr": "La confiance est au cœur de notre service. Nos gardes portent une caméra vidéo HD lors de chaque visite à Anvers. Vous recevez un accès privé pour visionner les soins apportés.",
-      "tr": "Güven hizmetimizin temelidir. Anvers'te her ziyarette bakıcılarımız HD Yaka Kamerası takar. Ziyaret sonrasında videolar panelinize yüklenir ve kedinizin nasıl bakıldığını izleyebilirsiniz."
+      "nl": "KattenHond is de enige oppasservice in België die elk huisbezoek standaard opneemt met een discrete HD bodycam. U ziet hoe uw kat eet, speelt en vertroeteld wordt. Dit biedt 100% gemoedsrust en transparantie over uw sleutels en eigendommen.",
+      "en": "KattenHond is the only pet sitting service in Belgium recording every home visit with an HD bodycam. You get total transparency over your home security and see your cat thriving.",
+      "fr": "KattenHond est le seul service en Belgique à enregistrer chaque visite avec une caméra corporelle HD. Sérénité absolue pour vos clés, votre logement et votre félin.",
+      "tr": "KattenHond, Belçika'da her ev ziyaretini yüksek çözünürlüklü yaka kamerasıyla kaydeden tek profesyonel servistir. Evinizin güvenliğini ve kedinizin neşesini doğrudan görün."
     },
     "highlights": {
       "nl": [
-        "Volledige HD-opname van het bezoek",
-        "Discreet en privacy-vriendelijk (enkel voor u)",
-        "Bekijk beelden binnen 24 uur op uw dashboard",
-        "Gemoedsrust gegarandeerd tijdens uw vakantie"
+        "Volledige registratie van aankomst tot vertrek",
+        "Veilige cloudopslag via uw account",
+        "100% respect voor uw privacy in huis",
+        "Ideaal bewijs voor sleutelbeveiliging"
       ],
       "en": [
-        "Full HD recording of the visit",
-        "Discreet & privacy compliant (client access only)",
-        "Watch within 24 hours on your dashboard",
-        "Guaranteed peace of mind while away"
+        "Full recording from entry to departure",
+        "Secure private cloud storage",
+        "Strict privacy protocol respected",
+        "Ultimate peace of mind for keys & home"
       ],
       "fr": [
-        "Enregistrement HD complet de la visite",
-        "Confidentiel et sécurisé (accès client uniquement)",
-        "Disponible sous 24h sur votre espace",
-        "Sérénité garantie pendant vos vacances"
+        "Enregistrement complet de l'entrée à la sortie",
+        "Stockage cloud sécurisé et privé",
+        "Respect total de la vie privée",
+        "Confiance totale pour vos clés"
       ],
       "tr": [
-        "Ziyaretin eksiksiz HD video kaydı",
-        "Gizlilik odaklı (sadece sizin erişiminize açık)",
-        "24 saat içinde panelde izleme imkanı",
-        "Seyahatinizde %100 kafa rahatlığı"
+        "Girişten çıkışa kadar eksiksiz kayıt",
+        "Güvenli özel bulut depolama",
+        "Ev mahremiyetinize %100 saygı",
+        "Anahtar ve ev güvenliğinde tam rahatlık"
       ]
     },
     "image": "/images/cat_bodycam.png",
@@ -312,20 +313,20 @@ export const districts: DistrictInfo[] = [
     "keywords": {
       "nl": [
         "bodycam kattenoppas Antwerpen",
-        "transparante kattenoppas",
-        "videobewijs oppas kat"
+        "veilige kattenoppas aan huis",
+        "transparante huisdierenzorg"
       ],
       "en": [
         "bodycam cat sitter Antwerp",
-        "transparent pet sitting Antwerp"
+        "secure pet sitting verified"
       ],
       "fr": [
-        "bodycam garde chat Anvers",
-        "camera video cat sitter Anvers"
+        "camera garde chat Anvers",
+        "garde chat securisee"
       ],
       "tr": [
-        "yaka kameralı kedi bakıcısı Anvers",
-        "videolu kedi bakıcı Anvers"
+        "kameralı kedi bakıcısı Anvers",
+        "güvenli evde kedi bakımı"
       ]
     }
   },
@@ -334,52 +335,52 @@ export const districts: DistrictInfo[] = [
     "postalCode": "Groot-Antwerpen",
     "name": {
       "nl": "Gezondheidsmonitoring",
-      "en": "Health Monitoring",
-      "fr": "Suivi de Santé Féline",
-      "tr": "Gelişmiş Sağlık Takibi"
+      "en": "Health & Wellness Checks",
+      "fr": "Suivi de Santé & Bien-être",
+      "tr": "Sağlık ve Refah Takibi"
     },
     "title": {
-      "nl": "Biologische Gezondheidscontrole voor Katten in Antwerpen",
-      "en": "Biological Health Monitoring for Cats in Antwerp",
-      "fr": "Suivi de Santé Féline Biologique à Anvers",
-      "tr": "Anvers'te Kediler İçin Biyolog Kontrolünde Sağlık Takibi"
+      "nl": "Deskundige Gezondheidscontrole door een Bioloog in Antwerpen",
+      "en": "Expert Health & Wellness Monitoring by a Biologist in Antwerp",
+      "fr": "Contrôle Sanitaire et Bien-Être Félin par un Biologiste à Anvers",
+      "tr": "Anvers'te Biyolog Denetiminde Kedi Sağlık ve Refah Kontrolü"
     },
     "subtitle": {
-      "nl": "Vroegtijdige herkenning van ziekte, stress en gedragsveranderingen.",
-      "en": "Early detection of illness, stress, and behavioral shifts.",
-      "fr": "Détection précoce des maladies, du stress et des changements de comportement.",
-      "tr": "Hastalık, stres ve davranış değişikliklerinin erken teşhisi."
+      "nl": "Wetenschappelijke observatie van vacht, ogen, gedrag en stoelgang.",
+      "en": "Scientific observation of coat, eyes, behavior, and digestive wellness.",
+      "fr": "Observation attentive du pelage, des yeux, du comportement et du transit.",
+      "tr": "Tüy, göz, davranış, kilo ve dışkı durumunun bilimsel gözlemi."
     },
     "description": {
-      "nl": "Katten verbergen pijn en ziekte uitermate goed. Als biologen kijken wij verder dan alleen voer geven: we inspecteren de oogjes, vacht, ontlasting en ademhaling om eventuele gezondheidsproblemen direct te signaleren.",
-      "en": "Cats excel at hiding pain and illness. As biologists, we go beyond basic feeding: we inspect eyes, coat condition, elimination habits, and breathing to catch any health issues early.",
-      "fr": "Les chats masquent très bien la douleur. En tant que biologistes, nous inspectons les yeux, le pelage, la respiration et la litière pour détecter tout problème au plus vite.",
-      "tr": "Kediler hastalık ve ağrılarını gizlemekte uzmandır. Biyolog bakıcılarımız mamadan fazlasını yapar: gözler, tüy yapısı, nefes ve kum durumunu inceleyerek olası sorunları anında fark eder."
+      "nl": "Als bioloog herkent ons team vroege symptomen van stress, blaasproblemen, dehydratatie of lethargie voordat ze ernstig worden. Tijdens elk bezoek voeren we een systematische visuele inspectie uit en rapporteren we direct afwijkingen.",
+      "en": "As trained biologists, our team identifies early signals of distress, urinary blockages, dehydration, or lethargy immediately. We perform systematic checks every visit.",
+      "fr": "Formés en biologie animale, nous détectons immédiatement les premiers signes de stress, déshydratation ou infection urinaire. Surveillance minutieuse à chaque passage.",
+      "tr": "Biyolog uzmanlığımız sayesinde kedilerde stres, idrar yolu tıkanıklığı, susuzluk veya halsizlik belirtilerini erkenden tespit ediyoruz. Her ziyarette detaylı kontrol yapıyoruz."
     },
     "highlights": {
       "nl": [
-        "Biyolojik uzmanlık met diergeneeskundige inzichten",
-        "Dagelijkse inspectie van kattenbak en eetlust",
-        "Direct contact bij afwijkingen of spoed",
-        "Samenwerking met lokale dierenartsen in Antwerpen"
+        "Controle van kattenbak op bloed/afwijkingen",
+        "Inspectie van vacht, ogen, neus en oren",
+        "Hydratatie- en eetlustcontrole",
+        "Preventie van stressgerelateerde aandoeningen"
       ],
       "en": [
-        "Biological expertise with veterinary awareness",
-        "Daily check of appetite and litter habits",
-        "Immediate client alert upon any medical concern",
-        "Partnerships with local Antwerp vet clinics"
+        "Litter inspection for urinary/digestive health",
+        "Coat, eye, nose, and ear checks",
+        "Hydration and vitality verification",
+        "Stress prevention protocols"
       ],
       "fr": [
-        "Expertise biologique et sensibilité vétérinaire",
-        "Vérification quotidienne du comportement",
-        "Alerte immédiate en cas de souci",
-        "Partenariat avec vétérinaires locaux"
+        "Inspection litière (reins, transit)",
+        "Contrôle yeux, pelage et oreilles",
+        "Vérification hydratation et vitalité",
+        "Prévention active du stress"
       ],
       "tr": [
-        "Biyoloji ve veteriner bilinciyle takip",
-        "Günlük iştah ve kum kontrolü",
-        "Sorun anında derhal kullanıcıya bildirim",
-        "Anvers veteriner klinikleriyle koordinasyon"
+        "Kum kabında idrar/dışkı sağlık incelemesi",
+        "Göz, kulak, burun ve tüy kontrolü",
+        "Susuzluk ve canlılık testi",
+        "Stres kaynaklı hastalıkların önlenmesi"
       ]
     },
     "image": "/images/cat_health.png",
@@ -389,21 +390,21 @@ export const districts: DistrictInfo[] = [
     },
     "keywords": {
       "nl": [
-        "gezondheidscontrole kat oppas Antwerpen",
-        "bioloog kattenzorg Antwerpen",
-        "zieke kat oppas"
+        "gezondheidscontrole kat oppas",
+        "kattenverzorging bioloog Antwerpen",
+        "ziektepreventie kat vakantie"
       ],
       "en": [
-        "cat health monitoring Antwerp",
+        "cat health check pet sitter",
         "biologist cat care Antwerp"
       ],
       "fr": [
-        "suivi sante chat Anvers",
-        "biologiste garde chat Anvers"
+        "suivi veterinaire chat vacances",
+        "sante feline Anvers"
       ],
       "tr": [
-        "kedi sağlık takibi Anvers",
-        "biyolog kedi bakıcısı Anvers"
+        "kedi sağlık kontrolü bakıcı",
+        "biyolog kedi bakımı Anvers"
       ]
     }
   },
@@ -414,72 +415,71 @@ export const districts: DistrictInfo[] = [
       "nl": "Kattenbak Hygiëne",
       "en": "Litter Box Hygiene",
       "fr": "Hygiène de la Litière",
-      "tr": "Kedi Kumu Hijyeni"
+      "tr": "Kum Kabı Hijyeni"
     },
     "title": {
-      "nl": "Dagelijkse Kattenbak Reiniging & Hygiëne Service in Antwerpen",
-      "en": "Daily Litter Box Cleaning & Hygiene Service in Antwerp",
-      "fr": "Service Quotidien de Nettoyage de Litière à Anvers",
-      "tr": "Anvers'te Günlük Kedi Kumu Temizliği ve Hijyen Hizmeti"
+      "nl": "Grondige Kattenbak Schoonmaak en Geurpreventie in Antwerpen",
+      "en": "Thorough Litter Box Cleaning & Odor Control in Antwerp",
+      "fr": "Nettoyage Minutieux de la Litière et Gestion des Odeurs à Anvers",
+      "tr": "Anvers'te Detaylı Kedi Kumu Temizliği ve Hijyen Bakımı"
     },
     "subtitle": {
-      "nl": "Voorkom blaasontsteking en wildplassen met een brandschone kattenbak.",
-      "en": "Prevent urinary tract infections and stress with a spotlessly clean box.",
-      "fr": "Évitez les infections urinaires et le stress grâce à une litière impeccable.",
-      "tr": "Tertemiz bir kum kabı ile idrar yolu enfeksiyonu ve stresi önleyin."
+      "nl": "Dagelijks scheppen, desinfecteren en vloer stofzuigen rondom de bak.",
+      "en": "Daily scooping, periodic sanitization, and swept floors around litter areas.",
+      "fr": "Nettoyage quotidien, désinfection et maintien d'un intérieur impeccable.",
+      "tr": "Günlük eleme, koku önleme ve kum kabı etrafının süpürülmesi."
     },
     "description": {
-      "nl": "Een vuile kattenbak is de nummer 1 oorzaak van stress en blaasproblemen bij katten. Wij scheppen de kattenbak bij elk bezoek grondig leeg, vullen vulling aan en houden de ruimte eromheen netjes schoon.",
-      "en": "A soiled litter box is the #1 cause of feline stress and urinary issues. We thoroughly scoop the litter box every visit, top up fresh litter, and sweep the surrounding area clean.",
-      "fr": "Une litière sale est la cause principale de stress chez le chat. Nous nettoyons le bac à chaque visite, ajoutons de la litière fraîche et balayons les alentours.",
-      "tr": "Kirli kedi kumu, kedilerde idrar yolu sorunları ve stresin 1 numaralı sebebidir. Her ziyarette kumu eliyor, eksilen kumu ekliyor ve etrafını süpürüyoruz."
+      "nl": "Katten zijn uiterst schone dieren; een vuile kattenbak leidt snel tot onzindelijkheid of urinewegproblemen. Wij scheppen de bak dagelijks grondig leeg, vullen grit bij en stofzuigen rondslingerend grind voor een fris huis.",
+      "en": "Cats demand pristine cleanliness. A soiled box leads to behavioral issues and infections. We scoop daily, top up litter, and sweep surrounding floors so your home stays immaculate.",
+      "fr": "Une litière parfaitement propre est essentielle au bien-être de votre chat. Nous enlevons les déjections à chaque passage, renouvelons la litière et balayons le sol alentour.",
+      "tr": "Kediler temizliğe son derece düşkündür; kirli bir kum kabı idrar yolu enfeksiyonlarına ve kum dışına yapmaya sebep olur. Kumu her gün temizliyor, takviye yapıyor ve etrafını süpürüyoruz."
     },
     "highlights": {
       "nl": [
-        "Grondig scheppen bij elk bezoek",
-        "Netjes aanvegen van de uitloopruimte",
-        "Volledige verschoonservice mogelijk",
-        "Voorkomt nare geurtjes in huis"
+        "Dagelijks uitscheppen en bijvullen",
+        "Grondige desinfectie bij wekelijkse wissel",
+        "Stofzuigen van uitloopkorrels",
+        "Geen nare geurtjes in huis"
       ],
       "en": [
-        "Thorough scooping every visit",
-        "Sweeping litter scatter around the box",
-        "Full litter refresh option available",
-        "Keeps your home smelling fresh"
+        "Daily scooping and fresh litter top-up",
+        "Complete wash & disinfection available",
+        "Vacuuming/sweeping tracked litter",
+        "Guaranteed odor-free home"
       ],
       "fr": [
-        "Nettoyage complet à chaque visite",
-        "Balayage autour du bac",
-        "Changement complet de litière possible",
-        "Élimine les mauvaises odeurs"
+        "Nettoyage quotidien des déjections",
+        "Désinfection périodique complète",
+        "Aspiration des grains de litière",
+        "Intérieur garanti sans odeur"
       ],
       "tr": [
-        "Her ziyarette detaylı kum eleme",
-        "Kum kabı etrafının süpürülmesi",
-        "Komple kum değiştirme seçeneği",
-        "Evinizde kötü kokuları önleme"
+        "Günlük eleme ve taze kum ekleme",
+        "Gerektiğinde tam yıkama ve dezenfeksiyon",
+        "Dışarı saçılan kumların süpürülmesi",
+        "Kokusuz ve hijyenik yaşam alanı"
       ]
     },
-    "image": "/images/cat_plants.png",
+    "image": "/images/cat_playing.png",
     "geo": {
       "latitude": 51.2194,
       "longitude": 4.4025
     },
     "keywords": {
       "nl": [
-        "kattenbak schoonmaken oppas Antwerpen",
-        "kattenbak hygiene vakantie"
+        "kattenbak schoonmaken vakantie",
+        "kattenbak hygiene oppas Antwerpen"
       ],
       "en": [
         "litter box cleaning Antwerp",
-        "cat litter sitter Antwerp"
+        "cat litter maintenance sitter"
       ],
       "fr": [
-        "nettoyage litiere chat Anvers"
+        "nettoyage litiere chat vacances Anvers"
       ],
       "tr": [
-        "kedi kumu temizliği Anvers",
-        "kedi kum kabı bakımı"
+        "kedi kumu temizleme bakıcı Anvers"
       ]
     }
   },
@@ -487,53 +487,53 @@ export const districts: DistrictInfo[] = [
     "slug": "playtime",
     "postalCode": "Groot-Antwerpen",
     "name": {
-      "nl": "Aandacht & Speeltijd",
+      "nl": "Spelen & Aandacht",
       "en": "Playtime & Affection",
-      "fr": "Jeux & Attention",
-      "tr": "Oyun & Sevgi Saati"
+      "fr": "Jeux & Câlins",
+      "tr": "Oyun ve Şefkat Dolu İlgi"
     },
     "title": {
-      "nl": "Interactieve Speeltijd & Aandacht voor Katten in Antwerpen",
-      "en": "Interactive Playtime & Affection for Cats in Antwerp",
-      "fr": "Sessions de Jeux Interactifs & Câlins pour Chats à Anvers",
-      "tr": "Anvers'te Kediler İçin Eğlenceli Oyun ve Sevgi Saatleri"
+      "nl": "Mentale Stimulatie, Spelen en Knuffels voor Uw Kat in Antwerpen",
+      "en": "Mental Stimulation, Play, and Cuddles for Your Cat in Antwerp",
+      "fr": "Stimulation Mentale, Jeux et Câlins pour Chat à Anvers",
+      "tr": "Anvers'te Kediler İçin Zihinsel Oyunlar, Egzersiz ve Şefkat"
     },
     "subtitle": {
-      "nl": "Mentale stimulatie, hengelspelletjes en knuffels tegen eenzaamheid.",
-      "en": "Mental stimulation, feather wands, and cuddles to defeat loneliness.",
-      "fr": "Stimulation mentale, jeux de plumeau et câlins contre la solitude.",
-      "tr": "Yalnızlığı önleyen zihinsel oyunlar, olta oyunları ve bolca kucak."
+      "nl": "Interactief jachtspel met hengels, lasertjes en ontspannen borstelsessies.",
+      "en": "Interactive hunting games, wand toys, and relaxing brushing sessions.",
+      "fr": "Jeux de chasse interactifs, plumes et séances de brossage relaxantes.",
+      "tr": "Olta oyuncakları, lazer oyunları, tüy tarama ve sevgi dolu ilgi."
     },
     "description": {
-      "nl": "Katten hebben verrijking en sociale interactie nodig. Tijdens ons bezoek nemen we uitgebreid de tijd om met hengeltjes, balletjes of denkpuzzels te spelen, of gewoon rustig op de zetel te knuffelen als uw kat dat verkiest.",
-      "en": "Cats thrive on environmental enrichment and human connection. During our visits, we dedicate quality time to play with wand toys, balls, or puzzle feeders — or simply cuddle on the sofa if your cat prefers quiet affection.",
-      "fr": "Les chats ont besoin de jeux et de présence. Lors de nos visites, nous prenons le temps de jouer (plumeaux, balles, puzzles) ou de faire des câlins selon la personnalité de votre chat.",
-      "tr": "Kedilerin oyun oynamaya ve sevgiye ihtiyacı vardır. Ziyaretlerimizde kedi oltaları, toplar ve akıl oyunlarıyla oynuyor ya da kediniz isterse koltukta sakince seviyoruz."
+      "nl": "Verveling is de grootste vijand van een binnenhuiskat tijdens uw afwezigheid. Wij besteden ruime tijd aan interactief spelen dat het natuurlijke jachtinstinct stimuleert, gevolgd door rustgevende aaisessies en borstelen.",
+      "en": "Boredom causes anxiety for indoor cats. We dedicate quality time to active play mimicking natural predation instincts, followed by soothing petting and gentle grooming.",
+      "fr": "L'ennui engendre du stress chez le chat d'intérieur. Nous prenons le temps de jouer avec votre compagnon pour stimuler son instinct naturel, suivi de moments câlins.",
+      "tr": "Siz yokken ev kedilerinin en büyük sorunu can sıkıntısıdır. Kedinizin doğal avlanma içgüdülerini harekete geçiren oyunlar oynuyor, ardından tüy tarama ve sevgiyle ilgileniyoruz."
     },
     "highlights": {
       "nl": [
-        "Speelhengel en puzzelspeelgoed inbegrepen",
-        "Aangepast aan de energie van uw kat (kitten vs senior)",
-        "Vermindert scheidingsangst en verveling",
-        "HD Bodycam beelden van de speelsessie"
+        "Interactieve hengels, balletjes & tunnels",
+        "Vachtverzorging en zacht borstelen",
+        "Aandacht op maat voor schuwe of actieve katten",
+        "Foto's & filmpjes van de speelsessies"
       ],
       "en": [
-        "Feather wands and puzzle toys included",
-        "Tailored to your cat's energy level (kitten vs senior)",
-        "Reduces separation anxiety and boredom",
-        "HD Bodycam footage of play sessions"
+        "Interactive feather wands & laser fun",
+        "Coat brushing & gentle grooming",
+        "Adapted pacing for shy or energetic cats",
+        "Action photos & videos sent to you"
       ],
       "fr": [
-        "Jeux et jouets interactifs inclus",
-        "Adapté à l'énergie de votre chat",
-        "Réduit l'anxiété de séparation",
-        "Vidéos Bodycam des moments de jeu"
+        "Plumeaux, balles et tunnels interactifs",
+        "Brossage doux du pelage",
+        "Rythme adapté aux chats craintifs ou actifs",
+        "Photos et vidéos des moments de jeu"
       ],
       "tr": [
-        "Oyun oltaları ve zeka oyuncakları dahil",
-        "Kedinizin enerjisine özel oyun (yavru vs yaşlı)",
-        "Ayrılık kaygısı ve sıkıntıyı azaltma",
-        "Oyun anlarının HD Bodycam kaydı"
+        "Tüylü oltalar, tüneller ve zeka oyunları",
+        "Tüy tarama ve masaj seansları",
+        "Çekingen veya hareketli kedilere özel yaklaşım",
+        "Oyun anından fotoğraf ve videolar"
       ]
     },
     "image": "/images/cat_playing.png",
@@ -545,19 +545,18 @@ export const districts: DistrictInfo[] = [
       "nl": [
         "kat spelen oppas Antwerpen",
         "aandacht kat vakantie",
-        "kat knuffelen oppas"
+        "kattenverzorging aan huis spelen"
       ],
       "en": [
         "cat playtime sitter Antwerp",
-        "cat affection pet sitter Antwerp"
+        "cat enrichment pet sitting"
       ],
       "fr": [
-        "jeux chat garde Anvers",
-        "calins chat oppas Anvers"
+        "jeu calin chat vacances Anvers"
       ],
       "tr": [
-        "kedi oyun saati bakıcı Anvers",
-        "kedi sevgi bakımı Anvers"
+        "kedi oyun bakıcısı Anvers",
+        "kedi vakit geçirme"
       ]
     }
   },
@@ -566,52 +565,52 @@ export const districts: DistrictInfo[] = [
     "postalCode": "Groot-Antwerpen",
     "name": {
       "nl": "Plantenverzorging",
-      "en": "Plant Watering",
+      "en": "Plant Watering Care",
       "fr": "Arrosage des Plantes",
-      "tr": "Çiçek Sulama Hizmeti"
+      "tr": "Bitki ve Çiçek Bakımı"
     },
     "title": {
-      "nl": "Plantenverzorging Service tijdens uw Vakantie in Antwerpen",
-      "en": "Plant Watering Service During Your Vacation in Antwerp",
-      "fr": "Service d'Arrosage des Plantes Pendant vos Vacances à Anvers",
-      "tr": "Anvers'te Tatiliniz Sırasında Çiçek ve Saksı Sulama Hizmeti"
+      "nl": "Gratis Plantenverzorging en Tuinbewatering tijdens Uw Vakantie",
+      "en": "Complimentary Indoor Plant & Garden Watering during Vacation",
+      "fr": "Arrosage Gratuit de Vos Plantes et Balcon pendant Vos Vacances",
+      "tr": "Tatildeyken Ücretsiz Ev Bitkisi ve Çiçek Sulama Hizmeti"
     },
     "subtitle": {
-      "nl": "Gratis extra service: kamer- en tuinplanten verzorgd bij u thuis.",
-      "en": "Complimentary service: indoor and garden plants cared for at home.",
-      "fr": "Service offert: vos plantes d'intérieur et du jardin arrosées.",
-      "tr": "Ücretsiz ekstra hizmet: evdeki ve bahçedeki çiçekleriniz sulanır."
+      "nl": "Thuiskomen bij een blije kat én prachtig groene, gezonde kamerplanten.",
+      "en": "Return home to a thriving cat and lush, beautifully hydrated house plants.",
+      "fr": "Retrouvez un chat épanoui et des plantes d'intérieur fraîches et rayonnantes.",
+      "tr": "Tatil dönüşü hem mutlu bir kediye hem de capcanlı yeşil bitkilere kavuşun."
     },
     "description": {
-      "nl": "Kom thuiskomst niet voor dorre planten te staan! Als gratis extra service gieten wij uw kamerplanten en tuinplanten water tijdens onze kattenoppasbezoeken in Antwerpen.",
-      "en": "Don't return home to withered plants! As a complimentary added service, we water your houseplants and garden greenery during our cat sitting visits across Antwerp.",
-      "fr": "Ne rentrez pas chez vous avec des plantes fannées! Nous arrosons vos plantes d'intérieur et du jardin gratuitement pendant nos visites de garde de chat.",
-      "tr": "Tatile gittiğinizde çiçekleriniz kurumasın! Kedi bakımı ziyaretlerimizde evdeki ve balkondaki saksı çiçeklerinizi ücretsiz olarak suluyoruz."
+      "nl": "Als gratis aanvullende service geven wij uw kamerplanten en balkonbloemen water volgens uw instructies. Zo hoeft u geen aparte buren in te schakelen en blijft uw groene oase perfect behouden.",
+      "en": "As a free courtesy, we water your indoor greenery and patio flowers according to your instructions. No need to ask separate neighbors for keys.",
+      "fr": "En service gratuit inclus, nous arrosons vos plantes d'intérieur et de balcon selon vos indications. Votre maison reste pleine de vie.",
+      "tr": "Ekstra hiçbir ücret talep etmeden, evdeki ve balkondaki çiçeklerinizi talimatlarınıza göre suluyoruz. Komşulara anahtar bırakma zahmetine son."
     },
     "highlights": {
       "nl": [
-        "Inbegrepen bij Standaard en Premium plannen",
-        "Gieten volgens uw specifieke instructies",
-        "Zowel kamerplanten als terras/balkonplanten",
-        "U komt thuis bij een groen huis"
+        "100% Gratis inbegrepen bij oppasbezoeken",
+        "Planten water geven volgens schema",
+        "Verwijderen van dorre bladeren",
+        "Zowel binnenplanten als balkonbloemen"
       ],
       "en": [
-        "Included with Standard and Premium plans",
-        "Watered according to your exact notes",
-        "Both indoor and balcony/garden plants",
-        "Return home to thriving green plants"
+        "100% Free with all sitting packages",
+        "Watered precisely per plant schedule",
+        "Dry leaf removal and care",
+        "Covers indoor pots and balcony boxes"
       ],
       "fr": [
-        "Inclus dans les forfaits Standard et Premium",
-        "Arrosage selon vos consignes",
-        "Plantes d'intérieur et de balcon",
-        "Retrouvez un intérieur verdoyant"
+        "100% Inclus gratuitement avec vos visites",
+        "Arrosage selon vos fréquences",
+        "Entretien des feuilles mortes",
+        "Plantes d'intérieur et jardinières"
       ],
       "tr": [
-        "Standart ve Premium paketlerimize dahil",
-        "Çiçeklerinize özel sulama talimatlarına uyum",
-        "Hem salon hem balkon/teras bitkileri",
-        "Yeşil ve canlı bir eve dönüş"
+        "Tüm bakım paketlerimizde %100 Ücretsiz",
+        "Bitkilerin ihtiyacına göre sulama",
+        "Kuruyan yaprakların temizlenmesi",
+        "İç mekan saksıları ve balkon çiçekleri"
       ]
     },
     "image": "/images/cat_plants.png",
@@ -622,18 +621,18 @@ export const districts: DistrictInfo[] = [
     "keywords": {
       "nl": [
         "planten water geven vakantie Antwerpen",
-        "oppas planten en katten Antwerpen"
+        "plantenverzorging oppas"
       ],
       "en": [
-        "plant watering pet sitter Antwerp",
-        "house sitting plant care Antwerp"
+        "plant watering holiday Antwerp",
+        "house sitting plants"
       ],
       "fr": [
-        "arrosage plantes vacances Anvers"
+        "arroser plantes vacances Anvers"
       ],
       "tr": [
         "tatilde çiçek sulama Anvers",
-        "evde bitki sulama bakıcısı"
+        "ev bitkisi bakımı"
       ]
     }
   },
@@ -641,53 +640,53 @@ export const districts: DistrictInfo[] = [
     "slug": "mail",
     "postalCode": "Groot-Antwerpen",
     "name": {
-      "nl": "Brievenbus & Huiszorg",
-      "en": "Mail & House Security",
-      "fr": "Relève Courrier & Sécurité",
-      "tr": "Posta Toplama & Ev Güvenliği"
+      "nl": "Post & Woningcontrole",
+      "en": "Mail & Home Security Check",
+      "fr": "Courrier & Surveillance Domicile",
+      "tr": "Posta Toplama ve Ev Güvenliği"
     },
     "title": {
-      "nl": "Brievenbus & Inbraakpreventie Service bij Kattenoppas in Antwerpen",
-      "en": "Mail Retrieval & Burglary Prevention Service in Antwerp",
-      "fr": "Service de Relève de Courrier & Sécurité du Domicile à Anvers",
-      "tr": "Anvers'te Posta Kutusu Boşaltma ve Ev Güvenliği Hizmeti"
+      "nl": "Postbus Legen, Gordijnen Openen en Bewoonde Indruk van Uw Woning",
+      "en": "Mail Collection, Blinds Rotation & Inhabited Home Security Appearance",
+      "fr": "Relève du Courrier, Volets et Sécurisation Visuelle de Votre Domicile",
+      "tr": "Posta Toplama, Perdeleri Havalandırma ve Ev Güvenliği Hizmeti"
     },
     "subtitle": {
-      "nl": "Post verzamelen, gordijnen bewegen en afvalbuisjes buitenzetten.",
-      "en": "Mail collection, blinds adjustment, and trash bin management.",
-      "fr": "Relève du courrier, gestion des volets et des poubelles.",
-      "tr": "Posta toplama, perde hareketi ve çöp kutusu yönetimi."
+      "nl": "Inbraakpreventie: uw huis ziet er bewoond en levendig uit tijdens uw reis.",
+      "en": "Burglary prevention: your home maintains an active, occupied appearance.",
+      "fr": "Prévention cambriolage : votre maison garde une apparence occupée et vivante.",
+      "tr": "Hırsızlık önleme: siz tatildeyken eviniz canlı ve dolu bir görünüm kazanır."
     },
     "description": {
-      "nl": "Een volle brievenbus is een uitnodiging voor inbrekers. Tijdens onze oppasbezoeken verzamelen we uw post, openen of sluiten we gordijnen en zetten we vuilnisbakken buiten om uw huis een bewoonde indruk te geven.",
-      "en": "An overflowing mailbox invites burglars. During our pet sitting visits, we collect your mail, adjust blinds, and set out trash bins on collection days to maintain a lived-in look.",
-      "fr": "Une boîte aux lettres débordante attire les cambrioleurs. Nous relevons votre courrier, ajustons les volets et sortons les poubelles les jours de collecte à Anvers.",
-      "tr": "Taşan bir posta kutusu hırsızlara davetiye çıkarır. Bakım ziyaretlerimizde postalarınızı topluyor, perdeleri hareket ettiriyor ve çöp gününde kutuları dışarı çıkarıyoruz."
+      "nl": "Een overvolle brievenbus trekt inbrekers aan. Wij legen uw postbus netjes, zetten vuilnisbakken buiten indien gewenst en variëren met verlichting of gordijnen voor optimale veiligheid van uw pand in Antwerpen.",
+      "en": "An overflowing mailbox signals an empty house. We collect your mail, take bins in/out on collection days, and adjust curtains/lights for maximum security.",
+      "fr": "Une boîte aux lettres pleine signale une absence prolongée. Nous relevons votre courrier, sortons les poubelles et actionnons les lumières/rideaux.",
+      "tr": "Dolu bir posta kutusu evde kimsenin olmadığının en büyük işaretidir. Postalarınızı topluyor, çöp kutularını çıkarıyor ve perdeleri açıp kapatarak evinizin güvenliğini sağlıyoruz."
     },
     "highlights": {
       "nl": [
-        "Post en pakketjes veilig uit het zicht gelegd",
-        "Inbraakpreventie: gordijnen & lichten bedienen",
-        "Vuilnisbakken buitenzetten op ophaaldagen",
-        "Geen extra kosten"
+        "Gratis inbegrepen bij alle bezoeken",
+        "Legen en netjes stapelen van post",
+        "Gordijnen openen/sluiten op verzoek",
+        "Inbraakpreventie voor een gerust hart"
       ],
       "en": [
-        "Mail and packages safely stored out of sight",
-        "Burglary prevention: adjust blinds & lights",
-        "Trash bin put-out on collection days",
-        "No additional charges"
+        "Included free in every sitting visit",
+        "Mail neatly sorted and stored inside",
+        "Curtains & light rotation upon request",
+        "Deters burglars effectively"
       ],
       "fr": [
-        "Courrier mis en sécurité à l'abri des regards",
-        "Prévention cambriolage: volets et lumières",
-        "Sortie des poubelles les jours de collecte",
-        "Sans supplément"
+        "Inclus sans frais additionnels",
+        "Courrier trié et déposé en lieu sûr",
+        "Ouverture/fermeture des volets",
+        "Dissuasion efficace des cambriolages"
       ],
       "tr": [
-        "Posta ve kargoların güvenle gözden uzak konması",
-        "Hırsızlık önleme: perde ve ışık hareketi",
-        "Çöp toplama gününde kutuları dışarı çıkarma",
-        "Ekstra ücret yok"
+        "Tüm ziyaretlerde tamamen ücretsiz",
+        "Postaların toplanıp düzenli konması",
+        "İsteğe göre perde ve ışık düzenlemesi",
+        "Hırsızlığa karşı caydırıcı önlem"
       ]
     },
     "image": "/images/cat_security.png",
@@ -697,19 +696,1685 @@ export const districts: DistrictInfo[] = [
     },
     "keywords": {
       "nl": [
-        "post ophalen vakantie Antwerpen",
-        "inbraakpreventie oppas Antwerpen"
+        "brievenbus legen vakantie Antwerpen",
+        "huisbeveiliging oppas",
+        "inbraakpreventie vakantie"
       ],
       "en": [
         "mail collection pet sitter Antwerp",
-        "burglary prevention house sitting Antwerp"
+        "home security pet sitting"
       ],
       "fr": [
-        "releve courrier vacances Anvers"
+        "relever courrier vacances Anvers",
+        "surveillance maison vacances"
       ],
       "tr": [
-        "tatilde posta toplama Anvers",
-        "ev güvenlik kedi bakıcı"
+        "posta toplama tatil Anvers",
+        "ev güvenliği bakıcı"
+      ]
+    }
+  },
+  {
+    "slug": "hondenoppas",
+    "postalCode": "Vlaanderen & Antwerpen",
+    "name": {
+      "nl": "Hondenoppas aan Huis",
+      "en": "In-Home Dog Sitting",
+      "fr": "Garde de Chien à Domicile",
+      "tr": "Evde Köpek Bakıcılığı"
+    },
+    "title": {
+      "nl": "Professionele Hondenoppas aan Huis in Antwerpen & Vlaanderen",
+      "en": "Professional In-Home Dog Sitting in Antwerp & Flanders",
+      "fr": "Garde Professionnelle de Chien à Domicile à Anvers & Flandre",
+      "tr": "Anvers ve Flanders Genelinde Profesyonel Evde Köpek Bakıcılığı"
+    },
+    "subtitle": {
+      "nl": "Liefdevolle zorg voor uw hond in de eigen vertrouwde omgeving, zonder pensionstress.",
+      "en": "Loving dog care in their familiar home surroundings, avoiding kennel stress.",
+      "fr": "Soins affectueux pour votre chien dans son environnement, sans stress de chenil.",
+      "tr": "Köpeğiniz için pansiyon stresi olmadan, kendi yuvasında şefkatli ve uzman bakım."
+    },
+    "description": {
+      "nl": "KattenHond biedt hoogwaardige hondenoppas aan huis. Uw hond blijft heerlijk in zijn eigen mand en vertrouwde tuin. Wij verzorgen maaltijden, wandelingen, speelsessies, medicatie en geven 100% HD Bodycam videobewijs na elk bezoek.",
+      "en": "KattenHond offers premium in-home dog sitting. Your dog enjoys their cozy bed and familiar garden. We provide meals, walks, active play, medication, and HD bodycam video proof after every visit.",
+      "fr": "KattenHond propose une garde de chien à domicile haut de gamme. Votre chien reste dans son panier habituel avec repas, promenades, jeux et vidéos Bodycam HD.",
+      "tr": "KattenHond, evde üstün standartlarda köpek bakıcılığı sunar. Köpeğiniz kendi yatağında ve bahçesinde kalarak beslenme, yürüyüş, oyun ve ilaç bakımı alır. Her ziyarette HD kamera kaydı sunulur."
+    },
+    "highlights": {
+      "nl": [
+        "Eigen vertrouwde omgeving zonder blaffende pensions",
+        "Wandelingen op maat in eigen buurt of park",
+        "Voeding, borstelen en medicatietoediening",
+        "HD Bodycam opname en GPS-wandelrapport"
+      ],
+      "en": [
+        "Comfortable home environment without loud kennels",
+        "Tailored walks in local neighborhood and parks",
+        "Feeding, brushing, and medications covered",
+        "HD Bodycam recording & GPS walk summary"
+      ],
+      "fr": [
+        "Environnement familier sans chenil bruyant",
+        "Promenades sur mesure au parc",
+        "Repas, brossage et médicaments inclus",
+        "Enregistrement Bodycam HD et rapport"
+      ],
+      "tr": [
+        "Pansiyon gürültüsü olmadan kendi evinde konfor",
+        "Mahallenizde ve parkta özel yürüyüş seansları",
+        "Mama, tarama ve ilaç uygulamaları",
+        "HD Yaka kamerası ve GPS yürüyüş raporu"
+      ]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": {
+      "latitude": 51.2194,
+      "longitude": 4.4025
+    },
+    "keywords": {
+      "nl": [
+        "hondenoppas Antwerpen",
+        "hondenoppas aan huis",
+        "dog sitter Antwerpen",
+        "hondenopvang aan huis",
+        "kattenhond hondenoppas"
+      ],
+      "en": [
+        "dog sitter Antwerp",
+        "in home dog sitting Flanders",
+        "dog care Antwerp"
+      ],
+      "fr": [
+        "garde chien domicile Anvers",
+        "dog sitting Flandre"
+      ],
+      "tr": [
+        "köpek bakıcısı Anvers",
+        "evde köpek bakımı Belçika"
+      ]
+    }
+  },
+  {
+    "slug": "hondenuitlaatservice",
+    "postalCode": "Vlaanderen & Antwerpen",
+    "name": {
+      "nl": "Hondenuitlaatservice",
+      "en": "Dog Walking Service",
+      "fr": "Service de Promenade pour Chien",
+      "tr": "Profesyonel Köpek Gezdirme Servisi"
+    },
+    "title": {
+      "nl": "Betrouwbare Hondenuitlaatservice en Wandelingen in Regio Antwerpen",
+      "en": "Reliable Dog Walking Service & Outdoor Walks in Antwerp Region",
+      "fr": "Service de Promenade de Chien Professionnel à Anvers",
+      "tr": "Anvers Bölgesinde Güvenilir Köpek Gezdirme ve Yürüyüş Hizmeti"
+    },
+    "subtitle": {
+      "nl": "Individuele of duo-wandelingen vol beweging, snuffeltijd en positiviteit.",
+      "en": "Individual or duo walks full of exercise, sniffing adventures, and positive reinforcement.",
+      "fr": "Promenades individuelles stimulantes avec exercice et bienveillance.",
+      "tr": "Köpeğiniz için bol egzersizli, kokulu ve pozitif enerjili özel yürüyüş seansları."
+    },
+    "description": {
+      "nl": "Heeft u een drukke werkdag of bent u minder mobiel? Onze professionele hondenuitlaters komen bij u langs voor een energieke wandeling van 30, 45 of 60 minuten. Wij wandelen individueel zodat uw hond alle persoonlijke aandacht krijgt.",
+      "en": "Busy workday or recovering from surgery? Our professional dog walkers visit your home for invigorating 30, 45, or 60-minute walks. We prioritize 1-on-1 attention for safety and fun.",
+      "fr": "Journée chargée au travail ? Nos promeneurs de chiens professionnels viennent chez vous pour des balades dynamiques de 30 à 60 minutes avec toute l'attention nécessaire.",
+      "tr": "Yoğun iş günlerinizde veya seyahatlerinizde köpeğinizi yalnız bırakmayın. 30, 45 veya 60 dakikalık birebir yürüyüş seanslarıyla köpeğinize sağlıklı bir egzersiz sunuyoruz."
+    },
+    "highlights": {
+      "nl": [
+        "Individuele wandelingen (geen overvolle busjes)",
+        "30, 45 of 60 minuten naar keuze",
+        "Pootjes schoonmaken en drinkbak vullen bij thuiskomst",
+        "GPS-route en vrolijke foto's naar uw telefoon"
+      ],
+      "en": [
+        "Solo walks (no overcrowded pack vans)",
+        "30, 45, or 60 min session options",
+        "Paws cleaned and fresh water bowl upon return",
+        "GPS route & live photos sent to your phone"
+      ],
+      "fr": [
+        "Promenades individuelles sécurisées",
+        "Sessions de 30, 45 ou 60 minutes",
+        "Pattes nettoyées et eau fraîche au retour",
+        "Parcours GPS et photos envoyées"
+      ],
+      "tr": [
+        "Bireysel yürüyüş (kalabalık minibüs taşımacılığı yok)",
+        "30, 45 veya 60 dakika seçenekleri",
+        "Eve dönüşte pati temizliği ve taze su ikmali",
+        "Telefona anlık GPS rotası ve fotoğraflar"
+      ]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": {
+      "latitude": 51.2194,
+      "longitude": 4.4025
+    },
+    "keywords": {
+      "nl": [
+        "hondenuitlaatservice Antwerpen",
+        "hond uitlaten Antwerpen",
+        "dog walker Antwerpen",
+        "hondenuitlater tarieven"
+      ],
+      "en": [
+        "dog walker Antwerp",
+        "dog walking service Antwerp",
+        "hire dog walker"
+      ],
+      "fr": [
+        "promeneur de chien Anvers",
+        "service promenade chien"
+      ],
+      "tr": [
+        "köpek gezdirme Anvers",
+        "köpek yürüyüş servisi Belçika"
+      ]
+    }
+  },
+  {
+    "slug": "puppy-care",
+    "postalCode": "Vlaanderen & Antwerpen",
+    "name": {
+      "nl": "Puppyverzorging & Begeleiding",
+      "en": "Puppy Care & Socialization Visits",
+      "fr": "Garde et Soins pour Chiot",
+      "tr": "Yavru Köpek (Puppy) Bakımı ve Sosyalleştirme"
+    },
+    "title": {
+      "nl": "Gespecialiseerde Puppyverzorging en Bezoekjes aan Huis in Antwerpen",
+      "en": "Specialized In-Home Puppy Care & Potty Break Visits in Antwerp",
+      "fr": "Visites et Soins Spécialisés pour Chiots à Domicile à Anvers",
+      "tr": "Anvers'te Yavru Köpekler İçin Evde Tuvalet ve Sosyalleşme Bakımı"
+    },
+    "subtitle": {
+      "nl": "Korte plaspauzes, zindelijkheidstraining en veilige socialisatie voor jonge pups.",
+      "en": "Potty breaks, routine reinforcement, and gentle socialization for young pups.",
+      "fr": "Sorties propreté, éducation douce et jeux adaptés pour jeunes chiots.",
+      "tr": "Yavru köpekler için tuvalet alışkanlığı, beslenme ve güvenli sosyalleşme ziyaretleri."
+    },
+    "description": {
+      "nl": "Een puppy kan nog geen hele werkdag alleen zijn. KattenHond biedt speciale puppybezoekjes met plaspauzes, speelsessies, voeding en zindelijkheidsondersteuning onder toezicht van gediplomeerde dierexperts.",
+      "en": "A young puppy cannot stay alone all day. KattenHond provides tailored puppy visits with potty breaks, bite-inhibition play, and positive feeding support.",
+      "fr": "Un chiot a besoin de sorties fréquentes. KattenHond propose des visites adaptées avec pauses pipi, repas et jeux stimulants.",
+      "tr": "Yavru köpekler gün boyu yalnız kalamaz. KattenHond uzmanları eve gelerek tuvalet molası, mama takviyesi ve zihinsel gelişim oyunları sağlar."
+    },
+    "highlights": {
+      "nl": [
+        "Korte frequente plaspauzes tegen ongelukjes",
+        "Ondersteuning van de zindelijkheidstraining",
+        "Positieve stimulatie en socialisatiespelletjes",
+        "Bioloog advies over puppygroei en voeding"
+      ],
+      "en": [
+        "Frequent potty break visits",
+        "Reinforces consistent house training",
+        "Gentle play and positive stimulation",
+        "Biologist guidance on puppy development"
+      ],
+      "fr": [
+        "Sorties régulières pour la propreté",
+        "Aide à l'éducation douce",
+        "Jeux d'éveil positifs",
+        "Conseils de spécialistes en biologie"
+      ],
+      "tr": [
+        "Düzenli tuvalet molalarıyla ev kazalarını önleme",
+        "Tuvalet eğitimine destek",
+        "Pozitif oyunlarla sosyalleştirme",
+        "Biyologdan yavru gelişimi tavsiyeleri"
+      ]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": {
+      "latitude": 51.2194,
+      "longitude": 4.4025
+    },
+    "keywords": {
+      "nl": [
+        "puppy oppas Antwerpen",
+        "puppy plaspauze aan huis",
+        "puppyverzorging Antwerpen"
+      ],
+      "en": [
+        "puppy sitter Antwerp",
+        "puppy potty break visits"
+      ],
+      "fr": [
+        "garde chiot Anvers",
+        "visite chiot domicile"
+      ],
+      "tr": [
+        "yavru köpek bakıcısı Anvers",
+        "puppy bakımı"
+      ]
+    }
+  },
+  {
+    "slug": "willebroek",
+    "postalCode": "2830",
+    "name": {
+      "nl": "Willebroek & Rupelstreek",
+      "en": "Willebroek & Rupel Region",
+      "fr": "Willebroek & Région du Rupel",
+      "tr": "Willebroek ve Rupel Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Willebroek (2830)",
+      "en": "In-Home Cat Sitter & Dog Sitting in Willebroek (2830)",
+      "fr": "Garde de Chat et Chien à Domicile à Willebroek (2830)",
+      "tr": "Willebroek (2830) Bölgesinde Evde Kedi ve Köpek Bakıcılığı"
+    },
+    "subtitle": {
+      "nl": "Professionele verzorging aan huis in Willebroek, Blaasveld, Tisselt en Klein-Willebroek.",
+      "en": "Professional in-home pet care in Willebroek, Blaasveld, Tisselt, and Klein-Willebroek.",
+      "fr": "Garde d'animaux professionnelle à domicile à Willebroek, Blaasveld et Tisselt.",
+      "tr": "Willebroek, Blaasveld, Tisselt ve Klein-Willebroek'te profesyonel evde evcil hayvan bakımı."
+    },
+    "description": {
+      "nl": "Woont u in Willebroek (postcode 2830) of de omliggende deelgemeenten zoals Blaasveld, Tisselt of Heindonk? KattenHond is uw betrouwbare kattenoppas en hondenoppas aan huis. Onder leiding van een gediplomeerd bioloog verzorgen wij uw katten en honden met dagelijkse bezoeken, voeding, wandelingen en 100% HD Bodycam opnames.",
+      "en": "Living in Willebroek (postal code 2830) or surrounding areas like Blaasveld, Tisselt, or Klein-Willebroek? KattenHond is your verified in-home pet sitting service providing daily visits, dog walking, and bodycam security.",
+      "fr": "Vous habitez à Willebroek (2830), Blaasveld ou Tisselt ? KattenHond assure la garde professionnelle de vos chats et chiens à domicile avec enregistrement vidéo HD et expertise biologique.",
+      "tr": "Willebroek (posta kodu 2830), Blaasveld, Tisselt veya Klein-Willebroek bölgesinde mi oturuyorsunuz? KattenHond, biyolog uzmanlığı ve yaka kamerası şeffaflığı ile kedi ve köpeklerinize evinizde en kaliteli bakımı sunar."
+    },
+    "highlights": {
+      "nl": [
+        "Actief in heel Willebroek (2830), Blaasveld & Tisselt",
+        "Kattenoppas aan huis & Hondenuitlaatservice",
+        "Elk bezoek opgenomen met 100% HD Bodycam",
+        "Gratis plantenverzorging en postbusservice inbegrepen"
+      ],
+      "en": [
+        "Active across all Willebroek (2830), Blaasveld & Tisselt",
+        "Cat sitting & dog walking at your doorstep",
+        "Every visit backed by 100% HD Bodycam recordings",
+        "Free plant watering and mailbox security included"
+      ],
+      "fr": [
+        "Actif à Willebroek (2830), Blaasveld et Tisselt",
+        "Garde de chats à domicile et promenades canines",
+        "Chaque visite enregistrée en vidéo HD Bodycam",
+        "Arrosage de plantes et relève de courrier gratuits"
+      ],
+      "tr": [
+        "Tüm Willebroek (2830), Blaasveld ve Tisselt genelinde aktif",
+        "Evde kedi bakımı ve profesyonel köpek gezdirme",
+        "Her ziyarette %100 HD Yaka Kamerası video kaydı",
+        "Ücretsiz çiçek sulama ve posta toplama hizmeti"
+      ]
+    },
+    "image": "/images/cat_bodycam.png",
+    "geo": {
+      "latitude": 51.0608,
+      "longitude": 4.3586
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Willebroek",
+        "hondenoppas Willebroek",
+        "hondenuitlaatservice Willebroek",
+        "kattenoppas 2830",
+        "dierenoppas Blaasveld",
+        "kattenoppas Tisselt",
+        "kattenhond willebroek"
+      ],
+      "en": [
+        "cat sitter Willebroek",
+        "dog sitting Willebroek",
+        "pet sitter 2830 Belgium"
+      ],
+      "fr": [
+        "garde chat Willebroek",
+        "garde chien Willebroek 2830"
+      ],
+      "tr": [
+        "Willebroek kedi bakıcısı",
+        "Willebroek köpek bakıcısı",
+        "Willebroek pet sitter"
+      ]
+    }
+  },
+  {
+    "slug": "mechelen",
+    "postalCode": "2800",
+    "name": {
+      "nl": "Mechelen & Omstreken",
+      "en": "Mechelen City & Area",
+      "fr": "Malines & Environs",
+      "tr": "Mechelen ve Çevresi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Mechelen (2800)",
+      "en": "In-Home Cat Sitting & Dog Walking in Mechelen (2800)",
+      "fr": "Garde de Chats et Chiens à Domicile à Malines (2800)",
+      "tr": "Mechelen (2800) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Zorgeloos reizen met onze professionele huisdierenoppas in Mechelen centrum, Nekkerspoel en Battel.",
+      "en": "Travel with peace of mind with our professional pet sitters in Mechelen center and surrounding districts.",
+      "fr": "Partez l'esprit serein avec notre service de garde d'animaux à Malines et ses quartiers.",
+      "tr": "Mechelen merkez, Nekkerspoel ve çevresinde biyolog onaylı evde evcil hayvan bakıcılığı."
+    },
+    "description": {
+      "nl": "Woont u in de historische stad Mechelen (2800, 2801, 2811)? KattenHond verzorgt uw katten en honden met de hoogste standaarden. Geen verhuizing naar pensions, maar liefdevolle bezoeken in eigen huis met bodycam transparantie.",
+      "en": "Located in Mechelen (2800)? KattenHond delivers top-tier in-home cat care and dog walking. Your pets stay relaxed at home while you receive daily HD video updates.",
+      "fr": "À Malines (2800), KattenHond prend soin de vos animaux avec amour et expertise. Visites à domicile et promenades sans stress.",
+      "tr": "Mechelen (2800) bölgesinde kedi ve köpekleriniz için konforlu evde bakım ve köpek gezdirme hizmeti sunuyoruz."
+    },
+    "highlights": {
+      "nl": [
+        "Snelle service in heel Mechelen (2800) & Nekkerspoel",
+        "Ervaring met medicatie, dieet en seniordieren",
+        "HD Bodycam videobewijs na elk bezoek",
+        "Inclusief planten en post service"
+      ],
+      "en": [
+        "Prompt service across Mechelen (2800)",
+        "Medical, senior, and diet care expertise",
+        "HD Bodycam proof after each visit",
+        "Includes plant watering and mail care"
+      ],
+      "fr": [
+        "Service rapide à Malines et environs",
+        "Prise en charge médicaments et régimes",
+        "Preuve vidéo HD après chaque passage",
+        "Plantes et courrier inclus"
+      ],
+      "tr": [
+        "Mechelen genelinde hızlı hizmet",
+        "İlaç, diyet ve yaşlı hayvan bakımı uzmanlığı",
+        "Her ziyarette HD video kaydı",
+        "Çiçek sulama ve posta toplama dahil"
+      ]
+    },
+    "image": "/images/cat_feeding.png",
+    "geo": {
+      "latitude": 51.0259,
+      "longitude": 4.4776
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Mechelen",
+        "hondenoppas Mechelen",
+        "hondenuitlater Mechelen",
+        "kattenoppas 2800",
+        "kattenhotel Mechelen alternatief"
+      ],
+      "en": [
+        "cat sitter Mechelen",
+        "dog walker Mechelen 2800"
+      ],
+      "fr": [
+        "garde chat Malines",
+        "garde chien Malines 2800"
+      ],
+      "tr": [
+        "Mechelen kedi bakıcısı",
+        "Mechelen köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "boom",
+    "postalCode": "2850",
+    "name": {
+      "nl": "Boom & De Schorre",
+      "en": "Boom & Rupel Area",
+      "fr": "Boom & Vallée du Rupel",
+      "tr": "Boom ve Rupel Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Boom (2850)",
+      "en": "In-Home Pet Sitting & Dog Walking in Boom (2850)",
+      "fr": "Garde de Chat et Chien à Domicile à Boom (2850)",
+      "tr": "Boom (2850) Bölgesinde Evde Kedi ve Köpek Bakıcısı"
+    },
+    "subtitle": {
+      "nl": "Deskundige dierenverzorging aan huis in Boom, nabij De Schorre en de Rupel.",
+      "en": "Expert in-home pet care in Boom, near De Schorre and Rupel river.",
+      "fr": "Soins experts pour vos animaux à Boom et ses alentours.",
+      "tr": "Boom bölgesinde De Schorre ve Rupel yakınlarında profesyonel evde bakım."
+    },
+    "description": {
+      "nl": "In Boom (2850) biedt KattenHond professionele kattenoppas en hondenoppas aan huis. Ideaal voor vakantiegangers of festivalbezoekers die de beste zorg voor hun huisdier wensen met 100% HD videobewijs.",
+      "en": "In Boom (2850), KattenHond offers professional in-home cat visits and dog walking with 100% HD bodycam transparency.",
+      "fr": "À Boom (2850), bénéficiez d'une garde féline et canine d'excellence à votre domicile.",
+      "tr": "Boom (2850) bölgesinde güvenilir evde kedi bakımı ve köpek gezdirme hizmetleri."
+    },
+    "highlights": {
+      "nl": [
+        "Actief in postcode 2850 Boom",
+        "HD Bodycam opnames bij elk bezoek",
+        "Flexibele bezoektijden",
+        "Biyologische zorgexpertise"
+      ],
+      "en": [
+        "Active in 2850 Boom",
+        "HD Bodycam footage per visit",
+        "Flexible visiting times",
+        "Biologist care expertise"
+      ],
+      "fr": [
+        "Présent à Boom 2850",
+        "Vidéos HD à chaque visite",
+        "Horaires flexibles",
+        "Expertise biologique"
+      ],
+      "tr": [
+        "2850 Boom bölgesinde aktif",
+        "Her ziyarette HD kamera kaydı",
+        "Esnek ziyaret saatleri",
+        "Biyolog uzmanlığı"
+      ]
+    },
+    "image": "/images/cat_emergency.png",
+    "geo": {
+      "latitude": 51.0878,
+      "longitude": 4.3683
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Boom",
+        "hondenoppas Boom 2850",
+        "hondenuitlaatservice Boom",
+        "dierenoppas Rupel"
+      ],
+      "en": [
+        "cat sitter Boom Belgium",
+        "pet sitting Boom 2850"
+      ],
+      "fr": [
+        "garde chat Boom 2850"
+      ],
+      "tr": [
+        "Boom kedi bakıcısı",
+        "Boom köpek gezdirme"
+      ]
+    }
+  },
+  {
+    "slug": "brasschaat",
+    "postalCode": "2930",
+    "name": {
+      "nl": "Brasschaat & Park",
+      "en": "Brasschaat & Green Area",
+      "fr": "Brasschaat & Région Nord",
+      "tr": "Brasschaat Bölgesi"
+    },
+    "title": {
+      "nl": "Exclusieve Kattenoppas & Hondenoppas aan Huis in Brasschaat (2930)",
+      "en": "Premium In-Home Cat & Dog Sitting in Brasschaat (2930)",
+      "fr": "Garde Haut de Gamme pour Chats & Chiens à Brasschaat (2930)",
+      "tr": "Brasschaat (2930) Bölgesinde Premium Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Hoogwaardige verzorging in Brasschaat centrum, Vriesdonk, Maria-ter-Heide en Bethanië.",
+      "en": "Premium care across Brasschaat center, Vriesdonk, and Maria-ter-Heide.",
+      "fr": "Service exclusif à Brasschaat, Vriesdonk et Maria-ter-Heide.",
+      "tr": "Brasschaat merkez ve villalar bölgesinde VIP evde evcil hayvan bakıcılığı."
+    },
+    "description": {
+      "nl": "Woont u in de groene gemeente Brasschaat (2930)? KattenHond levert discrete, professionele kattenverzorging en hondenservice aan huis. Met bodycam beveiliging en biologische vakkennis blijft uw huisdier in optimale conditie.",
+      "en": "Living in green Brasschaat (2930)? KattenHond offers discreet, high-end in-home cat care and dog walking with bodycam security.",
+      "fr": "À Brasschaat (2930), confiez vos animaux à des experts en biologie pour une garde à domicile discrète et sécurisée.",
+      "tr": "Brasschaat (2930) bölgesinde lüks ve güvenli evde kedi-köpek bakımı, yaka kamerası güvencesiyle."
+    },
+    "highlights": {
+      "nl": [
+        "Dekking in heel Brasschaat 2930 & Vriesdonk",
+        "Discrete, betrouwbare oppassers met bioloog toezicht",
+        "100% HD Bodycam videobewijs",
+        "Wandelingen in Brasschaatse parken"
+      ],
+      "en": [
+        "Coverage across all 2930 Brasschaat",
+        "Discreet, background-checked biologist sitters",
+        "100% HD Bodycam video proof",
+        "Nature walks in Brasschaat parks"
+      ],
+      "fr": [
+        "Couverture totale Brasschaat 2930",
+        "Gardiens discrets formés en biologie",
+        "Enregistrement HD Bodycam",
+        "Promenades au parc de Brasschaat"
+      ],
+      "tr": [
+        "Tüm Brasschaat 2930 genelinde hizmet",
+        "Güvenilir ve biyolog denetimli bakıcılar",
+        "100% HD Yaka kamerası video kaydı",
+        "Brasschaat parklarında keyifli yürüyüşler"
+      ]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": {
+      "latitude": 51.2917,
+      "longitude": 4.4922
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Brasschaat",
+        "hondenoppas Brasschaat",
+        "hondenuitlaatservice Brasschaat",
+        "kattenoppas 2930",
+        "dierenoppas Vriesdonk"
+      ],
+      "en": [
+        "cat sitter Brasschaat",
+        "dog sitting Brasschaat 2930"
+      ],
+      "fr": [
+        "garde chat Brasschaat",
+        "garde chien Brasschaat"
+      ],
+      "tr": [
+        "Brasschaat kedi bakıcısı",
+        "Brasschaat köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "schoten",
+    "postalCode": "2900",
+    "name": {
+      "nl": "Schoten & Vaart",
+      "en": "Schoten & Canal Area",
+      "fr": "Schoten & Région Canal",
+      "tr": "Schoten Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Schoten (2900)",
+      "en": "In-Home Cat Sitting & Dog Walking in Schoten (2900)",
+      "fr": "Garde de Chat et Chien à Domicile à Schoten (2900)",
+      "tr": "Schoten (2900) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Vertrouwde verzorging langs het kanaal, Deuzeld, Koningshof en Schoten centrum.",
+      "en": "Trusted pet sitting along the canal, Deuzeld, and Schoten center.",
+      "fr": "Garde d'animaux de confiance à Schoten, Deuzeld et Koningshof.",
+      "tr": "Schoten merkez, Deuzeld ve kanal boyunda güvenli evde kedi-köpek bakımı."
+    },
+    "description": {
+      "nl": "In Schoten (2900) staat KattenHond klaar voor uw katten en honden. Dagelijkse bezoeken, verse voeding, borstelen, wandelingen en HD Bodycam beelden zorgen voor een zorgeloze vakantie.",
+      "en": "In Schoten (2900), KattenHond provides certified in-home cat sitting and dog walking with complete transparency.",
+      "fr": "À Schoten (2900), bénéficiez de soins attentionnés pour votre chat ou chien à domicile.",
+      "tr": "Schoten (2900) bölgesinde tatiliniz boyunca evcil hayvanlarınıza şefkatle bakıyoruz."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 2900 Schoten & Koningshof",
+        "Geen pensionstress voor uw dier",
+        "HD Bodycam garantie",
+        "Medicatie en plantenservice"
+      ],
+      "en": [
+        "Postal code 2900 Schoten covered",
+        "Zero kennel stress for your pet",
+        "HD Bodycam guarantee",
+        "Medication and plant care"
+      ],
+      "fr": [
+        "Secteur 2900 Schoten",
+        "Zéro stress de déplacement",
+        "Garantie Bodycam HD",
+        "Médicaments et arrosage"
+      ],
+      "tr": [
+        "2900 Schoten bölgesi",
+        "Pansiyon stresi yok",
+        "HD Kamera garantisi",
+        "İlaç ve çiçek sulama desteği"
+      ]
+    },
+    "image": "/images/cat_health.png",
+    "geo": {
+      "latitude": 51.25,
+      "longitude": 4.5
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Schoten",
+        "hondenoppas Schoten",
+        "hondenuitlaatservice Schoten",
+        "kattenoppas 2900"
+      ],
+      "en": [
+        "cat sitter Schoten",
+        "dog walking Schoten 2900"
+      ],
+      "fr": [
+        "garde chat Schoten 2900"
+      ],
+      "tr": [
+        "Schoten kedi bakıcısı",
+        "Schoten köpek gezdirme"
+      ]
+    }
+  },
+  {
+    "slug": "kapellen",
+    "postalCode": "2950",
+    "name": {
+      "nl": "Kapellen & Bos",
+      "en": "Kapellen & Forest Region",
+      "fr": "Kapellen & Région Boisée",
+      "tr": "Kapellen Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Kapellen (2950)",
+      "en": "In-Home Cat & Dog Sitting in Kapellen (2950)",
+      "fr": "Garde de Chat et Chien à Domicile à Kapellen (2950)",
+      "tr": "Kapellen (2950) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Liefdevolle thuisverzorging in Kapellen, Hoogboom en Kapellenbos.",
+      "en": "Loving in-home pet care in Kapellen, Hoogboom, and Kapellenbos.",
+      "fr": "Soins affectueux à domicile à Kapellen, Hoogboom et environs.",
+      "tr": "Kapellen, Hoogboom ve Kapellenbos bölgesinde evde evcil hayvan bakımı."
+    },
+    "description": {
+      "nl": "In Kapellen (2950) verzorgt KattenHond uw geliefde viervoeters in hun vertrouwde habitat. Wij zorgen voor maaltijden, spelen, wandelingen in het bos en HD videobeelden.",
+      "en": "In Kapellen (2950), KattenHond provides expert in-home care for cats and dogs, including forest walks and HD bodycam video.",
+      "fr": "À Kapellen (2950), vos animaux profitent de leur confort familier avec des visites de qualité supérieure.",
+      "tr": "Kapellen (2950) bölgesinde kedi ve köpekleriniz için evde bakım ve orman yürüyüşleri."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 2950 Kapellen & Hoogboom",
+        "Biologische expertise",
+        "HD Bodycam opnames",
+        "Planten en post service gratis"
+      ],
+      "en": [
+        "Postcode 2950 Kapellen covered",
+        "Biologist led care",
+        "HD Bodycam videos",
+        "Free plant and mail care"
+      ],
+      "fr": [
+        "Secteur Kapellen 2950",
+        "Expertise biologique",
+        "Vidéos Bodycam HD",
+        "Courrier et plantes inclus"
+      ],
+      "tr": [
+        "2950 Kapellen bölgesi",
+        "Biyolog denetimi",
+        "HD Kamera kayıtları",
+        "Ücretsiz çiçek ve posta bakımı"
+      ]
+    },
+    "image": "/images/cat_feeding.png",
+    "geo": {
+      "latitude": 51.3142,
+      "longitude": 4.4319
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Kapellen",
+        "hondenoppas Kapellen",
+        "kattenoppas 2950",
+        "hondenuitlaatservice Kapellen"
+      ],
+      "en": [
+        "cat sitter Kapellen",
+        "dog sitting Kapellen 2950"
+      ],
+      "fr": [
+        "garde chat Kapellen"
+      ],
+      "tr": [
+        "Kapellen kedi bakıcısı",
+        "Kapellen köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "edegem",
+    "postalCode": "2650",
+    "name": {
+      "nl": "Edegem & UZA",
+      "en": "Edegem & UZA Region",
+      "fr": "Edegem & Environs",
+      "tr": "Edegem Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Edegem (2650)",
+      "en": "In-Home Cat Sitter & Dog Walker in Edegem (2650)",
+      "fr": "Garde de Chat et Chien à Domicile à Edegem (2650)",
+      "tr": "Edegem (2650) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Zorgzame bezoeken aan huis in Edegem centrum, Molenveld, Elsdonk en Buizegem.",
+      "en": "Caring home visits across Edegem center, Molenveld, Elsdonk, and Buizegem.",
+      "fr": "Visites attentives à Edegem, Elsdonk, Molenveld et Buizegem.",
+      "tr": "Edegem merkez, Elsdonk ve Molenveld mahallelerinde evde kedi-köpek bakımı."
+    },
+    "description": {
+      "nl": "In Edegem (2650) biedt KattenHond professionele kattenoppas en hondenoppas aan huis. Ideaal voor medewerkers van het UZA of frequente reizigers.",
+      "en": "In Edegem (2650), KattenHond offers certified in-home cat visits and dog walking with full HD video proof.",
+      "fr": "À Edegem (2650), notre équipe veille sur vos chats et chiens avec dévouement.",
+      "tr": "Edegem (2650) bölgesinde UZA çalışanları ve seyahate çıkanlar için güvenilir evde bakım."
+    },
+    "highlights": {
+      "nl": [
+        "Heel Edegem 2650 & Elsdonk",
+        "Ervaring met medicijnen & insuline",
+        "HD Bodycam verslag",
+        "Gratis kennismaking aan huis"
+      ],
+      "en": [
+        "Covers all Edegem 2650 & Elsdonk",
+        "Medication and insulin expertise",
+        "HD Bodycam reports",
+        "Free in-home meet & greet"
+      ],
+      "fr": [
+        "Tout Edegem 2650",
+        "Gestion médicaments et soins",
+        "Rapports vidéo HD",
+        "Rencontre préalable gratuite"
+      ],
+      "tr": [
+        "Tüm Edegem 2650 ve Elsdonk",
+        "İlaç ve insülin uzmanlığı",
+        "HD Video raporları",
+        "Ücretsiz evde tanışma"
+      ]
+    },
+    "image": "/images/cat_meds.png",
+    "geo": {
+      "latitude": 51.1567,
+      "longitude": 4.4444
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Edegem",
+        "hondenoppas Edegem",
+        "kattenoppas 2650",
+        "hondenuitlaatservice Edegem"
+      ],
+      "en": [
+        "cat sitter Edegem",
+        "dog sitting Edegem 2650"
+      ],
+      "fr": [
+        "garde chat Edegem 2650"
+      ],
+      "tr": [
+        "Edegem kedi bakıcısı",
+        "Edegem köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "kontich",
+    "postalCode": "2550",
+    "name": {
+      "nl": "Kontich & Waarloos",
+      "en": "Kontich & Waarloos Area",
+      "fr": "Kontich & Waarloos",
+      "tr": "Kontich ve Waarloos Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Kontich (2550)",
+      "en": "In-Home Cat Sitting & Dog Walking in Kontich (2550)",
+      "fr": "Garde de Chat et Chien à Domicile à Kontich (2550)",
+      "tr": "Kontich (2550) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Professionele thuisverzorging in Kontich centrum, Kontich-Kazerne en Waarloos.",
+      "en": "Professional in-home care in Kontich center, Kontich-Kazerne, and Waarloos.",
+      "fr": "Garde professionnelle à Kontich et Waarloos.",
+      "tr": "Kontich merkez, Kazerne ve Waarloos bölgelerinde evde kedi-köpek bakımı."
+    },
+    "description": {
+      "nl": "Woont u in Kontich (2550) of Waarloos? KattenHond verzorgt uw kat en hond tijdens vakanties of lange werkdagen. Met HD Bodycam en biologische kennis is uw dier in de allerbeste handen.",
+      "en": "Living in Kontich (2550) or Waarloos? KattenHond cares for your pets with HD bodycam proof and biologist expertise.",
+      "fr": "À Kontich (2550), KattenHond assure la garde de vos félins et canins à domicile.",
+      "tr": "Kontich (2550) ve Waarloos bölgesinde güvenilir evde kedi-köpek bakımı ve yürüyüş hizmeti."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 2550 Kontich & Waarloos",
+        "HD Bodycam opnames",
+        "Wandelingen & Speeltijd",
+        "Planten en post inbegrepen"
+      ],
+      "en": [
+        "Postal code 2550 Kontich covered",
+        "HD Bodycam videos",
+        "Walks & playtime",
+        "Plants and mail care included"
+      ],
+      "fr": [
+        "Secteur 2550 Kontich",
+        "Vidéos HD",
+        "Promenades et jeux",
+        "Plantes et courrier inclus"
+      ],
+      "tr": [
+        "2550 Kontich ve Waarloos",
+        "HD Kamera kayıtları",
+        "Yürüyüş ve oyun",
+        "Çiçek ve posta dahil"
+      ]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": {
+      "latitude": 51.1333,
+      "longitude": 4.45
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Kontich",
+        "hondenoppas Kontich",
+        "kattenoppas 2550",
+        "hondenuitlater Kontich"
+      ],
+      "en": [
+        "cat sitter Kontich",
+        "dog sitting Kontich 2550"
+      ],
+      "fr": [
+        "garde chat Kontich"
+      ],
+      "tr": [
+        "Kontich kedi bakıcısı",
+        "Kontich köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "mortsel",
+    "postalCode": "2640",
+    "name": {
+      "nl": "Mortsel & Fort 4",
+      "en": "Mortsel & Fort 4 Area",
+      "fr": "Mortsel & Fort 4",
+      "tr": "Mortsel Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Mortsel (2640)",
+      "en": "In-Home Cat Sitter & Dog Walker in Mortsel (2640)",
+      "fr": "Garde de Chat et Chien à Domicile à Mortsel (2640)",
+      "tr": "Mortsel (2640) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Betrouwbare huisbezoeken in Mortsel centrum, Oude-God, Fort 4 en Cantecroy.",
+      "en": "Reliable pet visits across Mortsel, Oude-God, Fort 4, and Cantecroy.",
+      "fr": "Visites fiables à Mortsel, Oude-God et Fort 4.",
+      "tr": "Mortsel merkez, Oude-God ve Fort 4 civarında profesyonel evde bakım."
+    },
+    "description": {
+      "nl": "In Mortsel (2640) is KattenHond de vertrouwde partner voor uw huisdieren. Dagelijkse bezoeken, verse maaltijden, wandelingen rond Fort 4 en HD Bodycam beelden.",
+      "en": "In Mortsel (2640), KattenHond provides reliable pet care visits and scenic walks near Fort 4 with HD video transparency.",
+      "fr": "À Mortsel (2640), confiez vos animaux à notre équipe passionnée pour des visites sécurisées.",
+      "tr": "Mortsel (2640) bölgesinde Fort 4 yürüyüşleri ve evde kedi bakımı için uzman kadromuz yanınızda."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 2640 Mortsel",
+        "Wandelingen rond Fort 4 & parken",
+        "HD Bodycam beelden",
+        "Biologische dierverzorging"
+      ],
+      "en": [
+        "Postal code 2640 Mortsel",
+        "Walks near Fort 4 & green parks",
+        "HD Bodycam footage",
+        "Biologist pet expertise"
+      ],
+      "fr": [
+        "Secteur 2640 Mortsel",
+        "Promenades au Fort 4",
+        "Vidéos HD",
+        "Soins par biologistes"
+      ],
+      "tr": [
+        "2640 Mortsel geneli",
+        "Fort 4 çevresinde yürüyüşler",
+        "HD Kamera görüntüleri",
+        "Biyolog uzmanlığı"
+      ]
+    },
+    "image": "/images/cat_emergency.png",
+    "geo": {
+      "latitude": 51.1708,
+      "longitude": 4.4561
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Mortsel",
+        "hondenoppas Mortsel",
+        "hondenuitlaatservice Mortsel",
+        "kattenoppas 2640"
+      ],
+      "en": [
+        "cat sitter Mortsel",
+        "dog sitting Mortsel 2640"
+      ],
+      "fr": [
+        "garde chat Mortsel"
+      ],
+      "tr": [
+        "Mortsel kedi bakıcısı",
+        "Mortsel köpek gezdirme"
+      ]
+    }
+  },
+  {
+    "slug": "hoboken",
+    "postalCode": "2660",
+    "name": {
+      "nl": "Hoboken & Polder",
+      "en": "Hoboken & Polder Area",
+      "fr": "Hoboken & Polders",
+      "tr": "Hoboken Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Hoboken (2660)",
+      "en": "In-Home Cat Sitting & Dog Walking in Hoboken (2660)",
+      "fr": "Garde de Chat et Chien à Domicile à Hoboken (2660)",
+      "tr": "Hoboken (2660) Bölgesinde Evde Kedi ve Köpek Bakıcısı"
+    },
+    "subtitle": {
+      "nl": "Persoonlijke verzorging in Hoboken centrum, Hertogvelden en nabij de Hobokense Polder.",
+      "en": "Personal pet care in Hoboken center and near the Hobokense Polder.",
+      "fr": "Soins personnalisés à Hoboken et près des Polders d'Hoboken.",
+      "tr": "Hoboken merkez ve Polder doğa parkı yakınında evde kedi-köpek bakımı."
+    },
+    "description": {
+      "nl": "Woont u in Hoboken (2660)? KattenHond bezoekt uw kat of hond thuis voor voeding, knuffels en energieke wandelingen in de Polder met HD Bodycam garantie.",
+      "en": "Living in Hoboken (2660)? KattenHond visits your pets at home with feeding, cuddles, and Polder walks with HD bodycam proof.",
+      "fr": "À Hoboken (2660), KattenHond offre des visites à domicile et des promenades dans les polders.",
+      "tr": "Hoboken (2660) bölgesinde yaşayan evcil hayvan sahipleri için güvenli ve kameralı evde bakım."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 2660 Hoboken",
+        "Wandelingen in de Hobokense Polder",
+        "HD Bodycam garantie",
+        "Planten en post verzorging"
+      ],
+      "en": [
+        "Postal code 2660 Hoboken",
+        "Scenic Hobokense Polder walks",
+        "HD Bodycam guarantee",
+        "Plant and mail care"
+      ],
+      "fr": [
+        "Secteur 2660 Hoboken",
+        "Balades aux polders",
+        "Garantie Bodycam HD",
+        "Plantes et courrier inclus"
+      ],
+      "tr": [
+        "2660 Hoboken geneli",
+        "Hobokense Polder yürüyüşleri",
+        "HD Kamera garantisi",
+        "Çiçek ve posta bakımı"
+      ]
+    },
+    "image": "/images/cat_plants.png",
+    "geo": {
+      "latitude": 51.1764,
+      "longitude": 4.3583
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Hoboken",
+        "hondenoppas Hoboken",
+        "hondenuitlaatservice Hoboken",
+        "kattenoppas 2660"
+      ],
+      "en": [
+        "cat sitter Hoboken Antwerp",
+        "dog sitting Hoboken 2660"
+      ],
+      "fr": [
+        "garde chat Hoboken 2660"
+      ],
+      "tr": [
+        "Hoboken kedi bakıcısı",
+        "Hoboken köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "borgerhout",
+    "postalCode": "2140",
+    "name": {
+      "nl": "Borgerhout & Te Boelaer",
+      "en": "Borgerhout & Te Boelaerpark",
+      "fr": "Borgerhout & Te Boelaer",
+      "tr": "Borgerhout Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Borgerhout (2140)",
+      "en": "In-Home Cat Sitting & Dog Walking in Borgerhout (2140)",
+      "fr": "Garde de Chat et Chien à Domicile à Borgerhout (2140)",
+      "tr": "Borgerhout (2140) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Snelle service in Borgerhout Intra Muros, Extra Muros en nabij Te Boelaerpark.",
+      "en": "Fast service across Borgerhout Intra/Extra Muros and Te Boelaerpark.",
+      "fr": "Service rapide à Borgerhout et près du parc Te Boelaer.",
+      "tr": "Borgerhout içi, dışı ve Te Boelaerpark civarında hızlı ve güvenli evde bakım."
+    },
+    "description": {
+      "nl": "In Borgerhout (2140) verzorgt KattenHond uw katten en honden met veel liefde en toewijding. Wij komen aan huis voor maaltijden, kattenbakhygiëne, wandelingen en leveren HD videoverslag.",
+      "en": "In Borgerhout (2140), KattenHond provides loving pet care, litter maintenance, and walks with HD video reporting.",
+      "fr": "À Borgerhout (2140), nous prenons soin de vos animaux avec amour et rigueur.",
+      "tr": "Borgerhout (2140) bölgesinde kedi ve köpekleriniz için eksiksiz evde bakım hizmeti."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 2140 Borgerhout",
+        "Kattenoppas & Hondenuitlaatservice",
+        "HD Bodycam beelden",
+        "Ervaring met medicatie"
+      ],
+      "en": [
+        "Postal code 2140 Borgerhout",
+        "Cat sitting & dog walking",
+        "HD Bodycam footage",
+        "Medication experience"
+      ],
+      "fr": [
+        "Secteur 2140 Borgerhout",
+        "Garde chats et promenades chiens",
+        "Vidéos HD",
+        "Gestion médicaments"
+      ],
+      "tr": [
+        "2140 Borgerhout geneli",
+        "Kedi bakımı ve köpek gezdirme",
+        "HD Kamera görüntüleri",
+        "İlaç verme tecrübesi"
+      ]
+    },
+    "image": "/images/cat_feeding.png",
+    "geo": {
+      "latitude": 51.2144,
+      "longitude": 4.4372
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Borgerhout",
+        "hondenoppas Borgerhout",
+        "kattenoppas 2140",
+        "hondenuitlater Borgerhout"
+      ],
+      "en": [
+        "cat sitter Borgerhout",
+        "dog walking Borgerhout 2140"
+      ],
+      "fr": [
+        "garde chat Borgerhout"
+      ],
+      "tr": [
+        "Borgerhout kedi bakıcısı",
+        "Borgerhout köpek gezdirme"
+      ]
+    }
+  },
+  {
+    "slug": "aartselaar",
+    "postalCode": "2630",
+    "name": {
+      "nl": "Aartselaar & Cleydael",
+      "en": "Aartselaar & Cleydael Area",
+      "fr": "Aartselaar & Cleydael",
+      "tr": "Aartselaar Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Aartselaar (2630)",
+      "en": "In-Home Cat & Dog Sitting in Aartselaar (2630)",
+      "fr": "Garde de Chat et Chien à Domicile à Aartselaar (2630)",
+      "tr": "Aartselaar (2630) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Professionele thuisverzorging in Aartselaar centrum, Cleydael en Lindenbos.",
+      "en": "Professional in-home care in Aartselaar center, Cleydael, and Lindenbos.",
+      "fr": "Soins professionnels à Aartselaar et ses quartiers résidentiels.",
+      "tr": "Aartselaar merkez ve Cleydael civarında profesyonel evde bakım."
+    },
+    "description": {
+      "nl": "In Aartselaar (2630) staat KattenHond garant voor betrouwbare huisbezoeken en wandelingen met 100% HD Bodycam videobewijs.",
+      "en": "In Aartselaar (2630), KattenHond guarantees dependable home visits and dog walks with HD video proof.",
+      "fr": "À Aartselaar (2630), vos compagnons reçoivent des soins exemplaires à domicile.",
+      "tr": "Aartselaar (2630) bölgesinde evcil hayvanlarınız için en güvenli evde bakım."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 2630 Aartselaar",
+        "HD Bodycam opnames",
+        "Bioloog toezicht",
+        "Gratis planten en post service"
+      ],
+      "en": [
+        "Postal code 2630 Aartselaar",
+        "HD Bodycam footage",
+        "Biologist supervision",
+        "Free plant and mail care"
+      ],
+      "fr": [
+        "Secteur 2630 Aartselaar",
+        "Vidéos HD Bodycam",
+        "Supervision biologique",
+        "Plantes et courrier inclus"
+      ],
+      "tr": [
+        "2630 Aartselaar geneli",
+        "HD Kamera kaydı",
+        "Biyolog denetimi",
+        "Ücretsiz çiçek ve posta hizmeti"
+      ]
+    },
+    "image": "/images/cat_health.png",
+    "geo": {
+      "latitude": 51.1333,
+      "longitude": 4.3833
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Aartselaar",
+        "hondenoppas Aartselaar",
+        "kattenoppas 2630",
+        "hondenuitlaatservice Aartselaar"
+      ],
+      "en": [
+        "cat sitter Aartselaar",
+        "dog sitting Aartselaar 2630"
+      ],
+      "fr": [
+        "garde chat Aartselaar"
+      ],
+      "tr": [
+        "Aartselaar kedi bakıcısı",
+        "Aartselaar köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "zwijndrecht",
+    "postalCode": "2050 & 3330",
+    "name": {
+      "nl": "Zwijndrecht & Linkeroever",
+      "en": "Zwijndrecht & Left Bank",
+      "fr": "Zwijndrecht & Rive Gauche",
+      "tr": "Zwijndrecht ve Linkeroever"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Zwijndrecht & Linkeroever",
+      "en": "In-Home Pet Sitting & Dog Walking in Zwijndrecht & Linkeroever",
+      "fr": "Garde de Chat et Chien à Zwijndrecht & Rive Gauche Anvers",
+      "tr": "Zwijndrecht ve Linkeroever Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Verzorging aan huis in Linkeroever (2050), Zwijndrecht, Burcht en Sint-Anneke.",
+      "en": "In-home pet care across Linkeroever (2050), Zwijndrecht, Burcht, and Sint-Anneke.",
+      "fr": "Garde à domicile à Linkeroever (2050), Zwijndrecht et Burcht.",
+      "tr": "Linkeroever (2050), Zwijndrecht, Burcht ve Sint-Anneke bölgesinde evde bakım."
+    },
+    "description": {
+      "nl": "Woont u op Linkeroever of in Zwijndrecht/Burcht? KattenHond verzorgt uw katten en honden aan huis met wandelingen langs het Galgenweel en HD Bodycam beelden.",
+      "en": "Living on Linkeroever or in Zwijndrecht? KattenHond cares for your pets at home with scenic walks around Galgenweel and HD video proof.",
+      "fr": "Sur la Rive Gauche ou à Zwijndrecht, confiez vos animaux à KattenHond pour des visites et promenades sécurisées.",
+      "tr": "Linkeroever ve Zwijndrecht bölgesinde Galgenweel yürüyüşleri ve evde kedi-köpek bakımı."
+    },
+    "highlights": {
+      "nl": [
+        "Linkeroever (2050), Zwijndrecht & Burcht",
+        "Wandelingen rond Galgenweel & Sint-Anneke",
+        "HD Bodycam videobewijs",
+        "Ervaring met katten en honden"
+      ],
+      "en": [
+        "Linkeroever (2050), Zwijndrecht & Burcht",
+        "Walks around Galgenweel lake",
+        "HD Bodycam proof",
+        "Expertise with cats & dogs"
+      ],
+      "fr": [
+        "Linkeroever 2050 et Zwijndrecht",
+        "Promenades au lac Galgenweel",
+        "Vidéos HD",
+        "Soins félins et canins"
+      ],
+      "tr": [
+        "Linkeroever (2050) ve Zwijndrecht",
+        "Galgenweel gölü çevresinde yürüyüş",
+        "HD Kamera kaydı",
+        "Kedi ve köpek uzmanlığı"
+      ]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": {
+      "latitude": 51.2167,
+      "longitude": 4.3333
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Linkeroever",
+        "kattenoppas Zwijndrecht",
+        "hondenoppas Linkeroever",
+        "kattenoppas 2050",
+        "hondenuitlaatservice Zwijndrecht"
+      ],
+      "en": [
+        "cat sitter Linkeroever",
+        "dog sitting Zwijndrecht 2050"
+      ],
+      "fr": [
+        "garde chat Linkeroever Anvers",
+        "garde chien Zwijndrecht"
+      ],
+      "tr": [
+        "Linkeroever kedi bakıcısı",
+        "Zwijndrecht köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "lier",
+    "postalCode": "2500",
+    "name": {
+      "nl": "Lier & Zimmertoren",
+      "en": "Lier & Nete Area",
+      "fr": "Lierre & Environs",
+      "tr": "Lier Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Lier (2500)",
+      "en": "In-Home Cat Sitting & Dog Walking in Lier (2500)",
+      "fr": "Garde de Chat et Chien à Domicile à Lierre (2500)",
+      "tr": "Lier (2500) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Professionele verzorging aan huis in Lier centrum, Koningshooikt en langs de Nete.",
+      "en": "Professional pet sitting in Lier center, Koningshooikt, and along the Nete river.",
+      "fr": "Garde d'animaux professionnelle à Lierre et Koningshooikt.",
+      "tr": "Lier merkez, Koningshooikt ve Nete nehri boyunda profesyonel evde bakım."
+    },
+    "description": {
+      "nl": "In de Pallieterstad Lier (2500) biedt KattenHond professionele kattenoppas en hondenoppas aan huis. Rust in uw vertrouwde woning met 100% HD Bodycam opnames.",
+      "en": "In Lier (2500), KattenHond delivers trusted in-home pet visits and dog walks with 100% HD video reporting.",
+      "fr": "À Lierre (2500), vos animaux profitent de soins attentionnés directement chez vous.",
+      "tr": "Lier (2500) bölgesinde tatiliniz süresince kedi ve köpeklerinize evinizde en iyi bakımı sağlıyoruz."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 2500 Lier & Koningshooikt",
+        "HD Bodycam garantie",
+        "Wandelingen langs de Nete",
+        "Planten en post service"
+      ],
+      "en": [
+        "Postal code 2500 Lier covered",
+        "HD Bodycam guarantee",
+        "Nete river walks",
+        "Plant and mail care"
+      ],
+      "fr": [
+        "Secteur 2500 Lierre",
+        "Garantie Bodycam HD",
+        "Promenades au bord de la Nèthe",
+        "Plantes et courrier inclus"
+      ],
+      "tr": [
+        "2500 Lier ve Koningshooikt",
+        "HD Kamera garantisi",
+        "Nete nehri kenarında yürüyüş",
+        "Çiçek ve posta bakımı"
+      ]
+    },
+    "image": "/images/cat_emergency.png",
+    "geo": {
+      "latitude": 51.1311,
+      "longitude": 4.5703
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Lier",
+        "hondenoppas Lier",
+        "kattenoppas 2500",
+        "hondenuitlaatservice Lier"
+      ],
+      "en": [
+        "cat sitter Lier Belgium",
+        "dog sitting Lier 2500"
+      ],
+      "fr": [
+        "garde chat Lierre 2500"
+      ],
+      "tr": [
+        "Lier kedi bakıcısı",
+        "Lier köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "beveren",
+    "postalCode": "9120",
+    "name": {
+      "nl": "Beveren & Waasland",
+      "en": "Beveren & Waasland",
+      "fr": "Beveren & Pays de Waes",
+      "tr": "Beveren ve Waasland"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Beveren (9120)",
+      "en": "In-Home Pet Sitting in Beveren & Waasland (9120)",
+      "fr": "Garde de Chat et Chien à Domicile à Beveren (9120)",
+      "tr": "Beveren (9120) ve Waasland Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Thuiszorg in Beveren, Melsele, Haasdonk, Kallo en Vrasene.",
+      "en": "In-home care in Beveren, Melsele, Haasdonk, Kallo, and Vrasene.",
+      "fr": "Garde à domicile à Beveren, Melsele et Haasdonk.",
+      "tr": "Beveren, Melsele, Haasdonk ve Kallo'da evde kedi-köpek bakımı."
+    },
+    "description": {
+      "nl": "In Beveren (9120) en het Waasland verzorgt KattenHond uw katten en honden met dagelijkse bezoeken, wandelingen en HD Bodycam beelden.",
+      "en": "In Beveren (9120) and the Waasland area, KattenHond provides certified in-home pet sitting and dog walks.",
+      "fr": "À Beveren (9120), nous assurons des visites à domicile avec enregistrement vidéo HD.",
+      "tr": "Beveren (9120) bölgesinde güvenilir evde kedi ve köpek bakımı hizmetleri."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 9120 Beveren & Melsele",
+        "HD Bodycam videobewijs",
+        "Wandelingen & Kattenzorg",
+        "Biologische expertise"
+      ],
+      "en": [
+        "Postcode 9120 Beveren covered",
+        "HD Bodycam video proof",
+        "Dog walks & cat care",
+        "Biologist expertise"
+      ],
+      "fr": [
+        "Secteur 9120 Beveren",
+        "Vidéos HD Bodycam",
+        "Promenades et soins",
+        "Expertise biologique"
+      ],
+      "tr": [
+        "9120 Beveren ve Melsele",
+        "HD Kamera video kaydı",
+        "Köpek gezdirme ve kedi bakımı",
+        "Biyolog uzmanlığı"
+      ]
+    },
+    "image": "/images/cat_feeding.png",
+    "geo": {
+      "latitude": 51.2133,
+      "longitude": 4.2564
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Beveren",
+        "hondenoppas Beveren",
+        "kattenoppas 9120",
+        "dierenoppas Waasland"
+      ],
+      "en": [
+        "cat sitter Beveren",
+        "dog sitting Beveren 9120"
+      ],
+      "fr": [
+        "garde chat Beveren"
+      ],
+      "tr": [
+        "Beveren kedi bakıcısı",
+        "Beveren köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "sint-niklaas",
+    "postalCode": "9100",
+    "name": {
+      "nl": "Sint-Niklaas & Waas",
+      "en": "Sint-Niklaas City",
+      "fr": "Saint-Nicolas & Waes",
+      "tr": "Sint-Niklaas Bölgesi"
+    },
+    "title": {
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Sint-Niklaas (9100)",
+      "en": "In-Home Cat Sitting & Dog Walking in Sint-Niklaas (9100)",
+      "fr": "Garde de Chat et Chien à Domicile à Saint-Nicolas (9100)",
+      "tr": "Sint-Niklaas (9100) Bölgesinde Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Betrouwbare thuiszorg in Sint-Niklaas, Belsele, Nieuwkerken en Sinaai.",
+      "en": "Reliable pet sitting across Sint-Niklaas, Belsele, and Nieuwkerken.",
+      "fr": "Garde professionnelle à Saint-Nicolas, Belsele et Sinaai.",
+      "tr": "Sint-Niklaas, Belsele ve Sinaai bölgesinde profesyonel evde bakım."
+    },
+    "description": {
+      "nl": "In Sint-Niklaas (9100) biedt KattenHond eersteklas katten- en hondenoppas aan huis. Volledig transparant met HD Bodycam beelden.",
+      "en": "In Sint-Niklaas (9100), KattenHond delivers first-class in-home cat and dog sitting with HD video transparency.",
+      "fr": "À Saint-Nicolas (9100), confiez vos animaux à KattenHond pour des soins de premier choix.",
+      "tr": "Sint-Niklaas (9100) bölgesinde evcil hayvanlarınız için yüksek standartlı evde bakım."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 9100 Sint-Niklaas",
+        "HD Bodycam garantie",
+        "Medicatie en dieet opvolging",
+        "Gratis plantenservice"
+      ],
+      "en": [
+        "Postal code 9100 Sint-Niklaas",
+        "HD Bodycam guarantee",
+        "Medication and diet monitoring",
+        "Free plant care"
+      ],
+      "fr": [
+        "Secteur 9100 Saint-Nicolas",
+        "Garantie Bodycam HD",
+        "Suivi médical et alimentaire",
+        "Arrosage gratuit"
+      ],
+      "tr": [
+        "9100 Sint-Niklaas geneli",
+        "HD Kamera garantisi",
+        "İlaç ve beslenme takibi",
+        "Ücretsiz bitki sulama"
+      ]
+    },
+    "image": "/images/cat_health.png",
+    "geo": {
+      "latitude": 51.1644,
+      "longitude": 4.1436
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Sint-Niklaas",
+        "hondenoppas Sint-Niklaas",
+        "kattenoppas 9100",
+        "hondenuitlater Sint-Niklaas"
+      ],
+      "en": [
+        "cat sitter Sint-Niklaas",
+        "dog sitting Sint-Niklaas 9100"
+      ],
+      "fr": [
+        "garde chat Saint-Nicolas 9100"
+      ],
+      "tr": [
+        "Sint-Niklaas kedi bakıcısı",
+        "Sint-Niklaas köpek bakıcısı"
+      ]
+    }
+  },
+  {
+    "slug": "gent",
+    "postalCode": "9000",
+    "name": {
+      "nl": "Gent & Omgeving",
+      "en": "Ghent City & Area",
+      "fr": "Gand & Environs",
+      "tr": "Gent ve Çevresi"
+    },
+    "title": {
+      "nl": "Professionele Kattenoppas & Hondenoppas aan Huis in Gent (9000)",
+      "en": "Professional In-Home Cat & Dog Sitting in Ghent (9000)",
+      "fr": "Garde Professionnelle de Chat et Chien à Domicile à Gand (9000)",
+      "tr": "Gent (9000) Bölgesinde Profesyonel Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Zorgeloze thuisopvang in Gent centrum, Ledeberg, Sint-Amandsberg, Wondelgem en Gentbrugge.",
+      "en": "Carefree home pet visits in Ghent center, Ledeberg, Sint-Amandsberg, and Gentbrugge.",
+      "fr": "Garde à domicile à Gand centre, Ledeberg, Sint-Amandsberg et Gentbrugge.",
+      "tr": "Gent merkez, Ledeberg, Sint-Amandsberg ve Gentbrugge'de evde bakım."
+    },
+    "description": {
+      "nl": "In de bruisende stad Gent (9000, 9040, 9050) biedt KattenHond professionele kattenoppas en hondenoppas aan huis. Uw huisdier blijft ontspannen in zijn eigen huis met 100% HD Bodycam videobewijs.",
+      "en": "In historic Ghent (9000), KattenHond delivers trusted in-home pet visits and dog walks with complete video transparency.",
+      "fr": "À Gand (9000), bénéficiez d'une garde féline et canine d'excellence à votre domicile.",
+      "tr": "Gent (9000) bölgesinde kedi ve köpekleriniz için konforlu, kameralı evde bakım hizmeti."
+    },
+    "highlights": {
+      "nl": [
+        "Postcode 9000 Gent & deelgemeenten",
+        "Biologische expertise voor katten & honden",
+        "HD Bodycam opnames bij elk bezoek",
+        "Inclusief planten en post service"
+      ],
+      "en": [
+        "Postal code 9000 Ghent & suburbs",
+        "Biologist pet expertise",
+        "HD Bodycam recordings",
+        "Plants and mail care included"
+      ],
+      "fr": [
+        "Secteur 9000 Gand et communes",
+        "Expertise biologique",
+        "Enregistrement Bodycam HD",
+        "Plantes et courrier inclus"
+      ],
+      "tr": [
+        "9000 Gent ve tüm mahalleler",
+        "Biyolog onaylı kedi-köpek bakımı",
+        "Her ziyarette HD kamera kaydı",
+        "Çiçek ve posta bakımı dahil"
+      ]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": {
+      "latitude": 51.0543,
+      "longitude": 3.7174
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Gent",
+        "hondenoppas Gent",
+        "hondenuitlaatservice Gent",
+        "kattenoppas 9000",
+        "dierenoppas Gent"
+      ],
+      "en": [
+        "cat sitter Ghent",
+        "dog walking Ghent 9000",
+        "pet sitter Ghent Belgium"
+      ],
+      "fr": [
+        "garde chat Gand",
+        "garde chien Gand 9000"
+      ],
+      "tr": [
+        "Gent kedi bakıcısı",
+        "Gent köpek bakıcısı",
+        "Gent pet sitter"
+      ]
+    }
+  },
+  {
+    "slug": "brussel",
+    "postalCode": "1000",
+    "name": {
+      "nl": "Brussel / Bruxelles",
+      "en": "Brussels Capital Region",
+      "fr": "Bruxelles Capitale",
+      "tr": "Brüksel Başkent Bölgesi"
+    },
+    "title": {
+      "nl": "Meertalige Kattenoppas & Hondenoppas aan Huis in Brussel (1000)",
+      "en": "Multilingual In-Home Cat & Dog Sitting in Brussels (1000)",
+      "fr": "Garde Multilingue de Chat et Chien à Domicile à Bruxelles (1000)",
+      "tr": "Brüksel (1000) Bölgesinde Çok Dilli Evde Kedi ve Köpek Bakımı"
+    },
+    "subtitle": {
+      "nl": "Professionele service in Brussel centrum, Elsene, Ukkel, Etterbeek en Schaarbeek.",
+      "en": "Professional service in Brussels center, Ixelles, Uccle, Etterbeek, and Schaerbeek.",
+      "fr": "Service professionnel à Bruxelles centre, Ixelles, Uccle et Etterbeek.",
+      "tr": "Brüksel merkez, Ixelles, Uccle, Etterbeek ve Schaerbeek'te diplomatik ve expat standardında evde bakım."
+    },
+    "description": {
+      "nl": "In de Europese hoofdstad Brussel (1000, 1050, 1180) biedt KattenHond meertalige (Nederlands, Engels, Frans, Turks) kattenoppas en hondenoppas aan huis met 100% HD Bodycam opnames.",
+      "en": "In Brussels (1000), KattenHond offers multilingual (Dutch, English, French, Turkish) in-home pet sitting and dog walks with full video transparency.",
+      "fr": "À Bruxelles (1000), KattenHond propose des services multilingues de garde de chats et chiens à domicile avec caméras corporelles HD.",
+      "tr": "Brüksel (1000) bölgesinde expatlar ve yerleşikler için 4 dilde (Felemenkçe, İngilizce, Fransızca, Türkçe) güvenilir ve kameralı evde kedi-köpek bakımı."
+    },
+    "highlights": {
+      "nl": [
+        "Meertalig team (NL, EN, FR, TR)",
+        "Brussel 1000, Elsene, Ukkel & Etterbeek",
+        "HD Bodycam beelden na elk bezoek",
+        "Ervaring met internationale klanten & expats"
+      ],
+      "en": [
+        "Multilingual sitters (NL, EN, FR, TR)",
+        "Brussels 1000, Ixelles, Uccle & Etterbeek",
+        "HD Bodycam footage per visit",
+        "Trusted by expats & diplomats"
+      ],
+      "fr": [
+        "Équipe multilingue (NL, EN, FR, TR)",
+        "Bruxelles 1000, Ixelles, Uccle, Etterbeek",
+        "Vidéos HD Bodycam",
+        "Idéal pour expats et diplomates"
+      ],
+      "tr": [
+        "4 dilde hizmet veren ekip (NL, EN, FR, TR)",
+        "Brüksel 1000, Ixelles, Uccle ve Etterbeek",
+        "Her ziyarette HD kamera kaydı",
+        "Expatlar ve uluslararası çalışanlar için ideal"
+      ]
+    },
+    "image": "/images/cat_bodycam.png",
+    "geo": {
+      "latitude": 50.8503,
+      "longitude": 4.3517
+    },
+    "keywords": {
+      "nl": [
+        "kattenoppas Brussel",
+        "hondenoppas Brussel",
+        "cat sitter Brussels",
+        "garde chat Bruxelles",
+        "hondenuitlaatservice Brussel"
+      ],
+      "en": [
+        "cat sitter Brussels",
+        "dog walking Brussels 1000",
+        "expat pet sitting Brussels"
+      ],
+      "fr": [
+        "garde chat Bruxelles",
+        "garde chien Bruxelles 1000",
+        "dog sitting Bruxelles"
+      ],
+      "tr": [
+        "Brüksel kedi bakıcısı",
+        "Brüksel köpek bakıcısı",
+        "Brüksel pet sitter"
       ]
     }
   },
@@ -718,78 +2383,79 @@ export const districts: DistrictInfo[] = [
     "postalCode": "2000 & 2018",
     "name": {
       "nl": "Antwerpen Zuid & Centrum",
-      "en": "Antwerp South & Centre",
+      "en": "Antwerp South & Center",
       "fr": "Anvers Sud & Centre",
-      "tr": "Anvers Güney & Merkez"
+      "tr": "Anvers Güney ve Merkez"
     },
     "title": {
-      "nl": "Professionele Kattenoppas aan Huis in Antwerpen Zuid & Het Eilandje",
-      "en": "Professional In-Home Cat Sitting in Antwerp South & Eilandje",
-      "fr": "Garde de Chat Professionnelle à Domicile à Anvers Sud & Eilandje",
-      "tr": "Anvers Güney ve Merkez Bölgelerinde Profesyonel Evde Kedi Bakıcısı"
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Antwerpen Zuid & Centrum",
+      "en": "In-Home Cat Sitting & Dog Walking in Antwerp South & Center",
+      "fr": "Garde de Chat et Chien à Domicile à Anvers Sud & Centre",
+      "tr": "Anvers Güney ve Merkezde Evde Kedi ve Köpek Bakımı"
     },
     "subtitle": {
-      "nl": "Exclusieve kattenverzorging met HD Bodycam garantie in Het Zuid, Zurenborg en Het Eilandje.",
-      "en": "Exclusive cat care with HD Bodycam verification in Het Zuid, Zurenborg, and Het Eilandje.",
-      "fr": "Soins félins exclusifs avec garantie vidéo HD Bodycam au Zuid et à l'Eilandje.",
-      "tr": "Het Zuid, Zurenborg ve Het Eilandje bölgelerinde yaka kameralı özel kedi bakımı."
+      "nl": "Betrouwbare thuisverzorging in het Zuid, Eilandje, Historisch Centrum en Markgrave.",
+      "en": "Trusted pet sitting in the South, Eilandje, Historic Center, and Markgrave.",
+      "fr": "Garde de confiance au Zuid, Eilandje et Centre Historique.",
+      "tr": "Zuid, Eilandje ve Tarihi Merkezde profesyonel evde bakım."
     },
     "description": {
-      "nl": "Woont u in Het Zuid, Zurenborg, Het Eilandje of het historische centrum van Antwerpen? Katten biedt de meest hoogwaardige kattenoppas aan huis. Als biologen zorgen wij ervoor dat uw kat geen stress ervaart van een kattenhotel, maar heerlijk in zijn eigen vertrouwde appartement of woning blijft.",
-      "en": "Living in Het Zuid, Zurenborg, Het Eilandje, or the historic centre of Antwerp? Katten delivers top-tier in-home cat care. As biologists, we ensure your cat experiences zero hotel stress, remaining comfortably in their own home.",
-      "fr": "Vous habitez au Zuid, à Zurenborg, à l'Eilandje ou dans le centre d'Anvers? Katten offre une garde à domicile de haute qualité. En tant que biologistes, nous veillons à ce que votre chat ne subisse aucun stress.",
-      "tr": "Anvers Güney (Het Zuid), Zurenborg, Het Eilandje veya tarihi merkezde mi yaşıyorsunuz? Katten en kaliteli evde kedi bakımını sunar. Biyolog ekibimizle kediniz otel stresi yaşamadan kendi evinde kalır."
+      "nl": "Woont u op het hippe Zuid (postcode 2000 of 2018) of in het centrum van Antwerpen? KattenHond biedt professionele kattenoppas en hondenoppas aan huis. Onder leiding van een bioloog krijgt uw huisdier de allerbeste zorg met 100% HD Bodycam garantie.",
+      "en": "Living in Antwerp South (postal code 2000 or 2018) or downtown? KattenHond provides verified in-home cat visits and dog walking with HD bodycam proof.",
+      "fr": "Vous résidez à Anvers Sud (2000, 2018) ou au centre-ville ? KattenHond assure la garde de vos chats et chiens avec expertise biologique.",
+      "tr": "Anvers Zuid (2000, 2018) veya merkezde mi yaşıyorsunuz? KattenHond ile evinizde kedi ve köpeklerinize sevgi dolu, kameralı bakım."
     },
     "highlights": {
       "nl": [
-        "Snelle sleuteloverdracht in postcode 2000 & 2018",
+        "Binnen 15 minuten ter plaatse op het Zuid & Centrum",
+        "Biologische expertise voor katten en honden",
         "HD Bodycam videobewijs na elk bezoek",
-        "Biologische en medical uzmanlık",
-        "Planten water geven en post verzamelen inbegrepen"
+        "Planten water geven en postbus legen inbegrepen"
       ],
       "en": [
-        "Fast key pickup in postal codes 2000 & 2018",
-        "HD Bodycam video updates after every visit",
-        "Biological and medical cat care expertise",
-        "Plant watering and mail collection included"
+        "Quick 15-min arrival across South & Center",
+        "Biologist expertise in feline & canine care",
+        "HD Bodycam video proof after every visit",
+        "Complimentary plant watering & mail retrieval"
       ],
       "fr": [
-        "Remise de clé rapide code postal 2000 & 2018",
-        "Preuve vidéo HD Bodycam après chaque visite",
-        "Expertise biologique et médicale",
-        "Arrosage des plantes et relève du courrier inclus"
+        "Intervention rapide au Zuid & Centre",
+        "Expertise biologique féline et canine",
+        "Preuve vidéo Bodycam HD après chaque visite",
+        "Arrosage des plantes et courrier inclus"
       ],
       "tr": [
-        "2000 ve 2018 posta kodlarında hızlı anahtar teslimi",
+        "Zuid ve Merkezde 15 dakikada hızlı ziyaret",
+        "Kedi ve köpeklerde biyolog uzmanlığı",
         "Her ziyarette HD Yaka Kamerası kaydı",
-        "Biyoloji eğitimi almış uzman bakım",
-        "Çiçek sulama ve posta toplama hizmeti dahil"
+        "Çiçek sulama ve posta toplama ücretsiz"
       ]
     },
-    "image": "/images/cat_security.png",
+    "image": "/images/cat_playing.png",
     "geo": {
       "latitude": 51.21,
-      "longitude": 4.395
+      "longitude": 4.39
     },
     "keywords": {
       "nl": [
         "kattenoppas Antwerpen Zuid",
-        "kattenoppas 2000 Antwerpen",
-        "kattenoppas Het Eilandje",
-        "kattenoppas Zurenborg"
+        "kattenoppas 2000",
+        "kattenoppas 2018",
+        "hondenoppas Antwerpen Zuid",
+        "hondenuitlaatservice 2000"
       ],
       "en": [
         "cat sitter Antwerp South",
-        "pet sitting 2018 Antwerp",
-        "cat care Eilandje Antwerp"
+        "pet sitter Antwerp 2000",
+        "dog walker Antwerp center"
       ],
       "fr": [
-        "garde de chat Anvers Sud",
-        "cat sitter 2000 Anvers"
+        "garde chat Anvers Sud",
+        "garde chien Anvers 2000"
       ],
       "tr": [
-        "Anvers Güney kedi bakıcısı",
-        "Anvers merkez kedi bakımı"
+        "Anvers güney kedi bakıcısı",
+        "Anvers merkez köpek bakıcısı"
       ]
     }
   },
@@ -797,76 +2463,78 @@ export const districts: DistrictInfo[] = [
     "slug": "berchem",
     "postalCode": "2600",
     "name": {
-      "nl": "Berchem",
-      "en": "Berchem",
-      "fr": "Berchem",
-      "tr": "Berchem"
+      "nl": "Berchem & Zurenborg",
+      "en": "Berchem & Zurenborg",
+      "fr": "Berchem & Zurenborg",
+      "tr": "Berchem ve Zurenborg"
     },
     "title": {
-      "nl": "Betrouwbare Kattenoppas aan Huis in Berchem (2600)",
-      "en": "Reliable In-Home Cat Sitting in Berchem (2600)",
-      "fr": "Garde de Chat de Confiance à Domicile à Berchem (2600)",
-      "tr": "Berchem Bölgesinde Güvenilir Evde Kedi Bakıcısı (2600)"
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Berchem & Zurenborg (2600)",
+      "en": "In-Home Cat & Dog Sitting in Berchem & Zurenborg (2600)",
+      "fr": "Garde de Chat et Chien à Domicile à Berchem (2600)",
+      "tr": "Berchem ve Zurenborg (2600) Bölgesinde Evde Kedi ve Köpek Bakımı"
     },
     "subtitle": {
-      "nl": "Dagelijkse verzorging, speelsessies en medische controle voor katten in Berchem.",
-      "en": "Daily care, play sessions, and medical monitoring for cats in Berchem.",
-      "fr": "Soins quotidiens, sessions de jeu et suivi médical pour chats à Berchem.",
-      "tr": "Berchem'deki kediler için günlük bakım, oyun saatleri ve medikal takip."
+      "nl": "Zorgeloze thuisverzorging in Zurenborg, Oud-Berchem, Groenenhoek en Pulhof.",
+      "en": "Carefree home pet care in Zurenborg, Old Berchem, Groenenhoek, and Pulhof.",
+      "fr": "Soins sans stress à Zurenborg, Vieux-Berchem et Pulhof.",
+      "tr": "Zurenborg, Eski Berchem ve Pulhof mahallelerinde evde kedi-köpek bakımı."
     },
     "description": {
-      "nl": "Bent u op zoek naar een ervaren kattenoppas in Berchem (postcode 2600)? Katten verzorgt uw kat in zijn vertrouwde omgeving. Onze bezoeken omvatten voeding, vers water, kattenbak reiniging, borstelen en HD Bodycam rapportage.",
-      "en": "Searching for an experienced cat sitter in Berchem (postal code 2600)? Katten looks after your feline in their familiar home. Our visits include feeding, fresh water, litter cleaning, grooming, and HD Bodycam reports.",
-      "fr": "Vous cherchez un garde de chat expérimenté à Berchem (code postal 2600)? Katten s'occupe de votre chat dans son environnement habituel. Nos visites comprennent repas, eau fraîche, litière et vidéo HD.",
-      "tr": "Berchem bölgesinde (posta kodu 2600) deneyimli bir kedi bakıcısı mı arıyorsunuz? Katten kedinize kendi evinde bakar. Ziyaretlerimizde mama, taze su, kum temizliği ve HD Bodycam kaydı yer alır."
+      "nl": "Woont u in Berchem (postcode 2600) of de prachtige wijk Zurenborg? KattenHond biedt persoonlijke katten- en hondenzorg aan huis met HD Bodycam videobewijs.",
+      "en": "Living in Berchem (postal code 2600) or Zurenborg? KattenHond delivers trusted in-home pet visits and dog walks with full video transparency.",
+      "fr": "À Berchem (2600) ou Zurenborg, confiez vos animaux à KattenHond pour des soins de premier choix.",
+      "tr": "Berchem (2600) ve Zurenborg bölgesinde kedi ve köpekleriniz için en güvenilir evde bakım hizmeti."
     },
     "highlights": {
       "nl": [
-        "Lokaal actief in Berchem en Pulhof",
-        "Medische verzorging en insuline toedienen",
-        "Geen reiskosten binnen 2600",
-        "HD Bodycam videobewijs"
+        "Volledige dekking in Berchem 2600 & Zurenborg",
+        "HD Bodycam videobewijs",
+        "Wandelingen in Zurenborg en parken",
+        "Planten en post gratis verzorgd"
       ],
       "en": [
-        "Locally active in Berchem and Pulhof",
-        "Medical care and insulin administration",
-        "No travel fees within 2600",
-        "HD Bodycam video proof"
+        "Full coverage in 2600 Berchem & Zurenborg",
+        "HD Bodycam video proof",
+        "Walks in local green parks",
+        "Plants & mail included free"
       ],
       "fr": [
-        "Service local à Berchem et Pulhof",
-        "Soins médicaux et insuline",
-        "Sans frais de déplacement à 2600",
-        "Preuve vidéo Bodycam"
+        "Couverture totale Berchem 2600",
+        "Vidéos HD Bodycam",
+        "Promenades et jeux",
+        "Plantes et courrier inclus"
       ],
       "tr": [
-        "Berchem ve Pulhof bölgesinde lokal hizmet",
-        "İlaç ve insülin uygulaması uzmanlığı",
-        "2600 bölgesinde ek yol ücreti yok",
-        "HD Yaka kamerası kaydı"
+        "Tüm Berchem 2600 ve Zurenborg genelinde",
+        "HD Kamera video kaydı",
+        "Parklarda köpek gezdirme",
+        "Çiçek ve posta ücretsiz"
       ]
     },
-    "image": "/images/cat_health.png",
+    "image": "/images/cat_feeding.png",
     "geo": {
-      "latitude": 51.192,
-      "longitude": 4.432
+      "latitude": 51.19,
+      "longitude": 4.43
     },
     "keywords": {
       "nl": [
         "kattenoppas Berchem",
+        "kattenoppas Zurenborg",
+        "hondenoppas Berchem",
         "kattenoppas 2600",
-        "oppas aan huis Berchem Antwerpen"
+        "hondenuitlaatservice Berchem"
       ],
       "en": [
-        "cat sitter Berchem Antwerp",
-        "pet sitting Berchem 2600"
+        "cat sitter Berchem",
+        "dog walking Berchem 2600"
       ],
       "fr": [
-        "garde de chat Berchem Anvers"
+        "garde chat Berchem 2600"
       ],
       "tr": [
         "Berchem kedi bakıcısı",
-        "Anvers Berchem kedi bakımı"
+        "Zurenborg köpek bakıcısı"
       ]
     }
   },
@@ -874,56 +2542,56 @@ export const districts: DistrictInfo[] = [
     "slug": "deurne",
     "postalCode": "2100",
     "name": {
-      "nl": "Deurne",
-      "en": "Deurne",
-      "fr": "Deurne",
-      "tr": "Deurne"
+      "nl": "Deurne & Rivierenhof",
+      "en": "Deurne & Rivierenhof",
+      "fr": "Deurne & Rivierenhof",
+      "tr": "Deurne ve Rivierenhof"
     },
     "title": {
-      "nl": "Professionele Kattenoppas aan Huis in Deurne (2100)",
-      "en": "Professional In-Home Cat Sitter in Deurne (2100)",
-      "fr": "Garde de Chat Professionnelle à Domicile à Deurne (2100)",
-      "tr": "Deurne Bölgesinde Profesyonel Evde Kedi Bakıcısı (2100)"
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Deurne & Rivierenhof (2100)",
+      "en": "In-Home Cat & Dog Sitting in Deurne & Rivierenhof (2100)",
+      "fr": "Garde de Chat et Chien à Domicile à Deurne (2100)",
+      "tr": "Deurne ve Rivierenhof (2100) Bölgesinde Evde Kedi ve Köpek Bakımı"
     },
     "subtitle": {
-      "nl": "Zorgeloos op reis met onze deskundige kattenzorg in Deurne Noord & Zuid.",
-      "en": "Travel worry-free with our expert cat care in Deurne North & South.",
-      "fr": "Voyagez l'esprit tranquille grâce à nos soins félins à Deurne.",
-      "tr": "Deurne Kuzey ve Güney bölgelerinde kafa rahatlığı sağlayan kedi bakımı."
+      "nl": "Thuisverzorging in Deurne Noord, Deurne Zuid, Bosuil en nabij het Rivierenhof.",
+      "en": "In-home care in Deurne North, Deurne South, Bosuil, and near Rivierenhof.",
+      "fr": "Garde à domicile à Deurne Nord, Sud et près du Rivierenhof.",
+      "tr": "Deurne Kuzey, Güney, Bosuil ve Rivierenhof parkı civarında evde bakım."
     },
     "description": {
-      "nl": "Woont u in Deurne (postcode 2100)? Laat uw kat niet naar een pension gaan, maar kies voor de biologische kattenoppas aan huis van Katten. Wij komen 1 of 2 keer per dag langs voor liefdevolle verzorging en woningbeheer.",
-      "en": "Living in Deurne (postal code 2100)? Skip the cattery and choose Katten’s biologist-led in-home sitting. We visit 1 or 2 times daily for loving care and home maintenance.",
-      "fr": "Vous résidez à Deurne (code postal 2100)? Choisissez la garde à domicile de Katten. Nous intervenons 1 ou 2 fois par jour pour des soins attentionnés.",
-      "tr": "Deurne bölgesinde (posta kodu 2100) mi yaşıyorsunuz? Kedinizi otele bırakmak yerine Katten evde bakım hizmetini seçin. Günde 1 veya 2 kez ziyaret ile sevgi dolu bakım sunuyoruz."
+      "nl": "In Deurne (postcode 2100) verzorgt KattenHond uw katten en honden aan huis. Met wandelingen in het prachtige Rivierenhof park en HD Bodycam beelden.",
+      "en": "In Deurne (2100), KattenHond provides certified in-home cat visits and scenic Rivierenhof dog walks with HD video proof.",
+      "fr": "À Deurne (2100), vos animaux profitent de visites à domicile et de balades au Rivierenhof.",
+      "tr": "Deurne (2100) bölgesinde Rivierenhof parkı yürüyüşleri ve evde kedi-köpek bakımı."
     },
     "highlights": {
       "nl": [
-        "Volledige dekking in Deurne Noord & Zuid",
-        "Bodycam videoupdates bij elk bezoek",
-        "Inclusief brievenbus en plantenservice",
-        "Vaste scherpe tarieven"
+        "Postcode 2100 Deurne & Bosuil",
+        "Wandelingen in park Rivierenhof",
+        "100% HD Bodycam garantie",
+        "Medicatie en dieet toediening"
       ],
       "en": [
-        "Full coverage in Deurne North & South",
-        "Bodycam video updates every visit",
-        "Includes mail and plant watering service",
-        "Fixed transparent rates"
+        "Postal code 2100 Deurne covered",
+        "Rivierenhof park walking sessions",
+        "100% HD Bodycam guarantee",
+        "Medication & diet administration"
       ],
       "fr": [
-        "Couverture complète Deurne Nord & Sud",
-        "Vidéos Bodycam à chaque visite",
-        "Service courrier et plantes inclus",
-        "Tarifs transparents"
+        "Secteur 2100 Deurne",
+        "Balades au parc Rivierenhof",
+        "Garantie Bodycam HD",
+        "Gestion médicaments"
       ],
       "tr": [
-        "Deurne Kuzey ve Güney tüm sokaklarda hizmet",
-        "Her ziyarette Bodycam video güncellemesi",
-        "Posta ve çiçek sulama dahil",
-        "Şeffaf sabit paket fiyatları"
+        "2100 Deurne ve Bosuil",
+        "Rivierenhof parkında yürüyüşler",
+        "100% HD Kamera garantisi",
+        "İlaç ve beslenme takibi"
       ]
     },
-    "image": "/images/cat_playing.png",
+    "image": "/images/cat_emergency.png",
     "geo": {
       "latitude": 51.22,
       "longitude": 4.46
@@ -931,19 +2599,21 @@ export const districts: DistrictInfo[] = [
     "keywords": {
       "nl": [
         "kattenoppas Deurne",
-        "kattenoppas 2100 Deurne",
-        "thuisoppas kat Deurne Antwerpen"
+        "kattenoppas Rivierenhof",
+        "hondenoppas Deurne",
+        "kattenoppas 2100",
+        "hondenuitlaatservice Deurne"
       ],
       "en": [
         "cat sitter Deurne Antwerp",
-        "pet sitting 2100 Deurne"
+        "dog walking Deurne 2100"
       ],
       "fr": [
-        "garde de chat Deurne Anvers"
+        "garde chat Deurne 2100"
       ],
       "tr": [
         "Deurne kedi bakıcısı",
-        "Anvers Deurne kedi bakımı"
+        "Deurne köpek gezdirme"
       ]
     }
   },
@@ -951,76 +2621,77 @@ export const districts: DistrictInfo[] = [
     "slug": "merksem",
     "postalCode": "2170",
     "name": {
-      "nl": "Merksem",
-      "en": "Merksem",
-      "fr": "Merksem",
-      "tr": "Merksem"
+      "nl": "Merksem & Bouckenborgh",
+      "en": "Merksem & Bouckenborgh",
+      "fr": "Merksem & Bouckenborgh",
+      "tr": "Merksem Bölgesi"
     },
     "title": {
-      "nl": "Kattenoppas aan Huis in Merksem (2170)",
-      "en": "In-Home Cat Sitter in Merksem (2170)",
-      "fr": "Garde de Chat à Domicile à Merksem (2170)",
-      "tr": "Merksem Bölgesinde Evde Kedi Bakıcısı (2170)"
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Merksem (2170)",
+      "en": "In-Home Cat & Dog Sitting in Merksem (2170)",
+      "fr": "Garde de Chat et Chien à Domicile à Merksem (2170)",
+      "tr": "Merksem (2170) Bölgesinde Evde Kedi ve Köpek Bakımı"
     },
     "subtitle": {
-      "nl": "Liefdevolle en professionele verzorging voor uw kat in Merksem.",
-      "en": "Loving and professional care for your cat in Merksem.",
-      "fr": "Soins attentionnés et professionnels pour votre chat à Merksem.",
-      "tr": "Merksem'deki kediniz için sevgi dolu ve profesyonel evde bakım."
+      "nl": "Professionele thuiszorg in Merksem centrum, Bredabaan, Rerum Novarum en park Bouckenborgh.",
+      "en": "Professional pet care in Merksem center, Bredabaan, and Bouckenborgh park.",
+      "fr": "Soins professionnels à Merksem, Bredabaan et parc Bouckenborgh.",
+      "tr": "Merksem merkez, Bredabaan ve Bouckenborgh parkı civarında evde bakım."
     },
     "description": {
-      "nl": "In Merksem (postcode 2170) staat Katten voor u klaar. Wij bieden persoonlijke kattenoppas aan huis met biologische deskundigheid. Uw kat blijft ontspannen thuis en u krijgt dagelijks een HD Bodycam video toegestuurd.",
-      "en": "In Merksem (postal code 2170), Katten is your trusted choice. We offer personalized in-home cat care grounded in biological science. Your cat stays relaxed at home while you get daily HD Bodycam videos.",
-      "fr": "À Merksem (code postal 2170), Katten est votre partenaire de confiance. Votre chat reste serein chez vous et vous recevez des vidéos HD quotidiennes.",
-      "tr": "Merksem (posta kodu 2170) bölgesinde Katten yanınızda. Biyolog eğitimiyle kişiselleştirilmiş evde kedi bakımı sunuyoruz. Kediniz evinde kalırken siz her gün HD Bodycam videolarını izleyin."
+      "nl": "Woont u in Merksem (postcode 2170)? KattenHond verzorgt uw katten en honden aan huis met de hoogste standaarden en 100% HD Bodycam videobewijs.",
+      "en": "Living in Merksem (2170)? KattenHond provides loving in-home cat sitting and dog walks with full video transparency.",
+      "fr": "À Merksem (2170), nous assurons des visites et promenades sécurisées à votre domicile.",
+      "tr": "Merksem (2170) bölgesinde yaşayan hayvanseverler için güvenilir evde kedi-köpek bakımı."
     },
     "highlights": {
       "nl": [
-        "Lokale dekking in heel Merksem",
-        "Biologische gedragscontrole",
-        "HD Bodycam garantie",
-        "Sleuteloverdracht bij u thuis"
+        "Dekking in heel Merksem 2170",
+        "HD Bodycam opname bij elk bezoek",
+        "Ervaring met jonge en oudere dieren",
+        "Plantenverzorging en postbusservice"
       ],
       "en": [
-        "Local coverage across Merksem",
-        "Biological behavioral monitoring",
-        "HD Bodycam guarantee",
-        "Key collection at your home"
+        "Covers all Merksem 2170",
+        "HD Bodycam video per visit",
+        "Experienced with young & senior pets",
+        "Plant watering & mail service"
       ],
       "fr": [
-        "Service local à Merksem",
-        "Suivi comportemental biologique",
-        "Garantie Bodycam HD",
-        "Remise des clés à domicile"
+        "Tout Merksem 2170",
+        "Vidéos HD à chaque visite",
+        "Soins pour chiots, chatons et seniors",
+        "Plantes et courrier inclus"
       ],
       "tr": [
-        "Tüm Merksem'de lokal hizmet",
-        "Biyolojik davranış ve stres takibi",
-        "HD Bodycam garantisi",
-        "Evinizde kapıdan anahtar teslimi"
+        "Tüm Merksem 2170 genelinde",
+        "Her ziyarette HD kamera kaydı",
+        "Yavru ve yaşlı hayvan tecrübesi",
+        "Çiçek sulama ve posta toplama"
       ]
     },
-    "image": "/images/cat_feeding.png",
+    "image": "/images/cat_health.png",
     "geo": {
-      "latitude": 51.245,
-      "longitude": 4.445
+      "latitude": 51.24,
+      "longitude": 4.44
     },
     "keywords": {
       "nl": [
         "kattenoppas Merksem",
+        "hondenoppas Merksem",
         "kattenoppas 2170",
-        "huisdieroppas Merksem Antwerpen"
+        "hondenuitlaatservice Merksem"
       ],
       "en": [
-        "cat sitter Merksem Antwerp",
-        "pet sitting Merksem 2170"
+        "cat sitter Merksem",
+        "dog sitting Merksem 2170"
       ],
       "fr": [
-        "garde de chat Merksem Anvers"
+        "garde chat Merksem 2170"
       ],
       "tr": [
         "Merksem kedi bakıcısı",
-        "Anvers Merksem kedi bakımı"
+        "Merksem köpek bakıcısı"
       ]
     }
   },
@@ -1028,53 +2699,53 @@ export const districts: DistrictInfo[] = [
     "slug": "wilrijk",
     "postalCode": "2610",
     "name": {
-      "nl": "Wilrijk",
-      "en": "Wilrijk",
-      "fr": "Wilrijk",
-      "tr": "Wilrijk"
+      "nl": "Wilrijk & Park van Eden",
+      "en": "Wilrijk & Park van Eden",
+      "fr": "Wilrijk & Parc d'Eden",
+      "tr": "Wilrijk Bölgesi"
     },
     "title": {
-      "nl": "Kattenoppas aan Huis in Wilrijk & Edegem (2610)",
-      "en": "In-Home Cat Sitter in Wilrijk & Edegem (2610)",
-      "fr": "Garde de Chat à Domicile à Wilrijk & Edegem (2610)",
-      "tr": "Wilrijk ve Edegem Bölgesinde Evde Kedi Bakıcısı (2610)"
+      "nl": "Kattenoppas & Hondenoppas aan Huis in Wilrijk (2610)",
+      "en": "In-Home Cat Sitting & Dog Walking in Wilrijk (2610)",
+      "fr": "Garde de Chat et Chien à Domicile à Wilrijk (2610)",
+      "tr": "Wilrijk (2610) Bölgesinde Evde Kedi ve Köpek Bakımı"
     },
     "subtitle": {
-      "nl": "Medische en biologische kattenverzorging aan huis in Wilrijk.",
-      "en": "Medical and biological in-home cat care in Wilrijk.",
-      "fr": "Soins félins médicaux et biologiques à domicile à Wilrijk.",
-      "tr": "Wilrijk bölgesinde medikal ve biyolojik evde kedi bakımı."
+      "nl": "Thuisverzorging in Wilrijk centrum, Oosterveld, Valaar, Neerland en Park van Eden.",
+      "en": "In-home pet visits across Wilrijk center, Oosterveld, Valaar, and Neerland.",
+      "fr": "Visites à domicile à Wilrijk centre, Oosterveld, Valaar et Neerland.",
+      "tr": "Wilrijk merkez, Oosterveld, Valaar ve Park van Eden civarında evde bakım."
     },
     "description": {
-      "nl": "Woont u in Wilrijk (postcode 2610) of nabij Edegem? Katten verzorgt uw huisdier met de hoogste precisie. Van insuline toedienen tot gezellige speelsessies, wij zorgen ervoor dat uw kat niets tekortkomt.",
-      "en": "Living in Wilrijk (postal code 2610) or near Edegem? Katten cares for your pet with top precision. From insulin delivery to play sessions, we ensure your cat lacks nothing.",
-      "fr": "Vous résidez à Wilrijk (code postal 2610) ou près d'Edegem? Katten s'occupe de votre animal avec précision. De l'insuline aux jeux, votre chat ne manquera de rien.",
-      "tr": "Wilrijk (posta kodu 2610) veya Edegem sınırında mı yaşıyorsunuz? Katten evcil hayvanınıza hassasiyetle bakar. İnsülin uygulamasından oyun saatlerine kadar her şey eksiksiz yapılır."
+      "nl": "In Wilrijk (postcode 2610) staat KattenHond garant voor deskundige katten- en hondenzorg aan huis. Van medicatie en insulinespuitjes tot actieve wandelingen met HD Bodycam garantie.",
+      "en": "In Wilrijk (2610), KattenHond provides expert in-home cat care and dog walking with HD bodycam video proof.",
+      "fr": "À Wilrijk (2610), notre équipe veille sur vos animaux avec rigueur et bienveillance.",
+      "tr": "Wilrijk (2610) bölgesinde ilaç uygulaması, köpek yürüyüşü ve evde kedi bakımı."
     },
     "highlights": {
       "nl": [
-        "Snel ter plaatse in Wilrijk & Edegem",
-        "Ervaring met medicatie & spuitjes",
-        "Inclusief planten en post service",
-        "HD Bodycam rapportage"
+        "Heel Wilrijk 2610 & Oosterveld",
+        "Ervaring met medicatie & injecties",
+        "HD Bodycam videobewijs",
+        "Gratis planten en post service"
       ],
       "en": [
-        "Prompt visits in Wilrijk & Edegem",
+        "Covers all Wilrijk 2610 & Oosterveld",
         "Medication & injection expertise",
-        "Includes plant & mail service",
-        "HD Bodycam reporting"
+        "HD Bodycam video proof",
+        "Free plant & mail service"
       ],
       "fr": [
-        "Interventions rapides à Wilrijk & Edegem",
-        "Expérience médicaments & piqûres",
-        "Service plantes et courrier inclus",
-        "Rapportage Bodycam HD"
+        "Tout Wilrijk 2610",
+        "Expérience médicale et piqûres",
+        "Preuve vidéo HD",
+        "Plantes et courrier inclus"
       ],
       "tr": [
-        "Wilrijk ve Edegem'de hızlı ziyaret",
-        "İlaç ve insülin iğnesi tecrübesi",
-        "Çiçek sulama ve posta hizmeti dahil",
-        "HD Bodycam raporlaması"
+        "Tüm Wilrijk 2610 ve Oosterveld",
+        "İlaç ve iğne tecrübesi",
+        "HD Kamera video kaydı",
+        "Ücretsiz çiçek ve posta"
       ]
     },
     "image": "/images/cat_meds.png",
@@ -1085,20 +2756,21 @@ export const districts: DistrictInfo[] = [
     "keywords": {
       "nl": [
         "kattenoppas Wilrijk",
+        "hondenoppas Wilrijk",
         "kattenoppas 2610",
-        "kattenoppas Edegem",
-        "medische kattenoppas Wilrijk"
+        "hondenuitlaatservice Wilrijk",
+        "dierenoppas Oosterveld"
       ],
       "en": [
-        "cat sitter Wilrijk Antwerp",
-        "pet sitter Wilrijk 2610"
+        "cat sitter Wilrijk",
+        "dog walking Wilrijk 2610"
       ],
       "fr": [
-        "garde de chat Wilrijk Anvers"
+        "garde chat Wilrijk 2610"
       ],
       "tr": [
         "Wilrijk kedi bakıcısı",
-        "Anvers Wilrijk kedi bakımı"
+        "Wilrijk köpek bakıcısı"
       ]
     }
   }

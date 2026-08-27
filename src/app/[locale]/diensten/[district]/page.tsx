@@ -64,7 +64,7 @@ export default async function ServiceOrDistrictPage({
   }
 
   const lang = (locale in item.name ? locale : 'nl') as keyof typeof item.name;
-  const isDistrict = ['antwerpen-zuid', 'berchem', 'deurne', 'merksem', 'wilrijk'].includes(item.slug);
+  const isDistrict = !['daily-visits', 'feeding', 'medication', 'bodycam', 'health', 'litter', 'playtime', 'plants', 'mail', 'hondenoppas', 'hondenuitlaatservice', 'puppy-care'].includes(item.slug);
 
   // Schema Org Structured Data
   const schemaData = {
@@ -75,7 +75,7 @@ export default async function ServiceOrDistrictPage({
     image: `https://kattenhond.store${item.image}`,
     areaServed: {
       '@type': 'AdministrativeArea',
-      name: isDistrict ? item.name[lang] : 'Groot-Antwerpen',
+      name: isDistrict ? item.name[lang] : 'Groot-Antwerpen & Vlaanderen',
       postalCode: item.postalCode,
     },
     geo: {
@@ -85,7 +85,7 @@ export default async function ServiceOrDistrictPage({
     },
     address: {
       '@type': 'PostalAddress',
-      addressLocality: 'Antwerpen',
+      addressLocality: isDistrict ? item.name[lang] : 'Antwerpen',
       postalCode: item.postalCode,
       addressCountry: 'BE',
     },
@@ -138,7 +138,7 @@ export default async function ServiceOrDistrictPage({
               <Link href="/">Home</Link> <span>/</span> <Link href="/diensten">Diensten</Link> <span>/</span> <span className={styles.activeBreadcrumb}>{item.name[lang]}</span>
             </div>
             <span className={styles.districtBadge}>
-              {isDistrict ? `📍 Postcode ${item.postalCode}` : `🐾 Service: ${item.name[lang]}`}
+              {isDistrict ? `📍 Postcode ${item.postalCode} • Katten- & Hondenoppas` : `🐾 Service: ${item.name[lang]}`}
             </span>
             <h1 className={styles.title}>{item.title[lang]}</h1>
             <p className={styles.subtitle}>{item.subtitle[lang]}</p>
@@ -151,14 +151,14 @@ export default async function ServiceOrDistrictPage({
               <div className={styles.mainContent}>
                 <h2 className={styles.sectionHeading}>
                   {isDistrict
-                    ? (lang === 'nl' ? `Waarom kiezen kattenbaasjes in ${item.name[lang]} voor KattenHond?` :
+                    ? (lang === 'nl' ? `Waarom kiezen huisdiereigenaren in ${item.name[lang]} voor KattenHond?` :
                        lang === 'fr' ? `Pourquoi choisir KattenHond à ${item.name[lang]}?` :
                        lang === 'tr' ? `${item.name[lang]} bölgesinde neden KattenHond seçilmeli?` :
-                       `Why cat owners in ${item.name[lang]} choose KattenHond?`)
-                    : (lang === 'nl' ? `Waarom onze ${item.name[lang]} service de beste keuze is in Antwerpen:` :
-                       lang === 'fr' ? `Pourquoi notre service de ${item.name[lang]} est le meilleur à Anvers:` :
-                       lang === 'tr' ? `Anvers'te ${item.name[lang]} hizmetimizin farkı ve avantajları:` :
-                       `Why our ${item.name[lang]} service is top-rated in Antwerp:`)}
+                       `Why pet owners in ${item.name[lang]} choose KattenHond?`)
+                    : (lang === 'nl' ? `Waarom onze ${item.name[lang]} service de beste keuze is:` :
+                       lang === 'fr' ? `Pourquoi notre service de ${item.name[lang]} est le meilleur:` :
+                       lang === 'tr' ? `${item.name[lang]} hizmetimizin farkı ve avantajları:` :
+                       `Why our ${item.name[lang]} service is top-rated:`)}
                 </h2>
 
                 <p className={styles.text}>{item.description[lang]}</p>
@@ -166,7 +166,7 @@ export default async function ServiceOrDistrictPage({
                 <div className={styles.highlightsBox}>
                   <h3>
                     {isDistrict
-                      ? (lang === 'nl' ? `✨ Voordelen in uw wijk (${item.name[lang]}):` :
+                      ? (lang === 'nl' ? `✨ Voordelen in uw regio (${item.name[lang]}):` :
                          lang === 'fr' ? '✨ Avantages dans votre quartier:' :
                          lang === 'tr' ? '✨ Bölgenizdeki Avantajlarımız:' :
                          '✨ Highlights in your area:')
@@ -189,13 +189,13 @@ export default async function ServiceOrDistrictPage({
                          lang === 'fr' ? `Vous habitez à ${item.name[lang]}?` :
                          lang === 'tr' ? `${item.name[lang]} bölgesinde mi oturuyorsunuz?` :
                          `Living in ${item.name[lang]}?`)
-                      : (lang === 'nl' ? `Heeft uw kat behoefte aan ${item.name[lang]}?` :
-                         lang === 'fr' ? `Votre chat a-t-il besoin de ${item.name[lang]}?` :
-                         lang === 'tr' ? `Kediniz için ${item.name[lang]} hizmetine mi ihtiyacınız var?` :
-                         `Need ${item.name[lang]} for your cat in Antwerp?`)}
+                      : (lang === 'nl' ? `Heeft uw huisdier behoefte aan ${item.name[lang]}?` :
+                         lang === 'fr' ? `Votre animal a-t-il besoin de ${item.name[lang]}?` :
+                         lang === 'tr' ? `Evcil hayvanınız için ${item.name[lang]} hizmetine mi ihtiyacınız var?` :
+                         `Need ${item.name[lang]} for your pet?`)}
                   </h3>
                   <p>
-                    {lang === 'nl' ? 'Boek vandaag nog een gratis kennismakingsgesprek aan huis. Onze biologen komen graag bij u langs!' :
+                    {lang === 'nl' ? 'Boek vandaag nog een gratis kennismakingsgesprek aan huis. Onze biologen en verzorgers komen graag bij u langs!' :
                      lang === 'fr' ? 'Réservez une rencontre gratuite à domicile dès aujourd\'hui!' :
                      lang === 'tr' ? 'Bugün evinizde ücretsiz bir tanışma randevusu alın. Biyolog bakıcılarımız kapınıza geliyor!' :
                      'Book a free in-home meet & greet today. Our biologist sitters come directly to your door!'}

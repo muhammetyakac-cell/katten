@@ -13,31 +13,52 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
   const tFooter = await getTranslations({ locale, namespace: 'footer' });
 
   const services = [
-    { icon: '🏠', id: 'daily-visits', slug: 'daily-visits' }, // index 0
-    { icon: '🍽️', id: 'feeding', slug: 'feeding' }, // index 1
-    { icon: '🧹', id: 'litter', slug: 'litter' }, // index 2
-    { icon: '🎮', id: 'playtime', slug: 'playtime' }, // index 3
-    { icon: '🩺', id: 'health', slug: 'health' }, // index 4
-    { icon: '💊', id: 'medication', slug: 'medication' }, // index 5
-    { icon: '📹', id: 'bodycam', slug: 'bodycam' }, // index 6
-    { icon: '🌱', id: 'plants', slug: 'plants' }, // index 7
-    { icon: '📫', id: 'mail', slug: 'mail' }, // index 8
+    { icon: '🏠', id: 'daily-visits', slug: 'daily-visits', titleNl: 'Dagelijkse Huisbezoeken', titleEn: 'Daily Home Visits', titleFr: 'Visites Quotidiennes', titleTr: 'Günlük Ev Ziyaretleri' },
+    { icon: '🐶', id: 'hondenoppas', slug: 'hondenoppas', titleNl: 'Hondenoppas aan Huis', titleEn: 'In-Home Dog Sitting', titleFr: 'Garde de Chien à Domicile', titleTr: 'Evde Köpek Bakıcılığı' },
+    { icon: '🦮', id: 'hondenuitlaatservice', slug: 'hondenuitlaatservice', titleNl: 'Hondenuitlaatservice', titleEn: 'Dog Walking Service', titleFr: 'Service Promenade Chien', titleTr: 'Köpek Gezdirme Servisi' },
+    { icon: '🐾', id: 'puppy-care', slug: 'puppy-care', titleNl: 'Puppyverzorging & Begeleiding', titleEn: 'Puppy Care & Potty Breaks', titleFr: 'Soins pour Chiots', titleTr: 'Yavru Köpek (Puppy) Bakımı' },
+    { icon: '🍽️', id: 'feeding', slug: 'feeding', titleNl: 'Voeding & Vers Water', titleEn: 'Feeding & Fresh Water', titleFr: 'Alimentation & Eau', titleTr: 'Beslenme ve Su' },
+    { icon: '🧹', id: 'litter', slug: 'litter', titleNl: 'Kattenbak Hygiëne', titleEn: 'Litter Box Cleaning', titleFr: 'Hygiène de la Litière', titleTr: 'Kum Hijyeni' },
+    { icon: '🎮', id: 'playtime', slug: 'playtime', titleNl: 'Spelen & Aandacht', titleEn: 'Playtime & Affection', titleFr: 'Jeux & Câlins', titleTr: 'Oyun ve İlgi' },
+    { icon: '🩺', id: 'health', slug: 'health', titleNl: 'Gezondheidsmonitoring', titleEn: 'Health & Wellness Check', titleFr: 'Suivi de Santé', titleTr: 'Sağlık Takibi' },
+    { icon: '💊', id: 'medication', slug: 'medication', titleNl: 'Medicatie Toediening', titleEn: 'Medication Administration', titleFr: 'Médicaments & Soins', titleTr: 'İlaç Uygulaması' },
+    { icon: '📹', id: 'bodycam', slug: 'bodycam', titleNl: '100% HD Bodycam', titleEn: '100% HD Bodycam Proof', titleFr: 'Garantie Bodycam HD', titleTr: 'HD Yaka Kamerası' },
+    { icon: '🌱', id: 'plants', slug: 'plants', titleNl: 'Plantenverzorging', titleEn: 'Plant Watering', titleFr: 'Arrosage Plantes', titleTr: 'Çiçek Sulama' },
+    { icon: '📫', id: 'mail', slug: 'mail', titleNl: 'Post & Woningcontrole', titleEn: 'Mail & Home Check', titleFr: 'Courrier & Surveillance', titleTr: 'Posta ve Ev Güvenliği' },
   ];
 
   const districts = [
-    { slug: 'antwerpen-zuid', name: tFooter('districts.zuid'), postal: '2000 & 2018' },
-    { slug: 'berchem', name: tFooter('districts.berchem'), postal: '2600' },
-    { slug: 'deurne', name: tFooter('districts.deurne'), postal: '2100' },
-    { slug: 'merksem', name: tFooter('districts.merksem'), postal: '2170' },
-    { slug: 'wilrijk', name: tFooter('districts.wilrijk'), postal: '2610' },
+    { slug: 'willebroek', name: 'Willebroek & Blaasveld', postal: '2830' },
+    { slug: 'mechelen', name: 'Mechelen Centrum & Omstreken', postal: '2800' },
+    { slug: 'boom', name: 'Boom & Rupelstreek', postal: '2850' },
+    { slug: 'brasschaat', name: 'Brasschaat & Vriesdonk', postal: '2930' },
+    { slug: 'schoten', name: 'Schoten & Koningshof', postal: '2900' },
+    { slug: 'kapellen', name: 'Kapellen & Hoogboom', postal: '2950' },
+    { slug: 'edegem', name: 'Edegem & Molenveld', postal: '2650' },
+    { slug: 'kontich', name: 'Kontich & Waarloos', postal: '2550' },
+    { slug: 'mortsel', name: 'Mortsel & Fort 4', postal: '2640' },
+    { slug: 'antwerpen-zuid', name: 'Antwerpen Zuid & Centrum', postal: '2000 & 2018' },
+    { slug: 'berchem', name: 'Berchem & Zurenborg', postal: '2600' },
+    { slug: 'deurne', name: 'Deurne & Rivierenhof', postal: '2100' },
+    { slug: 'merksem', name: 'Merksem & Bouckenborgh', postal: '2170' },
+    { slug: 'wilrijk', name: 'Wilrijk & Park van Eden', postal: '2610' },
+    { slug: 'hoboken', name: 'Hoboken & Polder', postal: '2660' },
+    { slug: 'borgerhout', name: 'Borgerhout & Te Boelaer', postal: '2140' },
+    { slug: 'aartselaar', name: 'Aartselaar & Cleydael', postal: '2630' },
+    { slug: 'zwijndrecht', name: 'Zwijndrecht & Linkeroever', postal: '2050' },
+    { slug: 'lier', name: 'Lier & Zimmertoren', postal: '2500' },
+    { slug: 'beveren', name: 'Beveren & Waasland', postal: '9120' },
+    { slug: 'sint-niklaas', name: 'Sint-Niklaas', postal: '9100' },
+    { slug: 'gent', name: 'Gent & Oost-Vlaanderen', postal: '9000' },
+    { slug: 'brussel', name: 'Brussel / Bruxelles', postal: '1000' },
   ];
 
   const readMoreText = {
-    nl: 'Lees meer & Bekijk details →',
-    en: 'Read more & View details →',
-    fr: 'En savoir plus & Détails →',
-    tr: 'Detayları İncele →'
-  }[locale] || 'Read more →';
+    nl: 'Bekijk details & Tarieven →',
+    en: 'View details & Pricing →',
+    fr: 'Détails & Tarifs →',
+    tr: 'Detaylar ve Fiyatlar →'
+  }[locale] || 'View details →';
 
   return (
     <>
@@ -45,7 +66,7 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
       <main>
         <section className={styles.heroSection}>
           <div className="container">
-            <span className={styles.heroLabel}>🐾 {t('pageSubtitle')}</span>
+            <span className={styles.heroLabel}>🐾 KattenHond • {t('pageSubtitle')}</span>
             <h1 className={styles.heroTitle}>{t('pageTitle')}</h1>
             <p className={styles.heroDescription}>{t('intro')}</p>
           </div>
@@ -54,18 +75,30 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
         <section className={styles.servicesSection}>
           <div className="container">
             <div className={styles.servicesGrid}>
-              {services.map((service, index) => (
-                <div key={service.id} id={service.id} className={styles.serviceCard}>
-                  <div className={styles.serviceIcon}>{service.icon}</div>
-                  <h3 className={styles.serviceTitle}>{t(`servicesList.${index}.title`)}</h3>
-                  <p className={styles.serviceDescription}>{t(`servicesList.${index}.description`)}</p>
-                  <div style={{ marginTop: '1.25rem' }}>
-                    <Link href={`/diensten/${service.slug}`} className="btn btn--secondary" style={{ fontSize: '0.875rem', padding: '0.5rem 1rem' }}>
-                      {readMoreText}
-                    </Link>
+              {services.map((service, index) => {
+                const title = locale === 'nl' ? service.titleNl :
+                              locale === 'fr' ? service.titleFr :
+                              locale === 'tr' ? service.titleTr :
+                              service.titleEn;
+                const desc = index < 9 ? t(`servicesList.${index}.description`) :
+                  (locale === 'nl' ? 'Professionele verzorging en persoonlijke aandacht aan huis met 100% HD Bodycam garantie.' :
+                   locale === 'fr' ? 'Soins professionnels et attentionnés à domicile avec garantie vidéo Bodycam HD.' :
+                   locale === 'tr' ? '100% HD Yaka kamerası güvencesiyle profesyonel evde bakım ve şefkatli ilgi.' :
+                   'Professional in-home care with 100% HD Bodycam transparency.');
+
+                return (
+                  <div key={service.id} id={service.id} className={styles.serviceCard}>
+                    <div className={styles.serviceIcon}>{service.icon}</div>
+                    <h3 className={styles.serviceTitle}>{title}</h3>
+                    <p className={styles.serviceDescription}>{desc}</p>
+                    <div style={{ marginTop: '1.25rem' }}>
+                      <Link href={`/diensten/${service.slug}`} className="btn btn--secondary" style={{ fontSize: '0.875rem', padding: '0.5rem 1rem' }}>
+                        {readMoreText}
+                      </Link>
+                    </div>
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
           </div>
         </section>
@@ -76,14 +109,20 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
             <div style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
               <span className={styles.heroLabel}>📍 {tFooter('serviceArea.title')}</span>
               <h2 style={{ fontSize: '2.25rem', fontFamily: 'var(--font-display)', color: 'var(--color-text-primary)' }}>
-                {locale === 'nl' ? 'Onze Werkgebieden in Antwerpen' :
-                 locale === 'fr' ? 'Nos Quartiers d\'Intervention à Anvers' :
-                 locale === 'tr' ? 'Anvers\'teki Hizmet Bölgelerimiz' :
-                 'Our Antwerp Service Districts'}
+                {locale === 'nl' ? 'Onze Werkgebieden in Antwerpen & Vlaanderen' :
+                 locale === 'fr' ? 'Nos Villes et Quartiers d\'Intervention' :
+                 locale === 'tr' ? 'Hizmet Verdiğimiz Şehir ve İlçeler' :
+                 'Our Service Districts & Cities in Flanders'}
               </h2>
+              <p style={{ maxWidth: '650px', margin: '0.75rem auto 0', color: 'var(--color-text-secondary)' }}>
+                {locale === 'nl' ? 'KattenHond is actief in Antwerpen, Willebroek, Mechelen, Brasschaat en omliggende gemeenten. Klik op uw gemeente voor lokale tarieven en beschikbaarheid.' :
+                 locale === 'fr' ? 'KattenHond intervient à Anvers, Willebroek, Malines, Brasschaat et leurs environs. Cliquez sur votre commune pour les disponibilités.' :
+                 locale === 'tr' ? 'KattenHond Anvers, Willebroek, Mechelen, Brasschaat ve çevre belediyelerde aktiftir. Bölgenizi seçerek müsaitlik durumunu inceleyin.' :
+                 'KattenHond operates in Antwerp, Willebroek, Mechelen, Brasschaat and surrounding regions. Select your district for local rates and availability.'}
+              </p>
             </div>
 
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '1.25rem' }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '1.25rem' }}>
               {districts.map((d) => (
                 <Link
                   key={d.slug}
