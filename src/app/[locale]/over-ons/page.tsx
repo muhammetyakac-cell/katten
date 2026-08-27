@@ -28,6 +28,24 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 export default function AboutPage() {
   const t = useTranslations('about');
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': ['AboutPage', 'Organization'],
+    name: 'KattenHond',
+    url: 'https://kattenhond.store',
+    logo: 'https://kattenhond.store/images/hero_background.png',
+    description: t('pageSubtitle'),
+    founder: {
+      '@type': 'Person',
+      name: 'KattenHond Team',
+      jobTitle: 'Biologist & Founder'
+    },
+    areaServed: {
+      '@type': 'City',
+      name: 'Antwerp'
+    }
+  };
   const th = useTranslations('hero');
 
   return (
@@ -45,6 +63,7 @@ export default function AboutPage() {
         {/* Story */}
         <section className={styles.storySection}>
           <div className="container">
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
             <div className={styles.storyGrid}>
               <div className={styles.storyImageWrapper}>
                 <Image src="https://images.unsplash.com/photo-1543852786-1cf6624b9987?q=80&w=1000&auto=format&fit=crop" alt="Cat care" className={styles.storyImage} width={1000} height={667} />
