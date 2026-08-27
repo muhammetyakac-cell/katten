@@ -40,6 +40,10 @@ export default async function ServicesPage({ params }: { params: Promise<{ local
     { icon: '🏠', id: 'daily-visits', slug: 'daily-visits', titleNl: 'Dagelijkse Huisbezoeken', titleEn: 'Daily Home Visits', titleFr: 'Visites Quotidiennes', titleTr: 'Günlük Ev Ziyaretleri' },
     { icon: '🐶', id: 'hondenoppas', slug: 'hondenoppas', titleNl: 'Hondenoppas aan Huis', titleEn: 'In-Home Dog Sitting', titleFr: 'Garde de Chien à Domicile', titleTr: 'Evde Köpek Bakıcılığı' },
     { icon: '🦮', id: 'hondenuitlaatservice', slug: 'hondenuitlaatservice', titleNl: 'Hondenuitlaatservice', titleEn: 'Dog Walking Service', titleFr: 'Service Promenade Chien', titleTr: 'Köpek Gezdirme Servisi' },
+    
+    { icon: '🌙', id: 'nachtoppas-housesitting', slug: 'nachtoppas-housesitting', titleNl: 'Nachtoppas & Housesitting', titleEn: 'Overnight Sitting', titleFr: 'Garde de Nuit', titleTr: 'Gece Bakımı' },
+    { icon: '🐹', id: 'kleine-huisdieren', slug: 'kleine-huisdieren', titleNl: 'Kleine Huisdieren', titleEn: 'Small Pets Care', titleFr: 'Petits Animaux', titleTr: 'Küçük Evcil Hayvanlar' },
+    { icon: '🍼', id: 'kitten-care', slug: 'kitten-care', titleNl: 'Kitten Care', titleEn: 'Kitten Care', titleFr: 'Soins Chatons', titleTr: 'Yavru Kedi Bakımı' },
     { icon: '🐾', id: 'puppy-care', slug: 'puppy-care', titleNl: 'Puppyverzorging & Begeleiding', titleEn: 'Puppy Care & Potty Breaks', titleFr: 'Soins pour Chiots', titleTr: 'Yavru Köpek (Puppy) Bakımı' },
     { icon: '🍽️', id: 'feeding', slug: 'feeding', titleNl: 'Voeding & Vers Water', titleEn: 'Feeding & Fresh Water', titleFr: 'Alimentation & Eau', titleTr: 'Beslenme ve Su' },
     { icon: '🧹', id: 'litter', slug: 'litter', titleNl: 'Kattenbak Hygiëne', titleEn: 'Litter Box Cleaning', titleFr: 'Hygiène de la Litière', titleTr: 'Kum Hijyeni' },

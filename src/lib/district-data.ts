@@ -17,6 +17,133 @@ export interface DistrictInfo {
 
 export const districts: DistrictInfo[] = [
   {
+    "slug": "nachtoppas-housesitting",
+    "postalCode": "Antwerpen & Omstreken",
+    "name": {
+      "nl": "Nachtoppas & Housesitting",
+      "en": "Overnight Sitting & Housesitting",
+      "fr": "Garde de Nuit & Housesitting",
+      "tr": "Gece Bakımı & Evde Yatılı Bakım"
+    },
+    "title": {
+      "nl": "Nachtoppas voor Honden & Katten in Antwerpen | Housesitting",
+      "en": "Overnight Pet Sitting & Housesitting in Antwerp",
+      "fr": "Garde de Nuit pour Chiens et Chats à Anvers | Housesitting",
+      "tr": "Antwerp Gece ve Yatılı Evcil Hayvan Bakımı | Housesitting"
+    },
+    "subtitle": {
+      "nl": "Onze oppas blijft slapen voor 100% gemoedsrust.",
+      "en": "Our sitter stays overnight for 100% peace of mind.",
+      "fr": "Notre pet sitter reste dormir pour 100% de tranquillité.",
+      "tr": "İçiniz tam rahat etsin diye bakıcımız geceyi evinizde geçirir."
+    },
+    "description": {
+      "nl": "Heeft uw hond verlatingsangst of wilt u uw huis niet 's nachts leeg achterlaten? Met onze Nachtoppas & Housesitting service blijft een van onze betrouwbare oppassers bij u thuis slapen. Uw huisdier krijgt 's avonds en 's ochtends uitgebreid aandacht, voeding en wandelingen, terwijl uw huis veilig bewoond blijft.",
+      "en": "Does your dog have separation anxiety, or do you prefer not to leave your house empty at night? With our Overnight Sitting & Housesitting service, one of our reliable sitters stays at your home overnight. Your pet receives extensive attention, feeding, and walks in the evening and morning, while your home remains safely occupied.",
+      "fr": "Votre chien souffre d'anxiété de séparation ou vous ne voulez pas laisser votre maison vide la nuit ? Avec notre service de Garde de Nuit & Housesitting, un gardien fiable reste dormir chez vous. Votre animal reçoit attention et soins soir et matin, et votre maison reste sécurisée.",
+      "tr": "Köpeğinizin ayrılık kaygısı mı var veya geceleri evinizi boş bırakmak istemiyor musunuz? Gece Bakımı ve Housesitting hizmetimizle güvenilir bir bakıcımız evinizde yatar. Evcil hayvanınız akşam ve sabah bolca ilgi, mama ve yürüyüş alırken, eviniz de güvenle dolu kalır."
+    },
+    "highlights": {
+      "nl": ["Oppas blijft slapen (tot 12u)", "Ideaal voor angstige honden", "Inbraakpreventie voor uw woning"],
+      "en": ["Sitter stays overnight (up to 12h)", "Ideal for anxious dogs", "Burglary prevention for your home"],
+      "fr": ["Présence de nuit (jusqu'à 12h)", "Idéal pour chiens anxieux", "Prévention cambriolage"],
+      "tr": ["Gece boyu evde konaklama", "Kaygılı köpekler için ideal", "Eviniz için hırsızlık önlemi"]
+    },
+    "image": "/images/hero_background.png",
+    "geo": { "latitude": 51.2194, "longitude": 4.4025 },
+    "keywords": {
+      "nl": ["nachtoppas hond antwerpen", "housesitting antwerpen", "dierenoppas blijft slapen"],
+      "en": ["overnight dog sitting antwerp", "housesitting antwerp", "overnight pet sitter"],
+      "fr": ["garde de nuit chien anvers", "housesitting anvers"],
+      "tr": ["gece köpek bakıcısı antwerp", "yatılı hayvan bakıcısı", "housesitting antwerp"]
+    }
+  },
+  {
+    "slug": "kleine-huisdieren",
+    "postalCode": "Antwerpen & Omstreken",
+    "name": {
+      "nl": "Kleine Huisdieren & Knaagdieren",
+      "en": "Small Pets & Rodents Care",
+      "fr": "Petits Animaux et Rongeurs",
+      "tr": "Küçük Evcil Hayvanlar"
+    },
+    "title": {
+      "nl": "Oppas voor Konijnen, Knaagdieren & Vogels in Antwerpen",
+      "en": "Pet Sitter for Rabbits, Rodents & Birds in Antwerp",
+      "fr": "Garde de Lapins, Rongeurs et Oiseaux à Anvers",
+      "tr": "Antwerp Tavşan, Kemirgen ve Kuş Bakıcısı"
+    },
+    "subtitle": {
+      "nl": "Professionele zorg voor konijnen, hamsters, cavia's en vogels.",
+      "en": "Professional care for rabbits, hamsters, guinea pigs, and birds.",
+      "fr": "Soins professionnels pour lapins, hamsters, cobayes et oiseaux.",
+      "tr": "Tavşan, hamster, gine domuzu ve kuşlar için profesyonel bakım."
+    },
+    "description": {
+      "nl": "Niet alleen katten en honden hebben zorg nodig! KattenHond biedt ook gespecialiseerde verzorging voor uw kleine huisdieren. Of het nu gaat om het verversen van de kooi van uw konijn, het voeren van uw hamster of cavia, of de verzorging van parkieten en papegaaien; onze biologen weten precies wat elk diersoort nodig heeft.",
+      "en": "Not only cats and dogs need care! KattenHond also offers specialized care for your small pets. Whether it's cleaning your rabbit's hutch, feeding your hamster or guinea pig, or caring for parakeets and parrots; our biologists know exactly what each species needs.",
+      "fr": "Il n'y a pas que les chiens et chats qui ont besoin de soins ! KattenHond propose des soins pour vos petits animaux : lapins, hamsters, cobayes et oiseaux. Nos biologistes connaissent les besoins de chaque espèce.",
+      "tr": "Sadece kedi ve köpeklerin bakıma ihtiyacı yoktur! KattenHond küçük evcil hayvanlarınız için de uzman bakım sunar. Tavşanınızın kafesini temizlemek, hamster veya gine domuzunuzu beslemek veya kuşlarınızın bakımı... Biyologlarımız her türün tam olarak neye ihtiyacı olduğunu bilir."
+    },
+    "highlights": {
+      "nl": ["Kooi en hok schoonmaken", "Vers water, hooi en groenten", "Zorg door gediplomeerde biologen"],
+      "en": ["Cage and hutch cleaning", "Fresh water, hay, and veggies", "Care by qualified biologists"],
+      "fr": ["Nettoyage des cages", "Eau fraîche, foin et légumes", "Soins par des biologistes"],
+      "tr": ["Kafes ve yuva temizliği", "Taze su, saman ve yeşillik", "Diplomalı biyologlardan bakım"]
+    },
+    "image": "/images/cat_plants.png",
+    "geo": { "latitude": 51.2194, "longitude": 4.4025 },
+    "keywords": {
+      "nl": ["konijnenoppas antwerpen", "oppas knaagdieren", "vogels verzorgen tijdens vakantie"],
+      "en": ["rabbit sitter antwerp", "small pet sitting", "bird care holidays"],
+      "fr": ["garde lapin anvers", "garde rongeur anvers"],
+      "tr": ["tavşan bakıcısı antwerp", "kuş bakıcısı", "küçük evcil hayvan bakımı"]
+    }
+  },
+  {
+    "slug": "kitten-care",
+    "postalCode": "Antwerpen & Omstreken",
+    "name": {
+      "nl": "Kitten Verzorging & Socialisatie",
+      "en": "Kitten Care & Socialization",
+      "fr": "Soins et Socialisation Chatons",
+      "tr": "Yavru Kedi Bakımı & Sosyalleşme"
+    },
+    "title": {
+      "nl": "Kitten Verzorging & Socialisatie aan Huis in Antwerpen",
+      "en": "In-Home Kitten Care & Socialization in Antwerp",
+      "fr": "Soins et Socialisation de Chatons à Domicile à Anvers",
+      "tr": "Antwerp Evde Yavru Kedi Bakımı ve Sosyalleştirme"
+    },
+    "subtitle": {
+      "nl": "Extra aandacht, spel en opvoeding voor uw jonge katje.",
+      "en": "Extra attention, play, and training for your young cat.",
+      "fr": "Attention, jeux et éducation pour votre jeune chat.",
+      "tr": "Genç kediniz için ekstra ilgi, oyun ve eğitim."
+    },
+    "description": {
+      "nl": "Een kitten heeft veel meer aandacht, meerdere voermomenten en vroege socialisatie nodig. Onze Kitten Care service is speciaal ontworpen voor katten jonger dan 6 maanden. Wij komen vaker langs (tot 3x per dag) voor extra speelsessies, het aanleren van goede gewoontes en het veilig laten opgroeien van uw nieuwe familielid wanneer u moet werken.",
+      "en": "A kitten requires much more attention, multiple feeding times, and early socialization. Our Kitten Care service is specially designed for cats under 6 months old. We visit more frequently (up to 3x a day) for extra play sessions, teaching good habits, and ensuring your new family member grows up safely when you have to work.",
+      "fr": "Un chaton a besoin de plus d'attention, de repas fréquents et d'une socialisation précoce. Notre service Soins Chatons est conçu pour les moins de 6 mois. Nous passons jusqu'à 3 fois par jour pour jouer et éduquer votre chaton pendant que vous travaillez.",
+      "tr": "Bir yavru kedi çok daha fazla ilgi, sık beslenme ve erken sosyalleşmeye ihtiyaç duyar. Yavru Kedi Bakımı hizmetimiz 6 aydan küçük kediler için özel olarak tasarlandı. Siz çalışırken veya yokken, ekstra oyun seansları ve iyi alışkanlıklar kazandırmak için günde 3 defaya kadar uğruyoruz."
+    },
+    "highlights": {
+      "nl": ["Tot 3 bezoeken per dag", "Focus op positieve socialisatie", "Zindelijkheidstraining ondersteuning"],
+      "en": ["Up to 3 visits per day", "Focus on positive socialization", "Litter box training support"],
+      "fr": ["Jusqu'à 3 visites par jour", "Focus sur la socialisation", "Soutien à la propreté"],
+      "tr": ["Günde 3 ziyarete kadar", "Pozitif sosyalleşme odaklı", "Tuvalet eğitimi desteği"]
+    },
+    "image": "/images/cat_playing.png",
+    "geo": { "latitude": 51.2194, "longitude": 4.4025 },
+    "keywords": {
+      "nl": ["kittenoppas antwerpen", "kitten verzorging als ik ga werken", "socialisatie kitten oppas"],
+      "en": ["kitten sitter antwerp", "kitten care while at work", "kitten socialization"],
+      "fr": ["garde chaton anvers", "soins chaton domicile"],
+      "tr": ["yavru kedi bakıcısı antwerp", "çalışırken kedi bakımı", "yavru kedi sosyalleşme"]
+    }
+  },
+
+  {
     "slug": "antwerpen-centrum",
     "postalCode": "2000",
     "name": {
